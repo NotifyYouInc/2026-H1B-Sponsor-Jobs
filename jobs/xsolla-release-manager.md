@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xsolla](https://scoutify.ai/companies/xsolla?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Baku, Baki, Azerbaijan |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.lever.co/xsolla/751aac88-abae-4fbe-8ae8-8dda8e67e997) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.lever.co/xsolla/def627af-e579-42b5-bed6-18a63a36f27e) |
 
 ## About This Role
 
-This operations position at Xsolla was posted on 2026-02-05.
+This operations position at Xsolla was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

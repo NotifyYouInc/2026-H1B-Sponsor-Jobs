@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freese and Nichols](https://scoutify.ai/companies/freese-and-nichols?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Denver, Colorado, United States |
 | Category | Project Manager |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://freese.wd1.myworkdayjobs.com/freese_nichols_external/job/Tampa-Florida/Stormwater-Project-Manager_JR103348) |
+| Apply | [View on company site](https://freese.wd1.myworkdayjobs.com/freese_nichols_external/job/Denver-Colorado/Stormwater-Project-Manager_JR103395) |
 
 ## About This Role
 
