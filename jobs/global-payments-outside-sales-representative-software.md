@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 5 locations |
+| Location | Bakersfield, California, United States |
 | Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Little-Rock-Arkansas-USA/Outside-Sales-Representative---Software_R0069316) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Bakersfield-California-USA/Outside-Sales-Representative---Software_R0068551) |
 
 ## About This Role
 
-This sales position at Global Payments was posted on 2026-02-05.
+This sales position at Global Payments was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

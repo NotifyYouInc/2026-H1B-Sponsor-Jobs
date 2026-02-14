@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Qa Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000107535655-quality-specialist) |
+| Category | Operations |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000107840890-quality-specialist) |
 
 ## About This Role
 
-This qa engineer position at AECOM was posted on 2026-02-05.
+This operations position at AECOM was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

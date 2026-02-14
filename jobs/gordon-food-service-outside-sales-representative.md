@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gordon Food Service](https://scoutify.ai/companies/gordon-food-service?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Greenville, North Carolina, United States |
+| Location | Cleveland, Ohio, United States |
 | Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Greenville-South-Carolina/Outside-Sales-Representative_R-48157-1) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Valley-View-Ohio/Outside-Sales-Representative_R-48202-1) |
 
 ## About This Role
 
-This sales position at Gordon Food Service was posted on 2026-02-05.
+This sales position at Gordon Food Service was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

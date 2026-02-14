@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tewksbury, Massachusetts, United States |
+| Location | Jeffersonville, Indiana, United States |
 | Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09280---SNF-Dialysis-At-Tewksbury-Wellington-Circle/Regional-SNF-Dialysis-Operations-Manager_R0433740) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09222---SNF-Dialysis-At-Lincoln-Hills-Jeffersonville/Regional-SNF-Dialysis-Operations-Manager_R0444428) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-02-05.
+This operations position at DaVita was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
