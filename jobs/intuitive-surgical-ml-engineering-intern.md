@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Peachtree Corners, Georgia, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000107816087-ml-engineering-intern) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000107834386-ml-engineering-intern) |
 
 ## About This Role
 

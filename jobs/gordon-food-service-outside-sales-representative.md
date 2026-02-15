@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gordon Food Service](https://scoutify.ai/companies/gordon-food-service?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cleveland, Ohio, United States |
-| Category | Sales |
+| Location | 2 locations |
+| Category | Business Development |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Valley-View-Ohio/Outside-Sales-Representative_R-48202-1) |
+| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Imperial-Pennsylvania/Outside-Sales-Representative_R-48206-1) |
 
 ## About This Role
 
-This sales position at Gordon Food Service was posted on 2026-02-06.
+This business development position at Gordon Food Service was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

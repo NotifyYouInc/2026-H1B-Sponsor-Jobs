@@ -1,16 +1,16 @@
-# Software Developer at General Dynamics Information Technology
+# Business Operations at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Herndon, Virginia, United States |
-| Category | Software Engineer |
+| Location | California, US |
+| Category | Strategy And Operations |
 | Posted | 2026-02-08 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Software-Developer_RQ214333) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-California/Business-Operations_RQ214378-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-02-08.
+This strategy and operations position at General Dynamics Information Technology was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 
