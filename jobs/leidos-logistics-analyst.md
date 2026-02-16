@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Gaithersburg, Maryland, United States |
 | Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Logistics-Analyst_R-00175324) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Logistics-Analyst_R-00175554) |
 
 ## About This Role
 
-This operations position at Leidos was posted on 2026-02-05.
+This operations position at Leidos was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
