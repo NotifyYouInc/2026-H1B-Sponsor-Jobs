@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Glean](https://scoutify.ai/companies/gleanwork?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | California, US |
 | Category | Sales |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gleanwork/jobs/4658219005) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gleanwork/jobs/4657834005) |
 
 ## About This Role
 

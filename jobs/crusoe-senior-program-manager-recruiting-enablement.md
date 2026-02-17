@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crusoe](https://scoutify.ai/companies/crusoe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Operations |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/c83612ef-d905-4eff-b4e5-9a9f8fcac49f) |
+| Location | Denver, Colorado, United States |
+| Category | Program Manager |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/3a8f49e8-019f-444a-be0a-ff00148b6eb8) |
 
 ## About This Role
 
-This operations position at Crusoe was posted on 2026-02-07.
+This program manager position at Crusoe was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

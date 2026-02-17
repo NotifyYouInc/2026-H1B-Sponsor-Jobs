@@ -6,7 +6,7 @@
 | Location | 3 locations |
 | Category | Operations |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000108247785-ai-digital-product-manager-vegetables-supply-chain) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000108311715-ai-digital-product-manager-vegetables-supply-chain) |
 
 ## About This Role
 

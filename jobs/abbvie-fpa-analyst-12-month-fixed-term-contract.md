@@ -6,7 +6,7 @@
 | Location | Cham, Zug, Switzerland |
 | Category | Corporate Finance |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011593306-fpa-analyst-12-month-fixed-term-contract) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011605266-fpa-analyst-12-month-fixed-term-contract) |
 
 ## About This Role
 

@@ -6,7 +6,7 @@
 | Location | Irvine, California, United States |
 | Category | Data Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011593364-senior-data-engineer-data-platform-remote) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011605006-senior-data-engineer-data-platform-remote) |
 
 ## About This Role
 

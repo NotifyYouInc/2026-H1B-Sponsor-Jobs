@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | 3 locations |
 | Category | Venture Capital |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000107657608-principal-analyst-display-products) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108403247-principal-analyst-display-products) |
 
 ## About This Role
 
-This venture capital position at Informa was posted on 2026-02-06.
+This venture capital position at Informa was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

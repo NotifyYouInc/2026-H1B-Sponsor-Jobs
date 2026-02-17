@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tysons, Virginia, United States |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000107852060-account-executive-oem) |
+| Category | Sales |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000108315635-account-executive-oem) |
 
 ## About This Role
 
-This business development position at MicroStrategy was posted on 2026-02-06.
+This sales position at MicroStrategy was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
