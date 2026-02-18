@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Australia |
 | Category | Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000108406075-it-service-delivery-specialist) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000108650264-it-service-delivery-specialist) |
 
 ## About This Role
 
-This operations position at AECOM was posted on 2026-02-10.
+This operations position at AECOM was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

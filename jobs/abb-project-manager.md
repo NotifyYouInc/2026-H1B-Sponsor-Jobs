@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bergen, Vestland, Norway |
+| Location | San Luis Potosí, San Luis Potosí, Mexico |
 | Category | Project Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Kokstad-Rogaland-Norway/Project-Manager_JR00023841) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Luis-Potosi-San-Luis-Potos-Mexico/Project-Manager_JR00012852) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-02-09.
+This project manager position at ABB was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
