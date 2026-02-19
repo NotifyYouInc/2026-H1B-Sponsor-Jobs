@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mechanicsville, Virginia, United States |
+| Location | Xiamen, Fujian, China |
 | Category | Operations |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mechanicsville-Virginia-United-States-of-America/Procurement-Specialist_JR00022894) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Procurement-Specialist_JR00024977-1) |
 
 ## About This Role
 
-This operations position at ABB was posted on 2026-02-09.
+This operations position at ABB was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

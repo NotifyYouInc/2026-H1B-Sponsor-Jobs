@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=73020) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=73016) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-02-11.
+This business analyst position at IBM was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Program Manager |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000108677026-sr-staff-technical-program-manager-core-infrastructure) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000108877695-sr-staff-technical-program-manager-core-infrastructure) |
 
 ## About This Role
 

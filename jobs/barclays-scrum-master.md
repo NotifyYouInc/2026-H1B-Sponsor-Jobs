@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Program Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Scrum-Master_JR-0000085046-8) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Operations |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Scrum-Master_JR-0000083758) |
 
 ## About This Role
 
-This program manager position at Barclays was posted on 2026-02-06.
+This operations position at Barclays was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

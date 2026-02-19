@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Draper, Utah, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Corporate-Sales-Account-Executive_R13643) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Pittsburgh-PA/Corporate-Sales-Account-Executive_R13686) |
 
 ## About This Role
 
-This sales position at Proofpoint was posted on 2026-02-06.
+This sales position at Proofpoint was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

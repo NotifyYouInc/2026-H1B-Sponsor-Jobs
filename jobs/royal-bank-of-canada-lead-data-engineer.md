@@ -1,12 +1,12 @@
-# Lead Data Engineer at Royal Bank of Canada
+# Lead, Data Engineer at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Engineer |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Lead-Data-Engineer_R-0000148314) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead--Data-Engineer_R-0000159294-1) |
 
 ## About This Role
 

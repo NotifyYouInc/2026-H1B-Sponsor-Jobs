@@ -5,12 +5,12 @@
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/China-Tax-Sr-Accountant-Analyst_JR-2026-19395) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/China-Tax-Sr-Accountant-Analyst_JR-2026-19396) |
 
 ## About This Role
 
-This corporate finance position at Air Products was posted on 2026-02-11.
+This corporate finance position at Air Products was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Business Development |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/7600612?gh_jid=7600612) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/7609432?gh_jid=7609432) |
 
 ## About This Role
 
-This business development position at Riot Games was posted on 2026-02-10.
+This business development position at Riot Games was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

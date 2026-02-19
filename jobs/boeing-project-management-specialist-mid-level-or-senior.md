@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Project-Management-Specialist--Mid-Level-or-Senior-_JR2026494484-1) |
+| Location | Everett, Washington, United States |
+| Category | Program Manager |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Project-Management-Specialist--Mid-Level-or-Senior-_JR2026494909-1) |
 
 ## About This Role
 
-This operations position at Boeing was posted on 2026-02-06.
+This program manager position at Boeing was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

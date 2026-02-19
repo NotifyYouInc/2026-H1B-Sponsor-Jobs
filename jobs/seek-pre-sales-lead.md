@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000107671135-pre-sales-lead) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000108920176-pre-sales-lead) |
 
 ## About This Role
 
-This sales position at SEEK was posted on 2026-02-06.
+This sales position at SEEK was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

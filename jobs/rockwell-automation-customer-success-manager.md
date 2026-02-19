@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ontario, CA |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Canada-Ontario-Remote/Customer-Success-Manager_R25-9694) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Noida-India/Customer-Success-Manager_R26-272) |
 
 ## About This Role
 
-This customer success position at Rockwell Automation was posted on 2026-02-05.
+This customer success position at Rockwell Automation was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

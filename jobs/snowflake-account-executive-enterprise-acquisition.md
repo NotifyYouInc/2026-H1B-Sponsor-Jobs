@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | Menlo Park, California, United States |
 | Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/15203e87-6303-43b2-872b-128710477ce2) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/cc7c01c0-9fcd-4aaf-a747-7264e1beb86c) |
 
 ## About This Role
 
-This sales position at Snowflake was posted on 2026-02-05.
+This sales position at Snowflake was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
