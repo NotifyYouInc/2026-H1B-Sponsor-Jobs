@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Illinois, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---IL---CHICAGO/Senior-Financial-Planning-Analyst_51571642) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/TW2IL---TeleworkerOffsite-USA-IL/Senior-Financial-Planning-Analyst_51572694) |
 
 ## About This Role
 
-This corporate finance position at DXC Technology was posted on 2026-02-10.
+This corporate finance position at DXC Technology was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Haryana, IN |
+| Location | Guwahati, Assam, India |
 | Category | Project Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND31-01-Gurgaon-5A-DLF-Cyber-City/Project-Manager_R4036155-1) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Guwahati/Project-Manager_R4036086-2) |
 
 ## About This Role
 
-This project manager position at GE HealthCare was posted on 2026-02-11.
+This project manager position at GE HealthCare was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

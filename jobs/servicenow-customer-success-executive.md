@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107666265-customer-success-executive) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109120174-customer-success-executive) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-02-06.
+This customer success position at ServiceNow was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

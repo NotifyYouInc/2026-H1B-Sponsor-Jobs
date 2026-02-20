@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Basking Ridge, New Jersey, United States |
-| Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Business-Sales-Account-Manager_R-1090856) |
+| Location | Portland, Oregon, United States |
+| Category | Business Development |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Portland-Oregon/Business-Sales-Account-Manager_R-1091060-1) |
 
 ## About This Role
 
-This customer success position at Verizon was posted on 2026-02-09.
+This business development position at Verizon was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

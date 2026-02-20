@@ -5,12 +5,12 @@
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bekasi, West Java, Indonesia |
 | Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Bekasi/Supply-Chain-Scheduler_REQ2025062035-1) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Bekasi/Supply-Chain-Scheduler_REQ2026070300) |
 
 ## About This Role
 
-This operations position at Valeo was posted on 2026-02-12.
+This operations position at Valeo was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

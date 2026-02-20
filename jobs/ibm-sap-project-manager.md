@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bedford, Texas, United States |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Project Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91623) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90682) |
 
 ## About This Role
 
-This project manager position at IBM was posted on 2026-02-05.
+This project manager position at IBM was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

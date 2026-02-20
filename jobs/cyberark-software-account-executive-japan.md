@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000108654096-account-executive-japan) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109129897-account-executive-japan) |
 
 ## About This Role
 
-This sales position at CyberArk Software was posted on 2026-02-11.
+This sales position at CyberArk Software was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

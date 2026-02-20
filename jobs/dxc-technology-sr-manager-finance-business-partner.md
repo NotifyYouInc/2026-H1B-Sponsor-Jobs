@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | New York, US |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/NY220---New-York-US-NY220/Sr-Manager-Finance-Business-Partner_51571425) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---NY---NEW-YORK/Sr-Manager-Finance-Business-Partner_51572695) |
 
 ## About This Role
 
-This corporate finance position at DXC Technology was posted on 2026-02-11.
+This corporate finance position at DXC Technology was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

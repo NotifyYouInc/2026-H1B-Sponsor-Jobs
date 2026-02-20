@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000108873136-strategic-sourcing-analyst-2-operations) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000109097847-strategic-sourcing-analyst-2-operations) |
 
 ## About This Role
 
-This operations position at Intuitive Surgical was posted on 2026-02-11.
+This operations position at Intuitive Surgical was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

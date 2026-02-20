@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Reston, Virginia, United States |
 | Category | Project Manager |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/London-United-Kingdom/Project-Coordinator-II_R0014479) |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Reston-VA/Project-Coordinator-II_R0013725) |
 
 ## About This Role
 
