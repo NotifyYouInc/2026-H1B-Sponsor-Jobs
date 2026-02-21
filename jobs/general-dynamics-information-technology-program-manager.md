@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Honolulu, Hawaii, United States |
+| Location | Rockville, Maryland, United States |
 | Category | Program Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Honolulu/Program-Manager_RQ214837) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Program-Manager_RQ214746) |
 
 ## About This Role
 
-This program manager position at General Dynamics Information Technology was posted on 2026-02-11.
+This program manager position at General Dynamics Information Technology was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
