@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Program Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109142575-program-manager) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109348734-program-manager) |
 
 ## About This Role
 
-This program manager position at NielsenIQ was posted on 2026-02-13.
+This program manager position at NielsenIQ was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

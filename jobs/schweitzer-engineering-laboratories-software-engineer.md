@@ -5,12 +5,12 @@
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pullman, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pullman---Zocholl/Software-Engineer_2026-19423) |
+| Posted | 2026-02-15 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer_2025-18736) |
 
 ## About This Role
 
-This software engineer position at Schweitzer Engineering Laboratories was posted on 2026-02-09.
+This software engineer position at Schweitzer Engineering Laboratories was posted on 2026-02-15.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/845453198247543) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1926080604611894) |
 
 ## About This Role
 

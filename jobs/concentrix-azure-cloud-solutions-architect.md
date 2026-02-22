@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Arkansas, US |
+| Location | Not specified |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-AR-Work-at-Home/Azure-Cloud-Solutions-Architect_R1705175) |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/CRI-Work-at-Home/Azure-Cloud-Solutions-Architect_R1706662) |
 
 ## About This Role
 

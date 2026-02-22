@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Suitland, Maryland, United States |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Network-Engineer_R-00175484) |
+| Location | Arlington, Texas, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Network-Engineer_R-00176108) |
 
 ## About This Role
 
-This operations position at Leidos was posted on 2026-02-06.
+This technical & solutions architect position at Leidos was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 
