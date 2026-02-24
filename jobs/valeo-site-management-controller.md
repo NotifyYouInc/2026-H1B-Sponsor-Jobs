@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bekasi, West Java, Indonesia |
 | Category | Corporate Finance |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Site-Management-Controller_REQ2025063863) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Bekasi/Site-Management-Controller_REQ2026070342-1) |
 
 ## About This Role
 
-This corporate finance position at Valeo was posted on 2026-02-12.
+This corporate finance position at Valeo was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

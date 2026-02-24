@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Karnataka, IN |
 | Category | Data Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90436) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=82413) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-02-10.
+This data engineer position at IBM was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 
