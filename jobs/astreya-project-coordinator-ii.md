@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Mexico |
 | Category | Project Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Reston-VA/Project-Coordinator-II_R0013725) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Mexico/Project-Coordinator-II_R0014546) |
 
 ## About This Role
 
-This project manager position at Astreya was posted on 2026-02-12.
+This project manager position at Astreya was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

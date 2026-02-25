@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Associate---Integration-Consulting_R33396) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Associate---Integration-Consulting_R32446-1) |
 
 ## About This Role
 
-This technology / it consulting position at Amadeus was posted on 2026-02-17.
+This technology / it consulting position at Amadeus was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Not specified |
 | Category | Program Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/103867919766561478-digital-technology-program-manager?sort_by=date&page=1) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/92585477692891846-digital-technology-program-manager?sort_by=date&page=1) |
 
 ## About This Role
 
-This program manager position at Google was posted on 2026-02-09.
+This program manager position at Google was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
