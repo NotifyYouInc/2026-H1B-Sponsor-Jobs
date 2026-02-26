@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Everett, Washington, United States |
+| Location | Maryland, US |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/405-SE-Everett-Mall-Way-EverettWA-98208-3243/Human-Resources-Expert_R0000430043) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/10500-Campus-Way-S-Upper-MarlboroMD-20774-1309/Human-Resources-Expert_R0000429997) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-02-17.
+This human resources / people ops position at Target was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

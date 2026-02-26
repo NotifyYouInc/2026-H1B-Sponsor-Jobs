@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Software-Engineer-III_JR_14366) |
+| Location | Karnataka, IN |
+| Category | DevOps Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Software-Engineer-III--Java--AWS--K8-_JR_12870) |
 
 ## About This Role
 
-This software engineer position at Guidewire Software was posted on 2026-02-13.
+This devops engineer position at Guidewire Software was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

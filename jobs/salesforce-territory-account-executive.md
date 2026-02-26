@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Singapore, Singapore |
 | Category | Account Executive |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Sydney/Territory-Account-Executive_JR329863) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Territory-Account-Executive_JR322372-1) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-02-17.
+This account executive position at Salesforce was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

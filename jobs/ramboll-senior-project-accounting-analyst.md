@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000109869355-senior-project-accounting-analyst) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000110087035-senior-project-accounting-analyst) |
 
 ## About This Role
 
-This corporate finance position at Ramboll was posted on 2026-02-18.
+This corporate finance position at Ramboll was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

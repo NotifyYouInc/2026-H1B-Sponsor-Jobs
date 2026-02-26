@@ -1,16 +1,16 @@
-# SOFTWARE ENGINEER at NielsenIQ
+# Software Engineer at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109870015-software-engineer) |
+| Location | Pune, Maharashtra, India |
+| Category | Frontend Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110086775-software-engineer) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-18.
+This frontend engineer position at NielsenIQ was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

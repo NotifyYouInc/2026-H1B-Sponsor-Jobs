@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Virginia, US |
 | Category | Growth Marketing |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000109866608-revenue-growth-director) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000110081495-revenue-growth-director) |
 
 ## About This Role
 
-This growth marketing position at MicroStrategy was posted on 2026-02-18.
+This growth marketing position at MicroStrategy was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
