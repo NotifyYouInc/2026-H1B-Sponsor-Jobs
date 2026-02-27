@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Maryland, US |
+| Location | West Mifflin, Pennsylvania, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/10500-Campus-Way-S-Upper-MarlboroMD-20774-1309/Human-Resources-Expert_R0000429997) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1717-Lebanon-Church-Rd-West-MifflinPA-15236-1450/Human-Resources-Expert_R0000430373) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-02-19.
+This human resources / people ops position at Target was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

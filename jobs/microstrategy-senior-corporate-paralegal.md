@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
+| Location | Virginia, US |
 | Category | Legal |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000110081585-senior-corporate-paralegal) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000110298225-senior-corporate-paralegal) |
 
 ## About This Role
 
-This legal position at MicroStrategy was posted on 2026-02-19.
+This legal position at MicroStrategy was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

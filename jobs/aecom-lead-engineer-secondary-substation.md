@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000109869935-lead-engineer-secondary-substation) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000110311475-lead-engineer-secondary-substation) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-02-18.
+This electrical / hardware engineer position at AECOM was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Brand Sales Specialist at IBM
+# Brand sales specialist at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | New Delhi, Delhi, India |
 | Category | Account Executive |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93501) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95020) |
 
 ## About This Role
 
-This account executive position at IBM was posted on 2026-02-19.
+This account executive position at IBM was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Qa Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91448) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92766) |
 
 ## About This Role
 
-This qa engineer position at IBM was posted on 2026-02-05.
+This software engineer position at IBM was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

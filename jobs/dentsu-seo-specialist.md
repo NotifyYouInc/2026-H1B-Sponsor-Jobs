@@ -5,12 +5,12 @@
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Growth Marketing |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Bangkok/SEO-Specialist_R1113643) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Bangkok/SEO-Specialist_R1113504) |
 
 ## About This Role
 
-This growth marketing position at Dentsu was posted on 2026-02-18.
+This growth marketing position at Dentsu was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

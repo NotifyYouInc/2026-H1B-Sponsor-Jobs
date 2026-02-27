@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United Kingdom |
-| Category | Program Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Technical-Delivery-Manager_JR-0000082227-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Project Manager |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/DLF-IT-Park-Chennai/Technical-Delivery-Manager_JR-0000086729) |
 
 ## About This Role
 
-This program manager position at Barclays was posted on 2026-02-09.
+This project manager position at Barclays was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
