@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wiesbaden, Hesse, Germany |
+| Location | Sierra Vista, Arizona, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/DEU-Wiesbaden---Wiesbaden-Army-Airfield-APC180/Network-Administrator_RQ215229-1) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AZ-Sierra-Vista/Network-Administrator_RQ215222-1) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-02-20.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

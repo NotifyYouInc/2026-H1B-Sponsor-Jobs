@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Lead-Firmware-Engineer_2025-18734) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Firmware-Engineer_2026-19778) |
 
 ## About This Role
 
-This software engineer position at Schweitzer Engineering Laboratories was posted on 2026-02-10.
+This embedded / firmware engineer position at Schweitzer Engineering Laboratories was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

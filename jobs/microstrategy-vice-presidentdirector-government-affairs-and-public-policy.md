@@ -6,7 +6,7 @@
 | Location | Virginia, US |
 | Category | Compliance & Risk Management |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000110298188-vice-presidentdirector-government-affairs-and-public-policy) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000110486195-vice-presidentdirector-government-affairs-and-public-policy) |
 
 ## About This Role
 

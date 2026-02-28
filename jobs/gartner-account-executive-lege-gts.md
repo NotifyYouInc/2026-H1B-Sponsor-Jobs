@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Minnesota, US |
 | Category | Account Executive |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Chicago-IL/Account-Executive--LE-GE--GTS_107333) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Minnesota/Account-Executive--LE-GE--GTS_107906) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-02-18.
+This account executive position at Gartner was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

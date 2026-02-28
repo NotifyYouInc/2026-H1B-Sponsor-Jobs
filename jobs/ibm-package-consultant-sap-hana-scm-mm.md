@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Karnataka, IN |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94515) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93877) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-18.
+This technology / it consulting position at IBM was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

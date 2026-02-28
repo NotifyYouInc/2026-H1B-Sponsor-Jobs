@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000107854865-early-career-talent-finance-rotational-program-summer-2026-start) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000110492215-early-career-talent-finance-rotational-program-summer-2026-start) |
 
 ## About This Role
 
-This corporate finance position at Western Digital was posted on 2026-02-07.
+This corporate finance position at Western Digital was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 
