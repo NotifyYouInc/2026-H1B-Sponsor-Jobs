@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5118483008?gh_jid=5118483008) |
+| Location | Boston, Massachusetts, United States |
+| Category | Account Manager |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5128620008?gh_jid=5128620008) |
 
 ## About This Role
 
-This customer success position at Block was posted on 2026-02-13.
+This account manager position at Block was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Data Scientist - Artificial Intelligence at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Giza, Giza, Egypt |
 | Category | Data Scientist |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=85399) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91633) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-02-17.
+This data scientist position at IBM was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5128264008?gh_jid=5128264008) |
+| Posted | 2026-02-22 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5128616008?gh_jid=5128616008) |
 
 ## About This Role
 
-This account executive position at Block was posted on 2026-02-20.
+This account executive position at Block was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

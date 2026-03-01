@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sacramento, California, United States |
+| Location | Hartford, Connecticut, United States |
 | Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Sacramento-CA-United-States/Territory-Manager_JR_048675) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Hartford-CT-United-States/Territory-Manager_JR_048668) |
 
 ## About This Role
 
-This account executive position at ResMed was posted on 2026-02-20.
+This account executive position at ResMed was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

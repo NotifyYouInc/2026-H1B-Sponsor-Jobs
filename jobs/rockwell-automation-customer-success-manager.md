@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Noida-India/Customer-Success-Manager_R26-272) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Customer-Success-Manager_R26-288) |
 
 ## About This Role
 
-This customer success position at Rockwell Automation was posted on 2026-02-12.
+This customer success position at Rockwell Automation was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

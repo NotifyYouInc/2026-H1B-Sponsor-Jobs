@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Virginia, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000110486195-vice-presidentdirector-government-affairs-and-public-policy) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000110495061-vice-presidentdirector-government-affairs-and-public-policy) |
 
 ## About This Role
 
-This compliance & risk management position at MicroStrategy was posted on 2026-02-20.
+This compliance & risk management position at MicroStrategy was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

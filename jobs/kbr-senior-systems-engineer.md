@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | San Diego, California, United States |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/San-Diego-California/Senior-Systems-Engineer_R2119389) |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/San-Diego-California/Senior-Systems-Engineer_R2119390) |
 
 ## About This Role
 
