@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | West Mifflin, Pennsylvania, United States |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1717-Lebanon-Church-Rd-West-MifflinPA-15236-1450/Human-Resources-Expert_R0000430373) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/900-Nicollet-Mall-MinneapolisMN-55403-2530/Human-Resources-Expert_R0000430570) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-02-20.
+This human resources / people ops position at Target was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

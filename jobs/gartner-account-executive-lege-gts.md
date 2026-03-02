@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Minnesota, US |
+| Location | Mumbai, Maharashtra, India |
 | Category | Account Executive |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Minnesota/Account-Executive--LE-GE--GTS_107906) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Mumbai/Account-Executive--LE-GE--GTS_107816-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-02-21.
+This account executive position at Gartner was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

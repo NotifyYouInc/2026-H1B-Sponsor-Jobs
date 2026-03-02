@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7630630003) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639798003) |
 
 ## About This Role
 
-This software engineer position at Sigma Computing was posted on 2026-02-12.
+This ai / llm engineer position at Sigma Computing was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

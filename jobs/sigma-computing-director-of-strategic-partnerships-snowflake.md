@@ -5,12 +5,12 @@
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Business Development |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7630653003) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639790003) |
 
 ## About This Role
 
-This business development position at Sigma Computing was posted on 2026-02-12.
+This business development position at Sigma Computing was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

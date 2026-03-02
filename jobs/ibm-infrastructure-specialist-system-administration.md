@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Haryana, IN |
 | Category | Database Administration |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93655) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93653) |
 
 ## About This Role
 
-This database administration position at IBM was posted on 2026-02-17.
+This database administration position at IBM was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
