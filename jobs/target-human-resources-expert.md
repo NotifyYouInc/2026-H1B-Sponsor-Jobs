@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Keene, New Hampshire, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/900-Nicollet-Mall-MinneapolisMN-55403-2530/Human-Resources-Expert_R0000430570) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/46-Ash-Brook-Rd-KeeneNH-03431-5918/Human-Resources-Expert_R0000430638) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-02-23.
+This human resources / people ops position at Target was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
-| Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PUN-MIC-T-4/Product-Support-Specialist_R-26584) |
+| Location | 2 locations |
+| Category | Account Executive |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/DEL-PS/Product-Support-Specialist_R-24093-1) |
 
 ## About This Role
 
-This customer success position at Varian was posted on 2026-02-06.
+This account executive position at Varian was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

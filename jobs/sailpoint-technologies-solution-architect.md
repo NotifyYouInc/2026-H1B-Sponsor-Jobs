@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Solutions Architect |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Pune-India/Solution-Architect_R012465) |
+| Location | South Korea |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-South-Korea/Solution-Architect_R012836-1) |
 
 ## About This Role
 
-This solutions architect position at SailPoint Technologies was posted on 2026-02-06.
+This technical & solutions architect position at SailPoint Technologies was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

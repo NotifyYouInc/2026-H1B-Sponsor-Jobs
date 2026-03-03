@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Singapore |
 | Category | Program Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/ENGINEER--F10-SPM-PMO_JR91810) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/ENGINEER--F10-SPM-PMO_JR89740) |
 
 ## About This Role
 
-This program manager position at Micron was posted on 2026-02-20.
+This program manager position at Micron was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Haryana, IN |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95094) |
+| Location | Karnataka, IN |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95379) |
 
 ## About This Role
 
-This financial advisory & consulting position at IBM was posted on 2026-02-20.
+This strategy / management consulting position at IBM was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

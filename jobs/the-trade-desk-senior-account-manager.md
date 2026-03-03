@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5051936007) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Account Manager |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5060315007) |
 
 ## About This Role
 
-This customer success position at The Trade Desk was posted on 2026-02-13.
+This account manager position at The Trade Desk was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

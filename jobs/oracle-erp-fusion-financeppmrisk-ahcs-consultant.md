@@ -5,12 +5,12 @@
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#322248) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#323356) |
 
 ## About This Role
 
-This strategy / management consulting position at Oracle was posted on 2026-02-19.
+This strategy / management consulting position at Oracle was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

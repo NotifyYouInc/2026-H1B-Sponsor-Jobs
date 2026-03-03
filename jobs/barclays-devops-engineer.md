@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/DevOps-Engineer_JR-0000082820) |
+| Location | Pune, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/DevOps-Engineer_JR-0000078037) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-05.
+This devops engineer position at Barclays was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

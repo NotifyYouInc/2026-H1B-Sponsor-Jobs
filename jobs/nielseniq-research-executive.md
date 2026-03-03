@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Project Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110094295-research-executive) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111002595-research-executive) |
 
 ## About This Role
 
-This project manager position at NielsenIQ was posted on 2026-02-19.
+This strategy / management consulting position at NielsenIQ was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

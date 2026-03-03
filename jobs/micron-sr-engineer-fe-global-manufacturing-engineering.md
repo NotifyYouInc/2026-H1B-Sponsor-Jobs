@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | 2 locations |
 | Category | Operations |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/SR-ENGINEER--FE-GLOBAL-MANUFACTURING-ENGINEERING_JR90543) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/SR-ENGINEER--FE-GLOBAL-MANUFACTURING-ENGINEERING_JR90553) |
 
 ## About This Role
 
-This operations position at Micron was posted on 2026-02-17.
+This operations position at Micron was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
