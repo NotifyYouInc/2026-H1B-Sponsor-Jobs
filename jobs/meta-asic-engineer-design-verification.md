@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Sunnyvale, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1586201902652628) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1292487402360342) |
 
 ## About This Role
 
-This semiconductor / chip design position at Meta was posted on 2026-02-24.
+This semiconductor / chip design position at Meta was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

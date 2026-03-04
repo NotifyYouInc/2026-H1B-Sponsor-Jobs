@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Fukuoka, Fukuoka, Japan |
 | Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Fukuoka-Japan/XMLNAME-2027-New-Graduate--Fund-Accounting--Associate-1_R-783908) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Fukuoka-Japan/XMLNAME-2027-New-Graduate--Fund-Accounting--Associate-1_R-783907) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-02-10.
+This corporate finance position at State Street was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

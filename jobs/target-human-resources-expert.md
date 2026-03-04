@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Keene, New Hampshire, United States |
+| Location | Overland Park, Kansas, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/46-Ash-Brook-Rd-KeeneNH-03431-5918/Human-Resources-Expert_R0000430638) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/12200-Blue-Valley-Pkwy-Overland-ParkKS-66213-2639/Human-Resources-Expert_R0000430804) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-02-24.
+This human resources / people ops position at Target was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Australia |
-| Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7627489003) |
+| Category | Account Executive |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7644278003) |
 
 ## About This Role
 
-This sales position at Remote was posted on 2026-02-11.
+This account executive position at Remote was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

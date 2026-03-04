@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/DevOps-Engineer_R18462) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/DevOps-Engineer_R18622) |
 
 ## About This Role
 
-This devops engineer position at Zoom was posted on 2026-02-11.
+This devops engineer position at Zoom was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

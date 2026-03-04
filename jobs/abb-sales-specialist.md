@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Warrington, England, United Kingdom |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Warrington-Cheshire-United-Kingdom/Sales-Specialist_JR00024148-1) |
+| Location | Guangzhou, Guangdong, China |
+| Category | Account Executive |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Guangzhou-Guangdong-China/Sales-Specialist_JR00023767-1) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-02-09.
+This account executive position at ABB was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Customer Success |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Brisbane-QLD-Australia/Tech-Field-Eng_REQ569523) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Sydney-NSW-Australia/Tech-Field-Eng_REQ569484) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-02-17.
+This customer success position at Unisys was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Karnataka, IN |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=67671) |
+| Category | Data Scientist |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=71465) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-02-23.
+This data scientist position at IBM was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 
