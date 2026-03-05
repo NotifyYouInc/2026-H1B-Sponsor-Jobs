@@ -1,16 +1,16 @@
-# SALES ASSOCIATE at Richemont
+# Sales Associate at Richemont
 
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taichung, Taiwan, Taiwan |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Channel / Partner Sales |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/TAICHUNG/SALES-ASSOCIATE_JR124812) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/DUBAI/Sales-Associate_JR125705) |
 
 ## About This Role
 
-This channel / partner sales position at Richemont was posted on 2026-02-23.
+This channel / partner sales position at Richemont was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

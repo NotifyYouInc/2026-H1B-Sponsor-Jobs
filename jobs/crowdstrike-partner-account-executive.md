@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Austin, Texas, United States |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Japan---Tokyo/Partner-Account-Executive_R27366) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/Partner-Account-Executive_R27377) |
 
 ## About This Role
 
-This account executive position at CrowdStrike was posted on 2026-02-24.
+This account executive position at CrowdStrike was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

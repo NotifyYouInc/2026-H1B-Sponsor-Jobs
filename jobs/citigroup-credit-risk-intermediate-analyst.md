@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Credit-Risk-Intermediate-Analyst_26937876) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Credit-Risk-Intermediate-Analyst_26940406) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-02-19.
+This corporate finance position at Citigroup was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

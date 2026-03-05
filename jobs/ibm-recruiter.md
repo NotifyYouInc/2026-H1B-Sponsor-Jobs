@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philippines |
+| Location | Karnataka, IN |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96214) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=81627) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at IBM was posted on 2026-02-25.
+This talent acquisition / recruiting position at IBM was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

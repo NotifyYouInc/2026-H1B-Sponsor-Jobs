@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108405458-assistant-sales-manager) |
+| Category | Account Executive |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000111531917-assistant-sales-manager) |
 
 ## About This Role
 
-This sales position at Informa was posted on 2026-02-10.
+This account executive position at Informa was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

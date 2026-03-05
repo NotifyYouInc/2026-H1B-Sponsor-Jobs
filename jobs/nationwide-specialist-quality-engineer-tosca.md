@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Qa Engineer |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Specialist--Quality-Engineer---TOSCA_096626) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Quality-Engineer---TOSCA_096805) |
 
 ## About This Role
 
-This qa engineer position at Nationwide was posted on 2026-02-08.
+This software engineer position at Nationwide was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

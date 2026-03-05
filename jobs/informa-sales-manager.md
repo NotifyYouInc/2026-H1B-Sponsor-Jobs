@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Account Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000111297285-sales-manager) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000111531157-sales-manager) |
 
 ## About This Role
 
-This account manager position at Informa was posted on 2026-02-25.
+This account manager position at Informa was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

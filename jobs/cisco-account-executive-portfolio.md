@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Kuala-Lumpur-Malaysia/Account-Executive---Portfolio_2008909) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Mumbai-India/Account-Executive---Portfolio_2006057) |
 
 ## About This Role
 
-This account executive position at Cisco was posted on 2026-02-23.
+This account executive position at Cisco was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
