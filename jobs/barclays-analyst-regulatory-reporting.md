@@ -1,16 +1,16 @@
-# Analyst - Regulatory Reporting at Barclays
+# Analyst - Regulatory reporting at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/DLF-IT-Park-Chennai/Analyst---Regulatory-Reporting_JR-0000096379) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/DLF-IT-Park-Chennai/Regulatory-reporting-Analyst-1_JR-0000077863) |
 
 ## About This Role
 
-This compliance & risk management position at Barclays was posted on 2026-02-18.
+This compliance & risk management position at Barclays was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

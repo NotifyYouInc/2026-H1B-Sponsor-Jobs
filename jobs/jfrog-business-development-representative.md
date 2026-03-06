@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JFrog](https://scoutify.ai/companies/jfrog?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Development |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://join.jfrog.com/job/?job=7625895&gh_jid=7625895) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://join.jfrog.com/job/?job=7633349&gh_jid=7633349) |
 
 ## About This Role
 
-This business development position at JFrog was posted on 2026-02-20.
+This business development position at JFrog was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

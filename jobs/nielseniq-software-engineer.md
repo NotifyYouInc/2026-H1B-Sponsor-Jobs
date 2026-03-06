@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111013665-software-engineer) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111771152-software-engineer) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-02-24.
+This software engineer position at NielsenIQ was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

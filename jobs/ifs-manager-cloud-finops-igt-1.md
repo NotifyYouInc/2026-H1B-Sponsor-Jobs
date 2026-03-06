@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | Operations |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000110672825-manager-cloud-finops-igt-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000111762324-manager-cloud-finops-igt-1) |
 
 ## About This Role
 
-This operations position at IFS was posted on 2026-02-23.
+This operations position at IFS was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

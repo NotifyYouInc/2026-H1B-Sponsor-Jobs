@@ -1,16 +1,16 @@
-# Senior Project Manager at NCS
+# Senior / Project Manager at NCS
 
 | Field | Details |
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Project Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000856260-senior-project-manager) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000899805-senior-project-manager) |
 
 ## About This Role
 
-This project manager position at NCS was posted on 2026-02-10.
+This project manager position at NCS was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

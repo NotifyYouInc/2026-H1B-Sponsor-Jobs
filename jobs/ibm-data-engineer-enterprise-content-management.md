@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96868) |
+| Category | Software Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97289) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-26.
+This software engineer position at IBM was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

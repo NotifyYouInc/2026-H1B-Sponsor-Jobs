@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenTable](https://scoutify.ai/companies/opentable?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Orlando, Florida, United States |
 | Category | Account Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8426474002) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8441204002) |
 
 ## About This Role
 
-This account manager position at OpenTable was posted on 2026-02-18.
+This account manager position at OpenTable was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
