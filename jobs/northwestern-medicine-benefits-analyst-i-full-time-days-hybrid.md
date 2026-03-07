@@ -5,12 +5,12 @@
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000111002837-benefits-analyst-i-full-time-days-hybrid) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000111949405-benefits-analyst-i-full-time-days-hybrid) |
 
 ## About This Role
 
-This human resources / people ops position at Northwestern Medicine was posted on 2026-02-24.
+This human resources / people ops position at Northwestern Medicine was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

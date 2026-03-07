@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/BeiJing/Enterprise-Service-Sales-Specialist_R4036000-1) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Enterprise-Service-Sales-Specialist_R4035998-1) |
 
 ## About This Role
 
-This account executive position at GE HealthCare was posted on 2026-02-25.
+This account executive position at GE HealthCare was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

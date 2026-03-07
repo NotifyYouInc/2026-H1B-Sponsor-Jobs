@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7618177003) |
+| Location | Denver, Colorado, United States |
+| Category | Account Executive |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7494007003) |
 
 ## About This Role
 
-This business development position at Fivetran was posted on 2026-02-06.
+This account executive position at Fivetran was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

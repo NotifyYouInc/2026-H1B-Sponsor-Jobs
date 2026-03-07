@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taiyuan, Shanxi, China |
+| Location | Shijiazhuang, Hebei, China |
 | Category | Customer Success |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3299-NO-11-Zhenxing-Road-No-1610-Wufeng-International-Building-Taiyuan-High-tech-District-Shanxi-China/_20140414) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3402-B-2301-Le-Tai-Center-Building-No39-Zhongshan-Dong-Road-ChangAn-District-Shijiazhuang-HebeiChina/_20150554) |
 
 ## About This Role
 
-This customer success position at Otis was posted on 2026-02-26.
+This customer success position at Otis was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

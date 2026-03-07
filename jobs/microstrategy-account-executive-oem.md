@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tysons, Virginia, United States |
 | Category | Account Executive |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000110530095-account-executive-oem) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000111945721-account-executive-oem) |
 
 ## About This Role
 
-This account executive position at MicroStrategy was posted on 2026-02-21.
+This account executive position at MicroStrategy was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/5785a5f0-85cc-43e5-98bb-64a0103548d8) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/65eb2c63-c936-4e8e-87e7-ea080dcdca73) |
 
 ## About This Role
 
-This product manager position at Sierra was posted on 2026-02-12.
+This product manager position at Sierra was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

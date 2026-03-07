@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/52375d9d-ae30-40b7-811e-b269a8f23fd3) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66) |
 
 ## About This Role
 
-This software engineer position at Sierra was posted on 2026-02-12.
+This software engineer position at Sierra was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
