@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000110309816-lead-engineer-primary-substation) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000112023838-lead-engineer-primary-substation) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-02-20.
+This electrical / hardware engineer position at AECOM was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

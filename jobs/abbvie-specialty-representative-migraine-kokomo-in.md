@@ -6,7 +6,7 @@
 | Location | Kokomo, Indiana, United States |
 | Category | Account Executive |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011906976-specialty-representative-migraine-kokomo-in) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011907006-specialty-representative-migraine-kokomo-in) |
 
 ## About This Role
 

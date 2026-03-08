@@ -6,7 +6,7 @@
 | Location | Tampa, Florida, United States |
 | Category | Account Executive |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011906906-specialty-representative-migraine-tampast-petersburg-fl) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011907086-specialty-representative-migraine-tampast-petersburg-fl) |
 
 ## About This Role
 

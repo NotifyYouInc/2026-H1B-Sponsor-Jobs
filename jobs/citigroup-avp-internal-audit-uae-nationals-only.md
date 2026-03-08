@@ -6,7 +6,7 @@
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Accounting |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dubai-United-Arab-Emirates/AVP-Senior-Auditor--UAE-Nationals-Only-_26940673) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dubai-United-Arab-Emirates/AVP-Internal-Audit--UAE-Nationals-Only-_26940671-1) |
 
 ## About This Role
 

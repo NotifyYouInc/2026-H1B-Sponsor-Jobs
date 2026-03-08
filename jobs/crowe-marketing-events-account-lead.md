@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | 33 locations |
 | Category | Marketing |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Marketing-Events-Account-Lead_R-50199-2) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Marketing-Events-Account-Lead_R-50344) |
 
 ## About This Role
 
-This marketing position at Crowe was posted on 2026-02-17.
+This marketing position at Crowe was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 
