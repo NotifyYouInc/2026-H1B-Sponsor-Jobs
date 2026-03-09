@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | Malaysia |
 | Category | Engineering Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Australia---Sydney/Business-Development-Manager_R108761-1) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Malaysia/Business-Development-Manager_R109722) |
 
 ## About This Role
 
-This engineering manager position at LexisNexis Risk Solutions was posted on 2026-02-19.
+This engineering manager position at LexisNexis Risk Solutions was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

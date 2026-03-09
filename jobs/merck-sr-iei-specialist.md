@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wuhan, Hubei, China |
+| Location | Ningbo, Zhejiang, China |
 | Category | Account Executive |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Hubei---Wuhan-Qiao-Kou/Sr-IEI-Specialist_R387264) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Zhejiang---Ningbo/Sr-IEI-Specialist_R385601-1) |
 
 ## About This Role
 
-This account executive position at Merck was posted on 2026-02-27.
+This account executive position at Merck was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

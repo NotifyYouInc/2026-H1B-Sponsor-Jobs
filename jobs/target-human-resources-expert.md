@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Louisville, Kentucky, United States |
+| Location | Aurora, Colorado, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/3600-Mall-Rd-LouisvilleKY-40218-5403/Human-Resources-Expert_R0000431008) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7400-S-Gartrell-Rd-AuroraCO-80016-4236/Human-Resources-Expert_R0000431193) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-02-27.
+This human resources / people ops position at Target was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

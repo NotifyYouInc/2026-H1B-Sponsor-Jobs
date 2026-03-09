@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Engineering Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556760139) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556819776) |
 
 ## About This Role
 
-This engineering manager position at Microsoft was posted on 2026-02-26.
+This engineering manager position at Microsoft was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

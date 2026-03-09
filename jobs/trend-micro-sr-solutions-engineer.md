@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
+| Location | Brisbane, Queensland, Australia |
 | Category | Sales Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/US-Off-Site/Sr-Solutions-Engineer_R0009071) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Brisbane/Sr-Solutions-Engineer_R0009207) |
 
 ## About This Role
 
-This sales engineer position at Trend Micro was posted on 2026-02-05.
+This sales engineer position at Trend Micro was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

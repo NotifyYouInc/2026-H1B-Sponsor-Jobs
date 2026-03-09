@@ -1,16 +1,16 @@
-# Senior Member Technical Staff  at The Nielsen Company
+# Senior Member Technical Staff at The Nielsen Company
 
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011724943-senior-member-technical-staff) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011911406-senior-member-technical-staff) |
 
 ## About This Role
 
-This software engineer position at The Nielsen Company was posted on 2026-02-18.
+This ai / llm engineer position at The Nielsen Company was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

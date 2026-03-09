@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | Marketing |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Zhejiang---Hangzhou-Zhejiang-Fo/Pharmaceutical-Information-Manager_R387033-2) |
+| Location | Wuhan, Hubei, China |
+| Category | Account Executive |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Hubei---Wuhan-Qiao-Kou/Pharmaceutical-Information-Manager_R386864-1) |
 
 ## About This Role
 
-This marketing position at Merck was posted on 2026-02-26.
+This account executive position at Merck was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

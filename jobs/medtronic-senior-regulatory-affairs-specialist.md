@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Minnesota, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-Regulatory-Affairs-Specialist_R57795) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-Regulatory-Affairs-Specialist_R60552-1) |
 
 ## About This Role
 
-This compliance & risk management position at Medtronic was posted on 2026-02-24.
+This compliance & risk management position at Medtronic was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

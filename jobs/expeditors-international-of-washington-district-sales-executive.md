@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000110675625-district-sales-executive) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000112078247-district-sales-executive) |
 
 ## About This Role
 
-This account executive position at Expeditors International of Washington was posted on 2026-02-23.
+This account executive position at Expeditors International of Washington was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
