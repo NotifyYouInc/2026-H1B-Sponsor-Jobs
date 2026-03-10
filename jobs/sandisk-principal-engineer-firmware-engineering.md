@@ -1,16 +1,16 @@
-# Principal Engineer, Firmware Engineering at SanDisk
+# Principal Engineer, Firmware Engineering  at SanDisk
 
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000110525355-principal-engineer-firmware-engineering) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000112337787-principal-engineer-firmware-engineering) |
 
 ## About This Role
 
-This embedded / firmware engineer position at SanDisk was posted on 2026-02-21.
+This embedded / firmware engineer position at SanDisk was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

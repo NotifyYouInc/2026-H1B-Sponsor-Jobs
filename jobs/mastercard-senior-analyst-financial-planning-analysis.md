@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Analyst--Financial-Planning---Analysis_R-271687) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Analyst--Financial-Planning---Analysis_R-272279) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-02-24.
+This corporate finance position at Mastercard was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

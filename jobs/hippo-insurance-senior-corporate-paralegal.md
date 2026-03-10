@@ -5,12 +5,12 @@
 | Company | [Hippo Insurance](https://scoutify.ai/companies/hippo70?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 4 locations |
 | Category | Legal |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://boards.greenhouse.io/hippo70/jobs/8430321002?gh_jid=8430321002) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://boards.greenhouse.io/hippo70/jobs/8445765002?gh_jid=8445765002) |
 
 ## About This Role
 
-This legal position at Hippo Insurance was posted on 2026-02-20.
+This legal position at Hippo Insurance was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

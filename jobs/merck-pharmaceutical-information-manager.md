@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wuhan, Hubei, China |
+| Location | Kunming, Yunnan, China |
 | Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Hubei---Wuhan-Qiao-Kou/Pharmaceutical-Information-Manager_R386864-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Yunnan---Kunming/Pharmaceutical-Information-Manager_R387021-1) |
 
 ## About This Role
 
-This account executive position at Merck was posted on 2026-03-02.
+This account executive position at Merck was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

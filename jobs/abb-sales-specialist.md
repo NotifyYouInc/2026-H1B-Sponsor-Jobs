@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Guangzhou-Guangdong-China/Sales-Specialist_JR00023767-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Johannesburg-Gauteng-South-Africa/Sales-Specialist_JR00025294-1) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-02-25.
+This account executive position at ABB was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Clayton, Victoria, Australia |
+| Location | Victoria, AU |
 | Category | Learning & Development |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000110091365-contract-trainer-assessor-food-hospitality) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000112330977-contract-trainer-assessor-food-hospitality) |
 
 ## About This Role
 
-This learning & development position at SGS was posted on 2026-02-19.
+This learning & development position at SGS was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

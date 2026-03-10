@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Malaysia |
 | Category | Customer Success |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111530885-executive-customer-success-analytics-insights) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112332205-executive-customer-success-analytics-insights) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-02-26.
+This customer success position at NielsenIQ was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

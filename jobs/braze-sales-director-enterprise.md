@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7567475?gh_jid=7567475) |
+| Location | Singapore, Singapore |
+| Category | Sales Leadership |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7671728?gh_jid=7671728) |
 
 ## About This Role
 
-This sales position at Braze was posted on 2026-02-09.
+This sales leadership position at Braze was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

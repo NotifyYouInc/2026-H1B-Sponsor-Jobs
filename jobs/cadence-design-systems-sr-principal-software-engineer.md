@@ -5,12 +5,12 @@
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Sr-Principal-Software-Engineer_R53051) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Sr-Principal-Software-Engineer_R53100) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-02-18.
+This software engineer position at Cadence Design Systems was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

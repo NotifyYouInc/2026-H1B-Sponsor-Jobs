@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Sunnyvale, California, United States |
 | Category | Operations |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2148571472585116) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1184338897110258) |
 
 ## About This Role
 
-This operations position at Meta was posted on 2026-02-24.
+This operations position at Meta was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

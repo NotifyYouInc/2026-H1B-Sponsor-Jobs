@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | Channel / Partner Sales |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111300065-global-partner-manager-sales) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000112338387-global-partner-manager-sales) |
 
 ## About This Role
 
-This channel / partner sales position at ServiceNow was posted on 2026-02-25.
+This channel / partner sales position at ServiceNow was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
