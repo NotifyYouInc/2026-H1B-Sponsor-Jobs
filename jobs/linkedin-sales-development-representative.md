@@ -1,16 +1,16 @@
-# Sales Development Representative  at LinkedIn
+# Sales Development Representative at LinkedIn
 
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Development |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000108417645-sales-development-representative) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000112591477-sales-development-representative) |
 
 ## About This Role
 
-This business development position at LinkedIn was posted on 2026-02-10.
+This business development position at LinkedIn was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

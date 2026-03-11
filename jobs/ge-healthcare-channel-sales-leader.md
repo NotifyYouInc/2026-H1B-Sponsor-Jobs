@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chongqing, Chongqing, China |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Channel / Partner Sales |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Chongqing/Channel-Sales-Leader_R4036256-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Hangzhou/Channel-Sales-Leader_R4037337-1) |
 
 ## About This Role
 
-This channel / partner sales position at GE HealthCare was posted on 2026-02-25.
+This channel / partner sales position at GE HealthCare was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

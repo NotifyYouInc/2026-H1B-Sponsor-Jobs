@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bayan Lepas, Penang, Malaysia |
 | Category | Leadership Development Program |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000111002754-human-resources-rotational-program-early-career) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000112591927-human-resources-rotational-program-early-career) |
 
 ## About This Role
 
-This leadership development program position at Western Digital was posted on 2026-02-24.
+This leadership development program position at Western Digital was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

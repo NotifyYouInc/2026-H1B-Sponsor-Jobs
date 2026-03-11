@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Operations |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3188889/team-lead-amzl-last-mile-operations) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3195359/team-lead-amzl-last-mile-operations) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-02-25.
+This operations position at Amazon was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

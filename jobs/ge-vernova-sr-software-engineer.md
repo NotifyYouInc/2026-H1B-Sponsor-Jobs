@@ -5,12 +5,12 @@
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Sr-Software-Engineer_R5032954-2) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad-TS-IN-26/Sr-Software-Engineer_R5034291-2) |
 
 ## About This Role
 
-This software engineer position at GE Vernova was posted on 2026-02-20.
+This software engineer position at GE Vernova was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

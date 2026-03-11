@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Solution-Designer_JR-0000053069) |
+| Location | 2 locations |
+| Category | Engineering Manager |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Full-Stack-Engineer_JR-0000093684-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-05.
+This engineering manager position at Barclays was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

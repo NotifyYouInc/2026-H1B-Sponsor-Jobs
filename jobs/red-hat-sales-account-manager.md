@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Taipei---MSO/Sales-Account-Manager_R-053243) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Account Executive |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sao-Paulo/Sales-Account-Manager_R-055040-1) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-02-09.
+This account executive position at Red Hat was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

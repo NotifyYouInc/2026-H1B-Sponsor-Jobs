@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Karnataka, IN |
-| Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3191276/central-operations-support-executive-in-external-fulfillment) |
+| Category | Customer Success |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3195370/central-operations-support-executive-in-external-fulfillment) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-02-27.
+This customer success position at Amazon was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

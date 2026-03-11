@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kunming, Yunnan, China |
+| Location | Guangzhou, Guangdong, China |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011868576-sr-professional-medical-representative) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011957446-sr-professional-medical-representative) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-02-26.
+This account executive position at AbbVie was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

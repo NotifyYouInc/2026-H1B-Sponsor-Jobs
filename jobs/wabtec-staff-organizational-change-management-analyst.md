@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011770936-staff-organizational-change-management-analyst) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011957756-staff-organizational-change-management-analyst) |
 
 ## About This Role
 
-This business analyst position at Wabtec was posted on 2026-02-20.
+This business analyst position at Wabtec was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

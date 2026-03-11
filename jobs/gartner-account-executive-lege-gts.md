@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | North Carolina, US |
 | Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Mumbai/Account-Executive--LE-GE--GTS_107816-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---North-Carolina/Account-Executive--LE-GE--GTS_108298) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-02-23.
+This account executive position at Gartner was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

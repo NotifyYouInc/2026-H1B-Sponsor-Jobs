@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
-| Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Systems-Analyst_JR00120067) |
+| Category | QA Engineer |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Systems-Analyst_JR00121244) |
 
 ## About This Role
 
-This software engineer position at Sun Life Financial was posted on 2026-02-25.
+This qa engineer position at Sun Life Financial was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
