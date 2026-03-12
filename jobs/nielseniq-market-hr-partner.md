@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Pasig City, National Capital Region, Philippines |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111773805-market-hr-partner) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112841599-market-hr-partner) |
 
 ## About This Role
 
-This human resources / people ops position at NielsenIQ was posted on 2026-02-27.
+This human resources / people ops position at NielsenIQ was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

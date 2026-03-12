@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Indiana, US |
 | Category | Account Executive |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/London/Business-Development-Executive--LE--GBS_104801) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Indiana/Business-Development-Executive--LE--GBS_108343) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-02-21.
+This account executive position at Gartner was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

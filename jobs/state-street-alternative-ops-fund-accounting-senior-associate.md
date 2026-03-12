@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hangzhou, Zhejiang, China |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Alternative-Ops-Fund-Accounting--Senior-Associate_R-780480) |
+| Category | Corporate Finance |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Alternative-Ops-Fund-Accounting--Senior-Associate_R-785280) |
 
 ## About This Role
 
-This operations position at State Street was posted on 2026-02-13.
+This corporate finance position at State Street was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

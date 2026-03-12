@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94334) |
+| Location | 4 locations |
+| Category | Data Scientist |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=76152) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-03-03.
+This data scientist position at IBM was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

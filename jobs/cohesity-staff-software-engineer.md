@@ -5,12 +5,12 @@
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Bangalore---India-Office/Senior-Software-Engineer_R01926) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Bangalore---India-Office/Staff-Software-Engineer_R02885) |
 
 ## About This Role
 
-This software engineer position at Cohesity was posted on 2026-02-07.
+This software engineer position at Cohesity was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

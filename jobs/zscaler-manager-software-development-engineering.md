@@ -5,12 +5,12 @@
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Engineering Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/4947258007) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5063565007) |
 
 ## About This Role
 
-This engineering manager position at Zscaler was posted on 2026-02-25.
+This engineering manager position at Zscaler was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

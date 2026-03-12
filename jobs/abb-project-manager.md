@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Perth, Western Australia, Australia |
 | Category | Project Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dubai-Dubai-United-Arab-Emirates/Project-Manager_JR00026076) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Perth-Western-Australia-Australia/Project-Manager_JR00026912) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-03-04.
+This project manager position at ABB was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Kochi, Kerala, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=75839) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98724) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-23.
+This technology / it consulting position at IBM was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

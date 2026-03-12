@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Stamford, Connecticut, United States |
+| Location | Georgia, US |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Account-Executive--LE--GBS_107903-1) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Georgia/Account-Executive--LE--GBS_108127) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-03-04.
+This account executive position at Gartner was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
