@@ -1,16 +1,16 @@
-# Process Delivery Specialist-Procure to Pay at IBM
+# PROCESS DELIVERY SPECIALIST-PROCURE TO PAY at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guangzhou, Guangdong, China |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88375) |
+| Location | Karnataka, IN |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99868) |
 
 ## About This Role
 
-This financial advisory & consulting position at IBM was posted on 2026-03-03.
+This strategy / management consulting position at IBM was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

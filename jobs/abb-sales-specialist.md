@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dongguan, Guangdong, China |
+| Location | Jaipur, Rajasthan, India |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dongguan-Guangdong-China/Sales-Specialist_JR00022364) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Jaipur-Rajasthan-India/Sales-Specialist_JR00027080) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-03-04.
+This account executive position at ABB was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

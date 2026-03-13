@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York, US |
+| Location | Australia |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Manager--Product-Management_R-268601-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/St-Leonards-Australia/Manager--Product-Management_R-272337) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-02-13.
+This product manager position at Mastercard was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

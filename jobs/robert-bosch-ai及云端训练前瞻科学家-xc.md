@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Suzhou, Jiangsu, China |
-| Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112843937-ai-xc) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113075387-ai-xc) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-03-05.
+This ai / llm engineer position at Robert Bosch was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

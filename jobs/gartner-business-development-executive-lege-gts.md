@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Haryana, IN |
+| Location | New York, US |
 | Category | Account Executive |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Business-Development-Executive--LE-GE--GTS_104103) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---New-York/Business-Development-Executive--LE-GE--GTS_107573) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-02-21.
+This account executive position at Gartner was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

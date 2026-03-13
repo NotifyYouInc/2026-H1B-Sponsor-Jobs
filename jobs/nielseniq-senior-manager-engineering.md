@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Canada |
 | Category | Engineering Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109865785-senior-manager-engineering) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113079227-senior-manager-engineering) |
 
 ## About This Role
 
-This engineering manager position at NielsenIQ was posted on 2026-02-18.
+This engineering manager position at NielsenIQ was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

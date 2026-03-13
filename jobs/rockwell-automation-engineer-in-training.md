@@ -1,16 +1,16 @@
-# ENGINEER IN TRAINING at Rockwell Automation
+# Engineer In Training at Rockwell Automation
 
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chennai-India/ENGINEER-IN-TRAINING_R25-10048-1) |
+| Location | Hawthorn, Victoria, Australia |
+| Category | Industrial Automation |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Hawthorn-Victoria-Australia/Engineer-in-Training---Information-Solutions--Western-Australia-_R25-9525) |
 
 ## About This Role
 
-This software engineer position at Rockwell Automation was posted on 2026-02-18.
+This industrial automation position at Rockwell Automation was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

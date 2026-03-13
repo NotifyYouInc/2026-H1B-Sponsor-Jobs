@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Not specified |
 | Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99662) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97100) |
 
 ## About This Role
 
-This account executive position at IBM was posted on 2026-03-05.
+This account executive position at IBM was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

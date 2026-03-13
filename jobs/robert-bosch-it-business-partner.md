@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tamil Nadu, IN |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112587535-it-business-partner) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113085497-it-business-partner) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-03-04.
+This business analyst position at Robert Bosch was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

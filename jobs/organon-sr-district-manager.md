@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Organon](https://scoutify.ai/companies/organon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Wuhan, Hubei, China |
 | Category | Account Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/CHN---Chengdu/Sr-District-Manager_R537484) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/CHN---Hubei---Wuhan/Sr-District-Manager_R537745) |
 
 ## About This Role
 
-This account manager position at Organon was posted on 2026-03-02.
+This account manager position at Organon was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

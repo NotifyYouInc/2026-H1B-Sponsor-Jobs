@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Real-Assets--Fund-Accounting---Administration--Senior-Associate_R-785269) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Atlanta-Georgia/Real-Assets--Fund-Accounting---Administration--Senior-Associate_R-785372-3) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-05.
+This corporate finance position at State Street was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

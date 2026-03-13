@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7594235?gh_jid=7594235) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7675874?gh_jid=7675874) |
 
 ## About This Role
 
-This customer success position at Braze was posted on 2026-02-09.
+This customer success position at Braze was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

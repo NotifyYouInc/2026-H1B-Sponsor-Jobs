@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chengdu, Sichuan, China |
 | Category | Content Marketing |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Chengdu/Scientific-Writer_R2841525) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Chengdu/Scientific-Writer_R2846817) |
 
 ## About This Role
 
-This content marketing position at Sanofi was posted on 2026-02-28.
+This content marketing position at Sanofi was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
