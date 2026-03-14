@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556826705) |
+| Location | 2 locations |
+| Category | AI / ML Research |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556827467) |
 
 ## About This Role
 
-This machine learning engineer position at Microsoft was posted on 2026-03-05.
+This ai / ml research position at Microsoft was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

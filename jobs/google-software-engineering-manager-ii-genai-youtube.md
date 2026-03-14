@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Bruno, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/83669594811572934-software-engineering-manager-ii-genai-youtube?sort_by=date&page=1) |
+| Category | Engineering Manager |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/134978748377113286-software-engineering-manager-ii-genai-youtube?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-13.
+This engineering manager position at Google was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

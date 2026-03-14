@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Alberta, CA |
 | Category | Corporate Finance |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Financial-Planner_R-0000157596) |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/EDSON-Alberta-Canada/Financial-Planner_R-0000162839) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-02-28.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

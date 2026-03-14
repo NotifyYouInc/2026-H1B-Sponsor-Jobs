@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Account Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93318) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100256) |
 
 ## About This Role
 
-This account manager position at IBM was posted on 2026-03-03.
+This account manager position at IBM was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

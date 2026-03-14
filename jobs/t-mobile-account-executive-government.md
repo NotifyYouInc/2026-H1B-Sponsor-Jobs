@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Tennessee, US |
 | Category | Account Executive |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-North-Carolina/Account-Executive--Government_REQ347102-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Franklin-Tennessee/Account-Executive--Government_REQ347968-1) |
 
 ## About This Role
 
-This account executive position at T-Mobile was posted on 2026-02-27.
+This account executive position at T-Mobile was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

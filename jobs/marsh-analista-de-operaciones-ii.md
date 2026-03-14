@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Medellín, Antioquia, Colombia |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Cali---Calle-67/Analista-de-Operaciones-II_R_341708) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Medellin---Poblado/Analista-de-Operaciones-II_R_341195) |
 
 ## About This Role
 
-This business analyst position at Marsh was posted on 2026-03-04.
+This business analyst position at Marsh was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mountain View, California, United States |
+| Location | 2 locations |
 | Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/96001717228708550-strategy-and-operations-lead?sort_by=date&page=1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/140774274167120582-strategy-and-operations-lead?sort_by=date&page=1) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-02-13.
+This operations position at Google was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

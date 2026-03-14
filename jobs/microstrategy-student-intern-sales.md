@@ -6,7 +6,7 @@
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Development |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000113079507-student-intern-sales) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000113283277-student-intern-sales) |
 
 ## About This Role
 

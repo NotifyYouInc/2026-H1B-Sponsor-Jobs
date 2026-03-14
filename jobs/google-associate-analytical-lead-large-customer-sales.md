@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Account Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/128539872993387206-associate-analytical-lead-large-customer-sales?sort_by=date&page=1) |
+| Category | Account Executive |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/86449603661963974-associate-analytical-lead-large-customer-sales?sort_by=date&page=1) |
 
 ## About This Role
 
-This account manager position at Google was posted on 2026-02-27.
+This account executive position at Google was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

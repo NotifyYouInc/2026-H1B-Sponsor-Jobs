@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Champaign, Illinois, United States |
+| Location | Providence, Rhode Island, United States |
 | Category | Business Development |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/IL-Champaign/Solar-Appointment-Setter_R59227) |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/RI-Providence/Solar-Appointment-Setter_R59659) |
 
 ## About This Role
 
-This business development position at Sunrun was posted on 2026-03-04.
+This business development position at Sunrun was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chesapeake, Virginia, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chesapeake/Program-Analyst-Associate_RQ215203-1) |
+| Location | Maryland, US |
+| Category | Program Manager |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-California/Program-Analyst-Associate_RQ216070-1) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-02-21.
+This program manager position at General Dynamics Information Technology was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 
