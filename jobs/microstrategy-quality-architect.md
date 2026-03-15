@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000113282730-quality-architect) |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000113289253-quality-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at MicroStrategy was posted on 2026-03-06.
+This technical & solutions architect position at MicroStrategy was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 
