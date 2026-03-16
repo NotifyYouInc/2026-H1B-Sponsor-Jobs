@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Financial Crimes & AML |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-KYC-AML-de-cumplimiento_26941784) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-KYC-AML-de-cumplimiento_26942157) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-02-28.
+This compliance & risk management position at Citigroup was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

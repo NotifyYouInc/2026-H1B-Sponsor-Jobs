@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/SR-ENGINEER--PACKAGE-PRE-STACKING_JR90944) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/SR-ENGINEER--PACKAGE-PRE-STACKING_JR90945) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Micron was posted on 2026-03-06.
+This electrical / hardware engineer position at Micron was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Marketing |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000107523356-marketing-manager) |
+| Location | Istanbul, Istanbul, Turkey |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000113405703-marketing-manager) |
 
 ## About This Role
 
-This marketing position at Informa was posted on 2026-02-05.
+This digital / performance marketing position at Informa was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

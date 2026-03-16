@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556827042) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556827309) |
 
 ## About This Role
 
-This product manager position at Microsoft was posted on 2026-03-07.
+This product manager position at Microsoft was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

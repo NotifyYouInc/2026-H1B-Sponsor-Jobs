@@ -1,16 +1,16 @@
-# Accountant – General Ledger( Japanese Bilingual) at IBM
+# Accountant - General Ledger( Japanese Bilingual) at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93045) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100615) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-02-11.
+This corporate finance position at IBM was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

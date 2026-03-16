@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Customer Success |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Mexico-City-Distrito-Federal-Mexico/HPE-Networking-Account-Manager_1201883) |
+| Category | Account Executive |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Mexico-City-Distrito-Federal-Mexico/HPE-Networking-Account-Manager_1203522-1) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-02-10.
+This account executive position at Hewlett Packard Enterprise was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

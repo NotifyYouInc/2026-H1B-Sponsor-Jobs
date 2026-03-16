@@ -1,0 +1,22 @@
+# Human Resources graduate - Graduate Program 2027 at Acciona
+
+| Field | Details |
+|-------|---------|
+| Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Leadership Development Program |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Melbourne/Human-Resources-graduate---Graduate-Program-2027_20093935) |
+
+## About This Role
+
+This leadership development program position at Acciona was posted on 2026-03-09.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

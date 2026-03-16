@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Operations |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3183514/data-center-operations-manager-data-center-operations) |
+| Location | Hong Kong, Hong Kong |
+| Category | Project Manager |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3199083/data-center-operations-manager-data-center-operations) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-02-18.
+This project manager position at Amazon was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

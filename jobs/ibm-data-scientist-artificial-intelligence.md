@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 4 locations |
-| Category | Data Scientist |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=76152) |
+| Location | Haryana, IN |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99765) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-03-05.
+This ai / llm engineer position at IBM was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

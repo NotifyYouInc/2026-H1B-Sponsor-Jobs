@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Karnataka, IN |
 | Category | Data Scientist |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92746) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100594) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-02-24.
+This data scientist position at IBM was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
