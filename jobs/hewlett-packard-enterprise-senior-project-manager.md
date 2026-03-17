@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Chennai-Tamil-Nadu-India/Senior-Project-Manager_1199288-2) |
+| Location | New South Wales, AU |
+| Category | Project Manager |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Rosebery-New-South-Wales-Australia/Senior-Project-Manager_1202366-1) |
 
 ## About This Role
 
-This operations position at Hewlett Packard Enterprise was posted on 2026-02-06.
+This project manager position at Hewlett Packard Enterprise was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

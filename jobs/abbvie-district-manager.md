@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Changsha, Hunan, China |
 | Category | Sales Leadership |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011957996-district-manager) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012050356-district-manager) |
 
 ## About This Role
 
-This sales leadership position at AbbVie was posted on 2026-03-04.
+This sales leadership position at AbbVie was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

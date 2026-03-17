@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Karnataka, IN |
 | Category | Customer Success |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=85847) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99983) |
 
 ## About This Role
 
-This customer success position at IBM was posted on 2026-02-18.
+This customer success position at IBM was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | India |
 | Category | Program Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Mumbai/Program-Manager_576352-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Program-Manager_570068) |
 
 ## About This Role
 
-This program manager position at Philips was posted on 2026-03-05.
+This program manager position at Philips was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

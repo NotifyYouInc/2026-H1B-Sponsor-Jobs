@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Senior-Analyst-I---Trial-Analytics--Insights---Planning--TAIP-_R1599684) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Senior-Analyst-I---Trial-Analytics--Insights---Planning--TAIP-_R1599686) |
 
 ## About This Role
 
-This business analyst position at Bristol-Myers Squibb was posted on 2026-03-09.
+This business analyst position at Bristol-Myers Squibb was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

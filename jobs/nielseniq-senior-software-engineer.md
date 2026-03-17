@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110086875-senior-software-engineer) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113637117-senior-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at NielsenIQ was posted on 2026-02-19.
+This frontend engineer position at NielsenIQ was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Engineering Manager - QE at Cloudera
+
+| Field | Details |
+|-------|---------|
+| Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | India |
+| Category | Engineering Manager |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Engineering-Manager---QE_260356) |
+
+## About This Role
+
+This engineering manager position at Cloudera was posted on 2026-03-10.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

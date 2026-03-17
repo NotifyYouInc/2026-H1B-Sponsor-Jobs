@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | North Carolina, US |
+| Location | Irving, Texas, United States |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---North-Carolina/Account-Executive--LE-GE--GTS_108298) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Account-Executive--LE-GE--GTS_108466-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-03-04.
+This account executive position at Gartner was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenTable](https://scoutify.ai/companies/opentable?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | San Francisco, California, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8304128002) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8453714002) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at OpenTable was posted on 2026-03-06.
+This talent acquisition / recruiting position at OpenTable was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

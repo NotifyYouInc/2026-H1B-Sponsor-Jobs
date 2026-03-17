@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Subang Jaya, Selangor, Malaysia |
+| Location | Vadodara, Gujarat, India |
 | Category | Project Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108918765-project-manager) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113635586-project-manager) |
 
 ## About This Role
 
-This project manager position at NielsenIQ was posted on 2026-02-12.
+This project manager position at NielsenIQ was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
