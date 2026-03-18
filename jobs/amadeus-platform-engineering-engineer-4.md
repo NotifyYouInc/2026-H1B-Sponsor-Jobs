@@ -5,12 +5,12 @@
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Platform-Engineering-Engineer-4_R33616) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Platform-Engineering-Engineer-4_R33962) |
 
 ## About This Role
 
-This devops engineer position at Amadeus was posted on 2026-03-05.
+This devops engineer position at Amadeus was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

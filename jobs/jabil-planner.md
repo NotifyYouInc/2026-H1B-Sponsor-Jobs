@@ -1,16 +1,16 @@
-# Planner at Jabil
+# PLANNER at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Project Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Shanghai/Planner_J2441619-1) |
+| Location | Maharashtra, IN |
+| Category | Business Analyst |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/PLANNER_J2431415) |
 
 ## About This Role
 
-This project manager position at Jabil was posted on 2026-03-02.
+This business analyst position at Jabil was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

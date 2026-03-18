@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Salesforce-Developer_WD30262068) |
+| Location | Karnataka, IN |
+| Category | Frontend Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Salesforce-Developer_WD30262645) |
 
 ## About This Role
 
-This customer success position at Johnson Controls was posted on 2026-02-23.
+This frontend engineer position at Johnson Controls was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

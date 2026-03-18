@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Technician-1--Equipment-Maintenance_R260947) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Technician-1--Equipment-Maintenance_R260929) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-02-27.
+This electrical / hardware engineer position at Analog Devices was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

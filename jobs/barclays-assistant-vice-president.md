@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Candor-TechSpace-Noida/Assistant-Vice-President_JR-0000091619) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Candor-TechSpace-Noida/Assistant-Vice-President_JR-0000091294) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-02-17.
+This corporate finance position at Barclays was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

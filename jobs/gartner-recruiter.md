@@ -5,12 +5,12 @@
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Fort-Myers-FL/Recruiter_108329-1) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Recruiter_108734-1) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Gartner was posted on 2026-03-03.
+This talent acquisition / recruiting position at Gartner was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

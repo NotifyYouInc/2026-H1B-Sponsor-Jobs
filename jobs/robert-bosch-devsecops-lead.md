@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | Security Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000110308964-devsecops-lead) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113939362-devsecops-lead) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-02-20.
+This security engineer position at Robert Bosch was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

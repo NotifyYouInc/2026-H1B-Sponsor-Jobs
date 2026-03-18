@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Ahmedabad, Gujarat, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Sydney-Australia/Business-Development-Manager_R48785) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Ahmedabad-India/Business-Development-Manager_R47341-1) |
 
 ## About This Role
 
-This engineering manager position at TD Synnex was posted on 2026-03-10.
+This engineering manager position at TD Synnex was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

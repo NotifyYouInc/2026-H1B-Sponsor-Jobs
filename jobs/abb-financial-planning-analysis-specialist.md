@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Karnataka, IN |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning---Analysis-Specialist_JR00025304-1) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning---Analysis-Specialist_JR00027163) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-02-18.
+This corporate finance position at ABB was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 
