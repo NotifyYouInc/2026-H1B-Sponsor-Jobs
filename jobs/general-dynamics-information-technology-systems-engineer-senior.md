@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
-| Category | IT & Systems Administration |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/International/Systems-Engineer-Senior_RQ215139-1) |
+| Location | Virginia, US |
+| Category | DevOps Engineer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Langley-AFB/Systems-Engineer-Senior_RQ216320-1) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-02-20.
+This devops engineer position at General Dynamics Information Technology was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

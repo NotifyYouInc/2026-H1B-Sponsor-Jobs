@@ -5,12 +5,12 @@
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Hyderabad-Telangana-India/Design-Engineer-I_R26_00854) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Hyderabad-Telangana-India/Design-Engineer-I_R26_01023) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Regal Rexnord was posted on 2026-03-02.
+This electrical / hardware engineer position at Regal Rexnord was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

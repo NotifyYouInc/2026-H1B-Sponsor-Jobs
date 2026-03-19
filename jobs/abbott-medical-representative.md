@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | China |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Vietnam---Ho-Chi-Minh-City/Medical-Representative_31141434) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Remote/Medical-Representative_31144495) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-02-24.
+This account executive position at Abbott was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

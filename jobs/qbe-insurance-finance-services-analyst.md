@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Cebu-Philippines/Finance-Services-Analyst_351574) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHL---Alabang/Finance-Services-Analyst_352084) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-03-04.
+This corporate finance position at QBE Insurance was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

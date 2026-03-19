@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000113978143-technologist-asic-development-engineering) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000114292644-technologist-asic-development-engineering) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-03-11.
+This semiconductor / chip design position at SanDisk was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Development & M&A |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Due-Diligence-Associate_R-509834-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Due-Diligence-Associate_R-519602) |
 
 ## About This Role
 
-This corporate development & m&a position at Wells Fargo was posted on 2026-02-27.
+This corporate development & m&a position at Wells Fargo was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

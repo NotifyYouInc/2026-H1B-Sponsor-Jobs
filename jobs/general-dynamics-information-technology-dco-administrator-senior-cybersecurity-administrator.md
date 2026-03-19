@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Doral, Florida, United States |
+| Location | Not specified |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Doral/DCO-Administrator-Senior---Cybersecurity-Administrator_RQ215790-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/International/DCO-Administrator-Senior---Cybersecurity-Administrator_RQ216290-1) |
 
 ## About This Role
 
-This soc & incident response position at General Dynamics Information Technology was posted on 2026-03-02.
+This soc & incident response position at General Dynamics Information Technology was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

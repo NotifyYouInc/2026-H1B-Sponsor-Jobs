@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dynata](https://scoutify.ai/companies/dynata?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Davao, Davao Region, Philippines |
+| Location | Philippines |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Philippines-Davao/HR-Intern_REQ13021) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Philippines-Cebu/HR-Intern_REQ13051) |
 
 ## About This Role
 
-This human resources / people ops position at Dynata was posted on 2026-03-10.
+This human resources / people ops position at Dynata was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

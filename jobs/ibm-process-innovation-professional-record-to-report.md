@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | Corporate Finance |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95474) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100976) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-02-24.
+This corporate finance position at IBM was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

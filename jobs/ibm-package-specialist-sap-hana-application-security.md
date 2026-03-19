@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Kochi, Kerala, India |
 | Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99756) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102431) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-03-09.
+This security engineer position at IBM was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

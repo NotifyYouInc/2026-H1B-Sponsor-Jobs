@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dalian, Liaoning, China |
-| Category | Project Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3201770/transportation-specialist-transportation-noc-outbound) |
+| Category | Business Analyst |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3203027/transportation-specialist-transportation-noc-outbound) |
 
 ## About This Role
 
-This project manager position at Amazon was posted on 2026-03-11.
+This business analyst position at Amazon was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96846) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102302) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-02-27.
+This business analyst position at IBM was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

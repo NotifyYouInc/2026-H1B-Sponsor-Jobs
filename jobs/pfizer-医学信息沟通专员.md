@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Changsha, Hunan, China |
-| Category | Compliance & Risk Management |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Hunan---Changsha/_4952150) |
+| Location | Beijing, Beijing, China |
+| Category | Marketing |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Beijing---Beijing/_4953701) |
 
 ## About This Role
 
-This compliance & risk management position at Pfizer was posted on 2026-02-26.
+This marketing position at Pfizer was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
