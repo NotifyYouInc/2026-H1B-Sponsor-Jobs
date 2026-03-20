@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shijiazhuang, Hebei, China |
-| Category | Customer Success |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3402-B-2301-Le-Tai-Center-Building-No39-Zhongshan-Dong-Road-ChangAn-District-Shijiazhuang-HebeiChina/_20150554) |
+| Location | Nanjing, Jiangsu, China |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3273-Room-605-6Fsuning-huigu-No-272-jiqingmen-avenue--Gulou-District-Nanjing-China/_20154825) |
 
 ## About This Role
 
-This customer success position at Otis was posted on 2026-02-28.
+This electrical / hardware engineer position at Otis was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

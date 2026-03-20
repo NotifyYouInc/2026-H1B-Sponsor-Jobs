@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Project Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Mexico-City/Project-Manager_R-054216) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bogota/Project-Manager_R-054225) |
 
 ## About This Role
 
-This project manager position at Red Hat was posted on 2026-02-10.
+This project manager position at Red Hat was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | West Java, ID |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000112084957-controller) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000114531107-controller) |
 
 ## About This Role
 
-This corporate finance position at Avery Dennison Corporation was posted on 2026-03-02.
+This corporate finance position at Avery Dennison Corporation was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

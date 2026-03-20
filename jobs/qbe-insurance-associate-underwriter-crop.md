@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Council Bluffs, Iowa, United States |
+| Location | Missoula, Montana, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Council-Bluffs-IA-USA/Associate-Underwriter---Crop_351554) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Missoula-MT-USA/Associate-Underwriter---Crop_352343) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-03-07.
+This corporate finance position at QBE Insurance was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

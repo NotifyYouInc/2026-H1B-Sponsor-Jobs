@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sejong, Sejong-si, South Korea |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112582317-junior-hr-coordinator) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114538167-junior-hr-coordinator) |
 
 ## About This Role
 
-This human resources / people ops position at Robert Bosch was posted on 2026-03-04.
+This human resources / people ops position at Robert Bosch was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

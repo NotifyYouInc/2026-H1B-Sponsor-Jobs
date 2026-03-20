@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York, US |
+| Location | Pennsylvania, US |
 | Category | Account Executive |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---New-York/Account-Executive--LE--GTS_107564) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Pennsylvania/Account-Executive--LE--GTS_106329) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-03-07.
+This account executive position at Gartner was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

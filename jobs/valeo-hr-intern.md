@@ -5,12 +5,12 @@
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/HR-Intern_REQ2026069949) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/HR-Intern_REQ2026070400) |
 
 ## About This Role
 
-This human resources / people ops position at Valeo was posted on 2026-02-20.
+This human resources / people ops position at Valeo was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

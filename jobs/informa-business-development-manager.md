@@ -1,16 +1,16 @@
-# Business Development Manager at Informa
+# Business Development Manager  at Informa
 
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Business Development |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108211150-business-development-manager) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Engineering Manager |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000114532757-business-development-manager) |
 
 ## About This Role
 
-This business development position at Informa was posted on 2026-02-09.
+This engineering manager position at Informa was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

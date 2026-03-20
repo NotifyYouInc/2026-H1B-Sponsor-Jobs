@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Haryana, IN |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Ops-Accounting-Analyst-1_26945025) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Ops-Accounting-Analyst-1_26945029) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-11.
+This corporate finance position at Citigroup was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

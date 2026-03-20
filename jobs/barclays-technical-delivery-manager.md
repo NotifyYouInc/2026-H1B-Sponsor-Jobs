@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Project Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/DLF-IT-Park-Chennai/Technical-Delivery-Manager_JR-0000086729) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Technical-Delivery-Manager_JR-0000082518) |
 
 ## About This Role
 
-This project manager position at Barclays was posted on 2026-02-20.
+This project manager position at Barclays was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109318946-senior-security-architect) |
+| Location | Salt Lake City, Utah, United States |
+| Category | Security Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000114534847-senior-security-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at CyberArk Software was posted on 2026-02-13.
+This security engineer position at CyberArk Software was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Consultant_R145385-2) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Consultant_R151448-2) |
 
 ## About This Role
 
-This business analyst position at Northern Trust was posted on 2026-03-09.
+This technology / it consulting position at Northern Trust was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

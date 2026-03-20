@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Ayala-Makati-City-Philippines/Auditor_R000068987) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Ayala-Makati-City-Philippines/Auditor_R000068522-1) |
 
 ## About This Role
 
-This corporate finance position at Chevron was posted on 2026-02-21.
+This compliance & risk management position at Chevron was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

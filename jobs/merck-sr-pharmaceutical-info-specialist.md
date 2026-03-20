@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | Guiyang, Guizhou, China |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Jiangsu---Suzhou/Sr-Pharmaceutical-Info-Specialist_R387959-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Guizhou--Guiyang/Sr-Pharmaceutical-Info-Specialist_R389324-1) |
 
 ## About This Role
 
-This account executive position at Merck was posted on 2026-03-04.
+This account executive position at Merck was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

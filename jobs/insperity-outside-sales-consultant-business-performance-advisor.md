@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Insperity](https://scoutify.ai/companies/insperity?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Miami, Florida, United States |
-| Category | Sales |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Miami-FL/Outside-Sales-Consultant---Business-Performance-Advisor_JR102215) |
+| Location | Chicago, Illinois, United States |
+| Category | Account Executive |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Chicago-IL/Outside-Sales-Consultant---Business-Performance-Advisor_JR102338) |
 
 ## About This Role
 
-This sales position at Insperity was posted on 2026-02-13.
+This account executive position at Insperity was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

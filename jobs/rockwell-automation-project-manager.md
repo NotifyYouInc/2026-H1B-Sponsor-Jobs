@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Xi’an, Shaanxi, China |
 | Category | Project Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-New-Delhi-Noida/Project-Manager_R25-7033-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Xian-China/Project-Manager_R26-976) |
 
 ## About This Role
 
-This project manager position at Rockwell Automation was posted on 2026-02-09.
+This project manager position at Rockwell Automation was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

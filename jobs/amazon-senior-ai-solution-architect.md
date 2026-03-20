@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Developer Relations |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3201756/senior-ai-solution-architect) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204034/senior-ai-solution-architect) |
 
 ## About This Role
 
-This developer relations position at Amazon was posted on 2026-03-11.
+This technical & solutions architect position at Amazon was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

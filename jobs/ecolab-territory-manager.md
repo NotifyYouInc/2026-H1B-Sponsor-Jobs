@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New South Wales, AU |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Account Executive |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/AUS---New-South-Wales---Macquarie-Park/Territory-Manager_R00287963) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/TWN---Taipei---Taipei/Territory-Manager_R00285376) |
 
 ## About This Role
 
-This account executive position at Ecolab was posted on 2026-03-06.
+This account executive position at Ecolab was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

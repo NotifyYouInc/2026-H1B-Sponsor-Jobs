@@ -1,16 +1,16 @@
-# Accounts Receivables Fresh Graduates at IBM
+# Accounts Receivables - Fresh Graduates at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98182) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102375) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-03-10.
+This corporate finance position at IBM was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
