@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Business Development |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100861) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103360) |
 
 ## About This Role
 
-This business development position at IBM was posted on 2026-03-06.
+This business development position at IBM was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

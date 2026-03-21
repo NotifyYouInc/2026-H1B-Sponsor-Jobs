@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
-| Category | Business Development |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100041) |
+| Location | Atlanta, Georgia, United States |
+| Category | Account Executive |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102996) |
 
 ## About This Role
 
-This business development position at IBM was posted on 2026-03-05.
+This account executive position at IBM was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

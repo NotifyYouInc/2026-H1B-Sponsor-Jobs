@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | British Columbia, CA |
+| Location | Lethbridge, Alberta, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PRINCE-RUPERT-British-Columbia-Canada/Financial-Advisor_R-0000162582) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/LETHBRIDGE-Alberta-Canada/Financial-Advisor_R-0000163836-1) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-03-06.
+This corporate finance position at Royal Bank of Canada was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

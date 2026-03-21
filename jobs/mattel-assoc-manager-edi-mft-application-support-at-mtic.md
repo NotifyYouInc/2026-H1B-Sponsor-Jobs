@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical & Solutions Architect |
+| Category | Software Engineer |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000114538427-assoc-manager-edi-mft-application-support-at-mtic) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000114762486-assoc-manager-edi-mft-application-support-at-mtic) |
 
 ## About This Role
 
-This technical & solutions architect position at Mattel was posted on 2026-03-13.
+This software engineer position at Mattel was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

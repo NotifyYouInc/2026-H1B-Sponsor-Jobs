@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Lead-Application-Engineer_R53298) |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PUNE-05/Lead-Application-Engineer_R53789) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-03-11.
+This software engineer position at Cadence Design Systems was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

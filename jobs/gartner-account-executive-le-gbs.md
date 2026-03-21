@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Illinois, US |
 | Category | Account Executive |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Sydney/Account-Executive--LE--GBS_108028-1) |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Michigan/Account-Executive--LE--GBS_108608-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-03-07.
+This account executive position at Gartner was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Half](https://scoutify.ai/companies/robert-half?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Las Vegas, Nevada, United States |
-| Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://roberthalf.wd1.myworkdayjobs.com/RobertHalfStaffingCareers/job/LAS-VEGAS/Talent-Manager--Administrative---Customer-Support-_JR-259535) |
+| Location | Beaverton, Oregon, United States |
+| Category | Talent Acquisition / Recruiting |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://roberthalf.wd1.myworkdayjobs.com/RobertHalfStaffingCareers/job/BEAVERTON/Talent-Manager--Administrative---Customer-Support-_JR-259837) |
 
 ## About This Role
 
-This customer success position at Robert Half was posted on 2026-02-06.
+This talent acquisition / recruiting position at Robert Half was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

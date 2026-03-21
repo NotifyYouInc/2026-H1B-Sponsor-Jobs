@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556843294) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556824878) |
 
 ## About This Role
 
