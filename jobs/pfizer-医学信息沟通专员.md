@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Shenyang, Liaoning, China |
 | Category | Marketing |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Guangdong---Guangzhou/_4952593) |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Liaoning---Shenyang/_4952088) |
 
 ## About This Role
 
-This marketing position at Pfizer was posted on 2026-03-13.
+This marketing position at Pfizer was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

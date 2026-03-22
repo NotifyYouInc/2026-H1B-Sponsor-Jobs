@@ -1,0 +1,22 @@
+# Manager, Food & Beverage | Legends at University of Notre Dame
+
+| Field | Details |
+|-------|---------|
+| Company | [University of Notre Dame](https://scoutify.ai/companies/universityofnotredame?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | United States |
+| Category | Operations |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990012151766-manager-food-beverage-legends) |
+
+## About This Role
+
+This operations position at University of Notre Dame was posted on 2026-03-14.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

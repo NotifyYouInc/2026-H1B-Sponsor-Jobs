@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Providence, Rhode Island, United States |
+| Location | 2 locations |
 | Category | Business Development |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/RI-Providence/Solar-Appointment-Setter_R59659) |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/TX-Rockwall/Solar-Appointment-Setter_R59459) |
 
 ## About This Role
 
-This business development position at Sunrun was posted on 2026-03-07.
+This business development position at Sunrun was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 
