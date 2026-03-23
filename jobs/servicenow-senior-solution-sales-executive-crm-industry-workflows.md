@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111002715-senior-solution-sales-executive-crm-industry-workflows) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000114891678-senior-solution-sales-executive-crm-industry-workflows) |
 
 ## About This Role
 
-This account executive position at ServiceNow was posted on 2026-02-24.
+This account executive position at ServiceNow was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

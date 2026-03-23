@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tainan, Taiwan, Taiwan |
-| Category | ESG / Sustainability |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Tainan-Taiwan/ERC-Shift--Engineer_JR85919) |
+| Category | Operations |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Tainan-Taiwan/ERC-Shift--Engineer_JR94601-1) |
 
 ## About This Role
 
-This esg / sustainability position at Micron was posted on 2026-02-25.
+This operations position at Micron was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

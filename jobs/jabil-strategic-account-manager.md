@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | 2 locations |
 | Category | Account Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/MEX---Guadalajara---Building-2/Strategic-Account-Manager_J2442646-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Strategic-Account-Manager_J2443266) |
 
 ## About This Role
 
-This account manager position at Jabil was posted on 2026-03-10.
+This account manager position at Jabil was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

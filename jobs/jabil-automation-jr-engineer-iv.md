@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Maharashtra, IN |
 | Category | Industrial Automation |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Automation-Jr-Engineer-IV_J2442463) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Automation-Jr-Engineer-IV_J2443335) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-03-09.
+This industrial automation position at Jabil was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

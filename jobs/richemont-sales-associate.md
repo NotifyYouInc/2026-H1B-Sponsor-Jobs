@@ -1,16 +1,16 @@
-# Sales Associate at Richemont
+# SALES ASSOCIATE at Richemont
 
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | China |
 | Category | Channel / Partner Sales |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/TAIPEI/Sales-Associate_JR126375) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/HONG-KONG-SAR-China/SALES-ASSOCIATE_JR126232) |
 
 ## About This Role
 
-This channel / partner sales position at Richemont was posted on 2026-03-12.
+This channel / partner sales position at Richemont was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000113975257-senior-engineer-electrical-ii-rec) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000114889407-senior-engineer-electrical-ii-rec) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Ramboll was posted on 2026-03-11.
+This electrical / hardware engineer position at Ramboll was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

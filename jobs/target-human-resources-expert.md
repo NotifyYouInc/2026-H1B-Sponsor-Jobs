@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Santa Fe Springs, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/8701-Six-Forks-Rd-RaleighNC-27615-2968/Human-Resources-Expert_R0000432227) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/10621-Carmenita-Rd-Santa-Fe-SpringsCA-90670-4017/Human-Resources-Expert_R0000432419) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-03-13.
+This human resources / people ops position at Target was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
