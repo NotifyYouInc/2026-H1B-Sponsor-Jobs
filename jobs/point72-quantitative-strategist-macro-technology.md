@@ -1,16 +1,16 @@
-# Quantitative Strategist, Macro Technology at Point72
+# Quantitative Strategist, Macro Technology  at Point72
 
 | Field | Details |
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Singapore |
 | Category | Quant Developer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8303337002?gh_jid=8303337002) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8408286002?gh_jid=8408286002) |
 
 ## About This Role
 
-This quant developer position at Point72 was posted on 2026-02-09.
+This quant developer position at Point72 was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

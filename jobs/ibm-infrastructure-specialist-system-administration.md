@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | IT & Systems Administration |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102366) |
+| Location | Pune, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103427) |
 
 ## About This Role
 
-This it & systems administration position at IBM was posted on 2026-03-12.
+This devops engineer position at IBM was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

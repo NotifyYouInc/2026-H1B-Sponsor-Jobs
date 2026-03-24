@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangkok-Thailand/Sales-Manager_JR00025577-1) |
+| Location | Shaanxi, CN |
+| Category | Sales Leadership |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xi-An-Shaanxi-China/Sales-Manager_JR00027033) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-03-10.
+This sales leadership position at ABB was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

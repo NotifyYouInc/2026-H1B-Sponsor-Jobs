@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Karnataka, IN |
 | Category | Customer Success |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Sr-Tech-Svc-Desk---Level-2_REQ571304) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Sr-Tech-Svc-Desk---Level-2_REQ571918) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-03-06.
+This customer success position at Unisys was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

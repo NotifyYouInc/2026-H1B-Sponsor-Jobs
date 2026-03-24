@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Minato City, Tokyo, Japan |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011887856-manager-parm) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012175556-manager-parm) |
 
 ## About This Role
 
-This compliance & risk management position at AbbVie was posted on 2026-02-27.
+This compliance & risk management position at AbbVie was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

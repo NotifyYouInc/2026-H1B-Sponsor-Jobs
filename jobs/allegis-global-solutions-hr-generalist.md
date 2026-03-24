@@ -5,12 +5,12 @@
 | Company | [Allegis Global Solutions](https://scoutify.ai/companies/allegisglobalsolutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000114539797-hr-generalist) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000115127310-hr-generalist) |
 
 ## About This Role
 
-This human resources / people ops position at Allegis Global Solutions was posted on 2026-03-13.
+This human resources / people ops position at Allegis Global Solutions was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

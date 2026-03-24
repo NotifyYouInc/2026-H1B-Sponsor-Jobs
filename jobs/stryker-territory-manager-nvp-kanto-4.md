@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tokyo-Japan/Territory-Manager--NVP-Kanto-4_R558126) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tokyo-Japan/Territory-Manager--NVP-Kanto-4_R558127) |
 
 ## About This Role
 
-This account executive position at Stryker was posted on 2026-02-24.
+This account executive position at Stryker was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

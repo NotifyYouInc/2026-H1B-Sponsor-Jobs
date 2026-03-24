@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/IP-Design-Verification-Engineer_JR0281644) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/IP-Design-Verification-Engineer_JR0281904-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-03-13.
+This semiconductor / chip design position at Intel was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

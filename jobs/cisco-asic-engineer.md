@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/ASIC-Engineer_2008268-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/ASIC-Engineer_2008258) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cisco was posted on 2026-02-27.
+This semiconductor / chip design position at Cisco was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

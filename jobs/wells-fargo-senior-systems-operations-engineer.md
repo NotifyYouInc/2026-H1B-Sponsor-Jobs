@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Systems-Operations-Engineer_R-524983) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Systems-Operations-Engineer_R-529497) |
 
 ## About This Role
 
-This it & systems administration position at Wells Fargo was posted on 2026-03-06.
+This it & systems administration position at Wells Fargo was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

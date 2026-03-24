@@ -1,16 +1,16 @@
-# Associate Fraud & claims Operations Representative at Wells Fargo
+# Associate Fraud & Claims Operations Representative at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Financial Crimes & AML |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Associate-Fraud---claims-Operations-Representative_R-526634-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Compliance & Risk Management |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Associate-Fraud---Claims-Operations-Representative_R-528932) |
 
 ## About This Role
 
-This financial crimes & aml position at Wells Fargo was posted on 2026-03-12.
+This compliance & risk management position at Wells Fargo was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

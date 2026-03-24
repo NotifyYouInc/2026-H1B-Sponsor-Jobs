@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Santa Fe Springs, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/10621-Carmenita-Rd-Santa-Fe-SpringsCA-90670-4017/Human-Resources-Expert_R0000432419) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1302-S-La-Brea-Ave-Ste-A-Los-AngelesCA-90019-2909/Human-Resources-Expert_R0000432521) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-03-16.
+This human resources / people ops position at Target was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

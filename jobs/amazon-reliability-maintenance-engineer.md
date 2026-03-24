@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Surat, Gujarat, India |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3196712/reliability-maintenance-engineer) |
+| Location | Karnataka, IN |
+| Category | Industrial Automation |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3206322/reliability-maintenance-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-03-05.
+This industrial automation position at Amazon was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

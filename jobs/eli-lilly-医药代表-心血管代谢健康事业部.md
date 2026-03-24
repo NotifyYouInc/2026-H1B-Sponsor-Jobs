@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Baotou, Inner Mongolia, China |
 | Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Bei-Jing-/-_R-101869) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Bao-Tou-/-_R-101972) |
 
 ## About This Role
 
-This account executive position at Eli Lilly was posted on 2026-03-03.
+This account executive position at Eli Lilly was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

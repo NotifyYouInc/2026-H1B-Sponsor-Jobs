@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Thailand---Bangkok/Account-Executive---UPC_31144701) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Thailand---Bangkok/Account-Executive---UPC_31144514) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-03-13.
+This account executive position at Abbott was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

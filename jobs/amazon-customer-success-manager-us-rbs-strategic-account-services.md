@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3184567/customer-success-manager-us-rbs-strategic-account-services) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3206298/customer-success-manager-us-rbs-strategic-account-services) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-02-19.
+This customer success position at Amazon was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

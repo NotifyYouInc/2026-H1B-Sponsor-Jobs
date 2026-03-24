@@ -1,16 +1,16 @@
-# Business Development Executive, MSE GTS at Gartner
+# Business Development Executive, MSE, GTS at Gartner
 
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Seoul, Seoul, South Korea |
 | Category | Account Executive |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Business-Development-Executive--MSE-GTS_108702) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Seoul/Business-Development-Executive--MSE--GTS_108033-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-03-07.
+This account executive position at Gartner was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

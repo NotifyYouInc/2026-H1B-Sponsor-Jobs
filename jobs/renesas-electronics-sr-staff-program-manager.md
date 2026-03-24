@@ -1,16 +1,16 @@
-# Sr Staff Program Manager at Renesas Electronics
+# Sr Staff, Program Manager  at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Program Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000110310225-sr-staff-program-manager) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000115136897-sr-staff-program-manager) |
 
 ## About This Role
 
-This program manager position at Renesas Electronics was posted on 2026-02-20.
+This program manager position at Renesas Electronics was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

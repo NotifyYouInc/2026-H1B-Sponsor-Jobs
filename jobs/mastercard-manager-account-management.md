@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guatemala |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Account Manager |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Guatemala/Manager--Account-Management_R-273084-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Tokyo-Japan/Manager--Account-Management_R-272631) |
 
 ## About This Role
 
-This account manager position at Mastercard was posted on 2026-03-14.
+This account manager position at Mastercard was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

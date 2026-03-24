@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Singapore, Singapore |
 | Category | Account Executive |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Territory-Account-Executive_JR331452) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Territory-Account-Executive_JR332368) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-03-14.
+This account executive position at Salesforce was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

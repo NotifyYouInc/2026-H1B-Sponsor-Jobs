@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Missouri, US |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sao-Paulo/Sales-Account-Manager_R-055040-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-MO/Sales-Account-Manager_R-055509-1) |
 
 ## About This Role
 
-This account executive position at Red Hat was posted on 2026-03-04.
+This account executive position at Red Hat was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

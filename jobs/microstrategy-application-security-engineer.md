@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Virginia, US |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000112581288-application-security-engineer) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000115134087-application-security-engineer) |
 
 ## About This Role
 
-This security engineer position at MicroStrategy was posted on 2026-03-04.
+This security engineer position at MicroStrategy was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

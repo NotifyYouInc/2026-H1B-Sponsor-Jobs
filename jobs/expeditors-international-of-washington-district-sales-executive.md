@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Johor Bahru, Johor, Malaysia |
 | Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000112078247-district-sales-executive) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000115135237-district-sales-executive) |
 
 ## About This Role
 
-This account executive position at Expeditors International of Washington was posted on 2026-03-02.
+This account executive position at Expeditors International of Washington was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
