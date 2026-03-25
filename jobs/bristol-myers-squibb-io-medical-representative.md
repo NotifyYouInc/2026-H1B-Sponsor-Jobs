@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | China |
+| Location | Tianjin, Tianjin, China |
 | Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Field---China---CN/IO-Medical-Representative_R1598523) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Tianjin---CN/IO-Medical-Representative_R1600277) |
 
 ## About This Role
 
-This account executive position at Bristol-Myers Squibb was posted on 2026-03-02.
+This account executive position at Bristol-Myers Squibb was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

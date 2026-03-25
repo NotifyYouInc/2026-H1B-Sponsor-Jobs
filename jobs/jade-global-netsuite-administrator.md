@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | IT & Systems Administration |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/NetSuite-Administrator_R-104828) |
+| Category | Technical Writer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/NetSuite-Administrator_R-105018) |
 
 ## About This Role
 
-This it & systems administration position at Jade Global was posted on 2026-02-17.
+This technical writer position at Jade Global was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

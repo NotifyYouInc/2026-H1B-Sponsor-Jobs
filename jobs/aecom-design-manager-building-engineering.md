@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brisbane, Queensland, Australia |
-| Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000113402847-design-manager-building-engineering) |
+| Location | 3 locations |
+| Category | Project Manager |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000115362077-design-manager-building-engineering) |
 
 ## About This Role
 
-This business analyst position at AECOM was posted on 2026-03-09.
+This project manager position at AECOM was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

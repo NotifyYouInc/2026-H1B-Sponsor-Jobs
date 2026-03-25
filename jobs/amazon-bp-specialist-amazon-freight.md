@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3197953/b-p-specialist-amazon-freight) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3207506/b-p-specialist-amazon-freight) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-06.
+This business analyst position at Amazon was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

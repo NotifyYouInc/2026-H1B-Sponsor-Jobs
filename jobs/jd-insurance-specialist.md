@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jd](https://scoutify.ai/companies/jd?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | China |
-| Category | Business Development |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/Hong-Kong-SAR/Insurance-Specialist_JR101503) |
+| Location | Not specified |
+| Category | Channel / Partner Sales |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/Hong-Kong-SAR/Insurance-Specialist_JR102056) |
 
 ## About This Role
 
-This business development position at Jd was posted on 2026-02-28.
+This channel / partner sales position at Jd was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

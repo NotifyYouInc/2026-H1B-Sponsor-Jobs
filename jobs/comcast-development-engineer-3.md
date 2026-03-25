@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R431857) |
+| Category | Software Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R432853) |
 
 ## About This Role
 
-This frontend engineer position at Comcast was posted on 2026-03-17.
+This software engineer position at Comcast was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

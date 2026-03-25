@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000113084871-fincrime-operations-team-lead-rfi) |
+| Category | Financial Crimes & AML |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000115370816-fincrime-operations-team-lead-rfi) |
 
 ## About This Role
 
-This compliance & risk management position at WISE was posted on 2026-03-06.
+This financial crimes & aml position at WISE was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

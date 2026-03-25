@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | Palmerston North, Manawatu-Wanganui, New Zealand |
 | Category | Account Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/AUS---Western-Australia---Bentley/Account-Manager_R00286369) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/NZL---Manawatu-Wanganui---Palmerston-North/Account-Manager_R00289016) |
 
 ## About This Role
 
-This account manager position at Ecolab was posted on 2026-02-19.
+This account manager position at Ecolab was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

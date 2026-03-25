@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | Solutions Architect |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91032) |
+| Location | Kolkata, West Bengal, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102677) |
 
 ## About This Role
 
-This solutions architect position at IBM was posted on 2026-02-05.
+This technology / it consulting position at IBM was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

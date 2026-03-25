@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000112838677-sales-director-banking-financial-services) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000115359347-sales-director-banking-financial-services) |
 
 ## About This Role
 
-This account executive position at Endava was posted on 2026-03-05.
+This account executive position at Endava was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

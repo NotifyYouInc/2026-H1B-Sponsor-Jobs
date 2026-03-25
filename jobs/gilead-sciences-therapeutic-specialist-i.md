@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gilead Sciences](https://scoutify.ai/companies/gilead-sciences?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Shenyang, Liaoning, China |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/China---Jinhua/Therapeutic-Specialist-I_R0050961-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/China---Shenyang/Therapeutic-Specialist-I_R0051136-1) |
 
 ## About This Role
 
-This account executive position at Gilead Sciences was posted on 2026-03-13.
+This account executive position at Gilead Sciences was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

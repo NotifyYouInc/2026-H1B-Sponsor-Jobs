@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102518) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103258) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-03-13.
+This corporate finance position at IBM was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

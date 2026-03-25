@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Haryana, IN |
 | Category | Frontend Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99569) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99372) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-03-17.
+This frontend engineer position at IBM was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

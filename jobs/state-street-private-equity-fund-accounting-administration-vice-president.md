@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 6 locations |
+| Location | 4 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Private-Equity--Fund-Accounting---Administration--Vice-President_R-785646) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/BOSTON/Private-Equity--Fund-Accounting---Administration--Vice-President_R-786167-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-11.
+This corporate finance position at State Street was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Performance-Engineer_JR-0000093380-1) |
+| Category | Software Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Performance-Engineer_JR-0000093642) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-03-16.
+This software engineer position at Barclays was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

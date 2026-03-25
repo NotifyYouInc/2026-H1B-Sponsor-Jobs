@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Operations |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113633678-capability-catalyst) |
+| Category | Business Analyst |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115366818-capability-catalyst) |
 
 ## About This Role
 
-This operations position at Robert Bosch was posted on 2026-03-10.
+This business analyst position at Robert Bosch was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
