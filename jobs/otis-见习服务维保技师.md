@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nanjing, Jiangsu, China |
+| Location | Chengdu, Sichuan, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3273-Room-605-6Fsuning-huigu-No-272-jiqingmen-avenue--Gulou-District-Nanjing-China/_20154825) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3386-Room-1001-1003-10th-Floor-Mingyu-Financial-Plaza-35-Dongdajie-Zidou-Section-Jinjiang-District-Chengdu-Sichuan-China/_20152193) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Otis was posted on 2026-03-13.
+This electrical / hardware engineer position at Otis was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

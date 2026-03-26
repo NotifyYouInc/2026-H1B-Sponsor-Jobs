@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Tianjin, Tianjin, China |
 | Category | Industrial Automation |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Automation-Engineer_R0000353665) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Automation-Engineer_R0000358048) |
 
 ## About This Role
 
-This industrial automation position at Caterpillar was posted on 2026-03-02.
+This industrial automation position at Caterpillar was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

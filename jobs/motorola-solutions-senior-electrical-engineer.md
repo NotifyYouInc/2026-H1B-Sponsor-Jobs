@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Malaysia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Senior-Electrical-Engineer_R62416) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Senior-Electrical-Engineer_R61665) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Motorola Solutions was posted on 2026-02-23.
+This electrical / hardware engineer position at Motorola Solutions was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

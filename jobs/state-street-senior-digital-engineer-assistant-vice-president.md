@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Senior-Digital-Engineer---Assistant-Vice-President_R-784914) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Senior-Digital-Engineer---Assistant-Vice-President_R-786289) |
 
 ## About This Role
 
-This devops engineer position at State Street was posted on 2026-03-03.
+This devops engineer position at State Street was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

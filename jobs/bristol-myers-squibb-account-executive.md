@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | China |
 | Category | Account Executive |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Beijing---CN/Account-Executive_R1600273) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Field---China---CN/Account-Executive_R1600274) |
 
 ## About This Role
 
-This account executive position at Bristol-Myers Squibb was posted on 2026-03-18.
+This account executive position at Bristol-Myers Squibb was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

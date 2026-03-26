@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Topgolf](https://scoutify.ai/companies/topgolf?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rogers, Arkansas, United States |
-| Category | Account Manager |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://topgolf.wd501.myworkdayjobs.com/topgolfcareers/job/TG---Venue---Rogers/Sales-Account-Manager_JR2023-18578) |
+| Location | Salt Lake City, Utah, United States |
+| Category | Account Executive |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://topgolf.wd501.myworkdayjobs.com/topgolfcareers/job/TG---Venue---Salt-Lake-City/Sales-Account-Manager_JR2023-19322) |
 
 ## About This Role
 
-This account manager position at Topgolf was posted on 2026-02-21.
+This account executive position at Topgolf was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000114273649-ai-delivery-lead) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000115582717-ai-delivery-lead) |
 
 ## About This Role
 
-This technology / it consulting position at SIA was posted on 2026-03-12.
+This technology / it consulting position at SIA was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

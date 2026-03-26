@@ -1,16 +1,16 @@
-# Account Executive - Talent Solutions at LinkedIn
+# Account Executive, Talent Solutions at LinkedIn
 
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Shanghai, Shanghai, China |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000111529455-account-executive-talent-solutions) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115583197-account-executive-talent-solutions) |
 
 ## About This Role
 
-This account executive position at LinkedIn was posted on 2026-02-26.
+This account executive position at LinkedIn was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

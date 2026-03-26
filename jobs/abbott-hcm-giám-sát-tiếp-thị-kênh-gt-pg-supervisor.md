@@ -1,0 +1,22 @@
+# HCM - Giám sát Tiếp Thị kênh GT (PG Supervisor) at Abbott
+
+| Field | Details |
+|-------|---------|
+| Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Biên Hòa, Dong Nai, Vietnam |
+| Category | Account Manager |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Vietnam---Bien-Hoa/HCM---Gim-st-Tip-Th-knh-GT--PG-Supervisor-_31145090) |
+
+## About This Role
+
+This account manager position at Abbott was posted on 2026-03-19.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012024086-associate-director-finance) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012215806-associate-director-finance) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-03-06.
+This corporate finance position at AbbVie was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Palmerston North, Manawatu-Wanganui, New Zealand |
+| Location | Queensland, AU |
 | Category | Account Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/NZL---Manawatu-Wanganui---Palmerston-North/Account-Manager_R00289016) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/AUS---Queensland---Darra/Account-Manager_R00286919) |
 
 ## About This Role
 
-This account manager position at Ecolab was posted on 2026-03-18.
+This account manager position at Ecolab was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

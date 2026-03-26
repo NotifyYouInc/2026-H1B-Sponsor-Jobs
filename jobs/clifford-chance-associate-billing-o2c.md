@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clifford Chance](https://scoutify.ai/companies/cliffordchance?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Delhi, Delhi, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000111987254-associate-billing-o2c) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000115590986-associate-billing-o2c) |
 
 ## About This Role
 
-This corporate finance position at Clifford Chance was posted on 2026-02-28.
+This corporate finance position at Clifford Chance was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
