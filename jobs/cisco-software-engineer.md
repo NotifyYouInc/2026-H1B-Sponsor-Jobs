@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Milpitas, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer_2008854-1) |
+| Location | India |
+| Category | Frontend Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2010707-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-03-14.
+This frontend engineer position at Cisco was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

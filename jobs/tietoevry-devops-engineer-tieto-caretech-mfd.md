@@ -1,16 +1,16 @@
-#  DevOps Engineer - Tieto Caretech (m/f/d) at Tietoevry
+# DevOps Engineer - Tieto Caretech (m/f/d) at Tietoevry
 
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sweden |
+| Location | Finland |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000115365933-devops-engineer-tieto-caretech-mfd) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000115806312-devops-engineer-tieto-caretech-mfd) |
 
 ## About This Role
 
-This devops engineer position at Tietoevry was posted on 2026-03-18.
+This devops engineer position at Tietoevry was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

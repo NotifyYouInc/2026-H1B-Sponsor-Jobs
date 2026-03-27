@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Karnataka, IN |
 | Category | Project Manager |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99449) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97717) |
 
 ## About This Role
 
-This project manager position at IBM was posted on 2026-03-07.
+This project manager position at IBM was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

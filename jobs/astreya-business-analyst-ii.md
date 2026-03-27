@@ -5,12 +5,12 @@
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Coimbatore-India/Business-Analyst-II_R0014557) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Coimbatore-India/Business-Analyst-II_R0015012) |
 
 ## About This Role
 
-This business analyst position at Astreya was posted on 2026-02-18.
+This business analyst position at Astreya was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
