@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Evansville, Indiana, United States |
+| Location | Houston, Texas, United States |
 | Category | Account Executive |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Evansville-IN-USA/Account-Executive_R-169632) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Houston-TX-USA/Account-Executive_R-171547) |
 
 ## About This Role
 
-This account executive position at Republic Services was posted on 2026-02-21.
+This account executive position at Republic Services was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

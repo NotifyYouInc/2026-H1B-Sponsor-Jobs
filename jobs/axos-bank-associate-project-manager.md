@@ -5,12 +5,12 @@
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Diego, California, United States |
 | Category | Project Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Associate-Project-Manager_JR4129-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Associate-Project-Manager_JR4299) |
 
 ## About This Role
 
-This project manager position at Axos Bank was posted on 2026-02-12.
+This project manager position at Axos Bank was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

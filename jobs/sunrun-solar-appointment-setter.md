@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Orange, California, United States |
 | Category | Business Development |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/TX-Rockwall/Solar-Appointment-Setter_R59459) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Orange/Solar-Appointment-Setter_R57058) |
 
 ## About This Role
 
-This business development position at Sunrun was posted on 2026-03-14.
+This business development position at Sunrun was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

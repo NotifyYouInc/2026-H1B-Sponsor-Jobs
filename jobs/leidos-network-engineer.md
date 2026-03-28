@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Network-Engineer_R-00176108) |
+| Location | United States |
+| Category | DevOps Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Network-Engineer_R-00178979) |
 
 ## About This Role
 
-This technical & solutions architect position at Leidos was posted on 2026-02-14.
+This devops engineer position at Leidos was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Alabama, US |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Alabama/Client-Partner--Enterprise-Sales_REQ343714) |
+| Location | 2 locations |
+| Category | Account Executive |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Maitland-Florida/Client-Partner--Enterprise-Sales_REQ349484) |
 
 ## About This Role
 
-This business development position at T-Mobile was posted on 2026-02-06.
+This account executive position at T-Mobile was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

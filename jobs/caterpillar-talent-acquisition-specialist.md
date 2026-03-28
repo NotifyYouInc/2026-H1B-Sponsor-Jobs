@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Qingzhou, Shandong, China |
+| Location | Piracicaba, São Paulo, Brazil |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Qingzhou-Shandong/Talent-Acquisition-Specialist_R0000357372-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Talent-Acquisition-Specialist_R0000358818) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Caterpillar was posted on 2026-03-17.
+This talent acquisition / recruiting position at Caterpillar was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

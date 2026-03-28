@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reltio](https://scoutify.ai/companies/reltio?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Florida, US |
 | Category | Customer Success |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/5620406004) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/5833582004) |
 
 ## About This Role
 
-This customer success position at Reltio was posted on 2026-02-18.
+This customer success position at Reltio was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
