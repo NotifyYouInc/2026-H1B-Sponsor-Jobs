@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Karnataka, IN |
 | Category | Engineering Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97606) |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103998) |
 
 ## About This Role
 
-This engineering manager position at IBM was posted on 2026-02-27.
+This engineering manager position at IBM was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

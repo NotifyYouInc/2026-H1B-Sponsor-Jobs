@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Port Washington, New York, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1302-S-La-Brea-Ave-Ste-A-Los-AngelesCA-90019-2909/Human-Resources-Expert_R0000432521) |
+| Posted | 2026-03-22 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/101-Shore-Rd-Port-WashingtonNY-11050-2259/Human-Resources-Expert_R0000432753) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-03-17.
+This human resources / people ops position at Target was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

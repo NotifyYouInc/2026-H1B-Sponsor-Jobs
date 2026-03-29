@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Orange, California, United States |
+| Location | Merrimack, New Hampshire, United States |
 | Category | Business Development |
 | Posted | 2026-03-20 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Orange/Solar-Appointment-Setter_R57058) |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/NH-Merrimack/Solar-Appointment-Setter_R59893) |
 
 ## About This Role
 

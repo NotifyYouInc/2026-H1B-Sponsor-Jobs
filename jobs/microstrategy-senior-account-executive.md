@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Account Executive |
 | Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000115970408-senior-account-executive) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000115980707-senior-account-executive) |
 
 ## About This Role
 

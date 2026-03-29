@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Not specified |
-| Category | Content Marketing |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Communications-Specialist_RQ215645) |
+| Category | Marketing |
+| Posted | 2026-03-22 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Communications-Specialist_RQ216258) |
 
 ## About This Role
 
-This content marketing position at General Dynamics Information Technology was posted on 2026-03-06.
+This marketing position at General Dynamics Information Technology was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

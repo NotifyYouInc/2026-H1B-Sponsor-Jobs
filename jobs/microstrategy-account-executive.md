@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Virginia, US |
 | Category | Account Executive |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000115976838-account-executive) |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000116027057-account-executive) |
 
 ## About This Role
 
-This account executive position at MicroStrategy was posted on 2026-03-20.
+This account executive position at MicroStrategy was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

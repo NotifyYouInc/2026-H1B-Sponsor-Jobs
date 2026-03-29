@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
+| Category | Operations |
 | Posted | 2026-03-20 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7659456003) |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7674504003) |
 
 ## About This Role
 
-This business analyst position at Fivetran was posted on 2026-03-20.
+This operations position at Fivetran was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

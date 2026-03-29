@@ -5,12 +5,12 @@
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000115808627-serialization-associate) |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000116019887-serialization-associate) |
 
 ## About This Role
 
-This compliance & risk management position at EVERSANA was posted on 2026-03-20.
+This compliance & risk management position at EVERSANA was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 
