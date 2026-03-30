@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hiratsuka, Kanagawa, Japan |
+| Location | Tōkai, Aichi, Japan |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3184597/operation-administrator) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373237/operation-administrator) |
 
 ## About This Role
 
-This human resources / people ops position at Amazon was posted on 2026-02-19.
+This human resources / people ops position at Amazon was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

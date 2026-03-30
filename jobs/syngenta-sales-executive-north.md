@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bắc Giang, Bac Ninh, Vietnam |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Account Executive |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000114889577-sales-executive-north) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000116101027-sales-executive-north) |
 
 ## About This Role
 
-This account executive position at Syngenta was posted on 2026-03-16.
+This account executive position at Syngenta was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

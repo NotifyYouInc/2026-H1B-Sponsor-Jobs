@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xi’an, Shaanxi, China |
+| Location | Jinan, Shandong, China |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shaanxi---Xian-Jinding-Intl-building/Asso-Pharmaceutical-Information-Manager_R389342-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shandong---Jinan-Enterprise-Square/Asso-Pharmaceutical-Information-Manager_R390472) |
 
 ## About This Role
 
-This account executive position at Merck was posted on 2026-03-13.
+This account executive position at Merck was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

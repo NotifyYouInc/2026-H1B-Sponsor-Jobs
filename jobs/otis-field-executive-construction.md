@@ -1,16 +1,16 @@
-# Field Executive - Construction at Otis
+# Field executive-Construction at Otis
 
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/1st-Floor-Part-HNo6-2-30--12-S-S-Central-AC-Guard-Road-Lakidikapool-Hyderabad--500004-India/Field-Executive---Construction_20154691) |
+| Location | Kolkata, West Bengal, India |
+| Category | Project Manager |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/Godrej-Genesis-Smart-Works-7th-Floor-Plot-No-XI-Block-EP--GP-Sector-V-Salt-Lake-City-BidhannagarKOLKATA-700091-India/Field-executive-Construction_20154352) |
 
 ## About This Role
 
-This customer success position at Otis was posted on 2026-03-13.
+This project manager position at Otis was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

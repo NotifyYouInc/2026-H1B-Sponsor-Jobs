@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101703) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101689) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-16.
+This software engineer position at IBM was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000110303075-senior-partner-solutions-engineer) |
+| Category | Software Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116111557-senior-partner-solutions-engineer) |
 
 ## About This Role
 
-This sales engineer position at LinkedIn was posted on 2026-02-20.
+This software engineer position at LinkedIn was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

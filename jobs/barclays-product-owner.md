@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/DLF-IT-Park-Chennai/Product-Owner_JR-0000087284) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Product-Owner_JR-0000093567) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-03-02.
+This product manager position at Barclays was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

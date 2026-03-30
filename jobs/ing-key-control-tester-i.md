@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Key-Control-Tester-I_REQ-10108468-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Key-Control-Tester-I_REQ-10111669) |
 
 ## About This Role
 
-This compliance & risk management position at ING was posted on 2026-03-13.
+This compliance & risk management position at ING was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

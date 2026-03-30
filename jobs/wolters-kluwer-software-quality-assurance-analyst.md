@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-IndiQube-Orchid/Software-Quality-Assurance-Analyst_R0053594-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | QA Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND---Chennai-Neville-Towers/Software-Quality-Assurance-Analyst_R0055349) |
 
 ## About This Role
 
-This software engineer position at Wolters Kluwer was posted on 2026-03-05.
+This qa engineer position at Wolters Kluwer was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

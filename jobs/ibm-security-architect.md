@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bucharest, București, Romania |
-| Category | Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92213) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Security Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103087) |
 
 ## About This Role
 
-This solutions architect position at IBM was posted on 2026-02-09.
+This security engineer position at IBM was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

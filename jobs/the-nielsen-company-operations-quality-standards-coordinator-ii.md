@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012238406-operations-quality-standards-coordinator-ii) |
+| Category | Data Analyst |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012258766-operations-quality-standards-coordinator-ii) |
 
 ## About This Role
 
-This business analyst position at The Nielsen Company was posted on 2026-03-20.
+This data analyst position at The Nielsen Company was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

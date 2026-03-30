@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Telangana, IN |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204098/transportation-representative-amazonnowco-row-apex) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373147/transportation-representative-amazonnowco-row-apex) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-13.
+This business analyst position at Amazon was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

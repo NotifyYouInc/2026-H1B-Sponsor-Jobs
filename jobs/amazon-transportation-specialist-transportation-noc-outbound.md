@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dalian, Liaoning, China |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204042/transportation-specialist-transportation-noc-outbound) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373238/transportation-specialist-transportation-noc-outbound) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-13.
+This business analyst position at Amazon was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

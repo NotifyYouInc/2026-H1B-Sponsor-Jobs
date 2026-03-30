@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Port Washington, New York, United States |
+| Location | Chapel Hill, North Carolina, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/101-Shore-Rd-Port-WashingtonNY-11050-2259/Human-Resources-Expert_R0000432753) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/143-W-Franklin-St-Ste-120-Chapel-HillNC-27516-2539/Human-Resources-Expert_R0000433038) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-03-22.
+This human resources / people ops position at Target was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
