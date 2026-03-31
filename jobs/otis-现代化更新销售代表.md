@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Xiamen, Fujian, China |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3374-1701-1705-17th-Floor-West-Tower-LG-Twin-Towers-B-12-Jianguomenwai-Avenue-Chaoyang-District-Beijing-China/_20152450) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3395-Unit2-8FChina-Life-BuildingNo4686Xianyue-RoadHuli-District-Xiamen-Fujian-China/_20155141) |
 
 ## About This Role
 
-This account executive position at Otis was posted on 2026-02-26.
+This account executive position at Otis was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

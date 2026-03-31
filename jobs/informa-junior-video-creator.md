@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Marketing |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000113977880-junior-video-creator) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000116326457-junior-video-creator) |
 
 ## About This Role
 
-This marketing position at Informa was posted on 2026-03-11.
+This marketing position at Informa was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7649020?gh_jid=7649020) |
+| Category | Software Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7708578?gh_jid=7708578) |
 
 ## About This Role
 
-This frontend engineer position at Thoughtworks was posted on 2026-03-05.
+This software engineer position at Thoughtworks was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
-| Category | Operations |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Business-Process-Improvement_R-271405) |
+| Category | Business Analyst |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Business-Process-Improvement_R-273121) |
 
 ## About This Role
 
-This operations position at Mastercard was posted on 2026-03-02.
+This business analyst position at Mastercard was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

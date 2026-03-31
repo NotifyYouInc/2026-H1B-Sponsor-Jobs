@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Globus Medical](https://scoutify.ai/companies/globusmedical?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Australia---Melbourne/Territory-Manager_JR105599) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Account Executive |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Australia---Sydney/Territory-Manager_JR106107) |
 
 ## About This Role
 
-This sales position at Globus Medical was posted on 2026-02-06.
+This account executive position at Globus Medical was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product marketing specialist at ABB
+# Product Marketing Specialist at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Mumbai, Maharashtra, India |
 | Category | Marketing |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Product-marketing-specialist_JR00005827) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mumbai-Maharashtra-India/Product-Marketing-Specialist_JR00026496) |
 
 ## About This Role
 
-This marketing position at ABB was posted on 2026-03-23.
+This marketing position at ABB was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

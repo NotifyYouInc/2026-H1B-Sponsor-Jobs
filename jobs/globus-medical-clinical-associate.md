@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Globus Medical](https://scoutify.ai/companies/globusmedical?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Account Manager |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Australia---Brisbane/Clinical-Associate_JR105790) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Australia---Sydney/Clinical-Associate_JR106142) |
 
 ## About This Role
 
-This account manager position at Globus Medical was posted on 2026-02-28.
+This account manager position at Globus Medical was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

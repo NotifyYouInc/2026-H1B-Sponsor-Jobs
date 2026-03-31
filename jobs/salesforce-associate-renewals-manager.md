@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Account Manager |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-Renewals-Manager_JR331193) |
+| Category | Customer Success |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Associate-Renewals-Manager_JR335043) |
 
 ## About This Role
 
-This account manager position at Salesforce was posted on 2026-03-01.
+This customer success position at Salesforce was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Illinois, US |
+| Location | Massachusetts, US |
 | Category | Account Executive |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Michigan/Account-Executive--LE--GBS_108608-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Massachusetts/Account-Executive--LE--GBS_108689) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-03-14.
+This account executive position at Gartner was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

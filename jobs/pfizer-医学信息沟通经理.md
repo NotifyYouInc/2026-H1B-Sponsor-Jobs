@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wuhan, Hubei, China |
-| Category | Marketing |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Hubei---Wuhan/_4952505) |
+| Location | Shanghai, Shanghai, China |
+| Category | Account Executive |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Shanghai---Shanghai/_4954246) |
 
 ## About This Role
 
-This marketing position at Pfizer was posted on 2026-02-26.
+This account executive position at Pfizer was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

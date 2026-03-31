@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransPerfect](https://scoutify.ai/companies/transperfect?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/INTL-Melbourne/Account-Manager_R2025-243323) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/Taiwan-Taipei/Account-Manager_R2025-243520) |
 
 ## About This Role
 
-This account executive position at TransPerfect was posted on 2026-03-02.
+This account executive position at TransPerfect was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

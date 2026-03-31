@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hyderabad--Andhrapradesh--India/R-D-Senior-Engineer_JR00017854) |
+| Location | Shanghai, Shanghai, China |
+| Category | Software Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/R-D-Senior-Engineer_JR00028535-5) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-03-17.
+This software engineer position at ABB was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

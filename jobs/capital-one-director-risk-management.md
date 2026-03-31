@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Director--Risk-Management_R236802) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Director--Risk-Management_R238599-1) |
 
 ## About This Role
 
-This compliance & risk management position at Capital One was posted on 2026-03-04.
+This compliance & risk management position at Capital One was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

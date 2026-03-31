@@ -1,16 +1,16 @@
-# Sales Representative II at Medtronic
+# Sales Representative  II at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tokyo-Tokyo-Japan/Sales-Representative--NV---Tokyo-_R60792-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Coimbatore-Tamil-Nadu-India/Sales-Representative--II_R62072) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-03-03.
+This account executive position at Medtronic was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
