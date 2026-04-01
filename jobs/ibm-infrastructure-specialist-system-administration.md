@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Visakhapatnam, Andhra Pradesh, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103823) |
+| Location | Pune, Maharashtra, India |
+| Category | Database Administration |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104005) |
 
 ## About This Role
 
-This it & systems administration position at IBM was posted on 2026-03-19.
+This database administration position at IBM was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

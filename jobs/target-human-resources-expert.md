@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Anaheim, California, United States |
+| Location | Logan, Utah, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/2222-E-Lincoln-Ave-AnaheimCA-92806-4107/Human-Resources-Expert_R0000433188) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1350-N-Main-St-LoganUT-84341/Human-Resources-Expert_R0000433274) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-03-24.
+This human resources / people ops position at Target was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SolarWinds](https://scoutify.ai/companies/solarwinds?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4656713005&gh_jid=4656713005) |
+| Category | Account Executive |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4656740005&gh_jid=4656740005) |
 
 ## About This Role
 
-This customer success position at SolarWinds was posted on 2026-02-11.
+This account executive position at SolarWinds was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

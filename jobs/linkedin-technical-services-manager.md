@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Program Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000109864465-technical-services-manager) |
+| Category | Business Analyst |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116533187-technical-services-manager) |
 
 ## About This Role
 
-This program manager position at LinkedIn was posted on 2026-02-18.
+This business analyst position at LinkedIn was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

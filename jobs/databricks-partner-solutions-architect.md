@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical Writer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8439182002) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8449860002) |
 
 ## About This Role
 
-This technical writer position at Databricks was posted on 2026-03-11.
+This technology / it consulting position at Databricks was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

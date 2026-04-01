@@ -1,16 +1,16 @@
-# Senior Software Engineer - RDMA and Doca at Nvidia
+# Senior Software Engineer - RDMA and DOCA at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Software-Engineer---RDMA-and-Doca_JR2015006) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Senior-Software-Engineer---RDMA-and-DOCA_JR2015012) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-03-23.
+This software engineer position at Nvidia was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Florida, US |
+| Location | Not specified |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Network-Administrator-Senior_RQ216554) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/International/Network-Engineer-Senior_RQ217011-1) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-03-15.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

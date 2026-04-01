@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Staff-Analog-Layout-Engineer_2503886) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Hsinchu-City/Staff-Analog-Layout-Engineer_2600961) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-03-06.
+This semiconductor / chip design position at Marvell was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

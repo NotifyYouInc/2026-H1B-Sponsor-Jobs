@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Zhengzhou, Henan, China |
+| Location | Jinan, Shandong, China |
 | Category | Account Executive |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3366-Room-705-Hailian-Building-No-20-Business-Outer-Ring-Road-Zhengdong-New-District-Zhengzhou-Henan-China/_20154995) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3296-Room-1802-Jinan-BER-International-Hotel-No-75-Jiluo-Road-Tianqiao-District-Jinan-City-Shandong-China/_20154404) |
 
 ## About This Role
 
-This account executive position at Otis was posted on 2026-03-23.
+This account executive position at Otis was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

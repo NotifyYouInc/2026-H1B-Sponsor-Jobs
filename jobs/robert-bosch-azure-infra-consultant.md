@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Telangana, IN |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115364686-azure-infra-consultant) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116533798-azure-infra-consultant) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-03-18.
+This devops engineer position at Robert Bosch was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

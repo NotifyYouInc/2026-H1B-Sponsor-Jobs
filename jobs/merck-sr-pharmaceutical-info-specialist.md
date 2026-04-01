@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lanzhou, Gansu, China |
+| Location | Taiyuan, Shanxi, China |
 | Category | Account Executive |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Gansu---Lanzhou/Sr-Pharmaceutical-Info-Specialist_R387653-2) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanxi---Taiyuan-Yingze-District/Sr-Pharmaceutical-Info-Specialist_R391081-1) |
 
 ## About This Role
 
-This account executive position at Merck was posted on 2026-03-19.
+This account executive position at Merck was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

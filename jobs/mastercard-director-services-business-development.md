@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Sales Leadership |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Beijing-China/Principal--Services-Business-Development_R-264699) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Account Executive |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/St-Leonards-Australia/Director--Services-Business-Development_R-264404) |
 
 ## About This Role
 
-This sales leadership position at Mastercard was posted on 2026-03-12.
+This account executive position at Mastercard was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

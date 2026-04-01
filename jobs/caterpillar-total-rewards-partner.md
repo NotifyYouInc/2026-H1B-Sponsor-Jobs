@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Karnataka, IN |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Total-Rewards-Partner_R0000355865) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Total-Rewards-Partner_R0000355864) |
 
 ## About This Role
 
-This human resources / people ops position at Caterpillar was posted on 2026-03-13.
+This human resources / people ops position at Caterpillar was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

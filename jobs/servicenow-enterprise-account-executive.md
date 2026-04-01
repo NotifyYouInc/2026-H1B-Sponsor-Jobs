@@ -1,16 +1,16 @@
-# Enterprise Account Executive at ServiceNow
+# Enterprise Account Executive  at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113630357-enterprise-account-executive) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000116535559-enterprise-account-executive) |
 
 ## About This Role
 
-This account executive position at ServiceNow was posted on 2026-03-10.
+This account executive position at ServiceNow was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United Kingdom |
+| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
 | Category | Account Executive |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-UK/OpenShift-Sales-Specialist_R-053314-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Rio---MSO---Pass/OpenShift-Sales-Specialist_R-055523-1) |
 
 ## About This Role
 
-This account executive position at Red Hat was posted on 2026-02-28.
+This account executive position at Red Hat was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

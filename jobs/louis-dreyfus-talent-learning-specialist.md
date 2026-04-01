@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Victoria, AU |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000110309525-talent-learning-specialist) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000116538457-talent-learning-specialist) |
 
 ## About This Role
 
-This human resources / people ops position at Louis Dreyfus was posted on 2026-02-20.
+This human resources / people ops position at Louis Dreyfus was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

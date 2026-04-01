@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Germany |
+| Location | London, England, United Kingdom |
 | Category | Business Development |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000110298195-senior-business-development-representative) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000116529097-senior-business-development-representative) |
 
 ## About This Role
 
-This business development position at MicroStrategy was posted on 2026-02-20.
+This business development position at MicroStrategy was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

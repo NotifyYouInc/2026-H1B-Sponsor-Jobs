@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xiamen, Fujian, China |
+| Location | Changsha, Hunan, China |
 | Category | Account Executive |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3395-Unit2-8FChina-Life-BuildingNo4686Xianyue-RoadHuli-District-Xiamen-Fujian-China/_20155141) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3278-Room-4601-4603-Huachuang-International-Plaza-A-4601-4603-Furong-Road-Section-1-Wujialing-Subdistrict-Kaifu-District-Changsha-Hunan-China/_20151860) |
 
 ## About This Role
 
-This account executive position at Otis was posted on 2026-03-24.
+This account executive position at Otis was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

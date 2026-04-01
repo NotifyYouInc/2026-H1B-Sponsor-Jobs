@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jeffersonville, Indiana, United States |
+| Location | Texas, US |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3203044/engineering-operation-technician) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3207834/engineering-operation-technician) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-03-12.
+This electrical / hardware engineer position at Amazon was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

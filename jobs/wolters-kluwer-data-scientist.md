@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-IndiQube-Orchid/Data-Scientist_R0055491) |
+| Category | Data Scientist |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-IndiQube-Orchid/Data-Scientist_R0055334) |
 
 ## About This Role
 
-This data analyst position at Wolters Kluwer was posted on 2026-03-24.
+This data scientist position at Wolters Kluwer was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Surat, Gujarat, India |
+| Location | India |
 | Category | Account Executive |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/15-16-VALENTINO-SOMA-KANJI-NI-WADI-BRTS-CANAL-ROAD-SURAT-395-002-India/Executive-NE-Sales_20154104) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/423-DLF-Qutub-Plaza-DLF-Qutub-Enclave-Phase--I-Gurgaon-India/Executive-NE-Sales_20154395) |
 
 ## About This Role
 
-This account executive position at Otis was posted on 2026-03-16.
+This account executive position at Otis was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

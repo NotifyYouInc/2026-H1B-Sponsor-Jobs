@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | Hong Kong, Hong Kong |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000113405703-marketing-manager) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000116529427-marketing-manager) |
 
 ## About This Role
 
-This digital / performance marketing position at Informa was posted on 2026-03-09.
+This digital / performance marketing position at Informa was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
