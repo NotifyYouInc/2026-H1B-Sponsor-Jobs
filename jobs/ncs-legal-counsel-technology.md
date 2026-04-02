@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Legal |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000925195-legal-counsel-technology) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000959093-legal-counsel-technology) |
 
 ## About This Role
 
-This legal position at NCS was posted on 2026-03-11.
+This legal position at NCS was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Customer Success |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Korea-Republic-of---Seoul/Customer-Success-Manager_JR334685) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indonesia---Jakarta/Customer-Success-Manager_JR333847) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-03-24.
+This customer success position at Salesforce was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

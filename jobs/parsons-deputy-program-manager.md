@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Centreville, Virginia, United States |
+| Location | Hawaii, US |
 | Category | Program Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/Deputy-Program-Manager_R177633-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---HI-Fort-Shafter/Deputy-Program-Manager_R178908-2) |
 
 ## About This Role
 
-This program manager position at Parsons was posted on 2026-02-25.
+This program manager position at Parsons was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

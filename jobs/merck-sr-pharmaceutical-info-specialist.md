@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taiyuan, Shanxi, China |
+| Location | Jinan, Shandong, China |
 | Category | Account Executive |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanxi---Taiyuan-Yingze-District/Sr-Pharmaceutical-Info-Specialist_R391081-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shandong---Jinan-Enterprise-Square/Sr-Pharmaceutical-Info-Specialist_R391084-2) |
 
 ## About This Role
 
-This account executive position at Merck was posted on 2026-03-25.
+This account executive position at Merck was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Specialist - Marketing Management at Nationwide
+# Specialist, Marketing Management at Nationwide
 
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Marketing |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist---Marketing-Management_097193-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Marketing-Management_097395) |
 
 ## About This Role
 
-This marketing position at Nationwide was posted on 2026-03-13.
+This marketing position at Nationwide was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

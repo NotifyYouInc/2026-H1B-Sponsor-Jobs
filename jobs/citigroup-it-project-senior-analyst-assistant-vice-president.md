@@ -1,16 +1,16 @@
-# IT Project Senior Analyst - Assistant Vice President at Citigroup
+# IT Project Senior Analyst – Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Project Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/IT-Project-Senior-Analyst---Assistant-Vice-President_26939641) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Business Analyst |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/IT-Project-Senior-Analyst---Assistant-Vice-President_26948803) |
 
 ## About This Role
 
-This project manager position at Citigroup was posted on 2026-03-13.
+This business analyst position at Citigroup was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

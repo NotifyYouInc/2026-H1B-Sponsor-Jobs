@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Penang, MY |
-| Category | Project Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Assembly-and-Test-NPI-Integrator_JR0281486) |
+| Location | Kulim, Kedah, Malaysia |
+| Category | Data Scientist |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Assembly-and-Test-NPI-Integrator_JR0282379-1) |
 
 ## About This Role
 
-This project manager position at Intel was posted on 2026-03-02.
+This data scientist position at Intel was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

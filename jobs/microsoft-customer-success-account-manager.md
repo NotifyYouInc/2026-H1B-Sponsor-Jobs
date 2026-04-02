@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Mumbai, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556843814) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556852115) |
 
 ## About This Role
 
-This customer success position at Microsoft was posted on 2026-03-13.
+This customer success position at Microsoft was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

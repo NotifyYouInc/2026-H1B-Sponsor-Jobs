@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Yokohama, Kanagawa, Japan |
+| Location | Victoria, AU |
 | Category | Business Development |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nishi-ku-Yokohama-shi-Kanagawa/Senior-Sales-Support-Consultant--CVA---Maintenance-Parts-_R0000342879-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tullamarine-Victoria/Senior-Sales-Support-Consultant--CVA---Maintenance-Parts-_R0000342871-1) |
 
 ## About This Role
 
-This business development position at Caterpillar was posted on 2026-03-25.
+This business development position at Caterpillar was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

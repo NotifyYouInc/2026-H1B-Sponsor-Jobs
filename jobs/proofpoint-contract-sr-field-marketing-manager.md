@@ -5,12 +5,12 @@
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Growth Marketing |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Toronto-Canada/Contract-Sr-Field-Marketing-Manager_R13867) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Toronto-Canada/Contract-Sr-Field-Marketing-Manager_R13977) |
 
 ## About This Role
 
-This growth marketing position at Proofpoint was posted on 2026-03-07.
+This growth marketing position at Proofpoint was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

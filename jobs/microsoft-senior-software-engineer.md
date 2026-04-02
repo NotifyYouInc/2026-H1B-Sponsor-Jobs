@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Cairo, Cairo, Egypt |
 | Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556851157) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556852707) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-03-25.
+This software engineer position at Microsoft was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

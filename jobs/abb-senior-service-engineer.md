@@ -1,16 +1,16 @@
-# Senior / Service Engineer at ABB
+# Senior Service Engineer at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Napier, Hawke's Bay Region, New Zealand |
 | Category | Customer Success |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Singapore-Central-Singapore-Singapore/Senior---Service-Engineer_JR00024756) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Napier-Hawkes-Bay-New-Zealand/Senior-Service-Engineer_JR00028727-1) |
 
 ## About This Role
 
-This customer success position at ABB was posted on 2026-03-12.
+This customer success position at ABB was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

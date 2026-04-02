@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philippines |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Philippines-Bonifacio-Global-City-Taguig/Specialist--HR-Operations_20176867-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Philippines-Bonifacio-Global-City-Taguig/Specialist--HR-Operations_20177775-1) |
 
 ## About This Role
 
-This human resources / people ops position at Cardinal Health was posted on 2026-03-11.
+This human resources / people ops position at Cardinal Health was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
