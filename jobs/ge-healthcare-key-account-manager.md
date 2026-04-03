@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xi’an, Shaanxi, China |
-| Category | Account Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/CHN42-01-Xian-No-11-Jinye-Road/Key-Account-Manager_R4037882-1) |
+| Location | Guangzhou, Guangdong, China |
+| Category | Account Executive |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Guangzhou/Key-Account-Manager_R4038647-2) |
 
 ## About This Role
 
-This account manager position at GE HealthCare was posted on 2026-03-16.
+This account executive position at GE HealthCare was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

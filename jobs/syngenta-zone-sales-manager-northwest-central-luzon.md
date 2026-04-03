@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
-| Category | Sales Leadership |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000111983105-zone-sales-manager-northwest-central-luzon) |
+| Category | Account Manager |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000117149344-zone-sales-manager-northwest-central-luzon) |
 
 ## About This Role
 
-This sales leadership position at Syngenta was posted on 2026-02-28.
+This account manager position at Syngenta was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

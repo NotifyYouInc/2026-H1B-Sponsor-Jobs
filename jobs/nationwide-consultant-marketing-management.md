@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Content Marketing |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Consultant--Marketing-Management_097136) |
+| Category | Marketing |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Consultant--Marketing-Management_097339) |
 
 ## About This Role
 
-This content marketing position at Nationwide was posted on 2026-03-10.
+This marketing position at Nationwide was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

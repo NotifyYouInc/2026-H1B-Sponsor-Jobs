@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hangzhou, Zhejiang, China |
-| Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Hangzhou---China/Intermediate-AE_R-1150) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Hangzhou---China/Intermediate-AE_R-1215) |
 
 ## About This Role
 
-This account executive position at Monolithic Power Systems was posted on 2026-03-05.
+This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

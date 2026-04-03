@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Program Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Mumbai/Zonal-Market-Access-Manager_R2849207-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Ernakulam/Zonal-Market-Access-Manager_R2849805-1) |
 
 ## About This Role
 
-This program manager position at Sanofi was posted on 2026-03-23.
+This program manager position at Sanofi was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

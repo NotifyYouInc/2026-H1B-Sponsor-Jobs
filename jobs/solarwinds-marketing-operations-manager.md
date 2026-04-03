@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SolarWinds](https://scoutify.ai/companies/solarwinds?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Austin, Texas, United States |
+| Location | 2 locations |
 | Category | Marketing |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4674938005&gh_jid=4674938005) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4674952005&gh_jid=4674952005) |
 
 ## About This Role
 
-This marketing position at SolarWinds was posted on 2026-03-25.
+This marketing position at SolarWinds was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

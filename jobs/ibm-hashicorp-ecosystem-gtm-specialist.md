@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Channel / Partner Sales |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102194) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103079) |
 
 ## About This Role
 
-This channel / partner sales position at IBM was posted on 2026-03-23.
+This channel / partner sales position at IBM was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

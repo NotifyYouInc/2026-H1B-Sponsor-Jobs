@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Karnataka, IN |
-| Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105260) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105836) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-03-25.
+This strategy / management consulting position at IBM was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

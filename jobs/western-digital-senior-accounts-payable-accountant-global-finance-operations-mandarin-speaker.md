@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000113320041-senior-accounts-payable-accountant-global-finance-operations-mandarin-speaker) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000117207757-senior-accounts-payable-accountant-global-finance-operations-mandarin-speaker) |
 
 ## About This Role
 
-This corporate finance position at Western Digital was posted on 2026-03-07.
+This corporate finance position at Western Digital was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

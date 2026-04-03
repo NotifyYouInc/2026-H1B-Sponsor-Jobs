@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Changsha, Hunan, China |
 | Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Guangzhou-Guangdong-China/Channel-Sales-Representative-2_WD30264223) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Changsha-Hunan-China/Channel-Sales-Representative-2_WD30264786) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-03-17.
+This account executive position at Johnson Controls was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

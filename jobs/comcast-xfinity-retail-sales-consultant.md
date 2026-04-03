@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Eugene, Oregon, United States |
+| Location | Fresno, California, United States |
 | Category | Account Executive |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/OR---Eugene-1063-Valley-River-Way---Retail-XFR3556/Xfinity-Retail-Sales-Consultant_R432832) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CA---Fresno-35-E-Via-La-Plata---Retail-XFR3114/Xfinity-Retail-Sales-Consultant_R434231) |
 
 ## About This Role
 
-This account executive position at Comcast was posted on 2026-03-07.
+This account executive position at Comcast was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

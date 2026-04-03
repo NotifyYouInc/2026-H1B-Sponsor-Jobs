@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Australia---NSW---Sydney-Metro/Sales-Representative_436788) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Australia--Victoria---Melbourne-Metro/Sales-Representative_437840-1) |
 
 ## About This Role
 
-This account executive position at GSK was posted on 2026-03-17.
+This account executive position at GSK was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

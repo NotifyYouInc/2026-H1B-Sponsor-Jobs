@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Delhi, Delhi, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113082707-in-rbin-manager-regulatory-affairs) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117205942-in-rbin-manager-regulatory-affairs) |
 
 ## About This Role
 
-This compliance & risk management position at Robert Bosch was posted on 2026-03-06.
+This compliance & risk management position at Robert Bosch was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

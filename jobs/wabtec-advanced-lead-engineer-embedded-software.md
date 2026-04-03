@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012280876-advanced-lead-engineer-embedded-software) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012343806-advanced-lead-engineer-embedded-software) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Wabtec was posted on 2026-03-24.
+This embedded / firmware engineer position at Wabtec was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
