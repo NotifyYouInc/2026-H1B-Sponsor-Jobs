@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Germany |
+| Location | Los Angeles, California, United States |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Germany-Frankfurt/Senior-Strategic-Sales-Executive_R106894) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Senior-Strategic-Sales-Executive_R107181) |
 
 ## About This Role
 
-This account executive position at Tencent was posted on 2026-02-26.
+This account executive position at Tencent was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | O'Fallon, Missouri, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Senior-Software-Engineer_R-273241) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Software-Engineer_R-274320) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-03-23.
+This software engineer position at Mastercard was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

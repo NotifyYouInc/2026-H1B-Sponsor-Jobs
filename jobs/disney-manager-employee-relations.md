@@ -5,12 +5,12 @@
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Manager--Employee-Relations_10143737) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Manager--Employee-Relations_10146835) |
 
 ## About This Role
 
-This human resources / people ops position at Disney was posted on 2026-02-28.
+This human resources / people ops position at Disney was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Development |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000113634657-business-development-representative) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000117410727-business-development-representative) |
 
 ## About This Role
 
-This business development position at MicroStrategy was posted on 2026-03-10.
+This business development position at MicroStrategy was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

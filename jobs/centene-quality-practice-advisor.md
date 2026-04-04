@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Georgia, US |
-| Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-GA/Quality-Practice-Advisor_1630283) |
+| Location | Mississippi, US |
+| Category | Compliance & Risk Management |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MS/Quality-Practice-Advisor_1635651-1) |
 
 ## About This Role
 
-This business analyst position at Centene was posted on 2026-02-20.
+This compliance & risk management position at Centene was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Banamex Analista de Prevención de Fraudes at Citigroup
+# Banamex Analista de prevención de fraudes at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-de-Prevencin-de-Fraudes_26943272) |
+| Category | Financial Crimes & AML |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-de-prevencin-de-fraudes_26946960) |
 
 ## About This Role
 
-This compliance & risk management position at Citigroup was posted on 2026-03-21.
+This financial crimes & aml position at Citigroup was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

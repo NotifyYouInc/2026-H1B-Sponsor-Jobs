@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York, US |
+| Location | Menlo Park, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1427016838832534) |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1225183738960156) |
 
 ## About This Role
 
-This machine learning engineer position at Meta was posted on 2026-02-28.
+This machine learning engineer position at Meta was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

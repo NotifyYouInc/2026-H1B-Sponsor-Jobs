@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Florida, US |
-| Category | Engineering Manager |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Network-Engineer_RQ216100-2) |
+| Location | Philadelphia, Pennsylvania, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-PA-Home-Office-PAHOME/Network-Engineer_RQ217149) |
 
 ## About This Role
 
-This engineering manager position at General Dynamics Information Technology was posted on 2026-03-08.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

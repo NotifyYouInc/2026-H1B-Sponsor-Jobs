@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Villanueva, Cortés Department, Honduras |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000117095140-joven-profesional-finanzas) |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000117442450-joven-profesional-finanzas) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-03-27.
+This corporate finance position at Louis Dreyfus was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

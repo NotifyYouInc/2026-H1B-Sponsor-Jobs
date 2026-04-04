@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Itumbiara, Goiás, Brazil |
+| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
 | Category | Account Executive |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/ITUMBIARA/Espec-Select-One_Req1554932) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/RIO-DE-JANEIRO/Espec-Select-One_Req1556640) |
 
 ## About This Role
 
-This account executive position at Santander was posted on 2026-03-20.
+This account executive position at Santander was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

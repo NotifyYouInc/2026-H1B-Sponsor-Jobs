@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Texas, US |
-| Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373177/transportation-representative-transportation-representative) |
+| Location | Telangana, IN |
+| Category | Customer Success |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10378706/transportation-representative-transportation-representative) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-23.
+This customer success position at Amazon was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 
