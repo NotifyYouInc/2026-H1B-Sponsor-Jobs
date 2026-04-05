@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New South Wales, AU |
+| Location | Karnataka, IN |
 | Category | Operations |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373185/operations-manager-amzl) |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10378710/operations-manager-amzl) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-03-23.
+This operations position at Amazon was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

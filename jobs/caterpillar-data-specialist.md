@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Data-Specialist_R0000350799) |
+| Location | East Peoria, Illinois, United States |
+| Category | Data Analyst |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Data-Specialist_R0000360456) |
 
 ## About This Role
 
-This software engineer position at Caterpillar was posted on 2026-02-17.
+This data analyst position at Caterpillar was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

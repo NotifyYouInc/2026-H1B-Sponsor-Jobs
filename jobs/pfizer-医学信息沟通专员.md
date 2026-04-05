@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fuzhou, Fujian, China |
+| Location | Tianjin, Tianjin, China |
 | Category | Marketing |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Fujian---Fuzhou/_4951528) |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Tianjin---Tianjin/_4954173) |
 
 ## About This Role
 
-This marketing position at Pfizer was posted on 2026-03-16.
+This marketing position at Pfizer was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 
