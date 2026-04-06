@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | India |
 | Category | Engineering Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Hyderabad-India/Business-Development-Manager-HCL_R44767) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bangalore-India/Business-Development-Manager--MWS_R42080) |
 
 ## About This Role
 
-This engineering manager position at TD Synnex was posted on 2026-02-25.
+This engineering manager position at TD Synnex was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

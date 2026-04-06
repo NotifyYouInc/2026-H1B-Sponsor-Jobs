@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Visakhapatnam, Andhra Pradesh, India |
+| Location | Perth, Western Australia, Australia |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Visakhapatnam-Karnataka--India/Service-Sales-Specialist_JR00021326) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Perth-Western-Australia-Australia/Service-Sales-Specialist_JR00028539) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-03-13.
+This account executive position at ABB was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

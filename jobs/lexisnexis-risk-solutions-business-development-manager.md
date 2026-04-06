@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Singapore---LN-Winsland-House/Business-Development-Manager_R109870) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Auckland/Business-Development-Manager_R110789) |
 
 ## About This Role
 
-This engineering manager position at LexisNexis Risk Solutions was posted on 2026-03-06.
+This engineering manager position at LexisNexis Risk Solutions was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

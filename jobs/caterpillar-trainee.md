@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tamil Nadu, IN |
 | Category | Leadership Development Program |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/Trainee_R0000354786) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/Trainee_R0000357092) |
 
 ## About This Role
 
-This leadership development program position at Caterpillar was posted on 2026-03-16.
+This leadership development program position at Caterpillar was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

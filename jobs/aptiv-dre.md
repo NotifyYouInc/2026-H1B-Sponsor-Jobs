@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dhāruhera, Haryana, India |
+| Location | Sānand, Gujarat, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Dharuhera-India/DRE_J000695233) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Sanand-India/DRE_J000689352) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Aptiv was posted on 2026-03-18.
+This electrical / hardware engineer position at Aptiv was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

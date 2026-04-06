@@ -5,12 +5,12 @@
 | Company | [Clifford Chance](https://scoutify.ai/companies/cliffordchance?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Delhi, Delhi, India |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000116320957-legal-project-analyst) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000117557540-legal-project-analyst) |
 
 ## About This Role
 
-This business analyst position at Clifford Chance was posted on 2026-03-24.
+This business analyst position at Clifford Chance was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

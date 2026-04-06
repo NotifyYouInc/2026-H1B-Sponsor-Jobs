@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Canada |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8480190002) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8482144002) |
 
 ## About This Role
 
-This account executive position at Databricks was posted on 2026-03-26.
+This account executive position at Databricks was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

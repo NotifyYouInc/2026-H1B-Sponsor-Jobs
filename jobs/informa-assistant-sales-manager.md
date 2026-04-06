@@ -1,16 +1,16 @@
-#  Assistant Sales Manager at Informa
+# Assistant Sales Manager at Informa
 
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Singapore, Singapore |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000111531917-assistant-sales-manager) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000117553857-assistant-sales-manager) |
 
 ## About This Role
 
-This account executive position at Informa was posted on 2026-02-26.
+This account executive position at Informa was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

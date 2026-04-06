@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Seoul, Seoul, South Korea |
 | Category | Business Development |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8469058002) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8469105002) |
 
 ## About This Role
 
-This business development position at Workato was posted on 2026-03-26.
+This business development position at Workato was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

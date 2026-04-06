@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000115123452-technologist-mask-design-engineering-extensive-ic-layout-design-15-years-of-expertise-in-customams-across-analog-digital-and-mixed-signal-domain) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000117552977-technologist-mask-design-engineering-extensive-ic-layout-design-15-years-of-expertise-in-customams-across-analog-digital-and-mixed-signal-domain) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-03-17.
+This semiconductor / chip design position at SanDisk was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

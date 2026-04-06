@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Telangana, IN |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113404736-functional-specialist-sap-ewm-i2d) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117554827-functional-specialist-sap-ewm-i2d) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-03-09.
+This business analyst position at Robert Bosch was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

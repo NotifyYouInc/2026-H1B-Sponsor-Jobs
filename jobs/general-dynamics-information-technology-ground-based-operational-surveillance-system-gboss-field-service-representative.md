@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Yuma, Arizona, United States |
+| Location | McAllen, Texas, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AZ-Yuma/Ground-Based-Operational-Surveillance-System--GBOSS--Field-Service-Representative_RQ217278-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-McAllen/Ground-Based-Operational-Surveillance-System--GBOSS--Field-Service-Representative_RQ217277) |
 
 ## About This Role
 
-This electrical / hardware engineer position at General Dynamics Information Technology was posted on 2026-03-29.
+This electrical / hardware engineer position at General Dynamics Information Technology was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

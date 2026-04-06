@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Saudi-Arabia---Riyadh/Medical-Representative_437637) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Thailand---Bangkok/Medical-Representative_437377) |
 
 ## About This Role
 
-This account executive position at GSK was posted on 2026-03-26.
+This account executive position at GSK was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

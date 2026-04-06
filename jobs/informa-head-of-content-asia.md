@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Content Marketing |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000116538642-head-of-content-asia) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000117553717-head-of-content-asia) |
 
 ## About This Role
 
-This content marketing position at Informa was posted on 2026-03-25.
+This content marketing position at Informa was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

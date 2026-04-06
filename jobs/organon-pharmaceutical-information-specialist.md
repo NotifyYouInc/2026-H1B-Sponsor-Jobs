@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Organon](https://scoutify.ai/companies/organon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Suzhou, Jiangsu, China |
 | Category | Account Executive |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/CHN---Chengdu/Pharmaceutical-Information-Specialist_R535949) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/CHN---Jiangsu---Suzhou/Pharmaceutical-Information-Specialist_R539118) |
 
 ## About This Role
 
-This account executive position at Organon was posted on 2026-02-27.
+This account executive position at Organon was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

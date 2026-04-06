@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Project Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/Project-Engineering-Senior-Professional_R0120786) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/Project-Engineering-Senior-Professional_R0119646) |
 
 ## About This Role
 
-This project manager position at Hitachi was posted on 2026-03-03.
+This electrical / hardware engineer position at Hitachi was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

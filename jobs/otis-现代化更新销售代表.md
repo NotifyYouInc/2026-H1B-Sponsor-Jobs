@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Changsha, Hunan, China |
+| Location | Chongqing, Chongqing, China |
 | Category | Account Executive |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3278-Room-4601-4603-Huachuang-International-Plaza-A-4601-4603-Furong-Road-Section-1-Wujialing-Subdistrict-Kaifu-District-Changsha-Hunan-China/_20151860) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3287-NO-598-Jiarong-Road-Chongqing-North-New-District-Chongqing-China/_20155967) |
 
 ## About This Role
 
-This account executive position at Otis was posted on 2026-03-25.
+This account executive position at Otis was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

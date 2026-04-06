@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Scottsdale, Arizona, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Arizona---Scottsdale-18700-North-Hayden-Road/Consultant--Agile-Leader_097275) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Agile-Leader_097436) |
 
 ## About This Role
 
-This scrum master & agile coach position at Nationwide was posted on 2026-03-20.
+This scrum master & agile coach position at Nationwide was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

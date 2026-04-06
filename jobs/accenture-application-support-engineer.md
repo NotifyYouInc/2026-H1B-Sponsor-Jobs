@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Customer Success |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Support-Engineer_ATCI-5348764-S1970661) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Application-Support-Engineer_ATCI-R1-S1927187-1) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-02-14.
+This customer success position at Accenture was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

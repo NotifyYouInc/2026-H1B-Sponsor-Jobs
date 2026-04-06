@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wuhu, Anhui, China |
+| Location | Beijing, Beijing, China |
 | Category | Account Executive |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Wuhu-China/Sales-Specialist_JR00027082-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Sales-Specialist_JR00027191-4) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-03-24.
+This account executive position at ABB was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
