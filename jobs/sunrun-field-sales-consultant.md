@@ -5,12 +5,12 @@
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Not specified |
 | Category | Account Executive |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Novato/Field-Sales-Consultant_R58376) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/TX-Houston/Field-Sales-Consultant_R60808) |
 
 ## About This Role
 
-This account executive position at Sunrun was posted on 2026-02-21.
+This account executive position at Sunrun was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

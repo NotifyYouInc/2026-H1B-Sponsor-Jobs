@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Westchester, Florida, United States |
 | Category | Customer Success |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Indiana---Indianapolis/Field-Service-Technician_R00286418) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---New-York---Bronx/Field-Service-Technician_R00289403-1) |
 
 ## About This Role
 
-This customer success position at Ecolab was posted on 2026-02-28.
+This customer success position at Ecolab was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

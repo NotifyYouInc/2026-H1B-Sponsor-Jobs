@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manaus, Amazonas, Brazil |
-| Category | Account Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/MANAUS/Espec-Clientes-B1-I_Req1542375) |
+| Location | Campinas, São Paulo, Brazil |
+| Category | Account Executive |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CAMPINAS/Espec-Clientes-B1-I_Req1557114) |
 
 ## About This Role
 
-This account manager position at Santander was posted on 2026-02-18.
+This account executive position at Santander was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

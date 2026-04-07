@@ -1,16 +1,16 @@
-# Associate Manager Software Engineering at DXC Technology
+# Associate Manager - Software Engineering at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New Jersey, US |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA-NJ-Home-based-CSC-Location/Associate-Manager-Software-Engineering_51572881) |
+| Location | Ohio, US |
+| Category | Engineering Manager |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---OH---ANY-CITY/Associate-Manager---Software-Engineering_51576808) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-02-13.
+This engineering manager position at DXC Technology was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

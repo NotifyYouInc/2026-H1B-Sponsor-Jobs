@@ -5,12 +5,12 @@
 | Company | [Equinox](https://scoutify.ai/companies/equinox?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | New York City, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Equinox/744000111996667-membership-sales-advisor-new-york-city) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Equinox/744000117754789-membership-sales-advisor-new-york-city) |
 
 ## About This Role
 
-This account executive position at Equinox was posted on 2026-02-28.
+This account executive position at Equinox was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

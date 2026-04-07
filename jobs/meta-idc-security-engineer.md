@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Menlo Park, California, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/3173633926178561) |
+| Location | United States |
+| Category | Security Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1422630902703286) |
 
 ## About This Role
 
-This cybersecurity engineer position at Meta was posted on 2026-02-06.
+This security engineer position at Meta was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

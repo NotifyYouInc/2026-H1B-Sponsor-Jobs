@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Fresno, California, United States |
 | Category | Account Executive |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Bellevue-Washington/Business-Sales-Account-Executive_R-1091187-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Fresno-California/Business-Sales-Account-Executive_R-1092894) |
 
 ## About This Role
 
-This account executive position at Verizon was posted on 2026-02-18.
+This account executive position at Verizon was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

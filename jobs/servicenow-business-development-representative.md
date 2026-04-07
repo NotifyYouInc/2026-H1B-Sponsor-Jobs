@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Business Development |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117208937-business-development-representative) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117760147-business-development-representative) |
 
 ## About This Role
 
-This business development position at ServiceNow was posted on 2026-03-27.
+This business development position at ServiceNow was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

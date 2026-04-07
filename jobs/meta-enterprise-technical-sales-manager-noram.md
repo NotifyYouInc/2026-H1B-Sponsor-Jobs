@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2041354459763514) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/930844143206869) |
 
 ## About This Role
 
-This account executive position at Meta was posted on 2026-03-27.
+This account executive position at Meta was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

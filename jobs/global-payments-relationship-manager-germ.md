@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lenexa, Kansas, United States |
+| Location | Seattle, Washington, United States |
 | Category | Account Executive |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Lenexa-Kansas-USA/Relationship-Manager--GERM_R0068571) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Seattle-Washington-USA/Relationship-Manager--GERM_R0070197) |
 
 ## About This Role
 
-This account executive position at Global Payments was posted on 2026-03-28.
+This account executive position at Global Payments was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
