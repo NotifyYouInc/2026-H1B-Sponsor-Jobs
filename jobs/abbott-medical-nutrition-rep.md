@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nanjing, Jiangsu, China |
+| Location | Guangzhou, Guangdong, China |
 | Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Nanjing/Medical-Nutrition-Rep_31144838) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Guangzhou/Medical-Nutrition-Rep_31146234) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-03-17.
+This account executive position at Abbott was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

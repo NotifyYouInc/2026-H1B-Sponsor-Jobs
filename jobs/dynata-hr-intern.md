@@ -5,12 +5,12 @@
 | Company | [Dynata](https://scoutify.ai/companies/dynata?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Philippines-Cebu/HR-Intern_REQ13051) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/Philippines-Cebu/HR-Intern_REQ13181) |
 
 ## About This Role
 
-This human resources / people ops position at Dynata was posted on 2026-03-12.
+This human resources / people ops position at Dynata was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

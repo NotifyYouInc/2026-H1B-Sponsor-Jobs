@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Account Executive |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Conference-Sales-Executive_108842) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Sydney/Conference-Sales-Executive_107368-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-03-25.
+This account executive position at Gartner was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

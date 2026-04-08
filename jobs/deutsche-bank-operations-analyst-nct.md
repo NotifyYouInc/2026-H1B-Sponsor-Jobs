@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jaipur, Rajasthan, India |
-| Category | Corporate Finance |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Operations-Analyst--NCT_R0420648-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Business Analyst |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Operations-Analyst--NCT_R0429258) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-02-08.
+This business analyst position at Deutsche Bank was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

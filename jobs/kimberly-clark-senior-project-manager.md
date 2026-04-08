@@ -5,12 +5,12 @@
 | Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Project Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Pune-Kharadi-Hub/Senior-Project-Manager_882314) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Pune-Kharadi-Hub/Senior-Project-Manager_884655-1) |
 
 ## About This Role
 
-This project manager position at Kimberly-Clark was posted on 2026-02-12.
+This project manager position at Kimberly-Clark was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

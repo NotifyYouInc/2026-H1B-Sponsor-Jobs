@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Firmware-Engineer_565908-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Firmware-Engineer_575287-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Philips was posted on 2026-02-23.
+This embedded / firmware engineer position at Philips was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

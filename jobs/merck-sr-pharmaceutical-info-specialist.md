@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jinan, Shandong, China |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shandong---Jinan-Enterprise-Square/Sr-Pharmaceutical-Info-Specialist_R391084-2) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Zhejiang---Hangzhou-Zhejiang-Fo/Sr-Pharmaceutical-Info-Specialist_R391838-1) |
 
 ## About This Role
 
-This account executive position at Merck was posted on 2026-03-26.
+This account executive position at Merck was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Trust & Safety |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204845/investigation-associate-middle-mile-product-technology) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10380961/investigation-associate-middle-mile-product-technology) |
 
 ## About This Role
 
-This trust & safety position at Amazon was posted on 2026-03-14.
+This trust & safety position at Amazon was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

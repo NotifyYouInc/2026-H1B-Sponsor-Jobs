@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 6 locations |
+| Location | 9 locations |
 | Category | Legal |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/AUS---Adelaide---11-Waymouth-Street/Dispute-Resolution-Specialist_351996) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/AUS---Adelaide---11-Waymouth-Street/Dispute-Resolution-Specialist_353083) |
 
 ## About This Role
 
-This legal position at QBE Insurance was posted on 2026-03-12.
+This legal position at QBE Insurance was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

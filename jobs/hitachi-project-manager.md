@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Ludvika, Dalarna, Sweden |
 | Category | Project Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/Energy-System-Project-Management-Specialist-Professional_R0097586) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Project-Manager_R0111226) |
 
 ## About This Role
 
-This project manager position at Hitachi was posted on 2026-03-16.
+This project manager position at Hitachi was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
