@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Account Manager |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/MEX---Nuevo-Len---Monterrey/Key-Account-Manager_436462) |
+| Location | Mexico |
+| Category | Account Executive |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Field-Worker---MEX/Key-Account-Manager_437462-1) |
 
 ## About This Role
 
-This account manager position at GSK was posted on 2026-02-28.
+This account executive position at GSK was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

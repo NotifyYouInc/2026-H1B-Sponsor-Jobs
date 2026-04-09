@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Integration-Engineer_ATCI-5090134-S1885899-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Integration-Engineer_ATCI-5487153-S2010216-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-04-01.
+This technology / it consulting position at Accenture was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

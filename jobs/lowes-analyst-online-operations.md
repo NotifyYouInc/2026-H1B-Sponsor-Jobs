@@ -1,16 +1,16 @@
-# Analyst_Online Operations at Lowe's
+# Analyst-Online Operations at Lowe's
 
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Analyst-Online-Operations_JR-02331826) |
+| Category | Project Manager |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Analyst-Online-Operations_JR-02349825-1) |
 
 ## About This Role
 
-This business analyst position at Lowe's was posted on 2026-03-02.
+This project manager position at Lowe's was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

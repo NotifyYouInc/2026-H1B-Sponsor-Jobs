@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7602354?gh_jid=7602354) |
+| Category | Frontend Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7593685?gh_jid=7593685) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-02-25.
+This frontend engineer position at Okta was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunbelt Rentals](https://scoutify.ai/companies/sunbelt-rentals?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Amarillo, Texas, United States |
+| Location | Kapolei, Hawaii, United States |
 | Category | Account Executive |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Amarillo-TX-79118/Equipment-Rental-Specialist_2026-5513) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Kapolei-HI-96707/Equipment-Rental-Specialist_2026-2105) |
 
 ## About This Role
 
-This account executive position at Sunbelt Rentals was posted on 2026-03-31.
+This account executive position at Sunbelt Rentals was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

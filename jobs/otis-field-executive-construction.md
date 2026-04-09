@@ -1,16 +1,16 @@
-# Field executive-Construction at Otis
+# Field Executive Construction at Otis
 
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Project Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/Godrej-Genesis-Smart-Works-7th-Floor-Plot-No-XI-Block-EP--GP-Sector-V-Salt-Lake-City-BidhannagarKOLKATA-700091-India/Field-executive-Construction_20154352) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/Wester-Region---9th-Floor-Magnus-Tower-Mindspace-Link-Road-Malad-West-MUMBAI-400064-India/Field-Executive-Construction_20153582-1) |
 
 ## About This Role
 
-This project manager position at Otis was posted on 2026-03-23.
+This electrical / hardware engineer position at Otis was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

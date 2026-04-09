@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
+| Location | India |
 | Category | Marketing |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Technical-Marketing-Engineer_2009000) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Technical-Marketing-Engineer_2011421-1) |
 
 ## About This Role
 
-This marketing position at Cisco was posted on 2026-02-17.
+This marketing position at Cisco was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

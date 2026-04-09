@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Pune, Maharashtra, India |
 | Category | Legal |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/St-Leonards-Australia/Counsel_R-270306) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Counsel_R-274386) |
 
 ## About This Role
 
-This legal position at Mastercard was posted on 2026-02-20.
+This legal position at Mastercard was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
