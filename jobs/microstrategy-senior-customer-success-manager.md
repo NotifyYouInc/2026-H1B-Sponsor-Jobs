@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Virginia, US |
 | Category | Customer Success |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000115580927-senior-customer-success-manager) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000118542347-senior-customer-success-manager) |
 
 ## About This Role
 
-This customer success position at MicroStrategy was posted on 2026-03-19.
+This customer success position at MicroStrategy was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Virginia, US |
 | Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000114760957-customer-success-manager) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000118544937-customer-success-manager) |
 
 ## About This Role
 
-This customer success position at MicroStrategy was posted on 2026-03-13.
+This customer success position at MicroStrategy was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

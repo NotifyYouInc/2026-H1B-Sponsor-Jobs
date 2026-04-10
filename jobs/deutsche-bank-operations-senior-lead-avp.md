@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Know-Pk-B7/Operations-Senior-Lead--AVP_R0431630) |
+| Location | Jaipur, Rajasthan, India |
+| Category | Project Manager |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Operations-Senior-Lead--AVP_R0429961) |
 
 ## About This Role
 
-This compliance & risk management position at Deutsche Bank was posted on 2026-04-02.
+This project manager position at Deutsche Bank was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

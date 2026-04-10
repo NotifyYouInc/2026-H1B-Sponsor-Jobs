@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Business-Architect_ATCI-5508140-S2010174) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Business-Architect_ATCI-4959849-S1855442-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Accenture was posted on 2026-04-02.
+This strategy / management consulting position at Accenture was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

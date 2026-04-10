@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Financial-Crimes-Associate_R-527471) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Financial-Crimes-Associate_R-530669-1) |
 
 ## About This Role
 
-This financial crimes & aml position at Wells Fargo was posted on 2026-03-30.
+This financial crimes & aml position at Wells Fargo was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

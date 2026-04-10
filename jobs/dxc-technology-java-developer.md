@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---JAL---GUADALAJARA/Java-Developer_51572576) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Java-Developer_51576735) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-02-17.
+This software engineer position at DXC Technology was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000117558987-lead-associate-operations) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000118547077-lead-associate-operations) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-03-30.
+This corporate finance position at WNS was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
