@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | 2 locations |
 | Category | Program Manager |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/US-CA---Santa-Clara/Silicon-Principal-Program-Manager--Cloud-Data-Center-_2502827) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Principal-Program-Manager--Hyperscaler-Cloud-Data-Center---full-lifecycle-program-ownership-_2601090) |
 
 ## About This Role
 
-This program manager position at Marvell was posted on 2026-03-07.
+This program manager position at Marvell was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

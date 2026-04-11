@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
-| Category | Trust & Safety |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7616055234381072645/detail) |
+| Location | Washington, District of Columbia, United States |
+| Category | Project Manager |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7616055258393282869/detail) |
 
 ## About This Role
 
-This trust & safety position at TikTok was posted on 2026-03-19.
+This project manager position at TikTok was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

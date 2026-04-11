@@ -6,7 +6,7 @@
 | Location | Virginia, US |
 | Category | Customer Success |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000118544937-customer-success-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000118655142-customer-success-manager) |
 
 ## About This Role
 

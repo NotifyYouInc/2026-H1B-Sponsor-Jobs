@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | 2 locations |
 | Category | Learning & Development |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Portland-OR/Quality-Workplace-Coach_JR2026501064-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Quality-Workplace-Coach_JR2026503169-2) |
 
 ## About This Role
 
-This learning & development position at Boeing was posted on 2026-03-30.
+This learning & development position at Boeing was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

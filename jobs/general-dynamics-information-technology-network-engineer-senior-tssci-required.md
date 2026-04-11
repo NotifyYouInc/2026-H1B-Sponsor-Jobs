@@ -1,16 +1,16 @@
-# Network Engineer Senior – TS/SCI required at General Dynamics Information Technology
+# Network Engineer Senior – TS/SCI Required at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Washington, US |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-WA-Fort-Lewis/Network-Engineer-Senior---TS-SCI-required_RQ214778) |
+| Location | Savannah, Georgia, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-GA-Savannah/Network-Engineer-Senior---TS-SCI-Required_RQ217498-1) |
 
 ## About This Role
 
-This technical & solutions architect position at General Dynamics Information Technology was posted on 2026-02-12.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

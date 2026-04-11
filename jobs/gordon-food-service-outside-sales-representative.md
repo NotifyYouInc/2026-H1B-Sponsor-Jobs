@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gordon Food Service](https://scoutify.ai/companies/gordon-food-service?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Imperial-Pennsylvania/Outside-Sales-Representative_R-48206-1) |
+| Category | Account Executive |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Youngstown-Ohio/Outside-Sales-Representative_R-50519-1) |
 
 ## About This Role
 
-This business development position at Gordon Food Service was posted on 2026-02-06.
+This account executive position at Gordon Food Service was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
