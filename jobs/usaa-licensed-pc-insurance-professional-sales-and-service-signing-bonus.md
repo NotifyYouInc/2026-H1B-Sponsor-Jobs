@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Chesapeake, Virginia, United States |
 | Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Phoenix-Campus-Main/Licensed-P-C-Insurance-Professional---Sales-and-Service--Signing-Bonus-_R0116799) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/CVAVA-Crossways-I--II/Licensed-P-C-Insurance-Professional---Sales-and-Service--Signing-Bonus-_R0116827) |
 
 ## About This Role
 
-This account executive position at USAA was posted on 2026-04-03.
+This account executive position at USAA was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Guangzhou, Guangdong, China |
 | Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012442646-sr-professional-medical-representative) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012459686-sr-professional-medical-representative) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-03.
+This account executive position at AbbVie was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Delhi, Delhi, India |
 | Category | Account Executive |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Delhi/Healthcare-Executive_4954190) |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Delhi/Healthcare-Executive_4954815) |
 
 ## About This Role
 
-This account executive position at Pfizer was posted on 2026-03-24.
+This account executive position at Pfizer was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

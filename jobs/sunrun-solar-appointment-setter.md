@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Merrimack, New Hampshire, United States |
+| Location | San Ramon, California, United States |
 | Category | Business Development |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/NH-Merrimack/Solar-Appointment-Setter_R59893) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-San-Ramon/Retail-Specialist_R59387) |
 
 ## About This Role
 
-This business development position at Sunrun was posted on 2026-03-20.
+This business development position at Sunrun was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

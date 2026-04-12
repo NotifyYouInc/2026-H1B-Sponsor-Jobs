@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Virginia, US |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Customer Success |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000118655367-senior-customer-success-manager) |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000118715365-senior-customer-success-manager) |
 
 ## About This Role
 
-This customer success position at MicroStrategy was posted on 2026-04-03.
+This customer success position at MicroStrategy was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 
