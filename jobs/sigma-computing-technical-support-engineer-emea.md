@@ -5,12 +5,12 @@
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639848003) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690416003) |
 
 ## About This Role
 
-This customer success position at Sigma Computing was posted on 2026-02-23.
+This customer success position at Sigma Computing was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

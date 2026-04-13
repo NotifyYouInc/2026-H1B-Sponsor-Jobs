@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Quality-Engineer--Tester-_ATCI-5401275-S1973119-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | QA Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Quality-Engineer--Tester-_ATCI-5492896-S2003206-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-03.
+This qa engineer position at Accenture was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

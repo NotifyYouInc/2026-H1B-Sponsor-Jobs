@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Thāne, Maharashtra, India |
 | Category | Industrial Automation |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3206322/reliability-maintenance-engineer) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10383732/reliability-maintenance-engineer) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-03-17.
+This industrial automation position at Amazon was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

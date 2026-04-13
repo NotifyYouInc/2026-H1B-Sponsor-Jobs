@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Field-Worker---IND-Rx/Business-Executive---Mumbai_434972) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Field-Worker---IND-Rx/Business-Executive---Mumbai_438851) |
 
 ## About This Role
 
-This account executive position at GSK was posted on 2026-02-23.
+This account executive position at GSK was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hanoi, Hanoi, Vietnam |
 | Category | Marketing |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Vietnam---Hanoi/CVMD-Brand-Communication-Manager--vaccine----Hanoi_433407-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Vietnam---Hanoi/CVMD-Brand-Communication-Manager--vaccine----Hanoi_433405-1) |
 
 ## About This Role
 
-This marketing position at GSK was posted on 2026-03-05.
+This marketing position at GSK was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

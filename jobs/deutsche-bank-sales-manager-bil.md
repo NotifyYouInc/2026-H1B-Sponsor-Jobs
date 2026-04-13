@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New Delhi, Delhi, India |
-| Category | Account Executive |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-Delhi-18--20-Kasturba-GM/Sales-Manager---BIL_R0425237) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Account Manager |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Knowledge-Pk-B1/Sales-Manager---BIL_R0430742) |
 
 ## About This Role
 
-This account executive position at Deutsche Bank was posted on 2026-04-05.
+This account manager position at Deutsche Bank was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

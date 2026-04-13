@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4789959101?gh_jid=4789959101) |
+| Category | Data Scientist |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4830425101?gh_jid=4830425101) |
 
 ## About This Role
 
-This machine learning engineer position at NiCE was posted on 2026-02-26.
+This data scientist position at NiCE was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

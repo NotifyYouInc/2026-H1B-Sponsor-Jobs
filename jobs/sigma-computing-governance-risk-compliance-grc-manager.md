@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7657088003) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690372003) |
 
 ## About This Role
 
-This compliance & risk management position at Sigma Computing was posted on 2026-03-09.
+This compliance & risk management position at Sigma Computing was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

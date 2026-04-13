@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Robotics Engineer |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Autonomy-Project-Team-Lead_R0000360441) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Engineering Manager |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Autonomy-Project-Team-Lead_R0000360200) |
 
 ## About This Role
 
-This robotics engineer position at Caterpillar was posted on 2026-03-28.
+This engineering manager position at Caterpillar was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Quality-Engineer-II_R61826-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | QA Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Quality-Engineer-II_R63244-1) |
 
 ## About This Role
 
-This compliance & risk management position at Medtronic was posted on 2026-03-25.
+This qa engineer position at Medtronic was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

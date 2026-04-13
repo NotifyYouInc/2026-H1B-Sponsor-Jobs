@@ -1,16 +1,16 @@
-# Medical Business Associate - Delhi at GSK
+# Medical Business Associate- Delhi at GSK
 
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Delhi, Delhi, India |
 | Category | Account Executive |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Field-Worker---IND-Rx/Medical-Business-Associate---Delhi_434863) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Field-Worker---IND-Rx/Medical-Business-Associate--Delhi_438882) |
 
 ## About This Role
 
-This account executive position at GSK was posted on 2026-02-19.
+This account executive position at GSK was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

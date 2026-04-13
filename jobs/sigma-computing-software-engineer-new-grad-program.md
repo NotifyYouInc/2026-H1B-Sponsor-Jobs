@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639838003) |
+| Category | Leadership Development Program |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003) |
 
 ## About This Role
 
-This frontend engineer position at Sigma Computing was posted on 2026-02-23.
+This leadership development program position at Sigma Computing was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

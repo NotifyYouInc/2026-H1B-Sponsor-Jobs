@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | National Capital Region, PH |
 | Category | Corporate Finance |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/Finance---Accounting-Intern_JR-202602842) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/Finance---Accounting-Intern_JR-202607421) |
 
 ## About This Role
 
-This corporate finance position at General Motors was posted on 2026-02-19.
+This corporate finance position at General Motors was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

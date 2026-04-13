@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10378693/software-development-manager) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10383660/software-development-manager) |
 
 ## About This Role
 
-This engineering manager position at Amazon was posted on 2026-03-28.
+This engineering manager position at Amazon was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

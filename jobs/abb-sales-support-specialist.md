@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xiamen, Fujian, China |
-| Category | Product Marketing Management |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Sales-Support-Specialist_JR00023697) |
+| Location | Karnataka, IN |
+| Category | Sales Engineer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Sales-Support-Specialist_JR00025596) |
 
 ## About This Role
 
-This product marketing management position at ABB was posted on 2026-02-09.
+This sales engineer position at ABB was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

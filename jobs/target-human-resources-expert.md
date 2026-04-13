@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bakersfield, California, United States |
+| Location | Watertown, Massachusetts, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/11000-Stockdale-Hwy-BakersfieldCA-93311-3635/Human-Resources-Expert_R0000433618) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/2000-9th-Ave-SE-WatertownSD-57201-5352/Human-Resources-Expert_R0000434269-1) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-03-30.
+This human resources / people ops position at Target was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

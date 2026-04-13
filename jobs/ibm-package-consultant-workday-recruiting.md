@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Location | India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100515) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=39801) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-03-10.
+This technology / it consulting position at IBM was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

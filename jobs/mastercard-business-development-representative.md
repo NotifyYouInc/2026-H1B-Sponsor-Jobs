@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Business Development |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Kuala-Lumpur-Malaysia/Business-Development-Representative_R-273679) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Kuala-Lumpur-Malaysia/Business-Development-Representative_R-274672) |
 
 ## About This Role
 
-This business development position at Mastercard was posted on 2026-03-23.
+This business development position at Mastercard was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-#  Senior Partner Engineer, Snowflake Alliance at Sigma Computing
+# Senior Partner Engineer, Snowflake Alliance at Sigma Computing
 
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Business Development |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7652019003) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690383003) |
 
 ## About This Role
 
-This business development position at Sigma Computing was posted on 2026-03-04.
+This technical & solutions architect position at Sigma Computing was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
