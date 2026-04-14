@@ -5,12 +5,12 @@
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Sydney/Senior-Account-Executive--MSE--GTS_107809-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Sydney/Senior-Account-Executive--MSE--GTS_108530-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-02-24.
+This account executive position at Gartner was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Ramon, California, United States |
+| Location | North Las Vegas, Nevada, United States |
 | Category | Business Development |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-San-Ramon/Retail-Specialist_R59387) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/NV-North-Las-Vegas/Solar-Appointment-Setter_R62003) |
 
 ## About This Role
 
-This business development position at Sunrun was posted on 2026-04-04.
+This business development position at Sunrun was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

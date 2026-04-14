@@ -1,16 +1,16 @@
-# Equipment Rental Specialist at Sunbelt Rentals
+# Equipment rental specialist at Sunbelt Rentals
 
 | Field | Details |
 |-------|---------|
 | Company | [Sunbelt Rentals](https://scoutify.ai/companies/sunbelt-rentals?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noblesville, Indiana, United States |
+| Location | Woodland, California, United States |
 | Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Noblesville-IN-46060/Equipment-Rental-Specialist_2026-5819) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Woodland-CA-95695/Equipment-rental-specialist_2026-5950) |
 
 ## About This Role
 
-This account executive position at Sunbelt Rentals was posted on 2026-04-03.
+This account executive position at Sunbelt Rentals was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

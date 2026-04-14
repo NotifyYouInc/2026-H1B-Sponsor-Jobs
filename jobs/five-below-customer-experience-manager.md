@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Five Below](https://scoutify.ai/companies/five-below?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Texas, US |
+| Location | United States |
 | Category | Customer Success |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://fivebelow.wd1.myworkdayjobs.com/fivebelowcareers/job/Mont-Belvieu-TX-77523/Customer-experience-manager_JR81593) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://fivebelow.wd1.myworkdayjobs.com/fivebelowcareers/job/Monticello-NY-12701/Customer-Experience-Manager_JR84881) |
 
 ## About This Role
 
-This customer success position at Five Below was posted on 2026-02-14.
+This customer success position at Five Below was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

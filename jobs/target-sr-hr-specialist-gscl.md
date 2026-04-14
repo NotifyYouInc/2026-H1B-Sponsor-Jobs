@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rialto, California, United States |
+| Location | Ohio, US |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/3110-N-Alder-Ave-RialtoCA-92377-4902/Sr-HR-Specialist-GSCL_R0000432736-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1-Walker-Way-West-JeffersonOH-43162-9406/Sr-HR-Specialist-GSCL_R0000433868) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-03-27.
+This human resources / people ops position at Target was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

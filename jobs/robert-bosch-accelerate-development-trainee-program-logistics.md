@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mexico |
-| Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109099056-accelerate-development-trainee-program-logistics) |
+| Category | Leadership Development Program |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118921448-accelerate-development-trainee-program-logistics) |
 
 ## About This Role
 
-This operations position at Robert Bosch was posted on 2026-02-12.
+This leadership development program position at Robert Bosch was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

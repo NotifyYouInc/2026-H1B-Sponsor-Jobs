@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556753336) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556640672) |
 
 ## About This Role
 

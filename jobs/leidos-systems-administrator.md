@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Eagan, Minnesota, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Systems-Administrator_R-00173721-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Systems-Administrator_R-00180024) |
 
 ## About This Role
 
-This it & systems administration position at Leidos was posted on 2026-02-17.
+This it & systems administration position at Leidos was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

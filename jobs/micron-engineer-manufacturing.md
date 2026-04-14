@@ -1,16 +1,16 @@
-# Engineer Manufacturing at Micron
+# Engineer, Manufacturing at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sānand, Gujarat, India |
-| Category | Project Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---MIB---Mini-Pioneer-India/Engineer-Manufacturing_JR94697-1) |
+| Category | Industrial Automation |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---MIB---Mini-Pioneer-India/Engineer--Manufacturing_JR87890) |
 
 ## About This Role
 
-This project manager position at Micron was posted on 2026-03-16.
+This industrial automation position at Micron was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

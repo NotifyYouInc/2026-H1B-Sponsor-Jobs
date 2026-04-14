@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Lafayette, Louisiana, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tokyo-Tokyo-Japan/Sr-Regulatory-Affairs-Specialist--CMRA---Tokyo-_R60600-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Regulatory-Affairs-Spec_R59390-1) |
 
 ## About This Role
 
-This compliance & risk management position at Medtronic was posted on 2026-03-04.
+This compliance & risk management position at Medtronic was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

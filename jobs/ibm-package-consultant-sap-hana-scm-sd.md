@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bhubaneswar, Odisha, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90694) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=75624) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-03-27.
+This technology / it consulting position at IBM was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
