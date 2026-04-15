@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/86755527740007110-associate-deal-pricing-and-monetization-workspace?sort_by=date&page=1) |
+| Category | Operations |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfCmDjXZwTW0_wVpJWOFV47bV4-RQvkz489SRN2EZTMUEjsACxwdTO3MeuPWP-mTeM74wowArHyAFC9V912VtZI79csQcqoStx7L5NOB8VkRkpuM9F-q-cSWmFhHdQ%3D%3D_V2&loc=MX&title=Associate) |
 
 ## About This Role
 
-This business analyst position at Google was posted on 2026-02-26.
+This operations position at Google was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

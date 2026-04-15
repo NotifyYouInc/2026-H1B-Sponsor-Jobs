@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
-| Category | Sales Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Upmarket-Solutions-Engineer_R18502-1) |
+| Location | United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Upmarket-Solutions-Engineer_R18945-1) |
 
 ## About This Role
 
-This sales engineer position at Zoom was posted on 2026-02-11.
+This technical & solutions architect position at Zoom was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

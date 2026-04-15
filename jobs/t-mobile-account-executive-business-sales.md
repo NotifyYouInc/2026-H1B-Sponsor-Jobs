@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Redmond, Washington, United States |
 | Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Account-Executive--Business-Sales_REQ342674) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Oregon/Account-Executive--Business-Sales_REQ350801) |
 
 ## About This Role
 
-This account executive position at T-Mobile was posted on 2026-02-20.
+This account executive position at T-Mobile was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

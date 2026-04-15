@@ -1,12 +1,12 @@
-# Account Operations Specialist II - (Manheim) at Cox
+# Account Operations Specialist II (Manheim) at Cox
 
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New Jersey, US |
+| Location | College Park, Maryland, United States |
 | Category | Account Manager |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Bordentown-NJ/Account-Operations-Specialist-II----Manheim-_R202674037) |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/College-Park-GA/Account-Operations-Specialist-II--Manheim-_R202675535) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Youngstown, Ohio, United States |
-| Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Youngstown-OH-USA/Sales-Manager_R-168553) |
+| Location | Jefferson City, Missouri, United States |
+| Category | Sales Leadership |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Jefferson-City-MO-USA/Sales-Manager_R-172809) |
 
 ## About This Role
 
-This sales position at Republic Services was posted on 2026-02-05.
+This sales leadership position at Republic Services was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

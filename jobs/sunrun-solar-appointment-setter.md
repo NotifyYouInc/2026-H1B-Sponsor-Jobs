@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | North Las Vegas, Nevada, United States |
+| Location | Spring, Texas, United States |
 | Category | Business Development |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/NV-North-Las-Vegas/Solar-Appointment-Setter_R62003) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/TX-Spring/Solar-Appointment-Setter_R62098) |
 
 ## About This Role
 
-This business development position at Sunrun was posted on 2026-04-06.
+This business development position at Sunrun was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

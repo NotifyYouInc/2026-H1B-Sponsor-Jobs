@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Canada |
+| Location | Maple Ridge, British Columbia, Canada |
 | Category | Account Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/77-WOODLAND-DRHAY-RIVER/Banking-Advisor_R-0000166612) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MAPLE-RIDGE-British-Columbia-Canada/Banking-Advisor_R-0000166613) |
 
 ## About This Role
 
-This account manager position at Royal Bank of Canada was posted on 2026-04-06.
+This account manager position at Royal Bank of Canada was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gordon Food Service](https://scoutify.ai/companies/gordon-food-service?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | South Carolina, US |
 | Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Youngstown-Ohio/Outside-Sales-Representative_R-50519-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Fort-Mill-South-Carolina/Outside-Sales-Representative_R-50586-1) |
 
 ## About This Role
 
-This account executive position at Gordon Food Service was posted on 2026-04-03.
+This account executive position at Gordon Food Service was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

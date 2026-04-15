@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Garden City, Kansas, United States |
-| Category | Business Development |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Garden-City/Advisor-Development-Program-Client-Associate_26000638) |
+| Location | Atlanta, Georgia, United States |
+| Category | Corporate Finance |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Atlanta/Advisor-Development-Program-Client-Associate_26012770) |
 
 ## About This Role
 
-This business development position at Bank of America was posted on 2026-02-20.
+This corporate finance position at Bank of America was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

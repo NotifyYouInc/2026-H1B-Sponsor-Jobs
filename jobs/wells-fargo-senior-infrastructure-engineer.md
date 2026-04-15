@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Infrastructure-Engineer_R-525780-1) |
+| Location | 4 locations |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WEST-DES-MOINES-IA/Senior-Infrastructure-Engineer_R-534608-1) |
 
 ## About This Role
 
-This frontend engineer position at Wells Fargo was posted on 2026-03-05.
+This it & systems administration position at Wells Fargo was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

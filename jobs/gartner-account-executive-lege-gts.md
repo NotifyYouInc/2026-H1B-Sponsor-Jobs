@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Illinois, US |
+| Location | Solna, Stockholm, Sweden |
 | Category | Account Executive |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Illinois/Account-Executive--LE-GE--GTS_108258) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Solna/Account-Executive--LE-GE--GTS_109574-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-04-04.
+This account executive position at Gartner was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ludvika, Dalarna, Sweden |
+| Location | Raleigh, North Carolina, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Project-Technical-Engineer_R0121044) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Project-Technical-Engineer_R0113094) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-03-20.
+This electrical / hardware engineer position at Hitachi was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

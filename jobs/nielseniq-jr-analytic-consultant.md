@@ -1,16 +1,16 @@
-# Jr Analytic Consultant at NielsenIQ
+# Jr. Analytic Consultant at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000117460317-jr-analytic-consultant) |
+| Location | Mexico |
+| Category | Data Analyst |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000119238712-jr-analytic-consultant) |
 
 ## About This Role
 
-This strategy / management consulting position at NielsenIQ was posted on 2026-03-29.
+This data analyst position at NielsenIQ was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

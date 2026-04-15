@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kingston, Ontario, Canada |
+| Location | Edmonton, Alberta, Canada |
 | Category | Customer Success |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Kingston-Ontario/Customer-Experience-Associate_R_1482010) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Edmonton-Alberta/Customer-Experience-Associate_R_1479553) |
 
 ## About This Role
 

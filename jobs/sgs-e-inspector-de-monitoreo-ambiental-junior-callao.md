@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Callao, Callao, Peru |
 | Category | ESG / Sustainability |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000118953617-e-inspector-de-monitoreo-ambiental-junior-callao) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000119242012-e-inspector-de-monitoreo-ambiental-junior-callao) |
 
 ## About This Role
 
-This esg / sustainability position at SGS was posted on 2026-04-06.
+This esg / sustainability position at SGS was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

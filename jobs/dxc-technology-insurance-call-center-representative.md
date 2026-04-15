@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Austin, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---TN---NASHVILLE/Insurance-Call-Center-Representative_51570878) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---TX---AUSTIN/Insurance-Call-Center-Representative_51577424) |
 
 ## About This Role
 
-This customer success position at DXC Technology was posted on 2026-04-06.
+This customer success position at DXC Technology was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

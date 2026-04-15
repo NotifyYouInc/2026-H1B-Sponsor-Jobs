@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Portland, Oregon, United States |
-| Category | Business Development |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Portland-Oregon/Business-Sales-Account-Manager_R-1091060-1) |
+| Location | 3 locations |
+| Category | Account Manager |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Providence-Rhode-Island/Business-Sales-Account-Manager_R-1093302) |
 
 ## About This Role
 
-This business development position at Verizon was posted on 2026-02-12.
+This account manager position at Verizon was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

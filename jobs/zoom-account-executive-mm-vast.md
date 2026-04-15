@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Denver-CO/Account-Executive---MM-VAST_R18432-1) |
+| Location | San Jose, California, United States |
+| Category | Account Executive |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Account-Executive---MM-VAST_R18654) |
 
 ## About This Role
 
-This sales position at Zoom was posted on 2026-02-06.
+This account executive position at Zoom was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

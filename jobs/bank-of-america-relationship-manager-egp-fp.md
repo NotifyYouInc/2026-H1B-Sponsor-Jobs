@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tacoma, Washington, United States |
+| Location | Portland, Oregon, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Tacoma/Relationship-Manager---EGP--FP-_26011914) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Portland/Relationship-Manager---EGP--FP-_26012771) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-03-30.
+This corporate finance position at Bank of America was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
