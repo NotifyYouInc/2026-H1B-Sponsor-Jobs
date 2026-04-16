@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Financial-Crimes-Specialist_R-531996) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Financial-Crimes-Specialist_R-532081) |
 
 ## About This Role
 
-This financial crimes & aml position at Wells Fargo was posted on 2026-03-30.
+This financial crimes & aml position at Wells Fargo was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

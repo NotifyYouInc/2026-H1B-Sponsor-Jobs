@@ -1,16 +1,16 @@
-# Product Marketing Manager - TikTok Operations at TikTok
+# Product Marketing Manager, TikTok Operations at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Los Angeles, California, United States |
 | Category | Marketing |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7611016928481298693/detail) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7626450860473731381/detail) |
 
 ## About This Role
 
-This marketing position at TikTok was posted on 2026-03-03.
+This marketing position at TikTok was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

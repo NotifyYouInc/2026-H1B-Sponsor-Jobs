@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Account-Development-Representative_R241816) |
+| Location | Courbevoie, Île-de-France, France |
+| Category | Business Development |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/FR-Courbevoie-France-Rue-du-Gnral-Audran/Account-Development-Representative_R242672-1) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-02-20.
+This business development position at Arrow Electronics was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

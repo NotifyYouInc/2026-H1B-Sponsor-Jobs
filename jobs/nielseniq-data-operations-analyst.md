@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Subang Jaya, Selangor, Malaysia |
-| Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000117166889-data-operations-analyst) |
+| Category | Data Analyst |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000119524117-data-operations-analyst) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-03-27.
+This data analyst position at NielsenIQ was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

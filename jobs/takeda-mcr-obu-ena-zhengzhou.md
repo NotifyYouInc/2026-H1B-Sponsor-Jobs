@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Zhengzhou, Henan, China |
-| Category | Marketing |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/CHN--Zhengzhou---Commercial/MCR--OBU--ENA--Zhengzhou_R0172330) |
+| Category | Account Manager |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/CHN--Zhengzhou---Commercial/MCR--OBU--ENA--Zhengzhou_R0178033) |
 
 ## About This Role
 
-This marketing position at Takeda was posted on 2026-03-27.
+This account manager position at Takeda was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

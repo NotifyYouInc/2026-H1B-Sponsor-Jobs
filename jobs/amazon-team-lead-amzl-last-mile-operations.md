@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
-| Category | Operations |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3195359/team-lead-amzl-last-mile-operations) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Leadership Development Program |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10386845/team-lead-amzl-last-mile-operations) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-03-04.
+This leadership development program position at Amazon was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
