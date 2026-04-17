@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Irvine, California, United States |
-| Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Environmental-Health-and-Safety--EHS--Internship--Summer-2026_Req-45935) |
+| Category | ESG / Sustainability |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Environmental-Health-and-Safety--EHS--Internship--Summer-2026_Req-46251) |
 
 ## About This Role
 
-This data analyst position at Edwards Lifesciences was posted on 2026-02-26.
+This esg / sustainability position at Edwards Lifesciences was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

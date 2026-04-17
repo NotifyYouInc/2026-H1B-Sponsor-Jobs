@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Durango, Colorado, United States |
+| Location | El Paso, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Durango-CO-81301/Customer-Experience-Coordinator_REQ108617) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/El-Paso-TX-79912/Customer-Experience-Coordinator_REQ109215) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-04-07.
+This customer success position at TJX was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

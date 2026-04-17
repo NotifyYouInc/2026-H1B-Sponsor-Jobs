@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nagoya, Aichi, Japan |
+| Location | Fukuoka, Fukuoka, Japan |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nagoya-Aichi-Japan/Sales-Representative--Surgical---Aichi-_R61968-2) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fukuoka-Fukuoka-Japan/Sales-Representative--NV---Kagoshima-_R63864-2) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-03-26.
+This account executive position at Medtronic was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

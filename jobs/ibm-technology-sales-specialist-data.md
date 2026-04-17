@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Account Executive |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97100) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107951) |
 
 ## About This Role
 
-This account executive position at IBM was posted on 2026-03-06.
+This account executive position at IBM was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

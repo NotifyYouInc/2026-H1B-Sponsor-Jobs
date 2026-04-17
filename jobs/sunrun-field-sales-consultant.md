@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fresno, California, United States |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Fresno/Field-Sales-Consultant_R53658) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Stockton/Sales-Expert_R56724-1) |
 
 ## About This Role
 
-This account executive position at Sunrun was posted on 2026-04-04.
+This account executive position at Sunrun was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

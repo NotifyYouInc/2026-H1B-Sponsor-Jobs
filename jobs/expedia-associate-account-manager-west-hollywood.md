@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | West Hollywood, Florida, United States |
-| Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---West-Hollywood/Associate-Account-Manager---West-Hollywood_R-102215) |
+| Category | Account Manager |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---West-Hollywood/Associate-Account-Manager---West-Hollywood_R-104605) |
 
 ## About This Role
 
-This customer success position at Expedia was posted on 2026-02-11.
+This account manager position at Expedia was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

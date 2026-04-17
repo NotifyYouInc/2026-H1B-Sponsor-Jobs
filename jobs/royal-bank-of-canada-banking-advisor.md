@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Maple Ridge, British Columbia, Canada |
+| Location | Timmins, Ontario, Canada |
 | Category | Account Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MAPLE-RIDGE-British-Columbia-Canada/Banking-Advisor_R-0000166613) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TIMMINS-Ontario-Canada/Banking-Advisor_R-0000167113-1) |
 
 ## About This Role
 
-This account manager position at Royal Bank of Canada was posted on 2026-04-07.
+This account manager position at Royal Bank of Canada was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Account Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Seoul---South-Korea/Sales-Account-Manager_R2026-1244) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Seoul---South-Korea/Sales-Account-Manager_R2026-1278) |
 
 ## About This Role
 
-This account manager position at BorgWarner was posted on 2026-04-07.
+This account manager position at BorgWarner was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

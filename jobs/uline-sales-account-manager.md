@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kansas City, Missouri, United States |
-| Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Kansas-City-MO/Sales-Account-Manager_R262590-1) |
+| Location | 2 locations |
+| Category | Account Manager |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Plano-TX/Sales-Account-Manager_R262891-1) |
 
 ## About This Role
 
-This account executive position at Uline was posted on 2026-03-27.
+This account manager position at Uline was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

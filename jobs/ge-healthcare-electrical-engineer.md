@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | South Korea |
+| Location | Beijing, Beijing, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Seongnam/Electrical-Engineer_R4037088-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/BeiJing/Electrical-Engineer_R4038620-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GE HealthCare was posted on 2026-03-03.
+This electrical / hardware engineer position at GE HealthCare was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
