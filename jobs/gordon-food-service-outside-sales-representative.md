@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gordon Food Service](https://scoutify.ai/companies/gordon-food-service?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | South Carolina, US |
+| Location | Knoxville, Tennessee, United States |
 | Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Fort-Mill-South-Carolina/Outside-Sales-Representative_R-50586-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Knoxville-Tennessee/Outside-Sales-Representative_R-50734-1) |
 
 ## About This Role
 
-This account executive position at Gordon Food Service was posted on 2026-04-07.
+This account executive position at Gordon Food Service was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

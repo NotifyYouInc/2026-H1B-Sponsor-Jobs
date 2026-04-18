@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556833873) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556752727) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-03-11.
+This software engineer position at Microsoft was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

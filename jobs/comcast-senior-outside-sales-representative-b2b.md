@@ -1,16 +1,16 @@
-# Senior Outside Sales Representative, B2B at Comcast
+# Senior Outside Sales Representative (B2B) at Comcast
 
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fort Wayne, Indiana, United States |
+| Location | Pennsylvania, US |
 | Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IN---Fort-Wayne-720-Taylor-St/Senior-Outside-Sales-Representative--B2B_R434938) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Greensburg-1241-Business-Route-66/Senior-Outside-Sales-Representative--B2B-_R435208) |
 
 ## About This Role
 
-This account executive position at Comcast was posted on 2026-04-07.
+This account executive position at Comcast was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

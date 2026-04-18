@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Not specified |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200656978/soc-firmware-engineer) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657267/soc-firmware-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Apple was posted on 2026-04-09.
+This embedded / firmware engineer position at Apple was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

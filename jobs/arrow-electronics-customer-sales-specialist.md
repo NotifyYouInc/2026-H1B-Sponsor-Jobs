@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Tlaquepaque-Mexico/Customer-Sales-Specialist_R241615-1) |
+| Location | Downers Grove, Illinois, United States |
+| Category | Account Executive |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Downers-Grove-Illinois/Customer-Sales-Specialist_R243399) |
 
 ## About This Role
 
-This customer success position at Arrow Electronics was posted on 2026-02-12.
+This account executive position at Arrow Electronics was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

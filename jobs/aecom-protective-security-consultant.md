@@ -1,16 +1,16 @@
-# Protective Security Consultant  at AECOM
+# Protective Security Consultant at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000112843757-protective-security-consultant) |
+| Location | Gurugram, Haryana, India |
+| Category | Security Engineer |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120142570-protective-security-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at AECOM was posted on 2026-03-05.
+This security engineer position at AECOM was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

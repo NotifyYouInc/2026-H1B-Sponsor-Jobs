@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tallahassee, Florida, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Tallahassee/Associate--Information-Security_Req1543798) |
+| Location | Quincy, Massachusetts, United States |
+| Category | Security Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Associate--Information-Security_Req1563874) |
 
 ## About This Role
 
-This cybersecurity engineer position at Santander was posted on 2026-02-09.
+This security engineer position at Santander was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

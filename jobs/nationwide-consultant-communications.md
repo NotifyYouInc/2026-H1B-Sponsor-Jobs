@@ -5,12 +5,12 @@
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Marketing |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Consultant--Communications_097335) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Consultant--Communications_097622) |
 
 ## About This Role
 
-This marketing position at Nationwide was posted on 2026-03-21.
+This marketing position at Nationwide was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

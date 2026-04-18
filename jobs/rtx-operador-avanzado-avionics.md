@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mexicali, Baja California, Mexico |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-496--Calzada-Manuel-Gomez-Morin-3200--CALZADA/Operador-Avanzado--Avionics_01822391-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-496--Calzada-Manuel-Gomez-Morin-3200--CALZADA/Operador-Avanzado--Avionics_01835620) |
 
 ## About This Role
 
-This electrical / hardware engineer position at RTX was posted on 2026-04-07.
+This electrical / hardware engineer position at RTX was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
