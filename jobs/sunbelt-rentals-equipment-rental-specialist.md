@@ -1,16 +1,16 @@
-# Equipment rental specialist at Sunbelt Rentals
+# Equipment Rental Specialist at Sunbelt Rentals
 
 | Field | Details |
 |-------|---------|
 | Company | [Sunbelt Rentals](https://scoutify.ai/companies/sunbelt-rentals?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Woodland, California, United States |
+| Location | Escondido, California, United States |
 | Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Woodland-CA-95695/Equipment-rental-specialist_2026-5950) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Escondido-CA-92025/Equipment-Rental-Specialist_2026-6540) |
 
 ## About This Role
 
-This account executive position at Sunbelt Rentals was posted on 2026-04-07.
+This account executive position at Sunbelt Rentals was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

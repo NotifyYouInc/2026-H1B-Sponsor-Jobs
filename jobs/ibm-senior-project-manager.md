@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Project Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94894) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108842) |
 
 ## About This Role
 
-This project manager position at IBM was posted on 2026-02-18.
+This project manager position at IBM was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

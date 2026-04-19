@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Maharashtra, IN |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Test-Engineer-II_J2410913) |
+| Location | India |
+| Category | QA Engineer |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Test-Engineer-II_J2444813) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Jabil was posted on 2026-03-09.
+This qa engineer position at Jabil was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

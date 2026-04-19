@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Virginia, US |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Langley-AFB/Senior-Systems-Engineer_RQ216467-1) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Senior-Systems-Engineer_RQ218057) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-03-14.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

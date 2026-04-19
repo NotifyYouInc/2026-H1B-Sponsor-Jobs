@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Tucson, Arizona, United States |
 | Category | Customer Success |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Product-Service-Engineer_R0000350929) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tucson-Arizona/Product-Service-Engineer_R0000362329) |
 
 ## About This Role
 
-This customer success position at Caterpillar was posted on 2026-03-07.
+This customer success position at Caterpillar was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

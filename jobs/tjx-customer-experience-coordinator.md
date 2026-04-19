@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Savannah, Georgia, United States |
+| Location | Pocatello, Idaho, United States |
 | Category | Customer Success |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Savannah-GA-31406/Customer-Experience-Coordinator_REQ109523-1) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Pocatello-ID-83202/Customer-Experience-Coordinator_REQ109585-1) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-04-10.
+This customer success position at TJX was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Virginia, US |
 | Category | Security Engineer |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Quantico/NCIS-Cyber-Security-Analyst---Active-TS-SCI-clearance_RQ217429-1) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Quantico/NCIS-Cyber-Security-Analyst---Active-TS-SCI-clearance_RQ218233-2) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-03-29.
+This security engineer position at General Dynamics Information Technology was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

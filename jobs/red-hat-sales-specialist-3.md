@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Sales |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Melbourne/Sales-Specialist-3_R-052858-1) |
+| Location | United States |
+| Category | Account Executive |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-MD/Sales-Specialist-3_R-055718-1) |
 
 ## About This Role
 
-This sales position at Red Hat was posted on 2026-02-12.
+This account executive position at Red Hat was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 
