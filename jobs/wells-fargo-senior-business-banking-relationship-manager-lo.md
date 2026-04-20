@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fresno, California, United States |
-| Category | Account Executive |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/FRESNO-CA/Senior-Business-Banking-Relationship-Manager--LO-_R-530993) |
+| Location | Irving, Texas, United States |
+| Category | Account Manager |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Senior-Business-Banking-Relationship-Manager--LO-_R-535867) |
 
 ## About This Role
 
-This account executive position at Wells Fargo was posted on 2026-03-23.
+This account manager position at Wells Fargo was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Johor Bahru, Johor, Malaysia |
 | Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Sales-Specialist_JR00027191-4) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Johor-Bahru-Johor-Malaysia/Sales-Specialist_JR00030870) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-03-30.
+This account executive position at ABB was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

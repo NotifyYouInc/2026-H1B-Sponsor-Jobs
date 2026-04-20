@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000941974-business-analyst) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000992859-business-analyst) |
 
 ## About This Role
 
-This business analyst position at NCS was posted on 2026-03-18.
+This business analyst position at NCS was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

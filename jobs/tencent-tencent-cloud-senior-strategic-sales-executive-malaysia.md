@@ -5,12 +5,12 @@
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Account Executive |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Tencent-Cloud---Senior-Strategic-Sales-Executive--Malaysia-_R106745) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Tencent-Cloud---Senior-Strategic-Sales-Executive--Malaysia-_R107204) |
 
 ## About This Role
 
-This account executive position at Tencent was posted on 2026-03-24.
+This account executive position at Tencent was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

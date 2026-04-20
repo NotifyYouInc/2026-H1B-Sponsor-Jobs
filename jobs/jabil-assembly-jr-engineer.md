@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | Industrial Automation |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Assembly-Jr-Engineer_J2445540) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Assembly-Jr-Engineer_J2446013) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-04-07.
+This industrial automation position at Jabil was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

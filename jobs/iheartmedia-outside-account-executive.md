@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iHeartMedia](https://scoutify.ai/companies/iheartmedia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chesapeake, Virginia, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Account Executive |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Chesapeake-VA-555-Belaire-Ave-23320/Outside-Account-Executive_Req37937-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Columbus-GA/Outside-Account-Executive_Req38344-1) |
 
 ## About This Role
 
-This account executive position at iHeartMedia was posted on 2026-02-21.
+This account executive position at iHeartMedia was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

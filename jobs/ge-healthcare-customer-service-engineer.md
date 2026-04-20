@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kochi, Kerala, India |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Kochi-IND/Customer-Service-Engineer_R4037839-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Customer-Service-Engineer_R4039486-1) |
 
 ## About This Role
 
-This customer success position at GE HealthCare was posted on 2026-03-16.
+This customer success position at GE HealthCare was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Five Below](https://scoutify.ai/companies/five-below?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Frankfort, Kentucky, United States |
+| Location | Johnson City, Tennessee, United States |
 | Category | Customer Success |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://fivebelow.wd1.myworkdayjobs.com/fivebelowcareers/job/Frankfort-KY-40601/Customer-Experience-Manager_JR85256) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://fivebelow.wd1.myworkdayjobs.com/fivebelowcareers/job/Johnson-City-TN-37604/Customer-Experience-Manager_JR85258) |
 
 ## About This Role
 
-This customer success position at Five Below was posted on 2026-04-11.
+This customer success position at Five Below was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

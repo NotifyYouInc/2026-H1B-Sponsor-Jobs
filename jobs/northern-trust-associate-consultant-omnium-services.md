@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
-| Category | Corporate Finance |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant--Omnium-Services_R150754-1) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant--Omnium-Services_R151273-1) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-03-16.
+This strategy / management consulting position at Northern Trust was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vallejo, California, United States |
+| Location | Carlsbad, California, United States |
 | Category | Account Executive |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Vallejo/Sales-Expert_R62308) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Carlsbad/Sales-Expert_R62595) |
 
 ## About This Role
 
-This account executive position at Sunrun was posted on 2026-04-09.
+This account executive position at Sunrun was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hangzhou-Zhejiang-China/Intern_JR00029490-4) |
+| Location | Xiamen, Fujian, China |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Intern_JR00031439-2) |
 
 ## About This Role
 
-This ai / llm engineer position at ABB was posted on 2026-03-23.
+This electrical / hardware engineer position at ABB was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Manager at NielsenIQ
+# Manager  at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114540687-manager) |
+| Category | Project Manager |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120311268-manager) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-03-13.
+This project manager position at NielsenIQ was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

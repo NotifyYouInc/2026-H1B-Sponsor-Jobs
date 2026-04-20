@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New South Wales, AU |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---NSW---MACQUARIE-PARK/Associate-Manager-ERP-Package-Applications_51577222) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Customer Success |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/Associate-Manager-ERP-Package-Applications_51577737) |
 
 ## About This Role
 
-This technology / it consulting position at DXC Technology was posted on 2026-04-07.
+This customer success position at DXC Technology was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

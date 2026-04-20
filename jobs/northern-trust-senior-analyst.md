@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Senior-Analyst_R148644-1) |
+| Location | India |
+| Category | Business Analyst |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Senior-Analyst_R152640-1) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-03-30.
+This business analyst position at Northern Trust was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
