@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Engineering-Services-Lead_ATCI-5450787-S1986424-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Engineering-Services-Lead_ATCI-5491261-S2012208-1) |
 
 ## About This Role
 
-This engineering manager position at Accenture was posted on 2026-04-13.
+This engineering manager position at Accenture was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

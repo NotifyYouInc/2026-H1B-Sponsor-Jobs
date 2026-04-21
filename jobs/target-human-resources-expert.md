@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Anchorage, Alaska, United States |
+| Location | Florence, Alabama, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1200-N-Muldoon-RdSte-F-AnchorageAK-99504-6103/Human-Resources-Expert_R0000434874) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/2791-David-H-Mcleod-Blvd-FlorenceSC-29501-4043/Human-Resources-Expert_R0000435178-1) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-04-13.
+This human resources / people ops position at Target was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

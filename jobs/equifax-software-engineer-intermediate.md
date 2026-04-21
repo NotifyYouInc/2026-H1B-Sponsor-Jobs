@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PTEC/Software-Engineer---Intermediate_J00174069-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Software-Engineer---Intermediate_J00176175) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-11.
+This software engineer position at Equifax was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

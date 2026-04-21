@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Business Development |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Bangalore-India/Client-Manager---Business-Development_R-113113) |
+| Location | New Delhi, Delhi, India |
+| Category | Account Manager |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/New-Delhi-South-Delhi-India/Client-Manager---Business-Development_R-113127) |
 
 ## About This Role
 
-This business development position at Ingram Micro was posted on 2026-02-24.
+This account manager position at Ingram Micro was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

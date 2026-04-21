@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PVH](https://scoutify.ai/companies/pvh?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Brisbane, Queensland, Australia |
 | Category | Business Development |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/NZL-Tommy-Hilfiger-Commercial-Bay-Auckland/Sales-Consultant_R58482) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/AUS-Tommy-Hilfiger-Brisbane-DFO/Sales-Consultant_R57193) |
 
 ## About This Role
 
-This business development position at PVH was posted on 2026-04-09.
+This business development position at PVH was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

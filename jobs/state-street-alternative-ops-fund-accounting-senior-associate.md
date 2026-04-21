@@ -1,16 +1,16 @@
-# Alternative Ops Fund Accounting, Senior Associate at State Street
+# Alternative Ops Fund Accounting- Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Alternative-Ops-Fund-Accounting--Senior-Associate_R-785280) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Alternative-Ops-Fund-Accounting--Senior-Associate_R-787430) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-03-05.
+This corporate finance position at State Street was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

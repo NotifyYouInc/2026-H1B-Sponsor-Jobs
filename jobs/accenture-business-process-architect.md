@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 7 locations |
-| Category | Business Analyst |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Process-Architect_ATCI-5489691-S2003080-1) |
+| Location | 4 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Business-Process-Architect_ATCI-4761174-S1846392-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-11.
+This technology / it consulting position at Accenture was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

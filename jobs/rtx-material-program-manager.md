@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | 2 locations |
 | Category | Program Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Material-Program-Manager_01832099) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Material-Program-Manager_01834064) |
 
 ## About This Role
 
-This program manager position at RTX was posted on 2026-03-31.
+This program manager position at RTX was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

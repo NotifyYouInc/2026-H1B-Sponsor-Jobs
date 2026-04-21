@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Operations |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116318587-associate-manager-eu-rd) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120596917-associate-manager-eu-rd) |
 
 ## About This Role
 
-This operations position at NielsenIQ was posted on 2026-03-24.
+This operations position at NielsenIQ was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Technical-Support-Engineer_R0004466) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Technical-Support-Engineer_R0004618) |
 
 ## About This Role
 
-This customer success position at Qualys was posted on 2026-02-24.
+This customer success position at Qualys was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
