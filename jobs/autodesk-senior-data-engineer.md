@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/APAC---India---Pune/Senior-Software-Engineer--Full-stack---Python--React-_25WD86361-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/APAC---India---Bengaluru---Sunriver/Senior-Data-Engineer_26WD97023-1) |
 
 ## About This Role
 
-This security engineer position at Autodesk was posted on 2026-02-17.
+This data engineer position at Autodesk was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

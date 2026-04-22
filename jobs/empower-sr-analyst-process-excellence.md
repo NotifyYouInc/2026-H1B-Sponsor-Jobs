@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Karnataka, IN |
 | Category | Strategy & Operations |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Analyst-Process-Excellence_R0056130) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Analyst-Process-Excellence_R0057652) |
 
 ## About This Role
 
-This strategy & operations position at Empower was posted on 2026-02-25.
+This strategy & operations position at Empower was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

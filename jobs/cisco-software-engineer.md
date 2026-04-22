@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2006555-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Boulder-Colorado-US/Software-Engineer_2010264-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-04-06.
+This software engineer position at Cisco was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior software Engineer at Autodesk
+# Senior Software Engineer at Autodesk
 
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-software-Engineer_25WD94322-1) |
+| Category | Software Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Software-Engineer_26WD96742-1) |
 
 ## About This Role
 
-This devops engineer position at Autodesk was posted on 2026-02-23.
+This software engineer position at Autodesk was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

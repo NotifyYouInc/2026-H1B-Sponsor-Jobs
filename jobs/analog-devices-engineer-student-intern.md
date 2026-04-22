@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Engineer-Student-Intern_R257514) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Engineer-Student-Intern_R257519) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Analog Devices was posted on 2026-04-14.
+This embedded / firmware engineer position at Analog Devices was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

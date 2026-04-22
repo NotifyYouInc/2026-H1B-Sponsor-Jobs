@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New South Wales, AU |
-| Category | Project Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---NSW---MACQUARIE-PARK/Manager-ERP-Package-Applications_51572937) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Program Manager |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/Manager-ERP-Package-Applications_51578138) |
 
 ## About This Role
 
-This project manager position at DXC Technology was posted on 2026-02-19.
+This program manager position at DXC Technology was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

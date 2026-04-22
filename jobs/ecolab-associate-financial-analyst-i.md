@@ -5,12 +5,12 @@
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Associate-Financial-Analyst-I_R00291010-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Associate-Financial-Analyst-I_R00291007) |
 
 ## About This Role
 
-This corporate finance position at Ecolab was posted on 2026-04-13.
+This corporate finance position at Ecolab was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

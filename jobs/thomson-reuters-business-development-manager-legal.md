@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Hong Kong, Hong Kong |
 | Category | Engineering Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/China-Beijing-Beijing/Business-Development-Manager--Legal_JREQ197898) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Hong-Kong-Hong-Kong/Business-Development-Manager--Legal_JREQ199941) |
 
 ## About This Role
 
-This engineering manager position at Thomson Reuters was posted on 2026-03-06.
+This engineering manager position at Thomson Reuters was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

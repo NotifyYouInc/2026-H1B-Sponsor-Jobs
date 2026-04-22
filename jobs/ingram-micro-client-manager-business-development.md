@@ -1,16 +1,16 @@
-# Client Manager – Business Development at Ingram Micro
+# Client Manager - Business Development at Ingram Micro
 
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Account Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/New-Delhi-South-Delhi-India/Client-Manager---Business-Development_R-113127) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Client-Manager---Business-Development_R-114275) |
 
 ## About This Role
 
-This account manager position at Ingram Micro was posted on 2026-04-14.
+This account manager position at Ingram Micro was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

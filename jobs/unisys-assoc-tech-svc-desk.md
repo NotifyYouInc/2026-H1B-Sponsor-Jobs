@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Mandaluyong City, National Capital Region, Philippines |
 | Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Assoc-Tech-Svc-Desk_REQ572310) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Citynet---Mandaluyong-City/Assoc-Tech-Svc-Desk_REQ572023) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-04-13.
+This customer success position at Unisys was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

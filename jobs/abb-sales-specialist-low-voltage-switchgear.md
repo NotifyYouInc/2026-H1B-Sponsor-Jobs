@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Guangzhou-Guangdong-China/Sales-Specialist---Low-voltage-Switchgear_JR00027894-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Sales-Specialist---Low-voltage-Switchgear_JR00029656-1) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-03-15.
+This account executive position at ABB was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

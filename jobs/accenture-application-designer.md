@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Product Designer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Designer_ATCI-5291591-S1936845-1) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Application-Designer_ATCI-5305360-S1946317-1) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-04-02.
+This business analyst position at Accenture was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

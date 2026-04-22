@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist_R167210-1) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Frontend Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist_R167735) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-03-30.
+This frontend engineer position at Adobe was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

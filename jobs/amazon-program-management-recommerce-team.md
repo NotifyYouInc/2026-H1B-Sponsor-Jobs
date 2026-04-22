@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Program Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10390691/program-management-recommerce-team) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10392434/program-management-recommerce-team) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-04-14.
+This program manager position at Amazon was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

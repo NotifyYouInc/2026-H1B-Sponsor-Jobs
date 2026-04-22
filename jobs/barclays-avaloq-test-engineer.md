@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | QA Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Avaloq-Test-Engineer_JR-0000101230) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Avaloq-Test-Engineer_JR-0000101229) |
 
 ## About This Role
 
-This qa engineer position at Barclays was posted on 2026-04-14.
+This qa engineer position at Barclays was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

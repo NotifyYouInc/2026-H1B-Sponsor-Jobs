@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Shanghai/--_R2845803) |
+| Category | Sales Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Shanghai/--_R2852610) |
 
 ## About This Role
 
-This account executive position at Sanofi was posted on 2026-03-03.
+This sales engineer position at Sanofi was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

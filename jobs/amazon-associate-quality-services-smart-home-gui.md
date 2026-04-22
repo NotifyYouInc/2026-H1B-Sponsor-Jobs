@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | QA Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3206283/associate-quality-services-smart-home-gui) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10392458/associate-quality-services-smart-home-gui) |
 
 ## About This Role
 
-This qa engineer position at Amazon was posted on 2026-03-17.
+This qa engineer position at Amazon was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

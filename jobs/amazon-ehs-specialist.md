@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Greenville, North Carolina, United States |
 | Category | ESG / Sustainability |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10389112/ehs-specialist) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10392384/ehs-specialist) |
 
 ## About This Role
 
-This esg / sustainability position at Amazon was posted on 2026-04-11.
+This esg / sustainability position at Amazon was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

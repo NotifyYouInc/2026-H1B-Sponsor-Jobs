@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Marketing |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Singapore-Singapore/Marketing-and-Sales-Operations-Consultant_R0000360161) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Jakarta-Jakarta-Raya/Marketing-and-Sales-Operations-Consultant_R0000363802) |
 
 ## About This Role
 
-This marketing position at Caterpillar was posted on 2026-03-27.
+This marketing position at Caterpillar was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

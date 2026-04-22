@@ -1,16 +1,16 @@
-# Project Manager at Parsons
+# PROJECT MANAGER at Parsons
 
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Biloxi, Mississippi, United States |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Project Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MS-Field-Location/Project-Manager_R177197-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/PROJECT-MANAGER_R179398-1) |
 
 ## About This Role
 
-This project manager position at Parsons was posted on 2026-02-05.
+This project manager position at Parsons was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
