@@ -1,16 +1,16 @@
-# Brand Sales Specialist - Data & AI at IBM
+# Brand Sales specialist - Data & AI at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rio Grande do Sul, BR |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=85249) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Account Executive |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109608) |
 
 ## About This Role
 
-This sales position at IBM was posted on 2026-02-09.
+This account executive position at IBM was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

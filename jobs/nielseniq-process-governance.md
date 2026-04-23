@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vadodara, Gujarat, India |
 | Category | Operations |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120310069-process-governance) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121106837-process-governance) |
 
 ## About This Role
 
-This operations position at NielsenIQ was posted on 2026-04-13.
+This operations position at NielsenIQ was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

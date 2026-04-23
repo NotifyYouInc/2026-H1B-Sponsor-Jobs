@@ -5,12 +5,12 @@
 | Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Development |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5163212008) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5189055008) |
 
 ## About This Role
 
-This business development position at Gruve was posted on 2026-03-25.
+This business development position at Gruve was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | China |
+| Location | Wuhan, Hubei, China |
 | Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Remote/Medical-Representative_31146542) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Wuhan/Medical-Representative_31147803-1) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-04-03.
+This account executive position at Abbott was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Shanghai/GL-Accountant_JR0044437) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Shanghai/GL-Accountant_JR0044642) |
 
 ## About This Role
 
-This corporate finance position at Alfa Laval was posted on 2026-04-02.
+This corporate finance position at Alfa Laval was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

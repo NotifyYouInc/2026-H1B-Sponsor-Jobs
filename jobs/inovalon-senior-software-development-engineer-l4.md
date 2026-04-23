@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7564584003) |
+| Category | Frontend Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7685341003) |
 
 ## About This Role
 
-This software engineer position at Inovalon was posted on 2026-02-06.
+This frontend engineer position at Inovalon was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

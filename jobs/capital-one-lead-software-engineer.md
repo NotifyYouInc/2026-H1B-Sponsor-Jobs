@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Lead-Software-Engineer_R238339-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Lead-Software-Engineer_R240650) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-03-24.
+This software engineer position at Capital One was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

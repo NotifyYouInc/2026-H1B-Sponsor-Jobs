@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Account Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---Mumbai/Territory-Business-Manager---Multitherapy---Mumbai_31147123) |
+| Category | Corporate Finance |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---Mumbai/Territory-Business-Manager---Multitherapy---Mumbai_31147350) |
 
 ## About This Role
 
-This account manager position at Abbott was posted on 2026-04-14.
+This corporate finance position at Abbott was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

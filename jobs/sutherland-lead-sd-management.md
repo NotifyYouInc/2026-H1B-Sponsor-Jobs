@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000109645405-lead-sd-management) |
+| Category | Customer Success |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000121104557-lead-sd-management) |
 
 ## About This Role
 
-This corporate finance position at Sutherland was posted on 2026-02-17.
+This customer success position at Sutherland was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

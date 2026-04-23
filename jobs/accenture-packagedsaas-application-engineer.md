@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5466468-S1997788-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/BI-Engineer_ATCI-5482336-S2006206) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-15.
+This software engineer position at Accenture was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
