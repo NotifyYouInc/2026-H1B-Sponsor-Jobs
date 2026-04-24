@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Quality-Assurance--SrAssc_R-785945) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering---Development--SrAssc_R-788614) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-03-16.
+This software engineer position at State Street was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

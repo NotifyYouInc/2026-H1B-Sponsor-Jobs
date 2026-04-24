@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Project Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000984282-project-manager-ssoe) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001005820-project-manager-ssoe) |
 
 ## About This Role
 
-This project manager position at NCS was posted on 2026-04-09.
+This project manager position at NCS was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

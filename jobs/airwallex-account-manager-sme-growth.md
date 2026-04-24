@@ -1,16 +1,16 @@
-# Account Manager, SME & Growth  at Airwallex
+# Account Manager, SME & Growth at Airwallex
 
 | Field | Details |
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Sydney, New South Wales, Australia |
 | Category | Account Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/31084fe7-bf9e-4151-8e8b-6b27683cee8e) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/8dde93d5-14a0-4b6c-8b66-1f83bc0f0057) |
 
 ## About This Role
 
-This account manager position at Airwallex was posted on 2026-02-27.
+This account manager position at Airwallex was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

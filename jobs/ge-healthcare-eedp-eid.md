@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/BeiJing/EEDP-EID_R4039722-1) |
+| Category | Engineering Manager |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/BeiJing/EEDP-EID_R4039881-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-04-16.
+This engineering manager position at GE HealthCare was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

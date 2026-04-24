@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Program Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Program-Project-Management-Lead_ATCI-5484911-S2011527) |
+| Location | 2 locations |
+| Category | Project Manager |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cebu-City/Program-Project-Management-Lead_ATCP-1418756-S422725) |
 
 ## About This Role
 
-This program manager position at Accenture was posted on 2026-04-14.
+This project manager position at Accenture was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

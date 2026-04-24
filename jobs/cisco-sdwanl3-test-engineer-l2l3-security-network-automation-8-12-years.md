@@ -1,16 +1,16 @@
-# SDWAN/L3 Test Engineer | L2/L3 security | Network automation (8-12 Years) at Cisco
+# SDWAN/L3 Test Engineer (L2/L3 security | Network automation (8-12 Years) at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Mumbai, Maharashtra, India |
 | Category | QA Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/SDWAN-L3-Test-Engineer---L2-L3-security---Network-automation--8-12-Years-_2011953) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/SDWAN-L3-Test-Engineer--L2-L3-security---Network-automation--8-12-Years-_2011919) |
 
 ## About This Role
 
-This qa engineer position at Cisco was posted on 2026-04-16.
+This qa engineer position at Cisco was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

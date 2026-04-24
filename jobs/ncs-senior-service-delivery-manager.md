@@ -1,16 +1,16 @@
-# Senior / Service Delivery Manager at NCS
+# Senior Service Delivery Manager at NCS
 
 | Field | Details |
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Operations |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000924223-senior-service-delivery-manager) |
+| Category | Project Manager |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001005992-senior-service-delivery-manager) |
 
 ## About This Role
 
-This operations position at NCS was posted on 2026-03-11.
+This project manager position at NCS was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

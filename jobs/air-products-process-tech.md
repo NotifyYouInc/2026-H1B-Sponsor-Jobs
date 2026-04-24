@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taoyuan, Taiwan, Taiwan |
+| Location | Hefei, Anhui, China |
 | Category | Industrial Automation |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Taoyuan-Taoyuan-City/Process-Tech_JR-2026-19903-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Hefei-Anhui/Process-Tech_JR-2026-20159-1) |
 
 ## About This Role
 
-This industrial automation position at Air Products was posted on 2026-04-07.
+This industrial automation position at Air Products was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

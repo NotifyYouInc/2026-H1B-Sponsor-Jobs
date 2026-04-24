@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Project Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Dubai/Assistant-Project-Manager--UAE-National-_R176576) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Dubai/Assistant-Project-Manager--UAE-National-_R179699-1) |
 
 ## About This Role
 
-This project manager position at Parsons was posted on 2026-02-23.
+This project manager position at Parsons was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

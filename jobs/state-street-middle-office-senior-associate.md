@@ -1,16 +1,16 @@
-# Middle Office - Senior Associate at State Street
+# Middle Office, Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Coimbatore-India/Middle-Office---Senior-Associate_R-781882) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Mumbai-India/Middle-Office--Senior-Associate_R-787531) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-04-14.
+This business analyst position at State Street was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

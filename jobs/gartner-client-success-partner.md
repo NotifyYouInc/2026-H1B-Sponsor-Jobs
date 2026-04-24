@@ -5,12 +5,12 @@
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Fort-Myers-FL/Client-Success-Partner_107415-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Client-Success-Partner_109456-1) |
 
 ## About This Role
 
-This customer success position at Gartner was posted on 2026-03-25.
+This customer success position at Gartner was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

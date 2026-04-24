@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Associate-Engineer--Product-Engineering--Mfg-_R261137) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Associate-Engineer--Product-Engineering--Mfg-_R261132) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-04-10.
+This electrical / hardware engineer position at Analog Devices was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

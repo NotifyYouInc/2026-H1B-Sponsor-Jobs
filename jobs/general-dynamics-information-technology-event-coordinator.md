@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | United States |
 | Category | Marketing |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Event-Coordinator_RQ216651) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Event-Coordinator_RQ218408-1) |
 
 ## About This Role
 
-This marketing position at General Dynamics Information Technology was posted on 2026-03-21.
+This marketing position at General Dynamics Information Technology was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113404647-sr-advisory-solution-consultant) |
+| Location | Karnataka, IN |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000121343818-sr-advisory-solution-consultant) |
 
 ## About This Role
 
-This account executive position at ServiceNow was posted on 2026-03-09.
+This technical & solutions architect position at ServiceNow was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

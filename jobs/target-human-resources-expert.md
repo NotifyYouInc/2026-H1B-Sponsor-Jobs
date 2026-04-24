@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Florence, Alabama, United States |
+| Location | Rio Rancho, New Mexico, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/2791-David-H-Mcleod-Blvd-FlorenceSC-29501-4043/Human-Resources-Expert_R0000435178-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/4225-Crestview-Dr-Rio-RanchoNM-87124-5903/Human-Resources-Expert_R0000434539) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-04-14.
+This human resources / people ops position at Target was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

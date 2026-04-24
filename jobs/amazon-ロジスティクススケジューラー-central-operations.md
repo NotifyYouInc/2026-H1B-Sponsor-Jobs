@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Operations |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10370987/central-operations) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10394471/central-operations) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-03-19.
+This operations position at Amazon was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

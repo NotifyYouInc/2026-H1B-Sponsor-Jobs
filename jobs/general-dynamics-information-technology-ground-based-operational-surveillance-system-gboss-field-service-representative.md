@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | McAllen, Texas, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-TX-McAllen/Ground-Based-Operational-Surveillance-System--GBOSS--Field-Service-Representative_RQ217277) |
+| Location | San Diego, California, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-San-Diego/Ground-Based-Operational-Surveillance-System--GBOSS--Field-Service-Representative_RQ218300-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at General Dynamics Information Technology was posted on 2026-03-30.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

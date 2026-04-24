@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Data-Engineer_RQ216675) |
+| Location | Florida, US |
+| Category | Data Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Data-Engineer_RQ218458-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-03-25.
+This data engineer position at General Dynamics Information Technology was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Software Engineer - Backend at Microsoft
+# Senior Software Engineer- Backend at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Redmond, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556754744) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556753327) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-02-26.
+This software engineer position at Microsoft was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

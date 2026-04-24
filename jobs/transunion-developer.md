@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Developer_19040039) |
+| Category | Frontend Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Developer_19040111) |
 
 ## About This Role
 
-This software engineer position at TransUnion was posted on 2026-04-14.
+This frontend engineer position at TransUnion was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
