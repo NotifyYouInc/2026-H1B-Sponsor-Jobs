@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mount Prospect, Illinois, United States |
+| Location | Riverside, California, United States |
 | Category | Business Development |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/IL-Mount-Prospect/Solar-Appointment-Setter_R62070) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Riverside/Solar-Appointment-Setter_R62013) |
 
 ## About This Role
 
-This business development position at Sunrun was posted on 2026-04-11.
+This business development position at Sunrun was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

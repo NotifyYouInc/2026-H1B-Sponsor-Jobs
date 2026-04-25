@@ -1,16 +1,16 @@
-# SR DATA SCIENTIST at Micron
+# Sr Data Scientist at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Data-Scientist_JR80959) |
+| Location | Boise, Idaho, United States |
+| Category | Data Scientist |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Sr-Data-Scientist_JR98989) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-02-24.
+This data scientist position at Micron was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

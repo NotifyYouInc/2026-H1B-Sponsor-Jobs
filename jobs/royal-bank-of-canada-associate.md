@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate_R-0000152106) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate_R-0000168543) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-04-09.
+This corporate finance position at Royal Bank of Canada was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

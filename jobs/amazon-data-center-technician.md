@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pennsylvania, US |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3186458/data-center-technician) |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10395314/data-center-technician) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-02-21.
+This it & systems administration position at Amazon was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

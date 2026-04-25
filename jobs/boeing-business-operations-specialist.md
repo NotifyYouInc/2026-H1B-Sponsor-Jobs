@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Everett, Washington, United States |
-| Category | Program Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Business-Operations-Specialist_JR2026500525-1) |
+| Category | Project Manager |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Business-Operations-Specialist_JR2026506498-1) |
 
 ## About This Role
 
-This program manager position at Boeing was posted on 2026-03-13.
+This project manager position at Boeing was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

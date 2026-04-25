@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lorain, Ohio, United States |
+| Location | Plano, Texas, United States |
 | Category | Business Development |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lorain-OH-2867/Full-Time---Sales-Specialist---Flooring---Day_JR-02477472-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Plano-TX-E-Plano-0505/Full-Time---Sales-Specialist---Flooring---Day_JR-02489265-1) |
 
 ## About This Role
 
-This business development position at Lowe's was posted on 2026-04-07.
+This business development position at Lowe's was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

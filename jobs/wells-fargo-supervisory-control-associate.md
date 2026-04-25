@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philippines |
+| Location | 2 locations |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/TAGUIG-CITY-00/Supervisory-Control-Associate_R-528912) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Supervisory-Control-Associate_R-538645) |
 
 ## About This Role
 
-This compliance & risk management position at Wells Fargo was posted on 2026-03-18.
+This compliance & risk management position at Wells Fargo was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
