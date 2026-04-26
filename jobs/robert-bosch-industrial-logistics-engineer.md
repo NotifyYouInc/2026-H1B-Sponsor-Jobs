@@ -6,7 +6,7 @@
 | Location | Mexico |
 | Category | Industrial Automation |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121526597-industrial-logistics-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121528857-industrial-logistics-engineer) |
 
 ## About This Role
 

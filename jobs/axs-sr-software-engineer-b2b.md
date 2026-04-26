@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AXS](https://scoutify.ai/companies/axs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/axs/jobs/8512884002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/axs/jobs/8512890002) |
 
 ## About This Role
 
