@@ -1,16 +1,16 @@
-# Business Transformation Consultant - Data Platforms at IBM
+# Business Transformation Consultant-Data Platforms at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97943) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110941) |
 
 ## About This Role
 
-This strategy / management consulting position at IBM was posted on 2026-03-02.
+This technology / it consulting position at IBM was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

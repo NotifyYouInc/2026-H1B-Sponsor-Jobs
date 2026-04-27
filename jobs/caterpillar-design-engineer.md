@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Design-Engineer_R0000356589-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Monterrey-Nuevo-Len/Design-Engineer_R0000363277) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-03-11.
+This electrical / hardware engineer position at Caterpillar was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Sales |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Headquarters-Austin-Texas-USA/Digital-Sales-Representative_R012289) |
+| Location | Singapore, Singapore |
+| Category | Business Development |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Local-Office-Singapore-Singapore/Digital-Sales-Representative_R013283) |
 
 ## About This Role
 
-This sales position at SailPoint Technologies was posted on 2026-02-05.
+This business development position at SailPoint Technologies was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

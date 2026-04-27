@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Indore, Madhya Pradesh, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Cloud-Migration-Engineer_ATCI-5145270-S1897564-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5384553-S1997380-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-12.
+This devops engineer position at Accenture was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

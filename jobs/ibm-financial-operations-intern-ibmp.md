@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100878) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110400) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-03-09.
+This corporate finance position at IBM was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

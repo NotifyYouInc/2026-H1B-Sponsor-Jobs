@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | India |
 | Category | Account Executive |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Territory-Account-Executive_JR334058) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Territory-Account-Executive_JR338200) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-03-20.
+This account executive position at Salesforce was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

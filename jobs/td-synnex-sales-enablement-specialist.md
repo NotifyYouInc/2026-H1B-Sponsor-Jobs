@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Operations |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mumbai-India/Sales-Enablement-Specialist_R46356) |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mumbai-India/Sales-Enablement-Specialist_R49059) |
 
 ## About This Role
 
-This operations position at TD Synnex was posted on 2026-02-18.
+This revenue / sales operations position at TD Synnex was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

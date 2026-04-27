@@ -1,16 +1,16 @@
-# Associate Access Strategy Manager at AbbVie
+# （Associate） Access Strategy Manager at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Strategy & Operations |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011958296-associate-access-strategy-manager) |
+| Category | Operations |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012671166-associate-access-strategy-manager) |
 
 ## About This Role
 
-This strategy & operations position at AbbVie was posted on 2026-03-04.
+This operations position at AbbVie was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

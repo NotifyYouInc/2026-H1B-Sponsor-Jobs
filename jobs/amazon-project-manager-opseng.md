@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Project Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3205042/project-manager-opseng) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10395779/project-manager-opseng) |
 
 ## About This Role
 
-This project manager position at Amazon was posted on 2026-03-16.
+This project manager position at Amazon was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

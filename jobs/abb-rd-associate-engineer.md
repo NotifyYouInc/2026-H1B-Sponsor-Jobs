@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hyderabad--Andhrapradesh--India/R-D-Associate-Engineer_JR00027940) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/R-D-Associate-Engineer_JR00032218) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-03-12.
+This electrical / hardware engineer position at ABB was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

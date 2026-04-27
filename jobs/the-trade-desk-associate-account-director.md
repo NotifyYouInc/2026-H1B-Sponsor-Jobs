@@ -5,12 +5,12 @@
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Account Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5092686007) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5104615007) |
 
 ## About This Role
 
-This account manager position at The Trade Desk was posted on 2026-03-31.
+This account manager position at The Trade Desk was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

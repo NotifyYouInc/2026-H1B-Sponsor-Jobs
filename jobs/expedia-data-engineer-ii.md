@@ -1,16 +1,16 @@
-# Data Engineer II at Expedia
+# Data Engineer II  at Expedia
 
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Data-Engineer-II_R-103326-1) |
+| Location | India |
+| Category | Data Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Data-Engineer-II-_R-104298) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-03-06.
+This data engineer position at Expedia was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

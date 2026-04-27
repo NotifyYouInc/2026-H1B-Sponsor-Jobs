@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chula Vista, California, United States |
+| Location | Brooklyn, New York, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1240-Broadway-Chula-VistaCA-91911-2911/Human-Resource-Expert_R0000434144) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/5100-Kings-Plaza-Ste-2201-BrooklynNY-11234-5208/Human-Resource-Expert_R0000435884) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-04-03.
+This human resources / people ops position at Target was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

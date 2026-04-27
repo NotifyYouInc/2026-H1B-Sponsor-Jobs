@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Nashik, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000120308757-walk-in-interviews-nashik) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000121678957-walk-in-interviews-nashik) |
 
 ## About This Role
 
-This customer success position at WNS was posted on 2026-04-13.
+This customer success position at WNS was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

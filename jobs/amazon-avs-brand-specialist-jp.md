@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Account Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10372194/avs-brand-specialist-jp) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10395793/avs-brand-specialist-jp) |
 
 ## About This Role
 
-This account manager position at Amazon was posted on 2026-03-20.
+This account manager position at Amazon was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
