@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Location | Gurugram, Haryana, India |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000118826186-senior-consultant-dgtl-trnf) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000121948272-senior-consultant-dgtl-trnf) |
 
 ## About This Role
 
-This strategy / management consulting position at WNS was posted on 2026-04-06.
+This strategy / management consulting position at WNS was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

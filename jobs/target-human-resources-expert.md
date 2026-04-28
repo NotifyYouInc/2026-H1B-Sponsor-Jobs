@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Simpsonville, South Carolina, United States |
+| Location | Forest Lake, Minnesota, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/694-Fairview-Rd-SimpsonvilleSC-29680-6708/Human-Resources-Expert_R0000435782) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/356-12th-St-SW-Forest-LakeMN-55025-1749/Human-Resources-Expert_R0000435989) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-04-20.
+This human resources / people ops position at Target was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

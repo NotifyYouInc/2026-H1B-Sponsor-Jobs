@@ -1,16 +1,16 @@
-# IN_Associate-HRT-P&O-Advisory-Gurgaon at PwC
+# IN-Associate-HRT-P&O-Advisory-Gurgaon at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-10-C/IN-Senior-Associate-HRT-P-O-Advisory-Gurgaon_685168WD-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-10-C/IN-Senior-Associate-HRT-P-O-Advisory-Gurgaon_685209WD-1) |
 
 ## About This Role
 
-This human resources / people ops position at PwC was posted on 2026-04-09.
+This human resources / people ops position at PwC was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

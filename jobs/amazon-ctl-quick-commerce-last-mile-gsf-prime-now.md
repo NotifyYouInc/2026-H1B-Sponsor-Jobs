@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Channel / Partner Sales |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3182333/ctl-quick-commerce-last-mile-gsf-prime-now) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10397559/ctl-quick-commerce-last-mile-gsf-prime-now) |
 
 ## About This Role
 
-This channel / partner sales position at Amazon was posted on 2026-02-17.
+This channel / partner sales position at Amazon was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

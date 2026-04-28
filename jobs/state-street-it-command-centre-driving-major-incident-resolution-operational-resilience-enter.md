@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Operations |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/IT-Command-Centre---Driving-Major-Incident-Resolution--Operational-Resilience---Enterprise-Stability---AVP_R-785964) |
+| Location | Bengaluru, Karnataka, India |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/T-Command-Centre---Driving-Major-Incident-Resolution--Operational-Resilience---Enterprise-Stability---AVP_R-785972) |
 
 ## About This Role
 
-This operations position at State Street was posted on 2026-03-16.
+This it & systems administration position at State Street was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

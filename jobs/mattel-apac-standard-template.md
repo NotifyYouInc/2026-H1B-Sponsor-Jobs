@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000120210037-apac-standard-template) |
+| Category | Data Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000121941637-apac-standard-template) |
 
 ## About This Role
 
-This technical & solutions architect position at Mattel was posted on 2026-04-11.
+This data engineer position at Mattel was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

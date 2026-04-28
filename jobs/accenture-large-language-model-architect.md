@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Gurugram, Haryana, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Large-Language-Model-Architect_ATCI-5349448-S1949065-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Large-Language-Model-Architect_ATCI-5349455-S1949046-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-04-03.
+This ai / llm engineer position at Accenture was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

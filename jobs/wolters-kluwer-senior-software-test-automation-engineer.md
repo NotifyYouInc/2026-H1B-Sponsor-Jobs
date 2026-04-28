@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-IndiQube-Orchid/Senior-Software-Test-Automation-Engineer_R0055377) |
+| Category | QA Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Software-Test-Automation-Engineer_R0056518) |
 
 ## About This Role
 
-This software engineer position at Wolters Kluwer was posted on 2026-03-18.
+This qa engineer position at Wolters Kluwer was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

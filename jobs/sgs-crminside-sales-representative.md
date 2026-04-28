@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
+| Location | Philippines |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000112591207-crminside-sales-representative) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000121941697-crminside-sales-representative) |
 
 ## About This Role
 
-This account executive position at SGS was posted on 2026-03-04.
+This account executive position at SGS was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

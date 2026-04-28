@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Control-Management-Officer_R-532793-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Control-Management-Officer_R-535784-1) |
 
 ## About This Role
 
-This compliance & risk management position at Wells Fargo was posted on 2026-04-07.
+This compliance & risk management position at Wells Fargo was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
