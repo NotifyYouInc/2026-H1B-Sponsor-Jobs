@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Test-Automation-Engineer_ATCI-5404868-S1980630) |
+| Location | Hyderabad, Telangana, India |
+| Category | QA Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Test-Automation-Engineer_ATCI-5502031-S2017453-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-03.
+This qa engineer position at Accenture was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

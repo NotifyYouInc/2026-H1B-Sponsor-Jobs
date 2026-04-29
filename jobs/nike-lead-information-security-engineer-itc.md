@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | Security Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Lead-Information-Security-Engineer--ITC_R-80986) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Lead-Information-Security-Engineer--ITC_R-82817) |
 
 ## About This Role
 
-This security engineer position at Nike was posted on 2026-03-20.
+This security engineer position at Nike was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

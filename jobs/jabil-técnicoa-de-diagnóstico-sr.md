@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Tcnico-a--de-Diagnstico-Sr_J2441150) |
+| Category | Customer Success |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Tcnico-a--de-Diagnstico-Sr_J2447060) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Jabil was posted on 2026-03-10.
+This customer success position at Jabil was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

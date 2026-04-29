@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5523370-S2015525) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Engineering Manager |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Custom-Software-Engineering-Lead_ATCI-5536274-S2017488-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-20.
+This engineering manager position at Accenture was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Account Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Banking-Advisor_R-0000167636) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Banking-Advisor_R-0000168418) |
 
 ## About This Role
 
-This account manager position at Royal Bank of Canada was posted on 2026-04-10.
+This account manager position at Royal Bank of Canada was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

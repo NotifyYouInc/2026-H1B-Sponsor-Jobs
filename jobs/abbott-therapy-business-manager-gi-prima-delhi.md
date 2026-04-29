@@ -1,16 +1,16 @@
-# Therapy Business Manager - GI Prima - Delhi at Abbott
+# Therapy Business Manager || GI Prima || Delhi at Abbott
 
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | New Delhi, Delhi, India |
-| Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---New-Delhi/Therapy-Business-Manager---GI-Prima---Delhi_31143700) |
+| Category | Account Manager |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---New-Delhi/Therapy-Business-Manager----GI-Prima----Delhi_31148387) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-03-05.
+This account manager position at Abbott was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Gurugram, Haryana, India |
 | Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108678855-customer-success-specialist) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000122172173-customer-success-specialist) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-02-11.
+This customer success position at NielsenIQ was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

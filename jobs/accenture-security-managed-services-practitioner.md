@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | SOC & Incident Response |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Security-Managed-Services-Practitioner_ATCP-1396991-S421340) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Security Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Security-Managed-Services-Practitioner_ATCI-5537525-S2017477-1) |
 
 ## About This Role
 
-This soc & incident response position at Accenture was posted on 2026-04-01.
+This security engineer position at Accenture was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

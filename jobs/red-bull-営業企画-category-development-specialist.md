@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000121939278-category-development-specialist) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000122168915-category-development-specialist) |
 
 ## About This Role
 
-This business analyst position at Red Bull was posted on 2026-04-21.
+This business analyst position at Red Bull was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

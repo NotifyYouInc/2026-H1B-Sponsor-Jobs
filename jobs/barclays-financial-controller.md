@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-Block-4-DLF-Downtown/Financial-Controller_JR-0000100192) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/Financial-Controller_JR-0000092544) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-03-12.
+This corporate finance position at Barclays was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Quality-Engineering-Lead--Test-Lead-_ATCI-5429741-S1983389-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Developer_ATCI-R1-S1927001) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-16.
+This software engineer position at Accenture was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
