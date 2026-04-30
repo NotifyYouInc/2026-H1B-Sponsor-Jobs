@@ -5,12 +5,12 @@
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/Lead-Design-Verification-Engineer_R02119) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Regus-Madhapur/Lead-Design-Verification-Engineer_R02387) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-03-04.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

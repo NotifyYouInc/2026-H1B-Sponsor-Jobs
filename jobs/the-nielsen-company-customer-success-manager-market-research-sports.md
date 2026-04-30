@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Milan, Lombardy, Italy |
-| Category | Customer Success Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012422726-customer-success-manager-market-research-sports) |
+| Location | Assago, Lombardy, Italy |
+| Category | Customer Success |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012783697-customer-success-manager-market-research-sports) |
 
 ## About This Role
 
-This customer success manager position at The Nielsen Company was posted on 2026-04-02.
+This customer success position at The Nielsen Company was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Account Manager Ultrasound at Philips
+# Account Manager-Ultrasound at Philips
 
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Account Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chennai-ex-Madras/Account-Manager_576770) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Account-Manager-Ultrasound_581599-1) |
 
 ## About This Role
 
-This account manager position at Philips was posted on 2026-02-27.
+This account manager position at Philips was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

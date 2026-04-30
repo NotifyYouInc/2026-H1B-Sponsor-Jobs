@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Tech-Delivery-Subject-Matter-Expert_ATCI-5055545-S1925751-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Tech-Delivery-Subject-Matter-Expert_ATCI-5284663-S1935897) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-04-03.
+This technology / it consulting position at Accenture was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

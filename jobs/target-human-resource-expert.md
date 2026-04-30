@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brooklyn, New York, United States |
+| Location | Granger, Indiana, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/5100-Kings-Plaza-Ste-2201-BrooklynNY-11234-5208/Human-Resource-Expert_R0000435884) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/155-University-Dr-E-GrangerIN-46530-4474/Human-Resource-Expert_R0000436331) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-04-20.
+This human resources / people ops position at Target was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

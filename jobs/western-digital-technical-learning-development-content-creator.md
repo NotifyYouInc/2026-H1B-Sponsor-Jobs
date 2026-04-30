@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bang Pa-in, Phra Nakhon Si Ayutthaya, Thailand |
+| Location | Thailand |
 | Category | Content Marketing |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109867995-technical-learning-development-content-creator) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000122371002-technical-learning-development-content-creator) |
 
 ## About This Role
 
-This content marketing position at Western Digital was posted on 2026-02-18.
+This content marketing position at Western Digital was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Tysons, Virginia, United States |
 | Category | Customer Success |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000118712916-customer-success-manager) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000122370909-customer-success-manager) |
 
 ## About This Role
 
-This customer success position at MicroStrategy was posted on 2026-04-05.
+This customer success position at MicroStrategy was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

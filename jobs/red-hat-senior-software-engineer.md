@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Senior-Software-Engineer_R-054968-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Senior-Software-Engineer_R-056544-1) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-02-07.
+This software engineer position at Red Hat was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

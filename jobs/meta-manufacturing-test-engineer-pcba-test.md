@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | 3 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1965575387622877) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/34369358559345541) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Meta was posted on 2026-03-04.
+This electrical / hardware engineer position at Meta was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

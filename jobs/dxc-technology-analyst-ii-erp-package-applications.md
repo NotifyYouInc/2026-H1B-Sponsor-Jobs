@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philippines |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Analyst-II-ERP-Package-Applications_51561766) |
+| Location | Quezon City, National Capital Region, Philippines |
+| Category | Business Analyst |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---QUEZON-CITY/Analyst-II-ERP-Package-Applications_51578631) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-02-20.
+This business analyst position at DXC Technology was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

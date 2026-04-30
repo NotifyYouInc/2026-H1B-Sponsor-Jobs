@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108886245-partner-account-manager) |
+| Category | Business Development |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000122380729-partner-account-manager) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-02-12.
+This business development position at ServiceNow was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

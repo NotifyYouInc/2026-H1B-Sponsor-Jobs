@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000115129596-fincrime-investigator-fraud) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000122380981-fincrime-investigator-fraud) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-03-17.
+This financial crimes & aml position at WISE was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

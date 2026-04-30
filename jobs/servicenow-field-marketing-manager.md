@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Growth Marketing |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000116324147-field-marketing-manager) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000122380159-field-marketing-manager) |
 
 ## About This Role
 
-This growth marketing position at ServiceNow was posted on 2026-03-24.
+This growth marketing position at ServiceNow was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

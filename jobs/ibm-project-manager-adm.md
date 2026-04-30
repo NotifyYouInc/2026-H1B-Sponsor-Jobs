@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Project Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=78373) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111516) |
 
 ## About This Role
 
-This project manager position at IBM was posted on 2026-02-25.
+This project manager position at IBM was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

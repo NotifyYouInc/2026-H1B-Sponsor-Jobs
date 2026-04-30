@@ -1,16 +1,16 @@
-# Project manager at ABB
+# Project Manager at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brno, South Moravian, Czechia |
+| Location | Beijing, Beijing, China |
 | Category | Project Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Project-manager_JR00025297) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Project-Manager_JR00030929) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-04-20.
+This project manager position at ABB was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

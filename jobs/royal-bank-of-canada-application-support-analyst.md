@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Putrajaya, Putrajaya, Malaysia |
 | Category | Customer Success |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Application-Support-Analyst_R-0000158919) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Application-Support-Analyst_R-0000168498) |
 
 ## About This Role
 
-This customer success position at Royal Bank of Canada was posted on 2026-02-10.
+This customer success position at Royal Bank of Canada was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

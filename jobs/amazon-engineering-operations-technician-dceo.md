@@ -1,16 +1,16 @@
-# Engineering Operations Technician , DCEO at Amazon
+# Engineering Operations Technician, DCEO at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lithia Springs, Georgia, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10392340/engineering-operations-technician-dceo) |
+| Location | Cape Town, Western Cape, South Africa |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10400883/engineering-operations-technician-dceo) |
 
 ## About This Role
 
-This engineering manager position at Amazon was posted on 2026-04-15.
+This electrical / hardware engineer position at Amazon was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

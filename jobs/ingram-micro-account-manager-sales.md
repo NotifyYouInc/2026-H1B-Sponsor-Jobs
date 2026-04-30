@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lucknow, Uttar Pradesh, India |
-| Category | Business Development |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Lucknow-India/Account-Manager---Sales_R-113149) |
+| Location | Ahmedabad, Gujarat, India |
+| Category | Account Manager |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Ahmedabad-India/Account-Manager---Sales_R-114299) |
 
 ## About This Role
 
-This business development position at Ingram Micro was posted on 2026-02-19.
+This account manager position at Ingram Micro was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
