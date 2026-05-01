@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Senior-Analyst-Accounting_REQ572118) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Senior-Analyst-Accounting_REQ572436) |
 
 ## About This Role
 
-This corporate finance position at Unisys was posted on 2026-04-06.
+This corporate finance position at Unisys was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

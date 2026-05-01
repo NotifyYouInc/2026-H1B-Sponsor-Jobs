@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | South Korea |
-| Category | Software Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Anyang/Discipline-Engineer_REQ2026071019) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Engineering Manager |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Discipline-Engineer_REQ2026071956) |
 
 ## About This Role
 
-This software engineer position at Valeo was posted on 2026-03-21.
+This engineering manager position at Valeo was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Operations |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000108234655-group-manager-operations) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000122597469-group-manager-operations) |
 
 ## About This Role
 
-This operations position at WNS was posted on 2026-02-09.
+This operations position at WNS was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

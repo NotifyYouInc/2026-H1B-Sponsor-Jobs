@@ -1,16 +1,16 @@
-# Senior Software Engineer  at Toast
+# Senior Software Engineer at Toast
 
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7645626) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7845562) |
 
 ## About This Role
 
-This software engineer position at Toast was posted on 2026-02-23.
+This software engineer position at Toast was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

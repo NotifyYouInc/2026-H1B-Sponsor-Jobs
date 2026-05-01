@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3206319/ads-account-manager-amazon-advertising) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10402259/ads-account-manager-amazon-advertising) |
 
 ## About This Role
 
-This account executive position at Amazon was posted on 2026-03-17.
+This account executive position at Amazon was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

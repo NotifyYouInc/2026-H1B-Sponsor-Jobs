@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
-| Category | Operations |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/OMT-RAM-NPI-RDA-Application-Engineer_JR95367) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/OMT-RAM-NPI-RDA-Application-Engineer_JR99414) |
 
 ## About This Role
 
-This operations position at Micron was posted on 2026-03-19.
+This semiconductor / chip design position at Micron was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

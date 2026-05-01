@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109640240-so-cloud-security-engineer) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000122599771-so-cloud-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-02-17.
+This security engineer position at Robert Bosch was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

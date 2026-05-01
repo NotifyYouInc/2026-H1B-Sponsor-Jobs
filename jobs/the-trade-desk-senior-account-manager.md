@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Account Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5070140007) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5107249007) |
 
 ## About This Role
 
-This account manager position at The Trade Desk was posted on 2026-03-06.
+This account manager position at The Trade Desk was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

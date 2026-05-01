@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Database Administration |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Database-Administrator_ATCI-5479521-S2015253-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Database-Administrator_ATCP-1421986-S423297-1) |
 
 ## About This Role
 
-This database administration position at Accenture was posted on 2026-04-17.
+This database administration position at Accenture was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Thāne, Maharashtra, India |
 | Category | Account Executive |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Medical-Sales-Rep-1_R1526829) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Medical-Sales-Rep-1_R1527904) |
 
 ## About This Role
 
-This account executive position at IQVIA was posted on 2026-04-06.
+This account executive position at IQVIA was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Developer_ATCI-R1-S1927001) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Quality-Engineering-Lead_ATCI-5532249-S2018048-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-22.
+This software engineer position at Accenture was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

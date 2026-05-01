@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000119521417-staff-talent-acquisition-specialist-semiconductor) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000122591815-staff-talent-acquisition-specialist-semiconductor) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Renesas Electronics was posted on 2026-04-09.
+This talent acquisition / recruiting position at Renesas Electronics was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

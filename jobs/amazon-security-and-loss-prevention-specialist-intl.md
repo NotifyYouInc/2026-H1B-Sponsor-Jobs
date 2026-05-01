@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Patna, Bihar, India |
-| Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10400877/security-and-loss-prevention-specialist-intl) |
+| Location | Howrah, West Bengal, India |
+| Category | Trust & Safety |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10402248/security-and-loss-prevention-specialist-intl) |
 
 ## About This Role
 
-This security engineer position at Amazon was posted on 2026-04-23.
+This trust & safety position at Amazon was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
