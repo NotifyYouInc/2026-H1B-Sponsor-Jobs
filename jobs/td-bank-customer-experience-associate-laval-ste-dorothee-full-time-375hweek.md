@@ -1,16 +1,16 @@
-# Customer Experience Associate - Laval Ste-Dorothee (Full-time, 37.5h/week) at TD Bank
+# Customer Experience Associate - LAVAL, STE-DOROTHEE (Full-time, 37.5h/week) at TD Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | Laval, Quebec, Canada |
 | Category | Customer Success |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Laval-Qubec/Customer-Experience-Associate---Laval-Ste-Dorothee--Full-time--375h-week-_R_1472533-1) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Laval-Qubec/Customer-Experience-Associate---LAVAL--STE-DOROTHEE--Full-time--375h-week-_R_1485117) |
 
 ## About This Role
 
-This customer success position at TD Bank was posted on 2026-02-17.
+This customer success position at TD Bank was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

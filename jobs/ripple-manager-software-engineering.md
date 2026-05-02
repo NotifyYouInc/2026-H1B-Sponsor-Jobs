@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Switzerland |
 | Category | Engineering Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7661120?gh_jid=7661120) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7661221?gh_jid=7661221) |
 
 ## About This Role
 
-This engineering manager position at Ripple was posted on 2026-03-02.
+This engineering manager position at Ripple was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

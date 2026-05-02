@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Michaels Stores](https://scoutify.ai/companies/michaels?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Birmingham, Alabama, United States |
+| Location | Chehalis, Washington, United States |
 | Category | Customer Success |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Store---1620-Montclair-Rd/Customer-Experience-Manager_R00308128) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Chehalis-1441-NW-Louisiana-Ave/Customer-Experience-Manager_R00308691-1) |
 
 ## About This Role
 
-This customer success position at Michaels Stores was posted on 2026-04-18.
+This customer success position at Michaels Stores was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

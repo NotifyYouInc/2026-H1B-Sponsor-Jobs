@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Irving, Texas, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Sr-Data-Scientist_109126) |
+| Location | New York City, New York, United States |
+| Category | Data Scientist |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/New-York-NY/Sr-Data-Scientist_109601) |
 
 ## About This Role
 
-This ai / llm engineer position at Gartner was posted on 2026-04-03.
+This data scientist position at Gartner was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

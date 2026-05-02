@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Customer-Service-Representative-II_R-01349061) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Customer-Service-Representative-II_R-01349998) |
 
 ## About This Role
 
-This customer success position at Thermo Fisher Scientific was posted on 2026-04-22.
+This customer success position at Thermo Fisher Scientific was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

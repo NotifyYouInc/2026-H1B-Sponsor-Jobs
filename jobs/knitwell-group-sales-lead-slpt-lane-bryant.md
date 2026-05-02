@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Knitwell Group](https://scoutify.ai/companies/knitwell-group?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sherman, Texas, United States |
+| Location | Crestwood, Missouri, United States |
 | Category | Sales Leadership |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-6251-Sherman-Town-ctr-LaneBryant-Sherman-TX-75092/Sales-Lead--SLPT---Lane-Bryant_R-2024957) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-6824-Rivercrest-Shp-Ctr-LaneBryant-Crestwood-IL-60445/Sales-Lead--SLPT---Lane-Bryant_R-2025287) |
 
 ## About This Role
 
-This sales leadership position at Knitwell Group was posted on 2026-04-18.
+This sales leadership position at Knitwell Group was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

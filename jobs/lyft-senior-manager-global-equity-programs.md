@@ -1,0 +1,22 @@
+# Senior Manager, Global Equity Programs at Lyft
+
+| Field | Details |
+|-------|---------|
+| Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Seattle, Washington, United States |
+| Category | Human Resources / People Ops |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8524003002?gh_jid=8524003002) |
+
+## About This Role
+
+This human resources / people ops position at Lyft was posted on 2026-04-24.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

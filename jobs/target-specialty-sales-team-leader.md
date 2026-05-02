@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Middle River, Maryland, United States |
+| Location | Rio Rancho, New Mexico, United States |
 | Category | Sales Leadership |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1330-Martin-Blvd-Middle-RiverMD-21220-4104/Specialty-Sales-Team-Leader_R0000435786) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/4225-Crestview-Dr-Rio-RanchoNM-87124-5903/Specialty-Sales-Team-Leader_R0000436684) |
 
 ## About This Role
 
-This sales leadership position at Target was posted on 2026-04-19.
+This sales leadership position at Target was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

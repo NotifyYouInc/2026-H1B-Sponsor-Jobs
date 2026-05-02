@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ventura, California, United States |
+| Location | Cincinnati, Ohio, United States |
 | Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Ventura-CA/Sales-Support-Representative---Waterworks_R-135561-1) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Cincinnati-OH/Sales-Support-Representative---Waterworks_R-136071) |
 
 ## About This Role
 
-This customer success position at Ferguson was posted on 2026-04-09.
+This customer success position at Ferguson was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

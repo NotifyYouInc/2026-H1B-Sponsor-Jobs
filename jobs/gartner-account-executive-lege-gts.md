@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Tennessee, US |
 | Category | Account Executive |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---New-York-City/Account-Executive--LE-GE--GTS_108991) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Tennessee/Account-Executive--LE-GE--GTS_109436) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-04-11.
+This account executive position at Gartner was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

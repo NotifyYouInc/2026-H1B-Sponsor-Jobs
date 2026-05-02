@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pennsylvania, US |
+| Location | Ohio, US |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Pennsylvania/Account-Executive--LE--GTS_106329) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Ohio/Account-Executive--LE--GTS_109708) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-03-13.
+This account executive position at Gartner was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

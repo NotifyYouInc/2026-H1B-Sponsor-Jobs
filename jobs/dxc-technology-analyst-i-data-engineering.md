@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Osaka, Osaka, Japan |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/JPN---OSAKA/Analyst-I-Data-Engineering_51577523) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Analyst-I-Data-Engineering_51579001) |
 
 ## About This Role
 
-This data engineer position at DXC Technology was posted on 2026-04-09.
+This data engineer position at DXC Technology was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

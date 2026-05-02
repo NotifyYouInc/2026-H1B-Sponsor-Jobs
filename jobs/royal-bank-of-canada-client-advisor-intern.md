@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Langley, British Columbia, Canada |
-| Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/LANGLEY-British-Columbia-Canada/Client-Advisor-Intern_R-0000165736) |
+| Location | Nelson, British Columbia, Canada |
+| Category | Account Manager |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/NELSON-British-Columbia-Canada/Client-Advisor-Intern_R-0000168063) |
 
 ## About This Role
 
-This account executive position at Royal Bank of Canada was posted on 2026-03-30.
+This account manager position at Royal Bank of Canada was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

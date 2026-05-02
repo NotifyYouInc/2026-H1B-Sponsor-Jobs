@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Program Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/AUS---NSW---Sydney/Transformation-Lead_347779) |
+| Location | Madison, Wisconsin, United States |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Madison-WI-USA/Transformation-Lead_353411) |
 
 ## About This Role
 
-This program manager position at QBE Insurance was posted on 2026-02-11.
+This strategy / management consulting position at QBE Insurance was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

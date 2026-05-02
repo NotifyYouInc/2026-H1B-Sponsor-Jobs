@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Program Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Technical-Project-Program-Management_R2612372) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Technical-Project-Program-Management_R2618599) |
 
 ## About This Role
 
-This program manager position at Applied Materials was posted on 2026-02-09.
+This program manager position at Applied Materials was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

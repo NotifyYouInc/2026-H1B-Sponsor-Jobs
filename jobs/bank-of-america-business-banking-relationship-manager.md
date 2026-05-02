@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Woodland Hills, California, United States |
 | Category | Account Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/San-Francisco/Business-Banking-Relationship-Manager_26005318-2) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Woodland-Hills/Business-Banking-Relationship-Manager_26001114-2) |
 
 ## About This Role
 
-This account manager position at Bank of America was posted on 2026-04-09.
+This account manager position at Bank of America was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

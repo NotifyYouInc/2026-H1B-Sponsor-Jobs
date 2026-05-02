@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | North Vancouver, British Columbia, Canada |
+| Location | Port Alberni, British Columbia, Canada |
 | Category | Account Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/NORTH-VANCOUVER-British-Columbia-Canada/Client-Advisor_R-0000167315) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PORT-ALBERNI-British-Columbia-Canada/Client-Advisor_R-0000153150) |
 
 ## About This Role
 
-This account manager position at Royal Bank of Canada was posted on 2026-04-10.
+This account manager position at Royal Bank of Canada was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

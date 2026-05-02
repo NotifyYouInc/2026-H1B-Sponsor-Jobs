@@ -5,12 +5,12 @@
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Philippines---Mphil-3/Technician-III_R1306-25) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Philippines---Mphil-3/Technician-III---Equipment_R28-26) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Microchip Technology was posted on 2026-03-24.
+This electrical / hardware engineer position at Microchip Technology was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 
