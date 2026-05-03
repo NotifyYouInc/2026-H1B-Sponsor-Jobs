@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | Severn, Maryland, United States |
 | Category | Business Development |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Richardson-TX-2779/Full-Time---Sales-Specialist---Millwork---Day_JR-02460985-1) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Severn-MD-2594/Full-Time---Sales-Specialist---Millwork---Day_JR-02494760-1) |
 
 ## About This Role
 
-This business development position at Lowe's was posted on 2026-04-11.
+This business development position at Lowe's was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

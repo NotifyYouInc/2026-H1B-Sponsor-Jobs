@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wuxi, Jiangsu, China |
+| Location | Haifa, Haifa, Israel |
 | Category | Program Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/WuXi/Lead-Program-Integrator_R4036939-1) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa/Lead-Program-Integrator_R4039971-1) |
 
 ## About This Role
 
-This program manager position at GE HealthCare was posted on 2026-02-25.
+This program manager position at GE HealthCare was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

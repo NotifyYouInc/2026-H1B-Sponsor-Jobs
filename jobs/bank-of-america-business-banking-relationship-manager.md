@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Woodland Hills, California, United States |
+| Location | Eugene, Oregon, United States |
 | Category | Account Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Woodland-Hills/Business-Banking-Relationship-Manager_26001114-2) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Eugene/Business-Banking-Relationship-Manager_26005319-2) |
 
 ## About This Role
 
-This account manager position at Bank of America was posted on 2026-04-24.
+This account manager position at Bank of America was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

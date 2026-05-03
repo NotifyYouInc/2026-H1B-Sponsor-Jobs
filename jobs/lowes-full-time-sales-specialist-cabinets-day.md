@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Kahului, Hawaii, United States |
 | Category | Business Development |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Seattle-WA-N-Seattle-0252/Full-Time---Sales-Specialist---Cabinets---Day_JR-02472350-1) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Kahului-HI-3279/Full-Time---Sales-Specialist---Cabinets---Day_JR-02497013-1) |
 
 ## About This Role
 
-This business development position at Lowe's was posted on 2026-04-10.
+This business development position at Lowe's was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

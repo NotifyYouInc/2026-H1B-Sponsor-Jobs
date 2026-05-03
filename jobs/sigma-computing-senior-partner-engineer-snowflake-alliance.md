@@ -5,12 +5,12 @@
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690383003) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714478003) |
 
 ## About This Role
 
-This technical & solutions architect position at Sigma Computing was posted on 2026-04-06.
+This technical & solutions architect position at Sigma Computing was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

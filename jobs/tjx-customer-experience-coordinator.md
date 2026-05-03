@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pocatello, Idaho, United States |
+| Location | Pittsfield, Massachusetts, United States |
 | Category | Customer Success |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Pocatello-ID-83202/Customer-Experience-Coordinator_REQ109585-1) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Pittsfield-MA-01201/Customer-Experience-Coordinator_REQ85845) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-04-11.
+This customer success position at TJX was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

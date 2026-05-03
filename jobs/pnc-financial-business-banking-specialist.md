@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Greenville, North Carolina, United States |
+| Location | Bonita Springs, Florida, United States |
 | Category | Account Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/SC---Greenville/Business-Banking-Specialist_R220597-1) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Bonita-Springs/Business-Banking-Specialist_R220425-1) |
 
 ## About This Role
 
-This account manager position at PNC Financial was posted on 2026-04-24.
+This account manager position at PNC Financial was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

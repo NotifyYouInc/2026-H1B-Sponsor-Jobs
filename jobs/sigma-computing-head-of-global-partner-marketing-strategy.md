@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | New York City, New York, United States |
-| Category | Business Development |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690377003) |
+| Category | Growth Marketing |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7714473003) |
 
 ## About This Role
 
-This business development position at Sigma Computing was posted on 2026-04-06.
+This growth marketing position at Sigma Computing was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

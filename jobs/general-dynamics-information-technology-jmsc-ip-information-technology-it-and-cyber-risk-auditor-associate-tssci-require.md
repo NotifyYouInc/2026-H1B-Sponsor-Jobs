@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hawaii, US |
+| Location | Schofield, Wisconsin, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Schofield/JMSC-IP-Information-Technology--IT--and-Cyber-Risk-Auditor-Associate---TS-SCI-Required_RQ216630-1) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Schofield/JMSC-IP-Information-Technology--IT--and-Cyber-Risk-Auditor-Associate---TS-SCI-Required_RQ218841-1) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-03-21.
+This security engineer position at General Dynamics Information Technology was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

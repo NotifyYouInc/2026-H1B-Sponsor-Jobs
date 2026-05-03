@@ -5,12 +5,12 @@
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Germany |
 | Category | Sales Leadership |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Berlin-Biesdorf--12683/Teamleiter-Verkauf--m-w-d-_REQ110216) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Offenbach-am-Main--63065/Teamleiter-Verkauf--m-w-d-_REQ113218-2) |
 
 ## About This Role
 
-This sales leadership position at TJX was posted on 2026-04-15.
+This sales leadership position at TJX was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

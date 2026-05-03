@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Michigan, US |
+| Location | Middletown, New Jersey, United States |
 | Category | Business Development |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Gaylord-MI-1551/Full-Time---Sales-Specialist---Appliances---Day_JR-02466389-1) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Middletown-NY-0540/Full-Time---Sales-Specialist---Appliances---Day_JR-02494345-1) |
 
 ## About This Role
 
-This business development position at Lowe's was posted on 2026-04-06.
+This business development position at Lowe's was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

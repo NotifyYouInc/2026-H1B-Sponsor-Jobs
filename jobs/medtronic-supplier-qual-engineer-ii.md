@@ -1,16 +1,16 @@
-# Supplier Qual Engineer II. at Medtronic
+# Supplier Qual Engineer II at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tijuana, Baja California, Mexico |
+| Location | Shanghai, Shanghai, China |
 | Category | QA Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Supplier-Qual-Engineer-II_R62663-1) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Shanghai-Shanghai-China/Supplier-Qual-Engineer-II_R65032-1) |
 
 ## About This Role
 
-This qa engineer position at Medtronic was posted on 2026-04-07.
+This qa engineer position at Medtronic was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

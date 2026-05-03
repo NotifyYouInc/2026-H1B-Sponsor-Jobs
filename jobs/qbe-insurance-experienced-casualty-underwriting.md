@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/USA---NY---New-York/Experienced-Casualty-Underwriting_351561-1) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/USA---CA---LA---South-Flower/Experienced-Casualty-Underwriting_354578) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-02-25.
+This corporate finance position at QBE Insurance was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 
