@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Software-Engineering---Development--VP_R-784294-1) |
+| Location | Hangzhou, Zhejiang, China |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering---Development--VP_R-789119) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-02-13.
+This ai / llm engineer position at State Street was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

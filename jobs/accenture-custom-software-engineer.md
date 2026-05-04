@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Indore, Madhya Pradesh, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Application-Support-Engineer_ATCI-R1-S1927504-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Application-Developer_ATCI-4831088-S1853970) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-25.
+This software engineer position at Accenture was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

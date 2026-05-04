@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chongqing, Chongqing, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3287-NO-598-Jiarong-Road-Chongqing-North-New-District-Chongqing-China/_20155967) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3357-7F-Building-A-New-Bund-World-Trade-Center-1No4-Lane-255-Dong-Yu-RoadShanghai-200126-China/_20157672) |
 
 ## About This Role
 
-This account executive position at Otis was posted on 2026-03-30.
+This account executive position at Otis was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

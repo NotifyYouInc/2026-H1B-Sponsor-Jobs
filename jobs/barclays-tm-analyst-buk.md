@@ -1,16 +1,16 @@
-# TM Analyst BUK at Barclays
+# TM Analyst - BUK at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Candor-TechSpace-Noida/TM-Analyst-BUK_JR-0000100433) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/TM-Analyst---BUK_JR-0000097288) |
 
 ## About This Role
 
-This financial crimes & aml position at Barclays was posted on 2026-03-06.
+This financial crimes & aml position at Barclays was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Product Designer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001006625-uiux-designer) |
+| Category | UX Researcher |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001025869-uiux-designer) |
 
 ## About This Role
 
-This product designer position at NCS was posted on 2026-04-17.
+This ux researcher position at NCS was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

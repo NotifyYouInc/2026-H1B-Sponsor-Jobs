@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Business-Execution-Consultant_R-520210-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Operations |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-537050-1) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-03-25.
+This operations position at Wells Fargo was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

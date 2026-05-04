@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Salvador, San Salvador Department, El Salvador |
+| Location | Gurugram, Haryana, India |
 | Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/SLV-San-Salvador---Getcom---Bulevar-de-Los-Prceres-Colonia-Palermo-No-350/Team-Leader_R1714528) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Gurugram---2nd-3rd-and-4th-Flrs-RMZ-Infinity/Team-Leader_R1721640) |
 
 ## About This Role
 
-This customer success position at Concentrix was posted on 2026-04-09.
+This customer success position at Concentrix was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

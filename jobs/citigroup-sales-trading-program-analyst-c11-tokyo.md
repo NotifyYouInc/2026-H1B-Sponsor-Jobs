@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Japan |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Sales---Trading-Program-Analyst---C11---TOKYO_25927591) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chiyoda-ku-Tokyo-Japan/Sales---Trading-Program-Analyst---C11---TOKYO_25927322) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-02.
+This corporate finance position at Citigroup was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

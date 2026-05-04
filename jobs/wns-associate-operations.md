@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000121679777-associate-operations) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Customer Success |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000123122929-associate-operations) |
 
 ## About This Role
 
-This business analyst position at WNS was posted on 2026-04-20.
+This customer success position at WNS was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

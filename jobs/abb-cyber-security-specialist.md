@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Cyber-Security-Specialist_JR00030047) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Cyber-Security-Specialist_JR00032697) |
 
 ## About This Role
 
-This security engineer position at ABB was posted on 2026-04-09.
+This security engineer position at ABB was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

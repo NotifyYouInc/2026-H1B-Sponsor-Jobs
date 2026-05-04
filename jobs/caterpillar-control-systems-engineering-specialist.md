@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Clayton, North Carolina, United States |
+| Location | 2 locations |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Clayton-North-Carolina/Control-Systems-Engineering-Specialist_R0000360437) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Control-Systems-Engineering-Specialist_R0000366354) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Caterpillar was posted on 2026-03-28.
+This embedded / firmware engineer position at Caterpillar was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
