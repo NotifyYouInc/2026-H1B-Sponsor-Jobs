@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Channel / Partner Sales |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/DUBAI/Client-Advisor_JR125110) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Account Manager |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/MELBOURNE/Client-Advisor_JR128007-2) |
 
 ## About This Role
 
-This channel / partner sales position at Richemont was posted on 2026-02-20.
+This account manager position at Richemont was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

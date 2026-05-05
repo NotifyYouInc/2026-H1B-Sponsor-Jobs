@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanghai---Shanghai-Tower-A/Sr-IEI-Specialist_R391106-1) |
+| Location | Yichang, Hubei, China |
+| Category | Business Development |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Hubei---Yichang/Sr-IEI-Specialist_R395984-1) |
 
 ## About This Role
 
-This account executive position at Merck was posted on 2026-04-03.
+This business development position at Merck was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

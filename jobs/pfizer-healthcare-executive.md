@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Delhi, Delhi, India |
-| Category | Account Executive |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Delhi/Healthcare-Executive_4954815) |
+| Category | Sales Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Delhi/Healthcare-Executive_4954907) |
 
 ## About This Role
 
-This account executive position at Pfizer was posted on 2026-04-05.
+This sales engineer position at Pfizer was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

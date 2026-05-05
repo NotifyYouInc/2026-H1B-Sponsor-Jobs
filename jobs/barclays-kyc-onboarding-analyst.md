@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-Block-4-DLF-Downtown/KYC-Onboarding-Analyst_JR-0000095412) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/KYC-Onboarding-Analyst_JR-0000101504) |
 
 ## About This Role
 
-This compliance & risk management position at Barclays was posted on 2026-03-09.
+This compliance & risk management position at Barclays was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hanoi-Hanoi-Vietnam/Sales-Specialist_R0124091) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Business Development |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dubai-Dubai-Emirate-United-Arab-Emirates/Sales-Specialist_R0126131) |
 
 ## About This Role
 
-This account executive position at Hitachi was posted on 2026-04-20.
+This business development position at Hitachi was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

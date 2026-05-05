@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ROU---Cluj-Napoca/Senior-General-Ledger-Accountant_R0055954) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ROU---Cluj-Napoca/Senior-General-Ledger-Accountant_R0055953) |
 
 ## About This Role
 
-This corporate finance position at Wolters Kluwer was posted on 2026-04-24.
+This corporate finance position at Wolters Kluwer was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

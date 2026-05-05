@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Software-Engineering_R-274685) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Software-Engineering_R-276361) |
 
 ## About This Role
 
-This engineering manager position at Mastercard was posted on 2026-04-06.
+This engineering manager position at Mastercard was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

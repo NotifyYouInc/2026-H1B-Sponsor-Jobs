@@ -1,0 +1,22 @@
+# Senior Quality Assurance –1st shift Incoming Inspection at Hitachi
+
+| Field | Details |
+|-------|---------|
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | South Boston, Massachusetts, United States |
+| Category | QA Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/South-Boston-Virginia-United-States-of-America/Senior-Quality-Assurance--1st-shift-Incoming-Inspection_R0123486) |
+
+## About This Role
+
+This qa engineer position at Hitachi was posted on 2026-04-28.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

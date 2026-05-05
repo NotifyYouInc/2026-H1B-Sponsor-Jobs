@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Chennai-India/Advisor--Incident-Management_R-10385140) |
+| Category | Business Analyst |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Chennai-India/Advisor--Incident-Management_R-10385086) |
 
 ## About This Role
 
-This it & systems administration position at Fiserv was posted on 2026-04-20.
+This business analyst position at Fiserv was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Marketing Operations |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Operations-Processor_R-526919) |
+| Category | Operations |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Operations-Processor_R-526967) |
 
 ## About This Role
 
-This marketing operations position at Wells Fargo was posted on 2026-03-18.
+This operations position at Wells Fargo was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

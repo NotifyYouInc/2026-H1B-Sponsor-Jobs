@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 4 locations |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Xian-China/Engineer--Product-Compliance-Engineering_R26-12) |
+| Location | 2 locations |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Shanghai-China/Engineer--Product-Compliance-Engineering_R26-2239) |
 
 ## About This Role
 
-This compliance & risk management position at Rockwell Automation was posted on 2026-03-19.
+This electrical / hardware engineer position at Rockwell Automation was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

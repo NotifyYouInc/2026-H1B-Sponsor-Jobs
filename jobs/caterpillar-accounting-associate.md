@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shanghai-Shanghai/Accounting-Associate_R0000348033-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Accounting-Associate_R0000318410) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-02.
+This corporate finance position at Caterpillar was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

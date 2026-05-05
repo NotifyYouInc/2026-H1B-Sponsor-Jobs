@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Hyderabad-India/R-D-Principal-Technologist_R012502) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Hyderabad-India/R-D-Principal-Technologist_R013867-1) |
 
 ## About This Role
 
-This software engineer position at AVEVA was posted on 2026-03-06.
+This devops engineer position at AVEVA was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

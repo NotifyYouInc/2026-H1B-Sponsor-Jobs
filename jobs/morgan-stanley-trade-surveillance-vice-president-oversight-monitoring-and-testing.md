@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Trade-Surveillance--Vice-President--Oversight--Monitoring-and-Testing_PT-JR031047-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Trade-Surveillance--Vice-President--Oversight--Monitoring-and-Testing_PT-JR035667) |
 
 ## About This Role
 
-This compliance & risk management position at Morgan Stanley was posted on 2026-03-06.
+This compliance & risk management position at Morgan Stanley was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

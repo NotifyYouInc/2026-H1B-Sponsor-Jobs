@@ -1,16 +1,16 @@
-# Financial Consulting Supervisor - Payroll Services at RSM
+# Financial Consulting Supervisor Payroll Services at RSM
 
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Financial-Consulting-Supervisor---Payroll-Services_JR114194) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Financial-Consulting-Supervisor---Finance-as-a-Service_JR118573) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-02-18.
+This accounting position at RSM was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Delaware, US |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-MD/Technical-Account-Manager_R-054715) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Kowloon/Technical-Account-Manager_R-056815-1) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-02-10.
+This customer success position at Red Hat was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

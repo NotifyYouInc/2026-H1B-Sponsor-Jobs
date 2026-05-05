@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Miyagi-Japan/Territory-Manager--JR-Tohoku-2_R559264-5) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Miyagi-Japan/Territory-Manager--JR-Tohoku-2_R562596-3) |
 
 ## About This Role
 
-This account executive position at Stryker was posted on 2026-02-26.
+This account executive position at Stryker was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

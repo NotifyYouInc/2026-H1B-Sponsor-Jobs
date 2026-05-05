@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Malaysia |
 | Category | Project Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Engineering-Project-Manager---APTD-Operations_JR95564-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Engineering-Project-Manager---APTD-Operations_JR98288) |
 
 ## About This Role
 
-This project manager position at Micron was posted on 2026-03-19.
+This project manager position at Micron was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

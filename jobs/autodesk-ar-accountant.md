@@ -5,12 +5,12 @@
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/AR-Accountant_26WD96153-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/AR-Accountant_26WD97455-1) |
 
 ## About This Role
 
-This corporate finance position at Autodesk was posted on 2026-03-09.
+This corporate finance position at Autodesk was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
