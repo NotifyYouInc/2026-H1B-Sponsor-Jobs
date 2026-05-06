@@ -5,12 +5,12 @@
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Project Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Philippines---Pasig-City-Ortigas-Center-Glas-Tower/Project-Manager-1--Hybrid---Day-Shift-_R434683) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/Philippines---Pasig-City-Ortigas-Center-Glas-Tower/Project-Manager-1--Hybrid---Day-Shift-_R434681) |
 
 ## About This Role
 
-This project manager position at Comcast was posted on 2026-04-27.
+This project manager position at Comcast was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

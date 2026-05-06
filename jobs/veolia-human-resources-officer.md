@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fanling, North District, Hong Kong |
+| Location | Tuen Mun, Tuen Mun, Hong Kong |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000114888007-human-resources-officer) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123606679-human-resources-officer) |
 
 ## About This Role
 
-This human resources / people ops position at Veolia was posted on 2026-03-16.
+This human resources / people ops position at Veolia was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

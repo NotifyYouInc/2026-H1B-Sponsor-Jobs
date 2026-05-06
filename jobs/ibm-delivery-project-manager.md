@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Markham, Ontario, Canada |
-| Category | Customer Success |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112175) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Project Manager |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112228) |
 
 ## About This Role
 
-This customer success position at IBM was posted on 2026-04-24.
+This project manager position at IBM was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ipil, Zamboanga Peninsula, Philippines |
-| Category | Data Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Ipil-Philippines/Coordinator-Data-Process-Support_REQ571917) |
+| Location | Valenzuela, National Capital Region, Philippines |
+| Category | Customer Success |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/PSA-Valenzuela/Coordinator-Data-Process-Support_REQ572838) |
 
 ## About This Role
 
-This data analyst position at Unisys was posted on 2026-04-24.
+This customer success position at Unisys was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
-| Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93972) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105289) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-02-19.
+This software engineer position at IBM was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

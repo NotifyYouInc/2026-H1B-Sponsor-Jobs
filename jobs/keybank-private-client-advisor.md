@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pennsylvania, US |
+| Location | Maple Heights, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Harleysville-PA/Private-Client-Advisor_R-39057-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Maple-Heights-OH/Private-Client-Advisor_R-39278) |
 
 ## About This Role
 
-This corporate finance position at KeyBank was posted on 2026-04-10.
+This corporate finance position at KeyBank was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

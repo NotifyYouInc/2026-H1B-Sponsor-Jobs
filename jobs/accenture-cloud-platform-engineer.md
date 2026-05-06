@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Cloud-Platform-Engineer_ATCI-5272454-S1936725-1) |
+| Location | Coimbatore, Tamil Nadu, India |
+| Category | DevOps Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Cloud-Platform-Engineer_ATCI-5517775-S2019503-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-04-27.
+This devops engineer position at Accenture was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

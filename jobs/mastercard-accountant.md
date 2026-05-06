@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Accountant_R-272612) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Accountant_R-276610) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-03-09.
+This corporate finance position at Mastercard was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

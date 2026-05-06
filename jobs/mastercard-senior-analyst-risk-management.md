@@ -1,16 +1,16 @@
-# Senior Analyst, Risk Management at Mastercard
+# Senior Analyst Risk Management at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Senior-Analyst--Risk-Management_R-266378) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Analyst-Risk-Management_R-276525-1) |
 
 ## About This Role
 
-This compliance & risk management position at Mastercard was posted on 2026-04-21.
+This compliance & risk management position at Mastercard was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

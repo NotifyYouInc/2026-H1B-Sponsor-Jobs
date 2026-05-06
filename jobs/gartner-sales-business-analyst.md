@@ -5,12 +5,12 @@
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Sales-Business-Analyst_109842) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Sales-Business-Analyst_109981-1) |
 
 ## About This Role
 
-This business analyst position at Gartner was posted on 2026-04-17.
+This business analyst position at Gartner was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

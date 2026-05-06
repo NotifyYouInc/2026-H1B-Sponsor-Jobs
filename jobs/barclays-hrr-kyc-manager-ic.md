@@ -1,16 +1,16 @@
-# HRR KYC Manager - IC at Barclays
+# HRR KYC Manager – IC at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Financial Crimes & AML |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/HRR-KYC-Manager---IC_JR-0000098536) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/HRR-KYC-Manager---IC_JR-0000101795) |
 
 ## About This Role
 
-This financial crimes & aml position at Barclays was posted on 2026-04-21.
+This compliance & risk management position at Barclays was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

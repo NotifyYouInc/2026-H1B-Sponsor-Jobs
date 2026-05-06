@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Heilongjiang, CN |
+| Location | Wuhan, Hubei, China |
 | Category | Sales Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Heilongjiang---Haerbin/_4952096) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Hubei---Wuhan/_4955801) |
 
 ## About This Role
 
-This sales engineer position at Pfizer was posted on 2026-04-23.
+This sales engineer position at Pfizer was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3201779/bd-manager) |
+| Category | Sales Leadership |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406414/bd-manager) |
 
 ## About This Role
 
-This account executive position at Amazon was posted on 2026-03-11.
+This sales leadership position at Amazon was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

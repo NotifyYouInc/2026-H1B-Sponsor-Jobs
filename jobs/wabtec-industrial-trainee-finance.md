@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | 5 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012442736-industrial-trainee-finance) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012866116-industrial-trainee-finance) |
 
 ## About This Role
 
-This corporate finance position at Wabtec was posted on 2026-04-03.
+This corporate finance position at Wabtec was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
