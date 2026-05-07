@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Sr-Analyst-I-Controllership_51576975) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Sr-Analyst-I-Controllership_51578447) |
 
 ## About This Role
 
-This corporate finance position at DXC Technology was posted on 2026-04-23.
+This corporate finance position at DXC Technology was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

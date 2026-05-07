@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Adelaide, South Australia, Australia |
 | Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---QLD---BRISBANE/Associate-Manager-ERP-Package-Applications_51577739) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---SA---ADELAIDE/Associate-Manager-ERP-Package-Applications_51579591) |
 
 ## About This Role
 
-This customer success position at DXC Technology was posted on 2026-04-14.
+This customer success position at DXC Technology was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

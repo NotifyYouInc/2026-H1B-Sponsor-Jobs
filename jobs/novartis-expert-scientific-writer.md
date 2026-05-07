@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Content Marketing |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Expert-Scientific-Writer_REQ-10073390-1) |
+| Category | Technical Writer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Expert-Scientific-Writer_REQ-10076565) |
 
 ## About This Role
 
-This content marketing position at Novartis was posted on 2026-03-18.
+This technical writer position at Novartis was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

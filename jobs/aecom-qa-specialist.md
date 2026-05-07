@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philippines |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | QA Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000121099103-qa-specialist) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000123851829-qa-specialist) |
 
 ## About This Role
 
-This qa engineer position at AECOM was posted on 2026-04-16.
+This qa engineer position at AECOM was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

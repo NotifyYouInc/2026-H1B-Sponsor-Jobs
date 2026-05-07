@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | South Boston, Massachusetts, United States |
+| Location | Ludvika, Dalarna, Sweden |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/South-Boston-Virginia-United-States-of-America/Test-Engineer_R0122088) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Test-Engineer_R0099724) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-03-24.
+This electrical / hardware engineer position at Hitachi was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

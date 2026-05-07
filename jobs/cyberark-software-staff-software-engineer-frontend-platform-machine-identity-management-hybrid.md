@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000119518802-staff-software-engineer-frontend-platform-machine-identity-management-hybrid) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000123841749-staff-software-engineer-frontend-platform-machine-identity-management-hybrid) |
 
 ## About This Role
 
-This frontend engineer position at CyberArk Software was posted on 2026-04-09.
+This frontend engineer position at CyberArk Software was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Project Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Singapore/Regional-Study-Coordinator_2614838) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Kuala-Lumpur-MYS/Regional-Study-Coordinator_2614846) |
 
 ## About This Role
 
-This project manager position at Labcorp was posted on 2026-04-29.
+This project manager position at Labcorp was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

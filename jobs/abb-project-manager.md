@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Project Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mumbai-Maharashtra-India/Project-Manager_JR00032219) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Project-Manager_JR00032543) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-04-28.
+This project manager position at ABB was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

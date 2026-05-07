@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Infra-Tech-Support-Practitioner_ATCI-5534092-S2017489-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Infra-Tech-Support-Practitioner_ATCI-5381742-S1970444) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-04-22.
+This customer success position at Accenture was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

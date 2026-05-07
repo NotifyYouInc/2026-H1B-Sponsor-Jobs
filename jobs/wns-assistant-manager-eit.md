@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | Hyderabad, Telangana, India |
 | Category | Project Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000111301355-assistant-manager-eit) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000123846353-assistant-manager-eit) |
 
 ## About This Role
 
-This project manager position at WNS was posted on 2026-02-25.
+This project manager position at WNS was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vaulx-en-Velin, Rhône-Alpes, France |
-| Category | Project Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000116113007-ingenieur-methodes-contrats-hf) |
+| Category | Industrial Automation |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123852709-ingenieur-methodes-contrats-hf) |
 
 ## About This Role
 
-This project manager position at Veolia was posted on 2026-03-23.
+This industrial automation position at Veolia was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

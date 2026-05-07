@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112227) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111648) |
 
 ## About This Role
 
-This customer success position at IBM was posted on 2026-04-29.
+This customer success position at IBM was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

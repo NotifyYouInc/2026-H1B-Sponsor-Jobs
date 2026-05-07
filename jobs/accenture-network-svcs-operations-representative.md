@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Network---Svcs-Operations-Representative_ATCI-5102058-S1890780-1) |
+| Location | Pune, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Network---Svcs-Operations-Representative_ATCI-5376206-S1970703-1) |
 
 ## About This Role
 
-This it & systems administration position at Accenture was posted on 2026-04-28.
+This devops engineer position at Accenture was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
