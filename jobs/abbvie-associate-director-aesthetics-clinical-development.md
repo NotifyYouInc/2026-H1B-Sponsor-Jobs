@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Irvine, California, United States |
-| Category | Project Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012149086-associate-director-aesthetics-clinical-development) |
+| Category | Product Manager |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012923476-associate-director-aesthetics-clinical-development) |
 
 ## About This Role
 
-This project manager position at AbbVie was posted on 2026-03-13.
+This product manager position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

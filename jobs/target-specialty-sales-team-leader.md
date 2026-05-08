@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rio Rancho, New Mexico, United States |
+| Location | Vestal, New York, United States |
 | Category | Sales Leadership |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/4225-Crestview-Dr-Rio-RanchoNM-87124-5903/Specialty-Sales-Team-Leader_R0000436684) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/3112-Vestal-Pkwy-E-VestalNY-13850-2038/Specialty-Sales-Team-Leader_R0000436871) |
 
 ## About This Role
 
-This sales leadership position at Target was posted on 2026-04-24.
+This sales leadership position at Target was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

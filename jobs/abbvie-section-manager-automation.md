@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Project Manager |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012150946-section-manager-automation) |
+| Category | Engineering Manager |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012923322-section-manager-automation) |
 
 ## About This Role
 
-This project manager position at AbbVie was posted on 2026-03-14.
+This engineering manager position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

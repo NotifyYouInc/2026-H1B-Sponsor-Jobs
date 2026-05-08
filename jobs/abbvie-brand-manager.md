@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hong Kong |
+| Location | Riga, Riga, Latvia |
 | Category | Marketing |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012566316-brand-manager) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012922215-brand-manager) |
 
 ## About This Role
 
-This marketing position at AbbVie was posted on 2026-04-13.
+This marketing position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

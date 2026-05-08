@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Springdale, Arkansas, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/HR-Advisor---Joslin--IL_R0445041) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/HR-Advisor---Joslin--IL_R0458839) |
 
 ## About This Role
 
-This human resources / people ops position at Tyson Foods was posted on 2026-02-17.
+This human resources / people ops position at Tyson Foods was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

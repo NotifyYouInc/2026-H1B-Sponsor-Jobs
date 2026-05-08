@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Five Below](https://scoutify.ai/companies/five-below?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Encinitas, California, United States |
+| Location | San Diego, California, United States |
 | Category | Customer Success |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://fivebelow.wd1.myworkdayjobs.com/fivebelowcareers/job/Encinitas-CA-92024/Customer-Experience-Manager_JR86045) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://fivebelow.wd1.myworkdayjobs.com/fivebelowcareers/job/San-Diego-CA-92117/Customer-Experience-Manager_JR86362) |
 
 ## About This Role
 
-This customer success position at Five Below was posted on 2026-04-25.
+This customer success position at Five Below was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

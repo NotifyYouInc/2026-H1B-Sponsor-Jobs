@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Sales-Support-Specialist_JR00025596) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Singapore-Central-Singapore-Singapore/Sales-Support-Specialist_JR00032996) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-04-06.
+This sales engineer position at ABB was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

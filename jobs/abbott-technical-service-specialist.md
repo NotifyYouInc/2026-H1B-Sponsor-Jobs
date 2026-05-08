@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Macquarie Park, New South Wales, Australia |
+| Location | Suginami, Ibaraki, Japan |
 | Category | Customer Success |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Australia--Macquarie-Park--299-Lane-Cove-Road/Technical-Service-Specialist_31147543-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Japan---Suginami/Technical-Service-Specialist_31146747-1) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-04-24.
+This customer success position at Abbott was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

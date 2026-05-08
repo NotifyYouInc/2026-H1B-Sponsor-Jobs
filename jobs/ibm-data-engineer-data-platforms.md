@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103690) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Data Engineer |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112659) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-20.
+This data engineer position at IBM was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | 2 locations |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Release-Train-Engineer_R-00180085) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Marysville-CA/Release-Train-Engineer_R-00182238) |
 
 ## About This Role
 
-This scrum master & agile coach position at Leidos was posted on 2026-04-06.
+This scrum master & agile coach position at Leidos was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

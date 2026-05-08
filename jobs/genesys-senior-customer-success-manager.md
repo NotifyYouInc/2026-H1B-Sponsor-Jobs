@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Customer Success |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Chennai-Flexible/Senior-Customer-Success-Manager_JR108963-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Melbourne-Flexible/Senior-Customer-Success-Manager_JR109335) |
 
 ## About This Role
 
-This customer success position at Genesys was posted on 2026-03-02.
+This customer success position at Genesys was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Los Angeles, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5120902007) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5126046007) |
 
 ## About This Role
 
-This human resources / people ops position at The Trade Desk was posted on 2026-04-25.
+This human resources / people ops position at The Trade Desk was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

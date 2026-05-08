@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Customer Success |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Ottawa-Ontario/Customer-Experience-Associate_R_1485175) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Vancouver-British-Columbia/Customer-Experience-Associate_R_1487438) |
 
 ## About This Role
 
-This customer success position at TD Bank was posted on 2026-04-18.
+This customer success position at TD Bank was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

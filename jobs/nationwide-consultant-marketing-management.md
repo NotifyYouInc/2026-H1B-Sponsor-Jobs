@@ -5,12 +5,12 @@
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Marketing |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Consultant--Marketing-Management_097339) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Marketing-Management_097988) |
 
 ## About This Role
 
-This marketing position at Nationwide was posted on 2026-03-27.
+This marketing position at Nationwide was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

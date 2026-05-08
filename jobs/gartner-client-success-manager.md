@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Irving, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Client-Success-Manager_110157) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Client-Success-Manager_109791) |
 
 ## About This Role
 
-This customer success position at Gartner was posted on 2026-04-29.
+This customer success position at Gartner was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

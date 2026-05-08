@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hiroshima, Hiroshima, Japan |
-| Category | Account Executive |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hiroshima-Hiroshima-Japan/Sales-Representative-Surgical---Okayama-_R60482-7) |
+| Location | Nagoya, Aichi, Japan |
+| Category | Business Development |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nagoya-Aichi-Japan/Sales-Representative--SPINE---Aichi-2-_R65177-2) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-02-27.
+This business development position at Medtronic was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Riverside, California, United States |
+| Location | Bolingbrook, Illinois, United States |
 | Category | Business Development |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Riverside/Solar-Appointment-Setter_R62013) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/IL-Bolingbrook/Solar-Appointment-Setter_R64608) |
 
 ## About This Role
 
-This business development position at Sunrun was posted on 2026-04-18.
+This business development position at Sunrun was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iHeartMedia](https://scoutify.ai/companies/iheartmedia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Diego, California, United States |
+| Location | Asheville, North Carolina, United States |
 | Category | Marketing |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Diego-CA-Granite/Promotions-Assistant_Req38170-2) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Asheville-NC/Promotions-Assistant_Req38447-5) |
 
 ## About This Role
 
-This marketing position at iHeartMedia was posted on 2026-03-20.
+This marketing position at iHeartMedia was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

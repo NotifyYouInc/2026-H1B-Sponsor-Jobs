@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Pallāvaram, Tamil Nadu, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Pallavaram/Engineer-Systems-Engineering_R5038191-2) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Pallavaram/Engineer-Systems-Engineering_R5040750-2) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GE Vernova was posted on 2026-04-16.
+This electrical / hardware engineer position at GE Vernova was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

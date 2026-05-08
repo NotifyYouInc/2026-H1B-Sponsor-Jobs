@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pittsfield, Massachusetts, United States |
+| Location | Las Vegas, Nevada, United States |
 | Category | Customer Success |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Pittsfield-MA-01201/Customer-Experience-Coordinator_REQ85845) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Las-Vegas-NV-89117/Customer-Experience-Coordinator_REQ114822) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-04-25.
+This customer success position at TJX was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

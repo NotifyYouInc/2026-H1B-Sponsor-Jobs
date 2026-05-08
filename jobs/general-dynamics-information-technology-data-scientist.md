@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Virginia Beach, Virginia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Virginia-Beach/Data-Scientist_RQ216669-1) |
+| Location | Florida, US |
+| Category | Data Scientist |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Data-Scientist_RQ219160-1) |
 
 ## About This Role
 
-This machine learning engineer position at General Dynamics Information Technology was posted on 2026-03-20.
+This data scientist position at General Dynamics Information Technology was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

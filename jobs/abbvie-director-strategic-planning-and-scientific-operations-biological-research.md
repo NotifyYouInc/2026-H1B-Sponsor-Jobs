@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Irvine, California, United States |
-| Category | Operations |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012668216-director-strategic-planning-and-scientific-operations-biological-research) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012922397-director-strategic-planning-and-scientific-operations-biological-research) |
 
 ## About This Role
 
-This operations position at AbbVie was posted on 2026-04-18.
+This strategy / management consulting position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
