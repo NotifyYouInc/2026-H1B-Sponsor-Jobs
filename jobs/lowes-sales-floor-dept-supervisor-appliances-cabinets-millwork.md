@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Kaufman, Texas, United States |
 | Category | Sales Leadership |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Arlington-TX-S-Arlington-0520/Sales-Floor-Dept-Supervisor---Appliances-Cabinets-Millwork_JR-02496858-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Kaufman-TX-3583/Sales-Floor-Dept-Supervisor---Appliances-Cabinets-Millwork_JR-02499753-1) |
 
 ## About This Role
 
-This sales leadership position at Lowe's was posted on 2026-04-24.
+This sales leadership position at Lowe's was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Alaska, US |
+| Location | Boise, Idaho, United States |
 | Category | Account Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Ketchikan-AK/Financial-Wellness-Associate_R-39006) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Boise-ID/Financial-Wellness-Associate_R-39462) |
 
 ## About This Role
 
-This account manager position at KeyBank was posted on 2026-04-10.
+This account manager position at KeyBank was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

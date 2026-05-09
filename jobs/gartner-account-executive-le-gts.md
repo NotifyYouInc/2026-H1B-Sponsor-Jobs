@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ohio, US |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Account Executive |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Ohio/Account-Executive--LE--GTS_109708) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Johannesburg/Account-Executive--LE--GTS_109266-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-04-25.
+This account executive position at Gartner was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

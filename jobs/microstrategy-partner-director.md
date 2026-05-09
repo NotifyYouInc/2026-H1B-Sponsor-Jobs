@@ -6,7 +6,7 @@
 | Location | Virginia, US |
 | Category | Business Development |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000124077539-partner-director) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000124187179-partner-director) |
 
 ## About This Role
 

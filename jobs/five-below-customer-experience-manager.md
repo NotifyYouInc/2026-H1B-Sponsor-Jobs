@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Five Below](https://scoutify.ai/companies/five-below?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Diego, California, United States |
+| Location | Cambridge, Massachusetts, United States |
 | Category | Customer Success |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://fivebelow.wd1.myworkdayjobs.com/fivebelowcareers/job/San-Diego-CA-92117/Customer-Experience-Manager_JR86362) |
+| Apply | [View on company site](https://fivebelow.wd1.myworkdayjobs.com/fivebelowcareers/job/Cambridge-OH-43725/Customer-Experience-Manager_JR86411) |
 
 ## About This Role
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Kamloops, British Columbia, Canada |
 | Category | Customer Success |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Vancouver-British-Columbia/Customer-Experience-Associate_R_1487438) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Kamloops-British-Columbia/Customer-Experience-Associate_R_1486969) |
 
 ## About This Role
 

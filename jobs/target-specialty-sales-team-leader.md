@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vestal, New York, United States |
+| Location | Orange, California, United States |
 | Category | Sales Leadership |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/3112-Vestal-Pkwy-E-VestalNY-13850-2038/Specialty-Sales-Team-Leader_R0000436871) |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/2191-N-Tustin-St-OrangeCA-92865-3701/Specialty-Sales-Team-Leader_R0000436988) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Newrez](https://scoutify.ai/companies/newrez?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Petaluma, California, United States |
+| Location | Columbia, South Carolina, United States |
 | Category | Account Executive |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://newrez.wd1.myworkdayjobs.com/NRZ/job/CA-Petaluma/Jr-Mortgage-Consultant_R9604-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://newrez.wd1.myworkdayjobs.com/NRZ/job/MD-Columbia/Jr-Mortgage-Consultant_R9805) |
 
 ## About This Role
 
-This account executive position at Newrez was posted on 2026-03-20.
+This account executive position at Newrez was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

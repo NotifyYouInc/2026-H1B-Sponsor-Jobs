@@ -1,16 +1,16 @@
-# Full time Customer Experience Coordinator at TJX
+# Full Time Customer Experience Coordinator at TJX
 
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cypress, Texas, United States |
+| Location | Branson, Missouri, United States |
 | Category | Customer Success |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Cypress-TX-77433/Full-time-Customer-Experience-Coordinator_REQ113206) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Branson-MO-65616/Full-Time-Customer-Experience-Coordinator_REQ115109) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-04-25.
+This customer success position at TJX was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
