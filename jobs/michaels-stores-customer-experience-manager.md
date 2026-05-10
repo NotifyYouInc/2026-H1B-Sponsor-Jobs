@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Michaels Stores](https://scoutify.ai/companies/michaels?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Secaucus, New Jersey, United States |
+| Location | Woodside, New York, United States |
 | Category | Customer Success |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Secaucus-400-Mill-Creek-Dr/Customer-Experience-Manager_R00308751) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Woodside-5106-Northern-Blvd/Customer-Experience-Manager_R00308881) |
 
 ## About This Role
 
-This customer success position at Michaels Stores was posted on 2026-04-25.
+This customer success position at Michaels Stores was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

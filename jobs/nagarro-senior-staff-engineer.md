@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | China |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000107656515-senior-staff-engineer) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000124232299-senior-staff-engineer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-06.
+This software engineer position at Nagarro was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

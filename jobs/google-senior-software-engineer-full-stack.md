@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 5 locations |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSm2VtBa2E544EV8vJsyfoya_4REi8arRKhO3fC33UmZEjsACxwdTHtGvsveiZLWvliVzWZkEqhJd-VsF3QcbhvwWZsUWkLObVuvkYWFTk6hZ-JVjOzpcXi9f5QrMg%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdaIeaNL8vADBvBx6Nc-ROwyWWJLVqsnI7kG_3iS9-vDEjsACxwdTKYYNSQCSdeftGG0rGhNDHAizdgLgzXmw4XTlq6ZMtDaZN7D3uGbjwlitAievNoO__0qNhE8Vw%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 

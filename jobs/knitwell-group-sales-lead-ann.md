@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Knitwell Group](https://scoutify.ai/companies/knitwell-group?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Paoli, Pennsylvania, United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-2505-Westshore-Plaza-ANN-Tampa-FL-33609/Sales-Lead-ANN_R-2025686) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-1466-Paoli-Shopping-Center-ANN-Paoli-PA-19301/Sales-Lead-ANN_R-2025694) |
 
 ## About This Role
 
-This sales leadership position at Knitwell Group was posted on 2026-05-01.
+This sales leadership position at Knitwell Group was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

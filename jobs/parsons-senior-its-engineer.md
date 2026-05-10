@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sharjah, Sharjah, United Arab Emirates |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Sharjah/ITS-Engineer_R176792-1) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Category | Engineering Manager |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/Senior-ITS-Engineer_R180371) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Parsons was posted on 2026-03-23.
+This engineering manager position at Parsons was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

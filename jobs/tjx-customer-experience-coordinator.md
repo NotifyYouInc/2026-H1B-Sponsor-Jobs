@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Durham, North Carolina, United States |
 | Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Las-Vegas-NV-89117/Customer-Experience-Coordinator_REQ114822) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Durham-NC-27707/Customer-Experience-Coordinator_REQ115161) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-05-01.
+This customer success position at TJX was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 5 locations |
+| Location | New York City, New York, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU9wFdn1XK7eNZBDaNPqglYI9EctSUoeEla31nFVdoLGEjsACxwdTL_dbnFR0LOqqnvrzDJR7Xsm4h16JLScPIHjQBUZEbylKG7Ik8VRRhqo96L436Gy8xioO3UckQ%3D%3D_V2&loc=US&title=Software+Engineer+III) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckT_MfvlwkUe6nSBzurma_SjNl0d43YbipMmOauIM2OxDEjsACxwdTFu0FruSAKRNxvwm888aP_h5P0v0icNEZz4oJkA_niEGy7ibt16l7IzHToO7S3XmWBFv2_hqyg%3D%3D_V2&loc=US&title=Software+Engineer+III) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000122601539-principal-electrical-engineering) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124256369-principal-electrical-engineering) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-04-24.
+This electrical / hardware engineer position at AECOM was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

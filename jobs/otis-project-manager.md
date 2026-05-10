@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | Las Vegas, Nevada, United States |
 | Category | Project Manager |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/OT342-SC---NORTH-HIGHLANDS-CA-1123-North-Market-Blvd-Suite-4-Sacramento-CA-95834-USA/Project-Manager_20153744) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/OT336-SAL---LAS-VEGAS-NV-711-Pilot-Road-Suite-D-LAS-VEGAS-NV-89119-USA/Project-Manager_20158910) |
 
 ## About This Role
 
-This project manager position at Otis was posted on 2026-03-14.
+This project manager position at Otis was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

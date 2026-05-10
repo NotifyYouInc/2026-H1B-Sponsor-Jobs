@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | Plymouth, Minnesota, United States |
 | Category | Business Development |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Hawthorne/Solar-Appointment-Setter_R64722) |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/MA-Plymouth/Solar-Appointment-Setter_R64643) |
 
 ## About This Role
 

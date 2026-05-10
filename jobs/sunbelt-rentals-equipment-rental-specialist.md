@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunbelt Rentals](https://scoutify.ai/companies/sunbelt-rentals?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Escondido, California, United States |
+| Location | La Crosse, Wisconsin, United States |
 | Category | Account Executive |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Escondido-CA-92025/Equipment-Rental-Specialist_2026-6540) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/La-Crosse-VA-23950/Equipment-Rental-Specialist_2026-6226) |
 
 ## About This Role
 
-This account executive position at Sunbelt Rentals was posted on 2026-04-12.
+This account executive position at Sunbelt Rentals was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

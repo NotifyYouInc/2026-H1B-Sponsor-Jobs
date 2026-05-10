@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Roseburg, Oregon, United States |
+| Location | South Portland, Maine, United States |
 | Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Roseburg-OR-97471/FT-Customer-Experience-Coordinator_REQ109223-1) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/South-Portland-ME-04106/FT-Customer-Experience-Coordinator_REQ115227) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-04-09.
+This customer success position at TJX was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

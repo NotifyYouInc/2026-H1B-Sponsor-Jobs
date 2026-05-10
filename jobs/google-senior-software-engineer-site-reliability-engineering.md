@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 6 locations |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdcDanm0E2AfL4ipkdMxbBHYmI7w8KFygsHnqFgdPcu5EjsACxwdTJ0kQhhvleU5dkF4vnR6AEvi4tCcGUB1YOGF9l73Kd5Fjn6BOqbRJK2vs_6fvUfNbgcu-l0Lag%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSF3JbbObzjfTUtFIbbyJH06h2ErHQgmjak3Mb3zzliPEjsACxwdTNH9sZ09IxmfcuJFm1W1Cg-gZltC8i6RsKvkMqVZhd29sF8V2UqIBLhixk0r7iqwo0u2arl_NA%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 

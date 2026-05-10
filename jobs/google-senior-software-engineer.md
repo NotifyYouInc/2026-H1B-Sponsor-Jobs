@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 5 locations |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckanMxz4ue47DgrXx6s-uDxFcfR4tKbo4lPxglBnFYaTeEjsACxwdTA-ksbuOJWgw3WojNqfegG4tGvkjPS-6X0sREvs0Rl6RTfAk9mAsMiA3dTCxEylXKarZQRfP1A%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRyf5UjBe8GTjo_3GyVxKFwX0vvVObwmnhUF8CI6VUIPEjsACxwdTFRdgUHfQhwpSFZG6tHt5Cn7rk1A4OP2rm1sKww-n6I17iFjXiUKCLdPsXY5h-tokiUKvsHkfw%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 

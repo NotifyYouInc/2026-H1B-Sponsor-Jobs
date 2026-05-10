@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Los Angeles, California, United States |
 | Category | Program Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1457581902408521) |
+| Posted | 2026-05-03 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1414645047081821) |
 
 ## About This Role
 
-This program manager position at Meta was posted on 2026-03-27.
+This program manager position at Meta was posted on 2026-05-03.
 
 ## Get Real-Time Alerts
 

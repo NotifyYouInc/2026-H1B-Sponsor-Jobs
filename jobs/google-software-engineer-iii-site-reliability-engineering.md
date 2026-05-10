@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 6 locations |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Software Engineer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRAX8AZiobRu1fmS3SxwfDu220UXW0-et8d-IizGz2irEjsACxwdTB97_Y2hQFUcrZqdLZ5qLVcjOomFIALNNpBFa_EZ5gbK5Y17EOVmw98aYDIyVtvCQud1C4aRiA%3D%3D_V2&loc=US&title=Software+Engineer+III) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ388KjRIpC4vsoKDEgB520NZzkXBAE9tm712ZQKJujFEjsACxwdTLdCevpyOa8F1jC_xS46UUCTFplPd3HyCV2LEzAjRTHzJ8Xz0gBZWo-Om2Mjlfn572iCae8TKQ%3D%3D_V2&loc=US&title=Software+Engineer+III) |
 
 ## About This Role
 
