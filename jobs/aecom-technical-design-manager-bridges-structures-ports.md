@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000122594629-technical-design-manager-bridges-structures-ports) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124562612-technical-design-manager-bridges-structures-ports) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-04-24.
+This engineering manager position at AECOM was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

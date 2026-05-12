@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Product-Owner_ATCI-5288440-S1934505-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Product-Owner_ATCI-4917807-S1852951-1) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-04-14.
+This product manager position at Accenture was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

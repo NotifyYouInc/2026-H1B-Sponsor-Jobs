@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/R-D-Senior-Engineer_JR00029686) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/R-D-Senior-Engineer_JR00033133) |
 
 ## About This Role
 
-This security engineer position at ABB was posted on 2026-04-09.
+This embedded / firmware engineer position at ABB was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

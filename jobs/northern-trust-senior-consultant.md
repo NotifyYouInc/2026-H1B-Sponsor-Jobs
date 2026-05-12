@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Senior-Consultant_103311-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Senior-Consultant_R154249) |
 
 ## About This Role
 
-This strategy / management consulting position at Northern Trust was posted on 2026-03-11.
+This strategy / management consulting position at Northern Trust was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

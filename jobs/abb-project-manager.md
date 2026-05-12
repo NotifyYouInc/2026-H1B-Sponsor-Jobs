@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Kocaeli, TR |
 | Category | Project Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Project-Manager_JR00032543) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Kocaeli-Kocaeli-Trkiye/Project-Manager_JR00032698) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-04-30.
+This project manager position at ABB was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

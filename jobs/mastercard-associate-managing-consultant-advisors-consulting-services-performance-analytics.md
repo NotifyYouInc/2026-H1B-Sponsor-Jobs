@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Australia |
+| Location | Gurugram, Haryana, India |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/St-Leonards-Australia/Associate-Managing-Consultant--Advisors---Consulting-Services--Performance-Analytics_R-270742) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Associate-Managing-Consultant--Advisors---Consulting-Services--Performance-Analytics_R-276289-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Mastercard was posted on 2026-02-20.
+This strategy / management consulting position at Mastercard was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

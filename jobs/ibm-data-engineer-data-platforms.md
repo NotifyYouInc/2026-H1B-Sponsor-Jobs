@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112659) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112652) |
 
 ## About This Role
 
-This data engineer position at IBM was posted on 2026-05-01.
+This data engineer position at IBM was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

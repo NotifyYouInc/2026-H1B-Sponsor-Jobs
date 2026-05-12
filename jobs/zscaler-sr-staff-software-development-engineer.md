@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mohali, Punjab, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5093431007) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5087815007) |
 
 ## About This Role
 
-This software engineer position at Zscaler was posted on 2026-04-06.
+This software engineer position at Zscaler was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

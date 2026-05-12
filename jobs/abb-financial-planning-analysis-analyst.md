@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xiamen, Fujian, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Financial-Planning---Analysis-Analyst_JR00026415) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Planning---Analysis-Analyst_JR00033609) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-03-03.
+This corporate finance position at ABB was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

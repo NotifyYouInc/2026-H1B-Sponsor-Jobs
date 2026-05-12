@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Tucson, Arizona, United States |
 | Category | Program Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-AB-CALGARY-111--919-72nd-Ave-NE--72ND-AVE-Ste-A/Material-Program-Manager_01839398) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Material-Program-Manager_01840663) |
 
 ## About This Role
 
-This program manager position at RTX was posted on 2026-04-17.
+This program manager position at RTX was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hosūr, Tamil Nadu, India |
-| Category | Customer Success |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012049414-officer-field-services) |
+| Category | Engineering Manager |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012967668-officer-field-services) |
 
 ## About This Role
 
-This customer success position at Wabtec was posted on 2026-03-10.
+This engineering manager position at Wabtec was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

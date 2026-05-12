@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Operations |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000122597469-group-manager-operations) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000124562099-group-manager-operations) |
 
 ## About This Role
 
-This operations position at WNS was posted on 2026-04-24.
+This compliance & risk management position at WNS was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

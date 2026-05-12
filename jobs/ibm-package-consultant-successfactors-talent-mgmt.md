@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=64618) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109042) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-04-28.
+This technology / it consulting position at IBM was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

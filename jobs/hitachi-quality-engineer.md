@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jefferson City, Missouri, United States |
-| Category | Operations |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/Quality-Engineer_R0123475) |
+| Location | Vadodara, Gujarat, India |
+| Category | QA Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vadodara-Gujarat-India/Quality-Engineer_R0128453) |
 
 ## About This Role
 
-This operations position at Hitachi was posted on 2026-03-27.
+This qa engineer position at Hitachi was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
