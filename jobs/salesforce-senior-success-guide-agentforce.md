@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Senior-Success-Guide---Agentforce_JR333636) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Success-Guide_JR329267) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-03-13.
+This customer success position at Salesforce was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2003335) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---SDK-Developer---C----Networking---4--years_2007652) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-04-29.
+This software engineer position at Cisco was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

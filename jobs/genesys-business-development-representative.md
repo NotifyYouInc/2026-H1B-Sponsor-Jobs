@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | 2 locations |
 | Category | Business Development |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Sydney-Flexible/Business-Development-Representative_JR109682) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Telangana-India/Business-Development-Representative_JR110905) |
 
 ## About This Role
 
-This business development position at Genesys was posted on 2026-02-08.
+This business development position at Genesys was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

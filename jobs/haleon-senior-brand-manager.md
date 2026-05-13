@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Location | Shanghai, Shanghai, China |
 | Category | Marketing |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Sri-Lanka---Colombo---World-Trade-Centre/Senior-Brand-Manager_540142) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Shanghai---HuangPu-District---The-Headquarters-Building/Senior-Brand-Manager_541551) |
 
 ## About This Role
 
-This marketing position at Haleon was posted on 2026-02-23.
+This marketing position at Haleon was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

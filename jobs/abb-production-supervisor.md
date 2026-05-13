@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Industrial Automation |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vega-Alta-Puerto-Rico/Production-Supervisor_JR00030682) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Production-Supervisor_JR00034153) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-04-06.
+This industrial automation position at ABB was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

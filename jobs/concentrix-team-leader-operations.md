@@ -1,16 +1,16 @@
-# Team Leader, Operations at Concentrix
+# Team Leader Operations at Concentrix
 
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Western Visayas, PH |
-| Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Iloilo-City-4th-Floor-Two-Global-Center-Megaworld-Blvd-Iloilo-Business-Park-Mandurriao/Team-Leader--Operations_R1716405) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Financial Crimes & AML |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---Manyata-Blk-D4-1st-Flr/Team-Leader-Operations_R1728176) |
 
 ## About This Role
 
-This customer success position at Concentrix was posted on 2026-04-13.
+This financial crimes & aml position at Concentrix was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

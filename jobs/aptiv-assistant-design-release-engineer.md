@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guangdong, CN |
+| Location | China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CHN---Yijiang---MFG/Assistant-Design-Release-Engineer_J000695622) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Wuhu-City-China/Assistant-Design-Release-Engineer_J000697432) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Aptiv was posted on 2026-03-26.
+This electrical / hardware engineer position at Aptiv was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

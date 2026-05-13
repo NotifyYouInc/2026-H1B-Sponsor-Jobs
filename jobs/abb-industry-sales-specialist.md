@@ -1,16 +1,16 @@
-# Industry Sales Specialist at ABB
+# industry sales specialist at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wuxi, Jiangsu, China |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Wuxi-Jiangsu-China/Industry-Sales-Specialist_JR00026890) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/industry-sales-specialist_JR00030839) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-03-02.
+This account executive position at ABB was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000121949296-ref86405s-lead-associate-record-to-report-intercompany-us-shifts-immediate-joiners-only) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000124810358-ref86405s-lead-associate-record-to-report-intercompany-us-shifts-immediate-joiners-only) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-04-21.
+This corporate finance position at WNS was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

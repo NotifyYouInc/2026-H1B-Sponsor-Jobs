@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/AUS---NSW---Sydney/Actuarial-Analyst_351964-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/AUS---NSW---Sydney/Actuarial-Analyst_354880) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-03-17.
+This corporate finance position at QBE Insurance was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

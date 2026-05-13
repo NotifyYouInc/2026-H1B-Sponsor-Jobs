@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Engineering Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000122173103-ingenieroa-de-instalaciones-de-proteccion-contra-incendios-pci) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000124814769-ingenieroa-de-instalaciones-de-proteccion-contra-incendios-pci) |
 
 ## About This Role
 
-This engineering manager position at SGS was posted on 2026-04-22.
+This engineering manager position at SGS was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

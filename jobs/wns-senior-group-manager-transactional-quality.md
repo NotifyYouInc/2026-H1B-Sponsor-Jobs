@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000121680767-senior-group-manager-transactional-quality) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000124813090-senior-group-manager-transactional-quality) |
 
 ## About This Role
 
-This business analyst position at WNS was posted on 2026-04-20.
+This business analyst position at WNS was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

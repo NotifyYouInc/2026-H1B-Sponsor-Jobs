@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | QA Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Quality-Engineer--Tester-_ATCI-5446316-S1994980-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Quality-Engineer_ATCI-5510537-S2017980) |
 
 ## About This Role
 
-This qa engineer position at Accenture was posted on 2026-05-05.
+This qa engineer position at Accenture was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

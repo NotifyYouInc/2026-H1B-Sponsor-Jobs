@@ -1,16 +1,16 @@
-# AVP Finance SOX Assurance at Barclays
+# AVP  - Finance SOx Assurance at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/AVP-Finance-SOX-Assurance_JR-0000093299-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Compliance & Risk Management |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/AVP----Finance-SOx-Assurance_JR-0000109175) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-04-29.
+This compliance & risk management position at Barclays was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
