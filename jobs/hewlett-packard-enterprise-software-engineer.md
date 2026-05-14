@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Software-Engineer_1197819) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Software-Engineer_1206089) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-02-27.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

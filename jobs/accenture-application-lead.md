@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jaipur, Rajasthan, India |
-| Category | Data Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Application-Lead_ATCI-5471070-S2001057-1) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Lead_ATCI-5266241-S1931432-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-05-05.
+This software engineer position at Accenture was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

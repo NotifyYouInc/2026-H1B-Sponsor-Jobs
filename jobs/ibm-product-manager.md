@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=79912) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113869) |
 
 ## About This Role
 
-This product manager position at IBM was posted on 2026-02-07.
+This product manager position at IBM was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

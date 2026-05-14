@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Content Marketing |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Editorial-Associate_JREQ199069-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Editorial-Associate_JREQ200464-1) |
 
 ## About This Role
 
-This content marketing position at Thomson Reuters was posted on 2026-03-18.
+This content marketing position at Thomson Reuters was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

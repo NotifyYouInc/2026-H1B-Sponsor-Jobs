@@ -1,16 +1,16 @@
-# Medical Nutrition Rep. at Abbott
+# Medical Nutrition Rep at Abbott
 
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Account Executive |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Beijing/Medical-Nutrition-Rep_31148260) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Shanghai/Medical-Nutrition-Rep_31149318) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-04-22.
+This account executive position at Abbott was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

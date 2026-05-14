@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Full-Stack-Engineer_ATCI-5525081-S2017978-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Full-Stack-Engineer_ATCI-5268686-S1944591-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-06.
+This software engineer position at Accenture was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

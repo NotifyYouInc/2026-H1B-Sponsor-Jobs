@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Senior-Analyst---Digital-Brand-Advocate_JR-02494663) |
+| Category | Data Analyst |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Senior-Analyst---Digital-Brand-Advocate_JR-02511050) |
 
 ## About This Role
 
-This business analyst position at Lowe's was posted on 2026-05-06.
+This data analyst position at Lowe's was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

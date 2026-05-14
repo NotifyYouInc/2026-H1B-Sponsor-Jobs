@@ -5,12 +5,12 @@
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Hyderabad-Telangana-India/Application-Engineer-I_R26_01851) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Hyderabad-Telangana-India/Application-Engineer-I_R26_02131-1) |
 
 ## About This Role
 
-This software engineer position at Regal Rexnord was posted on 2026-04-22.
+This software engineer position at Regal Rexnord was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

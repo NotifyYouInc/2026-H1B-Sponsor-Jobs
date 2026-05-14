@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kulim, Kedah, Malaysia |
+| Location | Malaysia |
 | Category | Industrial Automation |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Kulim/Automation-Design-Engineer_J2438893) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Automation-Design-Engineer_J2446999) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-03-04.
+This industrial automation position at Jabil was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

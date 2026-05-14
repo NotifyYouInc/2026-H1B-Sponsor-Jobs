@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Xiamen, Fujian, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/R-D-Associate-Engineer_JR00032218) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/R-D-Senior-Engineer_JR00018763) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-04-20.
+This electrical / hardware engineer position at ABB was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

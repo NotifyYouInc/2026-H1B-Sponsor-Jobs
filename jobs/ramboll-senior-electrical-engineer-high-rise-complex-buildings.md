@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000119179167-senior-electrical-engineer-high-rise-complex-buildings) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000125038269-senior-electrical-engineer-high-rise-complex-buildings) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Ramboll was posted on 2026-04-07.
+This electrical / hardware engineer position at Ramboll was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

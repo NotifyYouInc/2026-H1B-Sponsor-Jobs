@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Long Beach, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/8605-Westheimer-Rd-Houston-TX-77063-4201/Human-Resources-Expert_R0000437248) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/5760-E-7TH-ST-Long-BeachCA-90803-2002/Human-Resources-Expert_R0000437934) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-05-06.
+This human resources / people ops position at Target was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KLA](https://scoutify.ai/companies/kla?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://kla.wd1.myworkdayjobs.com/UR/job/Boise-ID/Customer-Support-Engineer_2634440-2) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://kla.wd1.myworkdayjobs.com/UR/job/Hillsboro-OR/Customer-Support-Engineer_2532992) |
 
 ## About This Role
 
-This customer success position at KLA was posted on 2026-03-11.
+This customer success position at KLA was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

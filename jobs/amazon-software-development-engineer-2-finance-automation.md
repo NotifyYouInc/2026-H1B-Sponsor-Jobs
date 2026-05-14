@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3205063/software-development-engineer-2-finance-automation) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413245/software-development-engineer-2-finance-automation) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-03-16.
+This software engineer position at Amazon was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

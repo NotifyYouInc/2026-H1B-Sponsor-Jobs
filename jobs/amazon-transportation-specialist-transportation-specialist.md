@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3199073/transportation-specialist-transportation-specialist) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413203/transportation-specialist-transportation-specialist) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-03-09.
+This customer success position at Amazon was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

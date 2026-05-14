@@ -1,16 +1,16 @@
-# Scrum Master -Intermediate at Equifax
+# Scrum Master - Intermediate at Equifax
 
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Kerala, IN |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PTEC/Scrum-Master--Intermediate_J00174213) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Scrum-Master---Intermediate_J00175904) |
 
 ## About This Role
 
-This scrum master & agile coach position at Equifax was posted on 2026-02-18.
+This scrum master & agile coach position at Equifax was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

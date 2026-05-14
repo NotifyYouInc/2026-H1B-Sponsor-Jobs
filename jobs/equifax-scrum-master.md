@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kerala, IN |
+| Location | Pune, Maharashtra, India |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PTEC/Scrum-Master_J00174607-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Scrum-Master_J00175708-1) |
 
 ## About This Role
 
-This scrum master & agile coach position at Equifax was posted on 2026-03-27.
+This scrum master & agile coach position at Equifax was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

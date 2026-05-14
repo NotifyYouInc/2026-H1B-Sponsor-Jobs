@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Adelaide, South Australia, Australia |
-| Category | Customer Success |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---SA---ADELAIDE/Associate-Manager-ERP-Package-Applications_51579591) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Engineering Manager |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---MH---MUMBAI/Associate-Manager-ERP-Package-Applications_51573063) |
 
 ## About This Role
 
-This customer success position at DXC Technology was posted on 2026-04-30.
+This engineering manager position at DXC Technology was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

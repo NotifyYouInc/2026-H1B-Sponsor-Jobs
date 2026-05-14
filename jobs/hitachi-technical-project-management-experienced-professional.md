@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chongqing, Chongqing, China |
-| Category | Program Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chongqing-China/Technical-Project-Management-Experienced-Professional_R0090200-1) |
+| Location | Lilydale, Victoria, Australia |
+| Category | Project Manager |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Lilydale-Victoria-Australia/Technical-Project-Management-Experienced-Professional_R0125444) |
 
 ## About This Role
 
-This program manager position at Hitachi was posted on 2026-02-10.
+This project manager position at Hitachi was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

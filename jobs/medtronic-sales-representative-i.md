@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fukuoka, Fukuoka, Japan |
+| Location | Ehime, JP |
 | Category | Account Executive |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fukuoka-Fukuoka-Japan/Sales-Representative--NV---Kagoshima-_R63864-2) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Matsuyama-shi-Ehime-Japan/Sales-Representative--Surgical-GS---Kagawa-_R62461-3) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-04-10.
+This account executive position at Medtronic was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

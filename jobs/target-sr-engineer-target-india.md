@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000435115) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineer---Target-India_R0000423958) |
 
 ## About This Role
 
-This software engineer position at Target was posted on 2026-04-21.
+This software engineer position at Target was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

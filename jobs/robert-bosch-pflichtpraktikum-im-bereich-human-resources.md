@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Schweinfurt, Bavaria, Germany |
+| Location | Salzgitter, Lower Saxony, Germany |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121685987-pflichtpraktikum-im-bereich-human-resources) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125039429-pflichtpraktikum-im-bereich-human-resources) |
 
 ## About This Role
 
-This human resources / people ops position at Robert Bosch was posted on 2026-04-20.
+This human resources / people ops position at Robert Bosch was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Program Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000121345067-associate-manager-omni) |
+| Category | Customer Success |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125034759-associate-manager-omni) |
 
 ## About This Role
 
-This program manager position at NielsenIQ was posted on 2026-04-17.
+This customer success position at NielsenIQ was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

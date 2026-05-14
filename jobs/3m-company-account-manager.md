@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Kowloon Bay, Kwun Tong District, Hong Kong |
 | Category | Account Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-Shanghai/Account-Manager_R01159732-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/HK-MP-KLN-Bay/Account-Manager_R01162288) |
 
 ## About This Role
 
-This account manager position at 3M Company was posted on 2026-04-07.
+This account manager position at 3M Company was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

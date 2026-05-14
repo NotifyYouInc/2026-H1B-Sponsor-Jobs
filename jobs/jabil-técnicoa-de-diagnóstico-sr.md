@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Customer Success |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Tcnico-a--de-Diagnstico-Sr_J2447219) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Tcnico-a--de-Diagnstico-Sr_J2449211) |
 
 ## About This Role
 
-This customer success position at Jabil was posted on 2026-04-25.
+This customer success position at Jabil was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

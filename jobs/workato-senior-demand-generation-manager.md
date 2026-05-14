@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Growth Marketing |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8449416002) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8530922002) |
 
 ## About This Role
 
-This growth marketing position at Workato was posted on 2026-04-09.
+This growth marketing position at Workato was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

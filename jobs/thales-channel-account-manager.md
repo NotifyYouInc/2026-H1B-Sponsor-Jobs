@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Channel / Partner Sales |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Sydney-Olympic-Park/Channel-Account-Manager_R0314832-2) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Jakarta/Channel-Account-Manager_R0327108) |
 
 ## About This Role
 
-This channel / partner sales position at Thales was posted on 2026-03-05.
+This channel / partner sales position at Thales was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

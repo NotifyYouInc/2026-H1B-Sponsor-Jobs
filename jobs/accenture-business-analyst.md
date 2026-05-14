@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Analyst_ATCI-5447557-S1984207-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Business-Analyst_ATCI-4960029-S1864477-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-05-05.
+This business analyst position at Accenture was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
