@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Beijing---Beijing-Oriental-Towers/District-Manager_R391094-1) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Sales Leadership |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/TWN---Taipei---Taipei-City/District-Manager_R397410-1) |
 
 ## About This Role
 
-This account executive position at Merck was posted on 2026-03-26.
+This sales leadership position at Merck was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

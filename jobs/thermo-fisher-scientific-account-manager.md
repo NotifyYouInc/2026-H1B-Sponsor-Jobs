@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Malaysia |
+| Location | Hyderabad, Telangana, India |
 | Category | Account Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Selangor-Malaysia/Account-Manager_R-01350735) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Account-Manager_R-01350493) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-04-28.
+This account manager position at Thermo Fisher Scientific was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

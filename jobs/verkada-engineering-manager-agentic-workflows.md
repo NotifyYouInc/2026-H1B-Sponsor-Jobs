@@ -5,12 +5,12 @@
 | Company | [Verkada](https://scoutify.ai/companies/verkada?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Mateo, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5126904007) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5132537007) |
 
 ## About This Role
 
-This engineering manager position at Verkada was posted on 2026-05-01.
+This engineering manager position at Verkada was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

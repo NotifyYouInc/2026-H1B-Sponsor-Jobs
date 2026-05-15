@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=106038) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114240) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-04-29.
+This security engineer position at IBM was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

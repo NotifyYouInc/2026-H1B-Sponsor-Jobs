@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Perth, Western Australia, Australia |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/People---Culture-Specialist---Experience---Performance_R161271) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/AU-WA-PERTH-LEVEL-14-216-ST-GEORGES-TERRACE/People---Culture-Specialist---Experience---Performance_R163917) |
 
 ## About This Role
 
-This human resources / people ops position at Baker Hughes was posted on 2026-03-06.
+This human resources / people ops position at Baker Hughes was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

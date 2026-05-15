@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | QA Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109537) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109534) |
 
 ## About This Role
 
-This qa engineer position at IBM was posted on 2026-05-05.
+This qa engineer position at IBM was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shenyang, Liaoning, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=106128) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113061) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-03-26.
+This devops engineer position at IBM was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

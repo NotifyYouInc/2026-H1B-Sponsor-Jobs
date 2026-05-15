@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Account Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000116109657-relationship-manager-agent-partnerships) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000125261495-relationship-manager-agent-partnerships) |
 
 ## About This Role
 
-This account manager position at Flywire was posted on 2026-03-23.
+This account manager position at Flywire was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Hyderabad/Technical-Support-Analyst_R-112406-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Mumbai/Technical-Support-Analyst_R-113791-1) |
 
 ## About This Role
 
-This customer success position at Assurant was posted on 2026-02-13.
+This customer success position at Assurant was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

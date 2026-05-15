@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | London, England, United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Hyderabad-India/Field-Services-Technician-I_R0014797) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/London-United-Kingdom/Field-Services-Technician-I_R0015009-1) |
 
 ## About This Role
 
-This customer success position at Astreya was posted on 2026-03-09.
+This customer success position at Astreya was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000111765945-internship-software-development-embedded) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000125257409-internship-software-development-embedded) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Western Digital was posted on 2026-02-27.
+This embedded / firmware engineer position at Western Digital was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Program Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/Manager-ERP-Package-Applications_51578138) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/Manager-ERP-Package-Applications_51580151-1) |
 
 ## About This Role
 
-This program manager position at DXC Technology was posted on 2026-04-15.
+This program manager position at DXC Technology was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

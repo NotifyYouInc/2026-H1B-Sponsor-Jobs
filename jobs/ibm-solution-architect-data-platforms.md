@@ -1,16 +1,16 @@
-# Solution Architect-Data Platforms at IBM
+# Solution Architect - Data Platforms at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96920) |
+| Location | Perth, Western Australia, Australia |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113587) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-26.
+This technical & solutions architect position at IBM was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

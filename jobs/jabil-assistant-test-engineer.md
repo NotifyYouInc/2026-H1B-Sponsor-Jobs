@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | QA Engineer |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Assistant-Test-Engineer_J2444807) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Assistant-Test-Engineer_J2438584) |
 
 ## About This Role
 
-This qa engineer position at Jabil was posted on 2026-04-12.
+This qa engineer position at Jabil was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

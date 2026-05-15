@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Newcastle, New South Wales, Australia |
 | Category | Marketing |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000125039415-red-bull-student-marketeer-university-of-newcastle) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000125248789-red-bull-student-marketeer-university-of-newcastle) |
 
 ## About This Role
 
-This marketing position at Red Bull was posted on 2026-05-07.
+This marketing position at Red Bull was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Allegis Global Solutions](https://scoutify.ai/companies/allegisglobalsolutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000111531715-us-talent-assessor-nightshift) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000125259639-us-talent-assessor-nightshift) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Allegis Global Solutions was posted on 2026-02-26.
+This talent acquisition / recruiting position at Allegis Global Solutions was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Project Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114898843-analyst) |
+| Location | Shanghai, Shanghai, China |
+| Category | Data Analyst |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125260566-analyst) |
 
 ## About This Role
 
-This project manager position at NielsenIQ was posted on 2026-03-16.
+This data analyst position at NielsenIQ was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

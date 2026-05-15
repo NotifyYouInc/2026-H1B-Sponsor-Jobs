@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Senior-Engineer---Electronics_REQ2025063512) |
+| Category | Engineering Manager |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Senior-Discipline-Engineer_REQ2026071883) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Valeo was posted on 2026-04-24.
+This engineering manager position at Valeo was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

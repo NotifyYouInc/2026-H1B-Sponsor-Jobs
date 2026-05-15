@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Candor-TechSpace-Noida/Assistant-Vice-President_JR-0000091294) |
+| Category | Data Scientist |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/Assistant-Vice-President_JR-0000107483) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-03-11.
+This data scientist position at Barclays was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

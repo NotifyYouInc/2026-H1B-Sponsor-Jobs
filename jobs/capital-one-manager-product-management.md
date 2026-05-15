@@ -1,16 +1,16 @@
-# Manager - Product Management at Capital One
+# Manager- Product Management at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Manager---Product-Management_R238726-2) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Manager--Product-Management_R242022-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-03-26.
+This product manager position at Capital One was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

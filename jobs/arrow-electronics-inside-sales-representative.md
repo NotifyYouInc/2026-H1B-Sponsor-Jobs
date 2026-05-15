@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Casablanca, Casablanca-Settat, Morocco |
+| Location | Shenzhen, Guangdong, China |
 | Category | Account Executive |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/MA-Casablanca-Morocco-Boulevard-Al-Quods/Inside-Sales-Representative_R242475) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Inside-Sales-Representative_R239436) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-04-01.
+This account executive position at Arrow Electronics was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

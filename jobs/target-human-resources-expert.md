@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Long Beach, California, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/5760-E-7TH-ST-Long-BeachCA-90803-2002/Human-Resources-Expert_R0000437934) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7100-S-Cicero-Ave-ChicagoIL-60629-5813/Human-Resources-Expert_R0000438015) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-05-07.
+This human resources / people ops position at Target was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

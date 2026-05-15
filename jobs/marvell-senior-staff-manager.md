@@ -5,12 +5,12 @@
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Senior-Staff-Manager_2601493) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Senior-Staff-Manager_2601569) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-04-28.
+This semiconductor / chip design position at Marvell was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
