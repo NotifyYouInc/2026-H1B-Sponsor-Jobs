@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Long Beach, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Labs--Systems---Simulation-Manager_JR2026499312-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Labs--Systems---Simulation-Manager_JR2026509756-1) |
 
 ## About This Role
 
-This engineering manager position at Boeing was posted on 2026-03-17.
+This engineering manager position at Boeing was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

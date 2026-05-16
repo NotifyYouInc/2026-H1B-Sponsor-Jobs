@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | California, US |
+| Location | Shanghai, Shanghai, China |
 | Category | Project Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Calabasas-Hills-CA/Project-Manager_269195) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Shanghai-China/Project-Manager_2616385-1) |
 
 ## About This Role
 
-This project manager position at Labcorp was posted on 2026-03-20.
+This project manager position at Labcorp was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

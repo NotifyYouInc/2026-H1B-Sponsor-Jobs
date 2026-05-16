@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Software-Engineering-Lead_R107731) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Mexico/Software-Engineering-Lead_R112162) |
 
 ## About This Role
 
-This software engineer position at LexisNexis Risk Solutions was posted on 2026-02-11.
+This software engineer position at LexisNexis Risk Solutions was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

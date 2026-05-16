@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Account Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7625717314584725765/detail) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7636949812864551221/detail) |
 
 ## About This Role
 
-This account manager position at TikTok was posted on 2026-04-10.
+This account manager position at TikTok was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

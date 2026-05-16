@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Destin, Florida, United States |
 | Category | Customer Success |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Durham-NC-27707/Customer-Experience-Coordinator_REQ115161) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Destin-FL-32541/Customer-Experience-Coordinator_REQ118131) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-05-02.
+This customer success position at TJX was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

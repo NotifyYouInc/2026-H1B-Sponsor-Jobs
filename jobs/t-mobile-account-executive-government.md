@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Birmingham, Alabama, United States |
+| Location | Tennessee, US |
 | Category | Account Executive |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Birmingham-Alabama/Account-Executive--Government_REQ352505) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Tennessee/Account-Executive--Government_REQ354008-1) |
 
 ## About This Role
 
-This account executive position at T-Mobile was posted on 2026-04-17.
+This account executive position at T-Mobile was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

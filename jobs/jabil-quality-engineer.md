@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vietnam |
+| Location | Bandung, West Java, Indonesia |
 | Category | QA Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Dong-Nai/Quality-Engineer_J2446525) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Bandung/Quality-Engineer_J2449603) |
 
 ## About This Role
 
-This qa engineer position at Jabil was posted on 2026-04-14.
+This qa engineer position at Jabil was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

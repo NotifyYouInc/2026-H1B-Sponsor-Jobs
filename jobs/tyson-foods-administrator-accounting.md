@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Springdale, Arkansas, United States |
+| Location | Rogers, Arkansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-on-Thompson---Springdale-Arkansas/Administrator-Accounting_R0459155) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-of-Rogers-Plant---Rogers-Arkansas/Administrator-Accounting_R0460330-2) |
 
 ## About This Role
 
-This corporate finance position at Tyson Foods was posted on 2026-05-01.
+This corporate finance position at Tyson Foods was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

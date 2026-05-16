@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Copart](https://scoutify.ai/companies/copart?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Candia, New Hampshire, United States |
+| Location | Kentucky, US |
 | Category | Leadership Development Program |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Candia-NH/General-Manager_JR108769) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Lexington-West-KY/General-Manager_JR108890) |
 
 ## About This Role
 
-This leadership development program position at Copart was posted on 2026-05-01.
+This leadership development program position at Copart was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

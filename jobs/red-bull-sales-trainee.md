@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Arlington Heights, Illinois, United States |
+| Location | Fort Wayne, Indiana, United States |
 | Category | Business Development |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000118948639-sales-trainee) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000125443889-sales-trainee) |
 
 ## About This Role
 
-This business development position at Red Bull was posted on 2026-04-06.
+This business development position at Red Bull was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

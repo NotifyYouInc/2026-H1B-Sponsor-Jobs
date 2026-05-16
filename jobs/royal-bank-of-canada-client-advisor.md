@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Espanola, Ontario, Canada |
+| Location | British Columbia, CA |
 | Category | Account Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/ESPANOLA-Ontario-Canada/Client-Advisor_R-0000167497-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/COWICHAN-VALLEY-British-Columbia-Canada/Client-Advisor_R-0000165250) |
 
 ## About This Role
 
-This account manager position at Royal Bank of Canada was posted on 2026-05-06.
+This account manager position at Royal Bank of Canada was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

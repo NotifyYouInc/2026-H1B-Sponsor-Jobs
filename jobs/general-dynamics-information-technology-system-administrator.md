@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | North Carolina, US |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Liberty/System-Administrator_RQ216610-1) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Liberty/System-Administrator_RQ219650-1) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-03-16.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Michaels Stores](https://scoutify.ai/companies/michaels?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Woodside, New York, United States |
+| Location | Richmond, British Columbia, Canada |
 | Category | Customer Success |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Woodside-5106-Northern-Blvd/Customer-Experience-Manager_R00308881) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Richmond-9711-Bridgeport-Rd/Customer-Experience-Manager_R00309715) |
 
 ## About This Role
 
-This customer success position at Michaels Stores was posted on 2026-05-02.
+This customer success position at Michaels Stores was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

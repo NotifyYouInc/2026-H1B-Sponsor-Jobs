@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/PMO---Senior-Consultant_JR_14590) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Customer Success |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/PMO---Senior-Consultant_JR_14660) |
 
 ## About This Role
 
-This strategy / management consulting position at Guidewire Software was posted on 2026-03-27.
+This customer success position at Guidewire Software was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

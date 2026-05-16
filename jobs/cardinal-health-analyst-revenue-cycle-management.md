@@ -1,16 +1,16 @@
-# Analyst, Revenue Cycle Management at Cardinal Health
+# Analyst,  Revenue Cycle Management at Cardinal Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
+| Location | Florida, US |
 | Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Analyst--Revenue-Cycle-Management_20179815) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/FL-Florida-FIELD/Analyst---Revenue-Cycle-Management_20179531) |
 
 ## About This Role
 
-This business analyst position at Cardinal Health was posted on 2026-05-01.
+This business analyst position at Cardinal Health was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

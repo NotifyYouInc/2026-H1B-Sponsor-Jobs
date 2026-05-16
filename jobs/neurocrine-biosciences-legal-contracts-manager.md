@@ -5,12 +5,12 @@
 | Company | [Neurocrine Biosciences](https://scoutify.ai/companies/neurocrine?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Diego, California, United States |
 | Category | Legal |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://neurocrine.wd5.myworkdayjobs.com/Neurocrinecareers/job/US-CA-San-Diego/Legal-Contracts-Manager_R6613) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://neurocrine.wd5.myworkdayjobs.com/Neurocrinecareers/job/US-CA-San-Diego/Legal-Contracts-Manager_R6805) |
 
 ## About This Role
 
-This legal position at Neurocrine Biosciences was posted on 2026-03-13.
+This legal position at Neurocrine Biosciences was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

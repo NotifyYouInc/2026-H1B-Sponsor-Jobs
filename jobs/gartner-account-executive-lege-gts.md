@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tennessee, US |
+| Location | Chicago, Illinois, United States |
 | Category | Account Executive |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Tennessee/Account-Executive--LE-GE--GTS_109436) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Chicago-IL/Account-Executive--LE-GE--GTS_110078) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-04-25.
+This account executive position at Gartner was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

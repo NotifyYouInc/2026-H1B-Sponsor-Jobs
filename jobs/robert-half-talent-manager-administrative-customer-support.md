@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Half](https://scoutify.ai/companies/robert-half?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beaverton, Oregon, United States |
+| Location | San Francisco, California, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://roberthalf.wd1.myworkdayjobs.com/RobertHalfStaffingCareers/job/BEAVERTON/Talent-Manager--Administrative---Customer-Support-_JR-259837) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://roberthalf.wd1.myworkdayjobs.com/RobertHalfStaffingCareers/job/SAN-FRANCISCO/Talent-Manager--Administrative---Customer-Support-_JR-260310) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Robert Half was posted on 2026-03-13.
+This talent acquisition / recruiting position at Robert Half was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

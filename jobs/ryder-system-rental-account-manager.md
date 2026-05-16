@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hartford, Connecticut, United States |
-| Category | Customer Success |
-| Posted | 2026-02-15 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Hartford-CT-06120/Rental-Account-Manager_R163734) |
+| Location | Roseville, California, United States |
+| Category | Account Manager |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Roseville-MN-55113/Rental-Account-Manager_R171954) |
 
 ## About This Role
 
-This customer success position at Ryder System was posted on 2026-02-15.
+This account manager position at Ryder System was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

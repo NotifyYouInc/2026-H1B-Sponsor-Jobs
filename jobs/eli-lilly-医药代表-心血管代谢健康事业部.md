@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | China |
-| Category | Business Development |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Shao-Yang-/-_R-103471-1) |
+| Category | Account Executive |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Chong-Qing-/-_R-105468-1) |
 
 ## About This Role
 
-This business development position at Eli Lilly was posted on 2026-04-29.
+This account executive position at Eli Lilly was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

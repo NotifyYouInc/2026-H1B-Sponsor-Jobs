@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Jiangsu, CN |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wujiang-Jiangsu/Accountable-Accountant_R0000357690) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wujiang-Jiangsu/Accountable-Accountant_R0000368690) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-18.
+This corporate finance position at Caterpillar was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Monroe, Louisiana, United States |
+| Location | 3 locations |
 | Category | Account Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Monroe-LA---Monroe-Main-Branch/Commercial-Relationship-Specialist_R102032) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Nashville-TN---Music-Row-Branch/Commercial-Relationship-Specialist_R102392) |
 
 ## About This Role
 
-This account manager position at Regions Bank was posted on 2026-04-28.
+This account manager position at Regions Bank was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 
