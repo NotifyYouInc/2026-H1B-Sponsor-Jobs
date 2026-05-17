@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunbelt Rentals](https://scoutify.ai/companies/sunbelt-rentals?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fort Worth, Texas, United States |
+| Location | Sugar Grove, Illinois, United States |
 | Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Fort-Worth-TX-76111/Strategic-Customer-Coordinator_2026-5735) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Sugar-Grove-IL-60554/Strategic-Customer-Coordinator_2026-7872) |
 
 ## About This Role
 
-This customer success position at Sunbelt Rentals was posted on 2026-04-07.
+This customer success position at Sunbelt Rentals was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Dynata](https://scoutify.ai/companies/dynata?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Project Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/India-Hyderabad/Project-Manager_REQ13330) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://dynata.wd108.myworkdayjobs.com/careers/job/India-Hyderabad/Project-Manager_REQ13350) |
 
 ## About This Role
 
-This project manager position at Dynata was posted on 2026-05-08.
+This project manager position at Dynata was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

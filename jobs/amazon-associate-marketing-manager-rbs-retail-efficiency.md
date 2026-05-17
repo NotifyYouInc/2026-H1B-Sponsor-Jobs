@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Growth Marketing |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3201817/associate-marketing-manager-rbs-retail-efficiency) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415529/associate-marketing-manager-rbs-retail-efficiency) |
 
 ## About This Role
 
-This growth marketing position at Amazon was posted on 2026-03-11.
+This growth marketing position at Amazon was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

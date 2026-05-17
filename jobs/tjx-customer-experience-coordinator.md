@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Destin, Florida, United States |
+| Location | Lexington, Kentucky, United States |
 | Category | Customer Success |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Destin-FL-32541/Customer-Experience-Coordinator_REQ118131) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Lexington-KY-40503/Customer-Experience-Coordinator_REQ118185-1) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-05-08.
+This customer success position at TJX was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Business Development |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Beijing---Beijing-Oriental-Towers/Pharmaceutical-Information-Specialist_R394958-1) |
+| Location | Fuzhou, Fujian, China |
+| Category | Account Executive |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Fujian---Fuzhou-Xinhe-Square/Pharmaceutical-Information-Specialist_R397808-1) |
 
 ## About This Role
 
-This business development position at Merck was posted on 2026-04-20.
+This account executive position at Merck was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

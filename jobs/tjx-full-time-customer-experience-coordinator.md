@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Branson, Missouri, United States |
+| Location | Lawrence, Kansas, United States |
 | Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Branson-MO-65616/Full-Time-Customer-Experience-Coordinator_REQ115109) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Lawrence-KS-66046/Full-Time-Customer-Experience-Coordinator_REQ117534) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-05-01.
+This customer success position at TJX was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

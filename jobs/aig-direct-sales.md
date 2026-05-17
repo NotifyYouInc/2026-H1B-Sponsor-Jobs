@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Nanjing, Jiangsu, China |
 | Category | Account Executive |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Shenzhen/Direct-Sales_JR2600417-1) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Nanjing/Direct-Sales_JR2601898) |
 
 ## About This Role
 
-This account executive position at AIG was posted on 2026-02-27.
+This account executive position at AIG was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000112840547-associate-research-analyst) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000125448644-associate-research-analyst) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-03-05.
+This data analyst position at Louis Dreyfus was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

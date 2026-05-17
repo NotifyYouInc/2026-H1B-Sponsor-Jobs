@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Knitwell Group](https://scoutify.ai/companies/knitwell-group?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Paoli, Pennsylvania, United States |
+| Location | Mebane, North Carolina, United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-1466-Paoli-Shopping-Center-ANN-Paoli-PA-19301/Sales-Lead-ANN_R-2025694) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-2927-Piedmont-Outlet-Mebane-ANN-Mebane-NC-27302/Sales-Lead-ANN_R-2026124) |
 
 ## About This Role
 
-This sales leadership position at Knitwell Group was posted on 2026-05-02.
+This sales leadership position at Knitwell Group was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

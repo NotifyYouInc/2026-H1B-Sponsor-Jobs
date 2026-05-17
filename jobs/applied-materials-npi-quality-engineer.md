@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | QA Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/NPI-Quality-Engineer_R2613681) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/NPI-Quality-Engineer_R2613682) |
 
 ## About This Role
 
-This qa engineer position at Applied Materials was posted on 2026-04-29.
+This qa engineer position at Applied Materials was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

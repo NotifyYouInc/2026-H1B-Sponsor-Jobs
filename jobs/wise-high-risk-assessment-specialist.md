@@ -6,7 +6,7 @@
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Compliance & Risk Management |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125420328-high-risk-assessment-specialist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125420398-high-risk-assessment-specialist) |
 
 ## About This Role
 

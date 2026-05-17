@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Product Manager |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7637321687798892805/detail) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7636518978028210437/detail) |
 
 ## About This Role
 

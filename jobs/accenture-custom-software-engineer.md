@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Software Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Application-Developer_ATCI-R1-S1891591-1) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Software-Configuration-Engineer_ATCI-5144498-S1900519-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-08.
+This software engineer position at Accenture was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

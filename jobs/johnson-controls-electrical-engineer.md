@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | Edmonton, Alberta, Canada |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Airside-Center-of-Excellence/Electrical-Engineer_WD30265749) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Edmonton-Alberta-Canada/Electrical-Engineer_WD30265830-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Johnson Controls was posted on 2026-04-03.
+This electrical / hardware engineer position at Johnson Controls was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 
