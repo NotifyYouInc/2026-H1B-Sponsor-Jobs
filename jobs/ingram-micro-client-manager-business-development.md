@@ -5,12 +5,12 @@
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Account Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Client-Manager---Business-Development_R-114275) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Client-Manager---Business-Development_R-114273) |
 
 ## About This Role
 
-This account manager position at Ingram Micro was posted on 2026-04-15.
+This account manager position at Ingram Micro was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

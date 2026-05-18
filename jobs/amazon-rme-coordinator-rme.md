@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Industrial Automation |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3206317/rme-coordinator-rme) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415673/rme-coordinator-rme) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-03-17.
+This industrial automation position at Amazon was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

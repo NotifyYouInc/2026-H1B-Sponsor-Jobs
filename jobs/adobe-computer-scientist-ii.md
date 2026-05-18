@@ -1,16 +1,16 @@
-# Computer Scientist II at Adobe
+# Computer Scientist-II at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-II_R166025) |
+| Category | Software Engineer |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R168391) |
 
 ## About This Role
 
-This frontend engineer position at Adobe was posted on 2026-03-12.
+This software engineer position at Adobe was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

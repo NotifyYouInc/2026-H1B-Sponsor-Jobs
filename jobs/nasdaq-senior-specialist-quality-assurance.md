@@ -1,16 +1,16 @@
-# Senior Specialist Quality Assurance at Nasdaq
+# Senior Specialist - Quality Assurance at Nasdaq
 
 | Field | Details |
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India-Pune/Senior-Specialist-Quality-Assurance_R0025548) |
+| Location | Bengaluru, Karnataka, India |
+| Category | QA Engineer |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India---Bangalore---Karnataka/Senior-Specialist---Quality-Assurance_R0026050) |
 
 ## About This Role
 
-This software engineer position at Nasdaq was posted on 2026-03-23.
+This qa engineer position at Nasdaq was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

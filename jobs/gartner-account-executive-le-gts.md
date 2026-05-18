@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Perth, Western Australia, Australia |
 | Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Johannesburg/Account-Executive--LE--GTS_109266-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Perth/Account-Executive--LE--GTS_109747-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-05-01.
+This account executive position at Gartner was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

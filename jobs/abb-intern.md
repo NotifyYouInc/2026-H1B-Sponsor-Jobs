@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xiamen, Fujian, China |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Intern_JR00031439-2) |
+| Location | Shanghai, Shanghai, China |
+| Category | Industrial Automation |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Intern_JR00033797) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-04-13.
+This industrial automation position at ABB was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

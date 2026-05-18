@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kulim, Kedah, Malaysia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/SoC-Physical-Design-Engineer_JR0282569) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/SoC-Physical-Design-Engineer_JR0283820) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-04-02.
+This semiconductor / chip design position at Intel was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Ahmedabad, Gujarat, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123605019-in-bosch-rexroth-india-assistant-manager-deputy-manager-supplier-quality-heat-treatment-casting) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125756170-in-bosch-rexroth-india-assistant-manager-deputy-manager-supplier-quality-heat-treatment-casting) |
 
 ## About This Role
 
-This engineering manager position at Robert Bosch was posted on 2026-04-29.
+This engineering manager position at Robert Bosch was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

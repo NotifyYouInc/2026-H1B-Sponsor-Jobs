@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wellington, Wellington Region, New Zealand |
+| Location | Adelaide, South Australia, Australia |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/NZL---WGN---WELLINGTON/Sr-Analyst-II-ERP-Package-Applications_51576834) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---SA---ADELAIDE/Sr-Analyst-II-ERP-Package-Applications_51580232) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-03-30.
+This business analyst position at DXC Technology was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

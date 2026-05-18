@@ -1,16 +1,16 @@
-# AVP-Financial Control at Barclays
+# AVP Financial Control at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Candor-TechSpace-Noida/AVP-Financial-Control_JR-0000096080) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/AVP-Financial-Control_JR-0000103006) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-02-18.
+This corporate finance position at Barclays was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

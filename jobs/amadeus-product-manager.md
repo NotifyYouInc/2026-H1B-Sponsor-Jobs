@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Manager_R31875-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Manager_R34745) |
 
 ## About This Role
 
-This product manager position at Amadeus was posted on 2026-03-12.
+This product manager position at Amadeus was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

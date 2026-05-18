@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Shanghai, Shanghai, China |
 | Category | Project Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Project-Manager_580704-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Project-Manager_579723) |
 
 ## About This Role
 
-This project manager position at Philips was posted on 2026-04-29.
+This project manager position at Philips was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

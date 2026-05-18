@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND---Pune-Kalyani-Nagar/Security-Analytics-Manager--Power-BI--Data-Engineering--Microsoft-Fabric-_R0054938-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND---Pune-Kalyani-Nagar/Security-Analytics-Manager--Power-BI--Data-Engineering--Microsoft-Fabric-_R0054944) |
 
 ## About This Role
 
-This security engineer position at Wolters Kluwer was posted on 2026-04-09.
+This security engineer position at Wolters Kluwer was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

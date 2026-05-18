@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Staff--Senior-Engineer--Firmware-Test--SSD-_JR93928) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Staff--Senior-Engineer--Firmware-Test--SSD-_JR100344) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Micron was posted on 2026-03-15.
+This embedded / firmware engineer position at Micron was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

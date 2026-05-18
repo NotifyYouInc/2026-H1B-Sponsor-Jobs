@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/IND-Associate-Analyst--Asset-Protection_JR-02458527) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/IND-Associate-Analyst--Asset-Protection_JR-02480436) |
 
 ## About This Role
 
-This asset management / portfolio management position at Lowe's was posted on 2026-04-09.
+This asset management / portfolio management position at Lowe's was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ocala, Florida, United States |
+| Location | Richland, Washington, United States |
 | Category | Customer Success |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/6135---Ocala/Customer-Specialist_JR-075573) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/WA---Richland/Customer-Specialist_JR-176136-1) |
 
 ## About This Role
 
-This customer success position at CarMax was posted on 2026-04-11.
+This customer success position at CarMax was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000108417494-assistant-manager-operations) |
+| Location | Visakhapatnam, Andhra Pradesh, India |
+| Category | Customer Success |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000125759289-assistant-manager-operations) |
 
 ## About This Role
 
-This operations position at WNS was posted on 2026-02-10.
+This customer success position at WNS was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

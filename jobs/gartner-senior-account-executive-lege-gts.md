@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Georgia, US |
+| Location | Brisbane, Queensland, Australia |
 | Category | Account Executive |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Georgia/Senior-Account-Executive--LE-GE--GTS_108955-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Brisbane/Senior-Account-Executive--LE-GE--GTS_106962-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-03-24.
+This account executive position at Gartner was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

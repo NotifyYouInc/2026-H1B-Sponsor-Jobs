@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
-| Category | Project Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000109870706-operations-executive) |
+| Location | Vietnam |
+| Category | Operations |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000125762460-operations-executive) |
 
 ## About This Role
 
-This project manager position at Informa was posted on 2026-02-18.
+This operations position at Informa was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
