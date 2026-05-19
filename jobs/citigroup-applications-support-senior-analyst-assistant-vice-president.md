@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Applications-Support-Senior-Analyst---Assistant-Vice-President_26948206) |
+| Location | Gurugram, Haryana, India |
+| Category | Business Analyst |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Applications-Support-Senior-Analyst---Assistant-Vice-President_26959290-1) |
 
 ## About This Role
 
-This customer success position at Citigroup was posted on 2026-03-30.
+This business analyst position at Citigroup was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

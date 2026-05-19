@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Fayetteville, North Carolina, United States |
 | Category | Account Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Orlando-32835/Business-Banking-Specialist_R220452-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NC---Fayetteville-28303/Business-Banking-Specialist_R222386-1) |
 
 ## About This Role
 
-This account manager position at PNC Financial was posted on 2026-05-01.
+This account manager position at PNC Financial was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

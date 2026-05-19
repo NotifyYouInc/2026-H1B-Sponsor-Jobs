@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Frontend Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Angular-Developer_26948072) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Angular-Developer_26958020) |
 
 ## About This Role
 
-This frontend engineer position at Citigroup was posted on 2026-05-07.
+This frontend engineer position at Citigroup was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

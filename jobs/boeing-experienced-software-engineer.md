@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Experienced-Software-Engineer_JR2026497261-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Experienced-Software-Engineer_JR2026506787-1) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-02-20.
+This software engineer position at Boeing was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

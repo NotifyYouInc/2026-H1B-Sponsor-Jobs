@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Candor-TechSpace-Noida/KYC-Senior-Analyst_JR-0000089182) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Financial Crimes & AML |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/KYC-Senior-Analyst_JR-0000100664-1) |
 
 ## About This Role
 
-This compliance & risk management position at Barclays was posted on 2026-03-17.
+This financial crimes & aml position at Barclays was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

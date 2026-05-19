@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Haryana, IN |
-| Category | Operations |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000120215957-lead-associate-operations) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Corporate Finance |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000125997779-lead-associate-operations) |
 
 ## About This Role
 
-This operations position at WNS was posted on 2026-04-11.
+This corporate finance position at WNS was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

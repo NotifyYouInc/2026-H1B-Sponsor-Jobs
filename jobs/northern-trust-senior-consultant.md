@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Senior-Consultant_R154249) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Manila-Philippines/Senior-Consultant_R153233-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Northern Trust was posted on 2026-05-05.
+This strategy / management consulting position at Northern Trust was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vietnam |
+| Location | Not specified |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117176575-internship-financial-controlling-intern) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126000092-internship-financial-controlling-intern) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-03-27.
+This corporate finance position at Robert Bosch was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

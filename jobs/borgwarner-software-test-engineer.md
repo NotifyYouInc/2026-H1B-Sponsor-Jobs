@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bengaluru-Primeco-Unioncity---India/Software-Test-Engineer_R2026-0505) |
+| Category | QA Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bengaluru-Primeco-Unioncity---India/Software-Test-Engineer_R2026-1767) |
 
 ## About This Role
 
-This software engineer position at BorgWarner was posted on 2026-02-13.
+This qa engineer position at BorgWarner was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
