@@ -1,16 +1,16 @@
-# Logistics Analyst at Caterpillar
+# Logistics  Analyst at Caterpillar
 
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Decatur, Illinois, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Decatur-Illinois/Logistics-Analyst_R0000355476) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Logistics--Analyst_R0000369590) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-03-13.
+This business analyst position at Caterpillar was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

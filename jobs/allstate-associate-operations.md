@@ -1,16 +1,16 @@
-# Associate- Operations at Allstate
+# Associate - Operations at Allstate
 
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Pune-Sez-1-All-Floors-Except-9Th-And-10Th/Associate--Operations_R25121) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Customer Success |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-2-All-Other-Floors/Associate---Operations_R25773) |
 
 ## About This Role
 
-This operations position at Allstate was posted on 2026-02-13.
+This customer success position at Allstate was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

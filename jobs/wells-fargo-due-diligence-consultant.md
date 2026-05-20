@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Development & M&A |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Due-Diligence-Consultant_R-527694-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Due-Diligence-Consultant_R-526132-4) |
 
 ## About This Role
 
-This corporate development & m&a position at Wells Fargo was posted on 2026-03-25.
+This corporate development & m&a position at Wells Fargo was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

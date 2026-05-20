@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Customer Success |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Melbourne-VIC-Australia/Tech-Field-Eng_REQ572081) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Canberra-ACT-Australia/Tech-Field-Eng_REQ573014) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-03-24.
+This customer success position at Unisys was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

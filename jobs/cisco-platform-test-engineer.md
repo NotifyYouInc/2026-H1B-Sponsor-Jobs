@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | QA Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Platform-Test-Engineer_2011906) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Platform-Test-Engineer_2012209) |
 
 ## About This Role
 
-This qa engineer position at Cisco was posted on 2026-04-17.
+This qa engineer position at Cisco was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

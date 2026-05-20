@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Process-Architect_ATCI-5528943-S2020264-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Release-Train-Engineer_ATCI-5205385-S1913250-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-05-05.
+This technology / it consulting position at Accenture was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

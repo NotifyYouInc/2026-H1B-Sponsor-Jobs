@@ -5,12 +5,12 @@
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Senior-Business-Analyst_R0175936) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Senior-Business-Analyst_R0180049) |
 
 ## About This Role
 
-This business analyst position at Takeda was posted on 2026-03-24.
+This business analyst position at Takeda was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

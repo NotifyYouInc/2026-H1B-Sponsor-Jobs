@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New South Wales, AU |
+| Location | Cremorne, New South Wales, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000108681526-staff-platform-engineer) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000126226729-staff-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at SEEK was posted on 2026-02-11.
+This devops engineer position at SEEK was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

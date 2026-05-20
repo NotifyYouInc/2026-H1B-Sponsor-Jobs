@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gujarat, IN |
-| Category | Account Executive |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/General-Sales---Marketing-Experienced-Professional_R0119635) |
+| Location | Sāvli, Gujarat, India |
+| Category | Account Manager |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Savli-Gujarat-India/General-Sales---Marketing-Experienced-Professional_R0129627-1) |
 
 ## About This Role
 
-This account executive position at Hitachi was posted on 2026-04-01.
+This account manager position at Hitachi was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

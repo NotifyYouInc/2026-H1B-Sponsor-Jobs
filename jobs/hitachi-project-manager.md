@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hitachi, Ibaraki, Japan |
 | Category | Project Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Project-Manager_R0118655-4) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Project-Manager_R0125592) |
 
 ## About This Role
 
-This project manager position at Hitachi was posted on 2026-04-06.
+This project manager position at Hitachi was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

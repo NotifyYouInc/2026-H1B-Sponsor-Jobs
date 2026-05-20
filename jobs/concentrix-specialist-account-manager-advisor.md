@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Account Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-Kuala-Lumpur---Levels-101112-Equatorial-Plaza/Specialist--Account-manager--Advisor-_R1729059) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-Kuala-Lumpur---Levels-101112-Equatorial-Plaza/Specialist--Account-manager--Advisor-_R1729061) |
 
 ## About This Role
 
-This account manager position at Concentrix was posted on 2026-05-11.
+This account manager position at Concentrix was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

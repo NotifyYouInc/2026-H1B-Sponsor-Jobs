@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sartorius](https://scoutify.ai/companies/sartorius?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Delhi, Delhi, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Mumbai/AR-Executive_R39115) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Delhi/AR-Executive_R40522-1) |
 
 ## About This Role
 
-This corporate finance position at Sartorius was posted on 2026-04-24.
+This corporate finance position at Sartorius was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

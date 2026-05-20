@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Account Executive |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012405996-sr-medical-infocomm-rep-medical-aesth) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013103546-sr-medical-infocomm-rep-medical-aesth) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-04-01.
+This account executive position at AbbVie was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

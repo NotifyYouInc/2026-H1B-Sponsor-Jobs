@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Account Executive |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Seoul/Sales-Manager_R0322770) |
+| Location | 5 locations |
+| Category | Sales Leadership |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Reading/Sales-Manager_R0316741-1) |
 
 ## About This Role
 
-This account executive position at Thales was posted on 2026-03-24.
+This sales leadership position at Thales was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

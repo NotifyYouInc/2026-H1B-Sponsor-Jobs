@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001003179-finance-manager-group-management-reporting) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001068261-finance-manager-group-management-reporting) |
 
 ## About This Role
 
-This corporate finance position at NCS was posted on 2026-04-16.
+This corporate finance position at NCS was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

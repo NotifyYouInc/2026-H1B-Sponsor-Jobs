@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---55-Divyasree-Towers-Bannerghatta-Main-Road/Java-Full-Stack-Developers_R1719134) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---55-Divyasree-Towers-Bannerghatta-Main-Road/Java-Full-Stack-Developers_R1726572) |
 
 ## About This Role
 
-This software engineer position at Concentrix was posted on 2026-04-15.
+This software engineer position at Concentrix was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

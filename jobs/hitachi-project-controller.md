@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Västerås, Västmanland, Sweden |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaesteras-Vastmanland-County-Sweden/Project-Controller_R0129671) |
+| Category | Accounting |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaesteras-Vastmanland-County-Sweden/Project-Controller_R0125342) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-05-12.
+This accounting position at Hitachi was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

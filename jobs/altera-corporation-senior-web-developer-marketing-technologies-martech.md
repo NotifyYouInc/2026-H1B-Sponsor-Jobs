@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Penang, MY |
-| Category | Frontend Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Senior-Web-Developer---Marketing-Technologies--MarTech--_R02071) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/Senior-Web-Developer---Marketing-Technologies--MarTech--_R02444) |
 
 ## About This Role
 
-This frontend engineer position at Altera Corporation was posted on 2026-03-10.
+This software engineer position at Altera Corporation was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

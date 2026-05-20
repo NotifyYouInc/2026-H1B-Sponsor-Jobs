@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Hwaseong-LucestarKOR/ETCH-Process-Support-Engineer_R2617989) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Icheon-GwangoKOR/ETCH-Process-Support-Engineer_R2619729-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Applied Materials was posted on 2026-04-20.
+This semiconductor / chip design position at Applied Materials was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

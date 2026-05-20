@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Penang, MY |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Senior-DevOps-Engineer---CMS-Platform_R02072) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/Senior-DevOps-Engineer---CMS-Platform_R02445) |
 
 ## About This Role
 
-This devops engineer position at Altera Corporation was posted on 2026-03-10.
+This devops engineer position at Altera Corporation was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

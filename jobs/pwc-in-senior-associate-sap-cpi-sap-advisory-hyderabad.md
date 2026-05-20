@@ -1,16 +1,16 @@
-# IN_Senior Associate _SAP CPI_  SAP_Advisory_Hyderabad at PwC
+# IN_Senior Associate_SAP CPI_SAP_Advisory_Hyderabad at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Associate--SAP-C4C---SAP-Advisory-Bangalore_698954WD-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-SAP-CPI-SAP-Advisory-Hyderabad_728465WD-1) |
 
 ## About This Role
 
-This technology / it consulting position at PwC was posted on 2026-02-19.
+This technology / it consulting position at PwC was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

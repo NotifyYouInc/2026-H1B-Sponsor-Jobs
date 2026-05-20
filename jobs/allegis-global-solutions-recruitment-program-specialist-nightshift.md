@@ -5,12 +5,12 @@
 | Company | [Allegis Global Solutions](https://scoutify.ai/companies/allegisglobalsolutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000113637512-recruitment-program-specialist-nightshift) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000126231619-recruitment-program-specialist-nightshift) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Allegis Global Solutions was posted on 2026-03-10.
+This talent acquisition / recruiting position at Allegis Global Solutions was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

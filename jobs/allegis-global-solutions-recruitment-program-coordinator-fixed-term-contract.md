@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allegis Global Solutions](https://scoutify.ai/companies/allegisglobalsolutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Brisbane, Queensland, Australia |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000116318077-recruitment-program-coordinator-fixed-term-contract) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000126220539-recruitment-program-coordinator-fixed-term-contract) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Allegis Global Solutions was posted on 2026-03-24.
+This human resources / people ops position at Allegis Global Solutions was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

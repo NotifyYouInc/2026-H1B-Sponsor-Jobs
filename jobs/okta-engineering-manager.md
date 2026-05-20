@@ -5,12 +5,12 @@
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7606225?gh_jid=7606225) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7855574?gh_jid=7855574) |
 
 ## About This Role
 
-This engineering manager position at Okta was posted on 2026-02-19.
+This engineering manager position at Okta was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

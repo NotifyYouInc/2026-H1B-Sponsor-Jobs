@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110312212-sr-mgr-software-engrg-mgmt) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000126224799-sr-mgr-software-engrg-mgmt) |
 
 ## About This Role
 
-This engineering manager position at ServiceNow was posted on 2026-02-20.
+This engineering manager position at ServiceNow was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

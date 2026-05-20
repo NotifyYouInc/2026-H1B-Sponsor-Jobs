@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/DLF-IT-Park-Chennai/Process-Expert_JR-0000083567-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Process-Expert_JR-0000110102-1) |
 
 ## About This Role
 
-This human resources / people ops position at Barclays was posted on 2026-02-25.
+This human resources / people ops position at Barclays was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Account Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---Bangalore/Key-Account-Manager_31148702) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Arab-Emirates---Dubai/Key-Account-Manager_31150220) |
 
 ## About This Role
 
-This account manager position at Abbott was posted on 2026-04-24.
+This account manager position at Abbott was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

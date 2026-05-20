@@ -1,16 +1,16 @@
-# Senior Data Scientist - Growth Marketing at Adobe
+# Senior Data Scientist, Growth Marketing at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Growth Marketing |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Scientist---Growth-Marketing_R167253) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Scientist--Growth-Marketing_R167017-1) |
 
 ## About This Role
 
-This growth marketing position at Adobe was posted on 2026-04-09.
+This growth marketing position at Adobe was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

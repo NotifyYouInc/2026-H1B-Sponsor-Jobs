@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Operations-Processor_R-523502) |
+| Category | Operations |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Operations-Processor_R-542617) |
 
 ## About This Role
 
-This compliance & risk management position at Wells Fargo was posted on 2026-02-27.
+This operations position at Wells Fargo was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

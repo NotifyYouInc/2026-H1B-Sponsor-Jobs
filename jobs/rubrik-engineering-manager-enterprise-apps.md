@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7574582?gh_jid=7574582) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7916300?gh_jid=7916300) |
 
 ## About This Role
 
-This engineering manager position at Rubrik was posted on 2026-02-17.
+This engineering manager position at Rubrik was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

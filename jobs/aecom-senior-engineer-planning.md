@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Engineering Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120313987-senior-engineer-planning) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126237859-senior-engineer-planning) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-04-13.
+This engineering manager position at AECOM was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
