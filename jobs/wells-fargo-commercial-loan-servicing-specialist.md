@@ -1,16 +1,16 @@
-# Commercial Loan servicing Specialist at Wells Fargo
+# Commercial Loan Servicing Specialist at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Commercial-Loan-servicing-Specialist_R-527993-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Business Analyst |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Loan-Servicing-Specialist_R-539631-1) |
 
 ## About This Role
 
-This compliance & risk management position at Wells Fargo was posted on 2026-03-25.
+This business analyst position at Wells Fargo was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

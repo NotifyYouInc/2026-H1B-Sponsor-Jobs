@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Haifa, Haifa, Israel |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Pre-Silicon-Validation-Engineer_JR0283528) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Israel-Petah-Tikva/Pre-Silicon-Validation-Engineer_JR0283725) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-05-05.
+This semiconductor / chip design position at Intel was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

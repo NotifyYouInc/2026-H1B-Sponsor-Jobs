@@ -1,16 +1,16 @@
-# Senior Electrical Engineer (Building Services) at AECOM
+# Senior Electrical Engineer (Building Services)  at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | Adelaide, South Australia, Australia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000125257889-senior-electrical-engineer-building-services) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126464020-senior-electrical-engineer-building-services) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-05-08.
+This electrical / hardware engineer position at AECOM was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

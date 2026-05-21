@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shijiazhuang, Hebei, China |
-| Category | Business Development |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/ShiJiaZhuang/Lead-Channel-Sales_R4036301-2) |
+| Location | Nanjing, Jiangsu, China |
+| Category | Channel / Partner Sales |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Nanjing/Lead-Channel-Manager_R4041154-1) |
 
 ## About This Role
 
-This business development position at GE HealthCare was posted on 2026-02-12.
+This channel / partner sales position at GE HealthCare was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

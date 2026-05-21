@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111002595-research-executive) |
+| Category | Business Analyst |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126467319-research-executive) |
 
 ## About This Role
 
-This strategy / management consulting position at NielsenIQ was posted on 2026-02-24.
+This business analyst position at NielsenIQ was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

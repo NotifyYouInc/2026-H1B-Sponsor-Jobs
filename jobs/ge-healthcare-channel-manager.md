@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shenyang, Liaoning, China |
+| Location | Nanjing, Jiangsu, China |
 | Category | Channel / Partner Sales |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shenyang/Channel-Manager_R4039938-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Nanjing/Channel-Manager_R4041153-1) |
 
 ## About This Role
 
-This channel / partner sales position at GE HealthCare was posted on 2026-05-08.
+This channel / partner sales position at GE HealthCare was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

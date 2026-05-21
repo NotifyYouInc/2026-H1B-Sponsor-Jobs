@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Sales Leadership |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113120) |
+| Location | Australia |
+| Category | Business Development |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113116) |
 
 ## About This Role
 
-This sales leadership position at IBM was posted on 2026-05-09.
+This business development position at IBM was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

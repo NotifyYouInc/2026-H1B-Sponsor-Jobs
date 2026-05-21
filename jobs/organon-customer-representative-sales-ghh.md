@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Organon](https://scoutify.ai/companies/organon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Diyarbakır, Diyarbakır Province, Turkey |
 | Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/CHN---Guangdong---Guangzhou/Customer-Representative--Sales-GHH_R539209) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/TUR---Istanbul/Customer-Representative--Sales-GHH_R540264) |
 
 ## About This Role
 
-This account executive position at Organon was posted on 2026-03-27.
+This account executive position at Organon was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

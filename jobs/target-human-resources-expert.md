@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Bakersfield, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7100-S-Cicero-Ave-ChicagoIL-60629-5813/Human-Resources-Expert_R0000438015) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/6301-Gosford-Rd-BakersfieldCA-93313-4748/Human-Resources-Expert_R0000439168) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-05-08.
+This human resources / people ops position at Target was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

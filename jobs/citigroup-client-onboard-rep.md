@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Customer Success |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Client-Onboard-Rep_26960289) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Client-Onboard-Rep_26963647) |
 
 ## About This Role
 
-This customer success position at Citigroup was posted on 2026-05-11.
+This customer success position at Citigroup was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

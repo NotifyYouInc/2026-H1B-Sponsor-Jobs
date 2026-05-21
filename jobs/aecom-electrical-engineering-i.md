@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jaipur, Rajasthan, India |
+| Location | Jodhpur, Rajasthan, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000114893107-electrical-engineering-i) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126464989-electrical-engineering-i) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-03-16.
+This electrical / hardware engineer position at AECOM was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

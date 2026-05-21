@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/QA---Testing-Senior-Analyst---HIH---Evernorth_26001472) |
+| Category | QA Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/QA---Testing-Senior-Analyst---HIH---Evernorth_26004571) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-04-02.
+This qa engineer position at Cigna was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

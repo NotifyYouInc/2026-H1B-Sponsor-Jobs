@@ -5,12 +5,12 @@
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kunshan, Jiangsu, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/CN-Kunshan/Electrical-Computer-Engineer---Senior_JR-40108493) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/CN-Kunshan/Electrical-Computer-Engineer---Senior_JR-40108496-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Goodyear was posted on 2026-05-11.
+This electrical / hardware engineer position at Goodyear was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

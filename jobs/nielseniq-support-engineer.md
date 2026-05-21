@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110084302-support-engineer) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126464279-support-engineer) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-02-19.
+This customer success position at NielsenIQ was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

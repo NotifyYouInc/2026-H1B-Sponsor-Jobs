@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Data-Engineer---Analyst_JR-0000095225) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Data-Engineer---Analyst_JR-0000110756) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-04-22.
+This data engineer position at Barclays was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

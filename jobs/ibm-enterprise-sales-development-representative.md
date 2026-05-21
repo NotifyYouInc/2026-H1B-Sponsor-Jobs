@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Business Development |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113771) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113772) |
 
 ## About This Role
 
-This business development position at IBM was posted on 2026-05-07.
+This business development position at IBM was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

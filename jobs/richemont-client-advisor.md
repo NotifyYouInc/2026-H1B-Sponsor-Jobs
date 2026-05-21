@@ -1,16 +1,16 @@
-# Client Advisor at Richemont
+# CLIENT ADVISOR at Richemont
 
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | China |
 | Category | Account Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/MELBOURNE/Client-Advisor_JR128007-2) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/HONG-KONG-SAR-China/CLIENT-ADVISOR_JR128960) |
 
 ## About This Role
 
-This account manager position at Richemont was posted on 2026-04-28.
+This account manager position at Richemont was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

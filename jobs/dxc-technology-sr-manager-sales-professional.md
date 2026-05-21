@@ -1,16 +1,16 @@
-# Sr. Manager Sales Professional at DXC Technology
+# Sr Manager Sales Professional at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Australia |
 | Category | Sales Leadership |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---DIF---MEXICO-CITY/Sr-Manager-Sales-Professional_51577720) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---ACT---BRINDABELLA-BUSINESS-PARK/Sr-Manager-Sales-Professional_51580467) |
 
 ## About This Role
 
-This sales leadership position at DXC Technology was posted on 2026-04-09.
+This sales leadership position at DXC Technology was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
