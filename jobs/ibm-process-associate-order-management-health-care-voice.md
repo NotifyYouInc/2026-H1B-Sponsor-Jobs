@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Business Analyst |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113899) |
+| Category | Customer Success |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113875) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-05-09.
+This customer success position at IBM was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

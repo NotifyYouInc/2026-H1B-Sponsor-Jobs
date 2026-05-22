@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Mobile Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Mobile-App-Developer_WD30264476) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Mobile-App-Developer_WD30268790) |
 
 ## About This Role
 
-This mobile engineer position at Johnson Controls was posted on 2026-04-01.
+This mobile engineer position at Johnson Controls was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

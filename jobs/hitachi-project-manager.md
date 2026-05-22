@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hitachi, Ibaraki, Japan |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Project Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hitachi-Ibaraki-Japan/Project-Manager_R0125592) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Manager_R0129641) |
 
 ## About This Role
 
-This project manager position at Hitachi was posted on 2026-05-13.
+This project manager position at Hitachi was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

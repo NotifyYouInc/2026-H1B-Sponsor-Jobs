@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Account Executive |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Kelana-Centre-Point-Malaysia/Account-Manager_R49189) |
+| Location | Malaysia |
+| Category | Account Manager |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Kelana-Centre-Point-Malaysia/Account-Manager_R51435) |
 
 ## About This Role
 
-This account executive position at TD Synnex was posted on 2026-03-24.
+This account manager position at TD Synnex was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

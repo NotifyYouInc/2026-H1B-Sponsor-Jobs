@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bakersfield, California, United States |
+| Location | San Jose, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/6301-Gosford-Rd-BakersfieldCA-93313-4748/Human-Resources-Expert_R0000439168) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1600-Saratoga-Ave-San-JoseCA-95129-5101/Human-Resources-Expert_R0000439220) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-05-14.
+This human resources / people ops position at Target was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

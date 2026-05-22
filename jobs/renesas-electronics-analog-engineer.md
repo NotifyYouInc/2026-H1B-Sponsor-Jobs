@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kodaira, Tokyo, Japan |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000120597498-analog-engineer) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000126627435-analog-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Renesas Electronics was posted on 2026-04-14.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

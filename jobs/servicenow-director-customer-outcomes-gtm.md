@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Haryana, IN |
+| Location | Gurugram, Haryana, India |
 | Category | Sales Leadership |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000120600868-director-customer-outcomes-gtm) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000126625040-director-customer-outcomes-gtm) |
 
 ## About This Role
 
-This sales leadership position at ServiceNow was posted on 2026-04-14.
+This sales leadership position at ServiceNow was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

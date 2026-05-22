@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/HBM-ENGINEERING-SUPPORT-TECHNICIAN_JR90920) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/HBM-ENGINEERING-SUPPORT-TECHNICIAN_JR90938) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Micron was posted on 2026-05-07.
+This electrical / hardware engineer position at Micron was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

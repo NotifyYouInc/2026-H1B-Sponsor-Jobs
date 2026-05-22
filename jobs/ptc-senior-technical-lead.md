@@ -5,12 +5,12 @@
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/Senior-Technical-Lead_JR111919) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/Senior-Technical-Lead_JR112213) |
 
 ## About This Role
 
-This software engineer position at PTC was posted on 2026-04-24.
+This software engineer position at PTC was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

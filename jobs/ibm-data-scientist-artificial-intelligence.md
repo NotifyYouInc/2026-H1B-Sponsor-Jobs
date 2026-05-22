@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99805) |
+| Location | Kochi, Kerala, India |
+| Category | AI / ML Research |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114156) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-03-20.
+This ai / ml research position at IBM was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nagpur/Test-Automation-Lead_ATCI-5451666-S2006464-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5564768-S2023708-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-04-25.
+This software engineer position at Accenture was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

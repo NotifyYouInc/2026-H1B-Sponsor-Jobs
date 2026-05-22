@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Application-Developer_ATCI-5267687-S1931008-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Developer_ATCI-5532504-S2023743-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-11.
+This software engineer position at Accenture was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

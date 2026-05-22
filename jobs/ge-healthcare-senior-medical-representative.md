@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lanzhou, Gansu, China |
+| Location | China |
 | Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Lanzhou/Senior-Medical-Representative_R4037160-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/HaiNan/Senior-Medical-Representative_R4041273-1) |
 
 ## About This Role
 
-This account executive position at GE HealthCare was posted on 2026-03-03.
+This account executive position at GE HealthCare was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

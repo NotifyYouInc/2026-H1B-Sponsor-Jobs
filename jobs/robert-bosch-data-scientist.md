@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111765575-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126633239-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-02-27.
+This data scientist position at Robert Bosch was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

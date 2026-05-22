@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Operations |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Business-Execution-Consultant_R-536514) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant_R-509094) |
 
 ## About This Role
 
-This operations position at Wells Fargo was posted on 2026-04-17.
+This operations position at Wells Fargo was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

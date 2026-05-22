@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Java-Apps-Dev-Intmd-Programmer-Analyst_26951978) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Java-Apps-Dev-Intmd-Programmer-Analyst_26963692) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-04-17.
+This software engineer position at Citigroup was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

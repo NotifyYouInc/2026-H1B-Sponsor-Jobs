@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/GCP_SR-28434-1) |
+| Location | 5 locations |
+| Category | Data Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Azure-Data-Engineer_SR-27473) |
 
 ## About This Role
 
-This software engineer position at Fractal was posted on 2026-04-02.
+This data engineer position at Fractal was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

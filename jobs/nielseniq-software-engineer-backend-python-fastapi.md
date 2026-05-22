@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000119521106-software-engineer-backend-python-fastapi) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126633549-software-engineer-backend-python-fastapi) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-04-09.
+This software engineer position at NielsenIQ was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
