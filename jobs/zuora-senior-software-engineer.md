@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Foster City, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7728280?gh_jid=7728280) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7895656?gh_jid=7895656) |
 
 ## About This Role
 
-This software engineer position at Zuora was posted on 2026-03-23.
+This software engineer position at Zuora was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

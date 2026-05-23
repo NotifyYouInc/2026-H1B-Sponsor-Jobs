@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105070) |
+| Location | Quezon City, National Capital Region, Philippines |
+| Category | IT & Systems Administration |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115205) |
 
 ## About This Role
 
-This customer success position at IBM was posted on 2026-03-25.
+This it & systems administration position at IBM was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

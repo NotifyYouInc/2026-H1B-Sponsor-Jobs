@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Orange, California, United States |
+| Location | Santa Maria, California, United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/2191-N-Tustin-St-OrangeCA-92865-3701/Specialty-Sales-Team-Leader_R0000436988) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/223-E-Betteravia-Rd-Santa-MariaCA-93454-7803/Specialty-Sales-Team-Leader_R0000439435) |
 
 ## About This Role
 
-This sales leadership position at Target was posted on 2026-05-01.
+This sales leadership position at Target was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

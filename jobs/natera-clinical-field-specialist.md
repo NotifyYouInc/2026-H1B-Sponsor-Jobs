@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fort Collins, Colorado, United States |
+| Location | 4 locations |
 | Category | Account Executive |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5843501004) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5997153004) |
 
 ## About This Role
 
-This account executive position at Natera was posted on 2026-04-04.
+This account executive position at Natera was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

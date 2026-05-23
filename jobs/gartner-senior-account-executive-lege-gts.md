@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Solna, Stockholm, Sweden |
 | Category | Account Executive |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Brisbane/Senior-Account-Executive--LE-GE--GTS_106962-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Solna/Senior-Account-Executive--LE-GE--GTS_110344) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-05-11.
+This account executive position at Gartner was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

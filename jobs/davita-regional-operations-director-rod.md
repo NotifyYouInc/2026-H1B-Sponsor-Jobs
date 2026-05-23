@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 5 locations |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/03300---Visalia-Dialysis/Regional-Operations-Director--ROD-_R0444608) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01505---Wisconsin-Badgerland-Region-03-Office/Regional-Operations-Director--ROD-_R0457988) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-02-06.
+This operations position at DaVita was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

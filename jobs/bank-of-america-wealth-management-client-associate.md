@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Customer Success |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Indianapolis/Wealth-Management-Client-Associate_26010823) |
+| Location | San Mateo, California, United States |
+| Category | Corporate Finance |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/San-Mateo/Wealth-Management-Client-Associate_26017145) |
 
 ## About This Role
 
-This customer success position at Bank of America was posted on 2026-03-20.
+This corporate finance position at Bank of America was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

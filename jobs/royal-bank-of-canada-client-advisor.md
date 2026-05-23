@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | British Columbia, CA |
+| Location | Kitchener, Ontario, Canada |
 | Category | Account Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/COWICHAN-VALLEY-British-Columbia-Canada/Client-Advisor_R-0000165250) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/KITCHENER-Ontario-Canada/Client-Advisor_R-0000172655) |
 
 ## About This Role
 
-This account manager position at Royal Bank of Canada was posted on 2026-05-08.
+This account manager position at Royal Bank of Canada was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

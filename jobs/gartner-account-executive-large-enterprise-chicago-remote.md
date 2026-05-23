@@ -5,12 +5,12 @@
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Account Executive |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Chicago-IL/Account-Executive---Large-Enterprise---Chicago--Remote_109430-1) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Chicago-IL/Account-Executive---Large-Enterprise---Chicago--Remote_110448) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-04-16.
+This account executive position at Gartner was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

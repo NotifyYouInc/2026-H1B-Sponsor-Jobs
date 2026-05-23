@@ -1,16 +1,16 @@
-# Account Sales Representative  at Natera
+# Account Sales Representative at Natera
 
 | Field | Details |
 |-------|---------|
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Hollywood, California, United States |
 | Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5746471004) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5996679004) |
 
 ## About This Role
 
-This account executive position at Natera was posted on 2026-02-25.
+This account executive position at Natera was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fort Myers, Florida, United States |
+| Location | Irving, Texas, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Talent-Sourcer_109168) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Talent-Sourcer_110722) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Gartner was posted on 2026-03-25.
+This talent acquisition / recruiting position at Gartner was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

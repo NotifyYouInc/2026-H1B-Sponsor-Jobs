@@ -1,0 +1,22 @@
+# Department Administrator II at Roswell Park Cancer Institute
+
+| Field | Details |
+|-------|---------|
+| Company | [Roswell Park Cancer Institute](https://scoutify.ai/companies/roswell-park-cancer-institute?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Roswell, Georgia, United States |
+| Category | Business Analyst |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://roswellpark.wd5.myworkdayjobs.com/externalcareers/job/Roswell/Department-Administrator-II_R-20949) |
+
+## About This Role
+
+This business analyst position at Roswell Park Cancer Institute was posted on 2026-05-16.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

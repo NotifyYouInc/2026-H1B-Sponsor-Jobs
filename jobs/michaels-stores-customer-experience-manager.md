@@ -1,16 +1,16 @@
-# Customer Experience Manager at Michaels Stores
+# Customer Experience manager at Michaels Stores
 
 | Field | Details |
 |-------|---------|
 | Company | [Michaels Stores](https://scoutify.ai/companies/michaels?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Richmond, British Columbia, Canada |
+| Location | Ventura, California, United States |
 | Category | Customer Success |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Richmond-9711-Bridgeport-Rd/Customer-Experience-Manager_R00309715) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Ventura-4850-Telephone-Rd/Customer-Experience-manager_R00310185) |
 
 ## About This Role
 
-This customer success position at Michaels Stores was posted on 2026-05-09.
+This customer success position at Michaels Stores was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
