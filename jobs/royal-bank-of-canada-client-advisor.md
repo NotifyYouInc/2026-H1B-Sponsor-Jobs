@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kitchener, Ontario, Canada |
+| Location | Cambridge, Ontario, Canada |
 | Category | Account Manager |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/KITCHENER-Ontario-Canada/Client-Advisor_R-0000172655) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/100-JAMIESON-PKYCAMBRIDGE/Client-Advisor_R-0000172449) |
 
 ## About This Role
 

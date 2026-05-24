@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Texas, US |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/PhoenixAZ/Process-Support-Engineer-III_R2618065) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Dallas-RichardsonTX/Process-Support-Engineer-III_R2619928) |
 
 ## About This Role
 
-This semiconductor / chip design position at Applied Materials was posted on 2026-04-18.
+This semiconductor / chip design position at Applied Materials was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

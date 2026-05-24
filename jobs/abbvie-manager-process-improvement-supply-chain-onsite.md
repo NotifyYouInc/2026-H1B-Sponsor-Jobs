@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Worcester, Massachusetts, United States |
 | Category | Project Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012920470-manager-process-improvement-supply-chain-onsite) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013171176-manager-process-improvement-supply-chain-onsite) |
 
 ## About This Role
 
-This project manager position at AbbVie was posted on 2026-05-01.
+This project manager position at AbbVie was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Financial-Analyst-3_R166598) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Financial-Analyst-3_R168660-1) |
 
 ## About This Role
 
-This corporate finance position at Adobe was posted on 2026-03-18.
+This corporate finance position at Adobe was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

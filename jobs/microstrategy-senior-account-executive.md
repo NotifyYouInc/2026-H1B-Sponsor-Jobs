@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tysons, Virginia, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Account Executive |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000125426159-senior-account-executive) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000126842059-senior-account-executive) |
 
 ## About This Role
 
-This account executive position at MicroStrategy was posted on 2026-05-09.
+This account executive position at MicroStrategy was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

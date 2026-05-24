@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | India |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000108674356-staff-engineer) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000126806769-staff-engineer) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-11.
+This software engineer position at Nagarro was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

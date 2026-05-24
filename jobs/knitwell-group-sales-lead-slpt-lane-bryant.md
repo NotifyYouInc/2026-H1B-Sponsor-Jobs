@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Knitwell Group](https://scoutify.ai/companies/knitwell-group?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Snellville, Georgia, United States |
+| Location | Riverside, California, United States |
 | Category | Sales Leadership |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-6916-Presidential-Mkt-LaneBryant-Snellville-GA-30078/Sales-Lead--SLPT---Lane-Bryant_R-2025305) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-4759-North-Riverside-LaneBryant-Riverside-IL-60546/Sales-Lead--SLPT---Lane-Bryant_R-2026446) |
 
 ## About This Role
 
-This sales leadership position at Knitwell Group was posted on 2026-04-25.
+This sales leadership position at Knitwell Group was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

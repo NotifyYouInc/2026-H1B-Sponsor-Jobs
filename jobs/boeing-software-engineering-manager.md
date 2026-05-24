@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
+| Location | Hazelwood, Missouri, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/POL---Gdansk-Poland/Software-Engineering-Manager_JR2026507775-2) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Software-Engineering-Manager_JR2026510790-1) |
 
 ## About This Role
 
-This engineering manager position at Boeing was posted on 2026-04-30.
+This engineering manager position at Boeing was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

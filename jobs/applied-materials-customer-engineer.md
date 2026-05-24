@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Singapore, Singapore |
 | Category | Marketing |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Engineer_R2616847) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer_R2619148) |
 
 ## About This Role
 
-This marketing position at Applied Materials was posted on 2026-04-09.
+This marketing position at Applied Materials was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

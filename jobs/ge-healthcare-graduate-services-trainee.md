@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Customer Success |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Graduate-Services-Trainee_R4041155-1) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/PHL02-01-Taguig-Menaco-Tower/Graduate-Services-Trainee_R4040930-1) |
 
 ## About This Role
 
-This customer success position at GE HealthCare was posted on 2026-05-13.
+This customer success position at GE HealthCare was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

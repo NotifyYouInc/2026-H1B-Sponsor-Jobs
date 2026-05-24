@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Seoul, Seoul, South Korea |
 | Category | Customer Success |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/7650688/?gh_jid=7650688) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/7926175/?gh_jid=7926175) |
 
 ## About This Role
 
-This customer success position at Datadog was posted on 2026-02-25.
+This customer success position at Datadog was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 
