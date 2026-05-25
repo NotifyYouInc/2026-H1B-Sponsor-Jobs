@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Account Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415638/account-manager-bazaar) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422098/account-manager-bazaar) |
 
 ## About This Role
 
-This account manager position at Amazon was posted on 2026-05-11.
+This account manager position at Amazon was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | District of Columbia, US |
-| Category | Sales |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MD-Maryland-Remote-Employees/Field-Sales-Representative_R241541) |
+| Location | 2 locations |
+| Category | Account Executive |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/CN-Shanghai-China-Raffles-City-The-Bund/Field-Sales-Representative_R243333) |
 
 ## About This Role
 
-This sales position at Arrow Electronics was posted on 2026-02-10.
+This account executive position at Arrow Electronics was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

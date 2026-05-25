@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hefei, Anhui, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Industrial Automation |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Hefei-Anhui/Process-Tech_JR-2026-20159-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Shanghai-China/Process-Tech_JR-2026-20493) |
 
 ## About This Role
 
-This industrial automation position at Air Products was posted on 2026-04-17.
+This industrial automation position at Air Products was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

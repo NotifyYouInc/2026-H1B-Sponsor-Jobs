@@ -5,12 +5,12 @@
 | Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Sr-SAP-SD-Consultant_R-104968) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Sr-SAP-SD-Consultant_R-104922) |
 
 ## About This Role
 
-This technology / it consulting position at Jade Global was posted on 2026-05-14.
+This technology / it consulting position at Jade Global was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

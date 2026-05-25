@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sāvli, Gujarat, India |
+| Location | Chongqing, Chongqing, China |
 | Category | Account Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Savli-Gujarat-India/General-Sales---Marketing-Experienced-Professional_R0129627-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chongqing-China/General-Sales---Marketing-Experienced-Professional_R0125734) |
 
 ## About This Role
 
-This account manager position at Hitachi was posted on 2026-05-13.
+This account manager position at Hitachi was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

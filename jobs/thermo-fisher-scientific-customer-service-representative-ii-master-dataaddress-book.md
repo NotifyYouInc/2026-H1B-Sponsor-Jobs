@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Customer Success |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Customer-Service-Representative-II---Master-Data-Address-book_R-01349994) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Customer-Service-Representative-II---Master-Data-Address-book_R-01352833-1) |
 
 ## About This Role
 
-This customer success position at Thermo Fisher Scientific was posted on 2026-04-25.
+This customer success position at Thermo Fisher Scientific was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

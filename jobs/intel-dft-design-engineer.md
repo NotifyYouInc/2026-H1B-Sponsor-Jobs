@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Malaysia |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/DFT-Design-Engineer_JR0283412) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/DFT-Design-Engineer_JR0284063) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-04-27.
+This semiconductor / chip design position at Intel was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

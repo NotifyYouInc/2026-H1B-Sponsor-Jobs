@@ -1,16 +1,16 @@
-# Managing Consultant – Fraud SME - Advisors & Consulting Services at Mastercard
+# Managing Consultant – Fraud SME, Advisors & Consulting Services at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Cairo-Egypt/Managing-Consultant---Fraud-SME---Advisors---Consulting-Services_R-270397-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Riyadh-Saudi-Arabia/Managing-Consultant---Fraud-SME--Advisors---Consulting-Services_R-270391) |
 
 ## About This Role
 
-This strategy / management consulting position at Mastercard was posted on 2026-04-01.
+This strategy / management consulting position at Mastercard was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

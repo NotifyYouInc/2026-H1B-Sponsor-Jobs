@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Electrical-Engineer_R2612247-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Electrical-Engineer_R2618956) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Applied Materials was posted on 2026-05-11.
+This electrical / hardware engineer position at Applied Materials was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

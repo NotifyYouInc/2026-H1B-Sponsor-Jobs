@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Malaysia |
+| Location | Bukit Damansara, Kuala Lumpur, Malaysia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000116820984-associate-hv-substations-primary) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126908589-associate-hv-substations-primary) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-03-26.
+This electrical / hardware engineer position at AECOM was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
