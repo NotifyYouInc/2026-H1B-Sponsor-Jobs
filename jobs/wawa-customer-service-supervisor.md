@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wawa](https://scoutify.ai/companies/wawa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Virginia, US |
+| Location | Mobile, Alabama, United States |
 | Category | Customer Success |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://wawa.wd1.myworkdayjobs.com/careers/job/Store-8681---Ruckersville-VA-22968/Customer-Service-Supervisor_JR120289) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://wawa.wd1.myworkdayjobs.com/careers/job/Store-5806---Mobile-AL-36609/Customer-Service-Supervisor_JR120049) |
 
 ## About This Role
 
-This customer success position at Wawa was posted on 2026-04-11.
+This customer success position at Wawa was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

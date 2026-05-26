@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Organon](https://scoutify.ai/companies/organon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wuhan, Hubei, China |
-| Category | Account Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/CHN---Hubei---Wuhan/District-Manager_R538504-2) |
+| Location | Guangzhou, Guangdong, China |
+| Category | Sales Leadership |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/CHN---Guangdong---Guangzhou/Sr-District-Manager_R538540-2) |
 
 ## About This Role
 
-This account manager position at Organon was posted on 2026-04-20.
+This sales leadership position at Organon was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

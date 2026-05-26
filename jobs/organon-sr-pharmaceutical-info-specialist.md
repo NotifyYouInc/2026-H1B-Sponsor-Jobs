@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Organon](https://scoutify.ai/companies/organon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chengdu, Sichuan, China |
-| Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/CHN---Chengdu/Sr-Pharmaceutical-Info-Specialist_R538757) |
+| Location | Guangzhou, Guangdong, China |
+| Category | Account Manager |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/CHN---Guangdong---Guangzhou/Sr-Pharmaceutical-Info-Specialist_R540277) |
 
 ## About This Role
 
-This account executive position at Organon was posted on 2026-03-26.
+This account manager position at Organon was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

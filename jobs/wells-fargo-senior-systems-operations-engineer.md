@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Systems-Operations-Engineer_R-538931) |
+| Category | DevOps Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Systems-Operations-Engineer_R-544775) |
 
 ## About This Role
 
-This it & systems administration position at Wells Fargo was posted on 2026-04-28.
+This devops engineer position at Wells Fargo was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kocaeli, TR |
+| Location | Moorebank, New South Wales, Australia |
 | Category | Project Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Kocaeli-Kocaeli-Trkiye/Project-Manager_JR00032698) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Moorebank-New-South-Wales-Australia/Project-Manager_JR00034041) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-05-05.
+This project manager position at ABB was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

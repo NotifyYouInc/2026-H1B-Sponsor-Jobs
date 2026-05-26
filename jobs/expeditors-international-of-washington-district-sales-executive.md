@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bayan Lepas, Penang, Malaysia |
+| Location | Keilor East, Victoria, Australia |
 | Category | Account Executive |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000125032709-district-sales-executive) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000127130719-district-sales-executive) |
 
 ## About This Role
 
-This account executive position at Expeditors International of Washington was posted on 2026-05-07.
+This account executive position at Expeditors International of Washington was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

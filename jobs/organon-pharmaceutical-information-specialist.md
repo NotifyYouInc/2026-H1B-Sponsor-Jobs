@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Organon](https://scoutify.ai/companies/organon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Changzhou, Jiangsu, China |
 | Category | Account Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/CHN---Beijing---Beijing/Pharmaceutical-Information-Specialist_R538571-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/CHN---Jiangsu---Changzhou/Pharmaceutical-Information-Specialist_R540133-2) |
 
 ## About This Role
 
-This account manager position at Organon was posted on 2026-04-13.
+This account manager position at Organon was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

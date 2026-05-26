@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Virginia, US |
 | Category | Marketing |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000125426819-field-marketing-director-north-east) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000127124646-field-marketing-director-north-east) |
 
 ## About This Role
 
-This marketing position at MicroStrategy was posted on 2026-05-09.
+This marketing position at MicroStrategy was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pulau-Pinang-Malaysia/Sales-Account-Manager_R26-757) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Account Manager |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bangkok-Thailand/Sales-Account-Manager_R26-3206) |
 
 ## About This Role
 
-This customer success position at Rockwell Automation was posted on 2026-02-13.
+This account manager position at Rockwell Automation was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Application-Lead_ATCI-5453299-S2023934-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Application-Lead_ATCI-5318953-S1957382-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-05-15.
+This software engineer position at Accenture was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mississippi, US |
+| Location | Piteå, Norrbotten, Sweden |
 | Category | Learning & Development |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Crystal-Springs-Mississippi-United-States-of-America/Training---Development-Specialist_R0123926) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pitea-Norrbotten-County-Sweden/Training---Development-Specialist_R0117964) |
 
 ## About This Role
 
-This learning & development position at Hitachi was posted on 2026-03-24.
+This learning & development position at Hitachi was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

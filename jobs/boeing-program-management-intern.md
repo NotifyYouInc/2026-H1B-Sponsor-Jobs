@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Program Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/SAU---Riyadh-Saudi-Arabia/Program-Management-Intern_JR2026500538) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/SAU---Riyadh-Saudi-Arabia/Program-Management-Intern_JR2026510191) |
 
 ## About This Role
 
-This program manager position at Boeing was posted on 2026-03-17.
+This program manager position at Boeing was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
