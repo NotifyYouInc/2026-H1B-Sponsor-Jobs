@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Legal |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Director_36739) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Trivandrum/Director_39639) |
 
 ## About This Role
 
-This legal position at Guidehouse was posted on 2026-02-23.
+This strategy / management consulting position at Guidehouse was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

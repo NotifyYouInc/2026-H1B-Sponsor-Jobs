@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Guangzhou, Guangdong, China |
 | Category | Customer Success |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Shanghai/International-Service-Engineer_JR0043686) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Guangzhou/International-Service-Engineer_JR0043685) |
 
 ## About This Role
 
-This customer success position at Alfa Laval was posted on 2026-03-16.
+This customer success position at Alfa Laval was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

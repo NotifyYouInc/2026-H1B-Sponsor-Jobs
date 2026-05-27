@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVzI-DKPKrAaIw8X9d2bzRf2lXwS3tvRmRfe7ZOUntGJEjsACxwdTJTO93DREpaUwe66hL4HpOZ6PVeld70shGNqVyWOuFBjrA-XR7TXlGJwhf-NSyzocvOMV3tqqQ%3D%3D_V2&loc=US&title=SoC+Power+Lead) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSuwPu4rr_-TLsyRA99AufmjbdpITihgTIb5HQp8-iJEEjsACxwdTKyBAyoSzEHysfVfMmlq6d_EKPIO8aFBI0mNCMjig_X8FmL_a0mmTz5a-ggagP7QydXGq26uNw%3D%3D_V2&loc=US&title=SoC+Power+Lead) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-04-07.
+This semiconductor / chip design position at Google was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

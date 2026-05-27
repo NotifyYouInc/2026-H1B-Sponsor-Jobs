@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Australia |
+| Location | Nowra, New South Wales, Australia |
 | Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Edinburg-SA-Australia/Senior-Technical-Field-Engineer_REQ571855) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Nowra-NSW-Australia/Senior-Technical-Field-Engineer_REQ573021-1) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-04-20.
+This customer success position at Unisys was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

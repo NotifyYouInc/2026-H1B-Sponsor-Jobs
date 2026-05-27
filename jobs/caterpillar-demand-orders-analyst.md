@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tianjin, Tianjin, China |
+| Location | Suzhou, Jiangsu, China |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Demand---Orders-Analyst_R0000367084) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Suzhou-Jiangsu/Demand---Orders-Analyst_R0000371192-1) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-05-06.
+This business analyst position at Caterpillar was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

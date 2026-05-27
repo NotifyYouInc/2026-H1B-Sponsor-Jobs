@@ -1,16 +1,16 @@
-# Specialist Underwriting Governance at QBE Insurance
+# Specialist, Underwriting Governance at QBE Insurance
 
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Wallich-Street-Singapore/Specialist-Underwriting-Governance_352154) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Wallich-Street-Singapore/Specialist--Underwriting-Governance_355561) |
 
 ## About This Role
 
-This compliance & risk management position at QBE Insurance was posted on 2026-03-11.
+This compliance & risk management position at QBE Insurance was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

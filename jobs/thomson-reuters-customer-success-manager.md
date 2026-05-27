@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Customer Success |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Philippines-Manila/Customer-Success-Manager_JREQ200538-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Malaysia-Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Customer-Success-Manager_JREQ200479) |
 
 ## About This Role
 
-This customer success position at Thomson Reuters was posted on 2026-05-12.
+This customer success position at Thomson Reuters was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

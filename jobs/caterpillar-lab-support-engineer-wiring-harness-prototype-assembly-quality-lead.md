@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tamil Nadu, IN |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/Lab-Support-Engineer--Wiring-Harness-Prototype-Assembly---Quality-Lead-_R0000364172-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/Lab-Support-Engineer--Wiring-Harness-Prototype-Assembly---Quality-Lead-_R0000371282) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-04-28.
+This electrical / hardware engineer position at Caterpillar was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

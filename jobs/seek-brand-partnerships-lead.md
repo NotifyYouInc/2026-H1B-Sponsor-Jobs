@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000107660565-brand-partnerships-lead) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000127348419-brand-partnerships-lead) |
 
 ## About This Role
 
-This business development position at SEEK was posted on 2026-02-06.
+This business development position at SEEK was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

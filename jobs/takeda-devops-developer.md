@@ -5,12 +5,12 @@
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/DevOps-Developer_R0175947) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/DevOps-Developer_R0180043) |
 
 ## About This Role
 
-This devops engineer position at Takeda was posted on 2026-03-27.
+This devops engineer position at Takeda was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

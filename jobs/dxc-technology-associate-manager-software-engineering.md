@@ -1,16 +1,16 @@
-# Associate Manager - Software Engineering at DXC Technology
+# Associate Manager Software Engineering at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ohio, US |
+| Location | Pune, Maharashtra, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---OH---ANY-CITY/Associate-Manager---Software-Engineering_51576808) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---MH---PUNE/Associate-Manager-Software-Engineering_51568307) |
 
 ## About This Role
 
-This engineering manager position at DXC Technology was posted on 2026-03-30.
+This engineering manager position at DXC Technology was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

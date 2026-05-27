@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gilead Sciences](https://scoutify.ai/companies/gilead-sciences?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Zhengzhou, Henan, China |
+| Location | Chongqing, Chongqing, China |
 | Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/China---Zhengzhou/Therapeutic-Specialist-I_R0051410-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/China---Chongqing/Therapeutic-Specialist-I_R0052615-1) |
 
 ## About This Role
 
-This account executive position at Gilead Sciences was posted on 2026-03-30.
+This account executive position at Gilead Sciences was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

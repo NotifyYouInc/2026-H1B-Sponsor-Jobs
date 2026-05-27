@@ -5,12 +5,12 @@
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical Writer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Senior-Scientific-Writer-II_REQ-10076558) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Senior-Scientific-Writer-II_REQ-10077909-1) |
 
 ## About This Role
 
-This technical writer position at Novartis was posted on 2026-04-30.
+This technical writer position at Novartis was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

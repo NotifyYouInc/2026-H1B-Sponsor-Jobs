@@ -1,16 +1,16 @@
-# Engineer - Electrical at AECOM
+# Engineer - Electrical  at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120312987-engineer-electrical) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000127357679-engineer-electrical) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-04-13.
+This electrical / hardware engineer position at AECOM was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

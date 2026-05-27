@@ -1,16 +1,16 @@
-# Member OF Technical Staff, Diag at Pure Storage
+# Member Of Technical Staff, Diag at Pure Storage
 
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7737836) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7917637) |
 
 ## About This Role
 
-This software engineer position at Pure Storage was posted on 2026-03-23.
+This software engineer position at Pure Storage was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

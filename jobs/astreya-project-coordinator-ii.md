@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Reston, Virginia, United States |
 | Category | Project Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Manila-Philippines/Project-Coordinator-II_R0014783) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Reston-VA/Project-Coordinator-II_R0015593) |
 
 ## About This Role
 
-This project manager position at Astreya was posted on 2026-03-11.
+This project manager position at Astreya was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

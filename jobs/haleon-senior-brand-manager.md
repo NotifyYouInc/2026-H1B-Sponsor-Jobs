@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Marketing |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Shanghai---HuangPu-District---The-Headquarters-Building/Senior-Brand-Manager_541551) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Shanghai---HuangPu-District---The-Headquarters-Building/Senior-Brand-Manager_544154-1) |
 
 ## About This Role
 
-This marketing position at Haleon was posted on 2026-05-06.
+This marketing position at Haleon was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

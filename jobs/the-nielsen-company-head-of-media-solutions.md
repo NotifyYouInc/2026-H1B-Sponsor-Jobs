@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012671206-head-of-media-solutions) |
+| Category | Product Manager |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013222556-head-of-media-solutions) |
 
 ## About This Role
 
-This business analyst position at The Nielsen Company was posted on 2026-04-20.
+This product manager position at The Nielsen Company was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

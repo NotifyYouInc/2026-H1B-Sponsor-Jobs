@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | QA Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Quality-Engineer_ATCI-5428764-S2024632-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Quality-Engineer_ATCI-5541534-S2024955-1) |
 
 ## About This Role
 
-This qa engineer position at Accenture was posted on 2026-05-19.
+This qa engineer position at Accenture was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

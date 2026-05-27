@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | Singapore, Singapore |
 | Category | Engineering Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Staff-Senior-Engineer--PROCT-FE-Cost-Excellence_JR100933) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Staff-Senior-Engineer--PROCT-FE-Cost-Excellence_JR100924-1) |
 
 ## About This Role
 
-This engineering manager position at Micron was posted on 2026-05-18.
+This engineering manager position at Micron was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

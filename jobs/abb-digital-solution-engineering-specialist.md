@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Digital-Solution-Engineering-Specialist_JR00024892) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Industrial Automation |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Digital-Solution-Engineering-Specialist_JR00034055) |
 
 ## About This Role
 
-This software engineer position at ABB was posted on 2026-03-05.
+This industrial automation position at ABB was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Location | Singapore, Singapore |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556862521) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556867360) |
 
 ## About This Role
 
-This it & systems administration position at Microsoft was posted on 2026-04-30.
+This it & systems administration position at Microsoft was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

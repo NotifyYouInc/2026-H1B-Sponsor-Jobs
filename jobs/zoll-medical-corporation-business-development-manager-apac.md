@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ZOLL Medical Corporation](https://scoutify.ai/companies/zoll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Engineering Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Kuala-Lumpur-Malaysia/Business-Development-Manager--APAC_R18784) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/SG-Singapore/Business-Development-Manager--APAC_R19115) |
 
 ## About This Role
 
-This engineering manager position at ZOLL Medical Corporation was posted on 2026-04-14.
+This engineering manager position at ZOLL Medical Corporation was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
