@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116317588-manager-software-engineering) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000127588229-manager-software-engineering) |
 
 ## About This Role
 
-This engineering manager position at LinkedIn was posted on 2026-03-24.
+This engineering manager position at LinkedIn was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

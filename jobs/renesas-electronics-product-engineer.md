@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Takasaki, Gunma, Japan |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000125254069-product-engineer) |
+| Location | Lviv, Lviv, Ukraine |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000127595731-product-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-05-08.
+This electrical / hardware engineer position at Renesas Electronics was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

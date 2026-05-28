@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Le Trait, Normandy, France |
 | Category | QA Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Le-Trait/QA-Specialist_R2844066) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Le-Trait/QA-Specialist_R2855502-1) |
 
 ## About This Role
 
-This qa engineer position at Sanofi was posted on 2026-05-18.
+This qa engineer position at Sanofi was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

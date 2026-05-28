@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Guangzhou, Guangdong, China |
 | Category | Customer Success |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126915199-manager-retail-market-insights) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127583189-manager-retail-market-insights) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-05-18.
+This customer success position at NielsenIQ was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

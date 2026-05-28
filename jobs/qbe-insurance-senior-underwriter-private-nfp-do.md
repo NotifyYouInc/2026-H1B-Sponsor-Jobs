@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Connecticut, US |
+| Location | Chicago, Illinois, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/USA---IL---Chicago/Senior-Underwriter---Private-NFP-D-O_352708) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/USA---IL---Chicago/Senior-Underwriter---Private-NFP-D-O_355932) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-03-26.
+This corporate finance position at QBE Insurance was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Accountant - General Ledger at IBM
+# Accountant – General Ledger at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94631) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115715) |
 
 ## About This Role
 
-This corporate finance position at IBM was posted on 2026-03-03.
+This corporate finance position at IBM was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

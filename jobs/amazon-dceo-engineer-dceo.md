@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412099/dceo-engineer-dceo) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426291/dceo-engineer-dceo) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-05-06.
+This electrical / hardware engineer position at Amazon was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

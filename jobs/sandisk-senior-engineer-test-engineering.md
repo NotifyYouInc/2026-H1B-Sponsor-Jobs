@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Batu Kawan, Penang, Malaysia |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000125036979-senior-engineer-test-engineering) |
+| Category | QA Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000127579285-senior-engineer-test-engineering) |
 
 ## About This Role
 
-This electrical / hardware engineer position at SanDisk was posted on 2026-05-07.
+This qa engineer position at SanDisk was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

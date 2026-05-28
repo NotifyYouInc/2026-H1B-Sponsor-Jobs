@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Waukee, Iowa, United States |
+| Location | Greensboro, North Carolina, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/900-SE-Laurel-St-WaukeeIA-50263-9100/Human-Resources-Expert_R0000439370) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1628-Highwoods-Blvd-GreensboroNC-27410-2048/Human-Resources-Expert_R0000439924) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-05-18.
+This human resources / people ops position at Target was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Operations |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant_R-509094) |
+| Category | Project Manager |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant_R-540906) |
 
 ## About This Role
 
-This operations position at Wells Fargo was posted on 2026-05-15.
+This project manager position at Wells Fargo was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

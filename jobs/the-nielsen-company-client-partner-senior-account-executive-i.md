@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Account Executive |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013103686-client-partner-senior-account-executive-i) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013244436-client-partner-senior-account-executive-i) |
 
 ## About This Role
 
-This account executive position at The Nielsen Company was posted on 2026-05-13.
+This account executive position at The Nielsen Company was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

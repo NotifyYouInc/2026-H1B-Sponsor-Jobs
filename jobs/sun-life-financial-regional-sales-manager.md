@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | National Capital Region, PH |
+| Location | Indonesia |
 | Category | Sales Leadership |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Regional-Sales-Manager_JR00122506) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Jakarta-Selatan-Jakarta-Raya/Regional-Sales-Manager_JR00124255) |
 
 ## About This Role
 
-This sales leadership position at Sun Life Financial was posted on 2026-04-06.
+This sales leadership position at Sun Life Financial was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

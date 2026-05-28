@@ -1,16 +1,16 @@
-# SDET, FlashBlade at Pure Storage
+# SDET, FlashBlade  at Pure Storage
 
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7641946) |
+| Location | Bengaluru, Karnataka, India |
+| Category | QA Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7938083) |
 
 ## About This Role
 
-This software engineer position at Pure Storage was posted on 2026-03-03.
+This qa engineer position at Pure Storage was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

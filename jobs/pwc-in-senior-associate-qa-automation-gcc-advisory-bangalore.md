@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | QA Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-QA-Automation-GCC-Advisory-Bangalore_728304WD-2) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-QA-Automation-GCC-Advisory-Bangalore_730614WD-2) |
 
 ## About This Role
 
-This qa engineer position at PwC was posted on 2026-05-13.
+This qa engineer position at PwC was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

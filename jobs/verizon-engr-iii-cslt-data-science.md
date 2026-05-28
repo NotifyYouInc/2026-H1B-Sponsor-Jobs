@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Engr-III-Cslt-Data-Science_R-1090481) |
+| Category | Data Analyst |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Engr-III-Cslt-Data-Science_R-1095300) |
 
 ## About This Role
 
-This data scientist position at Verizon was posted on 2026-02-20.
+This data analyst position at Verizon was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

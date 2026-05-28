@@ -1,16 +1,16 @@
-# Software Engineer - Treasury Technology at Point72
+# Software Engineer, Treasury Technology at Point72
 
 | Field | Details |
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Corporate Finance |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8372913002?gh_jid=8372913002) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8559353002?gh_jid=8559353002) |
 
 ## About This Role
 
-This corporate finance position at Point72 was posted on 2026-02-11.
+This software engineer position at Point72 was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

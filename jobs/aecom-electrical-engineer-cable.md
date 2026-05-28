@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bukit Damansara, Kuala Lumpur, Malaysia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000125757269-electrical-engineer-cable) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000127585315-electrical-engineer-cable) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-05-11.
+This electrical / hardware engineer position at AECOM was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

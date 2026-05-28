@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Chat-Agent-Associate-III_R30532) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Pune-Sez-1-All-Floors-Except-9Th-And-10Th/Chat-Agent-Associate-III_R30071) |
 
 ## About This Role
 
-This customer success position at Allstate was posted on 2026-05-19.
+This customer success position at Allstate was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

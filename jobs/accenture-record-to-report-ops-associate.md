@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Jaipur, Rajasthan, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Record-to-Report-Ops-Associate_AIOC-S01643946-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Record-to-Report-Ops-Associate_AIOC-S01646655-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-08.
+This corporate finance position at Accenture was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

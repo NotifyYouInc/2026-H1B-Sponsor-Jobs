@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Security-Managed-Services-Practitioner_ATCI-5467583-S1997200-1) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Security Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Security-Managed-Services-Practitioner_ATCP-1272097-S420892) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-04-30.
+This security engineer position at Accenture was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

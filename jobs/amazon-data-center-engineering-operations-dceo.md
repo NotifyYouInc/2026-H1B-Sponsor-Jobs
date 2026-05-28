@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412101/data-center-engineering-operations-dceo) |
+| Category | Data Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426289/data-center-engineering-operations-dceo) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-05-06.
+This data engineer position at Amazon was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

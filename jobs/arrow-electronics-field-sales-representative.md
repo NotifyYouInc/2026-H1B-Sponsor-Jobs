@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Israel |
 | Category | Account Executive |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/CN-Shanghai-China-Raffles-City-The-Bund/Field-Sales-Representative_R243333) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IL-Petah-Tikva-Israel-Shacham-Street/Field-Sales-Representative_R241279) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-05-18.
+This account executive position at Arrow Electronics was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

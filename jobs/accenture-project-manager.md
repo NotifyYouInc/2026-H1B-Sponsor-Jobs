@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Project Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Perth-Exchange-Tower/Project-Manager_14296298) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok-The-ParQ/Project-Manager_14390367) |
 
 ## About This Role
 
-This project manager position at Accenture was posted on 2026-05-11.
+This project manager position at Accenture was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

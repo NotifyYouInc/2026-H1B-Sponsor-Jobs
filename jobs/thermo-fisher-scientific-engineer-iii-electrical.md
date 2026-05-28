@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Engineer-III--Electrical_R-01351953) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Engineer-III--Electrical_R-01353455) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Thermo Fisher Scientific was posted on 2026-05-13.
+This electrical / hardware engineer position at Thermo Fisher Scientific was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IN_Senior Associate_MERN Developer_GCC_Advisory_Bangalore at PwC
+# IN_Senior Associate_ MERN Developer_GCC_Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Java-GCC-Advisory-Bangalore_700762WD-1) |
+| Category | Software Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--MERN-Developer-GCC-Advisory-Bangalore_730616WD-1) |
 
 ## About This Role
 
-This frontend engineer position at PwC was posted on 2026-02-17.
+This software engineer position at PwC was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

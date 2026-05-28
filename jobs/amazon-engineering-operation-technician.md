@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Lubbock, Texas, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10405652/engineering-operation-technician) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10405661/engineering-operation-technician) |
 
 ## About This Role
 
-This engineering manager position at Amazon was posted on 2026-05-20.
+This electrical / hardware engineer position at Amazon was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

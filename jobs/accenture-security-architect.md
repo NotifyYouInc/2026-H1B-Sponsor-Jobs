@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Security-Architect_ATCI-5542181-S2020073-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Security-Architect_ATCI-5369821-S1987180-1) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-05-15.
+This security engineer position at Accenture was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
