@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Application-Developer_ATCI-5399806-S1980593) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Application-Developer_ATCI-R1-S1926351-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-18.
+This software engineer position at Accenture was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

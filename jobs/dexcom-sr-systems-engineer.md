@@ -1,16 +1,16 @@
-# Sr Systems Engineer at Dexcom
+# Sr. Systems Engineer at Dexcom
 
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Malaysia |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Penang-Malaysia/Sr-Systems-Engineer_JR116548) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Bengaluru-India/Sr-Systems-Engineer_JR118890) |
 
 ## About This Role
 
-This operations position at Dexcom was posted on 2026-02-11.
+This embedded / firmware engineer position at Dexcom was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

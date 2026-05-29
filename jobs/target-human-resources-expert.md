@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Greensboro, North Carolina, United States |
+| Location | California, US |
 | Category | Human Resources / People Ops |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1628-Highwoods-Blvd-GreensboroNC-27410-2048/Human-Resources-Expert_R0000439924) |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/11133-Balboa-Blvd-Granada-Hills-CA-91344-4204/Human-Resources-Expert_R0000439990) |
 
 ## About This Role
 

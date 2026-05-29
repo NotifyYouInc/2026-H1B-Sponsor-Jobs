@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Malaysia |
 | Category | QA Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/QA-Engineer-Sr_J2439253) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/QA-Engineer-Sr_J2445982) |
 
 ## About This Role
 
-This qa engineer position at Jabil was posted on 2026-04-11.
+This qa engineer position at Jabil was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

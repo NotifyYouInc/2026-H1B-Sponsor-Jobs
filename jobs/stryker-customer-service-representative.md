@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Melbourne-Australia/Customer-Service-Representative_R565094-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Brisbane-Australia/Customer-Service-Representative_R563140) |
 
 ## About This Role
 
-This customer success position at Stryker was posted on 2026-05-07.
+This customer success position at Stryker was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

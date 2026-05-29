@@ -5,12 +5,12 @@
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | QA Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7938083) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7938094) |
 
 ## About This Role
 
-This qa engineer position at Pure Storage was posted on 2026-05-21.
+This qa engineer position at Pure Storage was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

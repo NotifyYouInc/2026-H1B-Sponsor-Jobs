@@ -1,16 +1,16 @@
-# Associate Manager, Scientific Writing at Novartis
+# Associate Manager. Scientific Writing at Novartis
 
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Content Marketing |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Manager--Scientific-Writing_REQ-10073726) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Manager-Scientific-Writing_REQ-10073725-1) |
 
 ## About This Role
 
-This content marketing position at Novartis was posted on 2026-03-12.
+This content marketing position at Novartis was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

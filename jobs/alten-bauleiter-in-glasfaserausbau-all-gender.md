@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cottbus, Brandenburg, Germany |
+| Location | Bielefeld, North Rhine-Westphalia, Germany |
 | Category | Engineering Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000126913619-bauleiter-in-glasfaserausbau-all-gender) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127811359-bauleiter-in-glasfaserausbau-all-gender) |
 
 ## About This Role
 
-This engineering manager position at ALTEN was posted on 2026-05-18.
+This engineering manager position at ALTEN was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Production supervisor at Jabil
+# Production Supervisor at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Maharashtra, IN |
-| Category | Human Resources / People Ops |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Production-supervisor_J2433738) |
+| Location | India |
+| Category | Engineering Manager |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Production-Supervisor_J2433743) |
 
 ## About This Role
 
-This human resources / people ops position at Jabil was posted on 2026-03-03.
+This engineering manager position at Jabil was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | South Africa |
 | Category | Engineering Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000119523188-engineer-bridges) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000127818469-engineer-bridges) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-04-09.
+This engineering manager position at AECOM was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

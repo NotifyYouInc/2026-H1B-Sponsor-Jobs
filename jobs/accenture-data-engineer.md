@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5540228-S2023588-1) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Data-Architecture_ATCP-1296992-S408297) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-05-15.
+This technical & solutions architect position at Accenture was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

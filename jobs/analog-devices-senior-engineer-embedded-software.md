@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore/Senior-Engineer--Embedded-Software_R261537-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Senior-Engineer--Embedded-Software_R262724) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Analog Devices was posted on 2026-03-24.
+This embedded / firmware engineer position at Analog Devices was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

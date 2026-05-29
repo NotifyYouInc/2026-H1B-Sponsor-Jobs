@@ -5,12 +5,12 @@
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Junior-Discipline-Engineer_REQ2026070578) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Junior-Discipline-Engineer_REQ2025065105) |
 
 ## About This Role
 
-This engineering manager position at Valeo was posted on 2026-04-17.
+This engineering manager position at Valeo was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

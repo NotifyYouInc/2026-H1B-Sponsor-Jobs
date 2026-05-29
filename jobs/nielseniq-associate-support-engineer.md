@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Technical Support Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123848159-associate-support-engineer) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127815134-associate-support-engineer) |
 
 ## About This Role
 
-This technical support engineer position at NielsenIQ was posted on 2026-04-30.
+This technical support engineer position at NielsenIQ was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

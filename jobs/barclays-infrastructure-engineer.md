@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Infrastructure-Engineer_JR-0000063161) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Infrastructure-Engineer_JR-0000101317) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-03-17.
+This devops engineer position at Barclays was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

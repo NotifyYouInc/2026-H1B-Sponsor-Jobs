@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Queensland, AU |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Australia---Queensland---East-Brisbane/Business-Development-Manager_31145477) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---Bangalore/Business-Development-Manager_31146766-1) |
 
 ## About This Role
 
-This engineering manager position at Abbott was posted on 2026-03-27.
+This engineering manager position at Abbott was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
