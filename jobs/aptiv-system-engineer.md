@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | China |
+| Location | Changshu, Jiangsu, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Wuhu-City-China/System-Engineer_J000697431) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Changshu-China/System-Engineer_J000698621) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Aptiv was posted on 2026-05-06.
+This electrical / hardware engineer position at Aptiv was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

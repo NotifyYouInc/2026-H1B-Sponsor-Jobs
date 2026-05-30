@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000110488446-hr-partner) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127976039-hr-partner) |
 
 ## About This Role
 
-This human resources / people ops position at Intuitive Surgical was posted on 2026-02-20.
+This human resources / people ops position at Intuitive Surgical was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

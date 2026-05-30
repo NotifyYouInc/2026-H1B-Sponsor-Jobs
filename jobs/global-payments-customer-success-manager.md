@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Utah, US |
+| Location | Jeffersonville, Indiana, United States |
 | Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Lindon-Utah-USA/Customer-Success-Manager_R0069707) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/JEFFERSONVILLE-INDIANA/Customer-Success-Manager_R0072180) |
 
 ## About This Role
 
-This customer success position at Global Payments was posted on 2026-02-09.
+This customer success position at Global Payments was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

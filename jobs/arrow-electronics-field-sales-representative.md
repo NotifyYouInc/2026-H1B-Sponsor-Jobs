@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Israel |
+| Location | Denver, Colorado, United States |
 | Category | Account Executive |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IL-Petah-Tikva-Israel-Shacham-Street/Field-Sales-Representative_R241279) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Field-Sales-Representative_R243191) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-05-21.
+This account executive position at Arrow Electronics was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

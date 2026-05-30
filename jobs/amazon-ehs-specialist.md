@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Greenville, North Carolina, United States |
+| Location | Liberty, Missouri, United States |
 | Category | ESG / Sustainability |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10392384/ehs-specialist) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428859/ehs-specialist) |
 
 ## About This Role
 
-This esg / sustainability position at Amazon was posted on 2026-04-15.
+This esg / sustainability position at Amazon was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

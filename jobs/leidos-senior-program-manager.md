@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Bedford, Texas, United States |
 | Category | Program Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Winchester-VA/Senior-Program-Manager_R-00177222) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bedford-MA/Senior-Program-Manager_R-00183991) |
 
 ## About This Role
 
-This program manager position at Leidos was posted on 2026-02-27.
+This program manager position at Leidos was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

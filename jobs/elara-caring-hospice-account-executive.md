@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elara Caring](https://scoutify.ai/companies/elara-caring?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Leawood, Kansas, United States |
 | Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Oklahoma-City---OK-Highline/Hospice-Account-Executive_JR-135112) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Leawood---KS/Hospice-Account-Executive_JR-135777) |
 
 ## About This Role
 
-This account executive position at Elara Caring was posted on 2026-05-01.
+This account executive position at Elara Caring was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

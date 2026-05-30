@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kingston, New York, United States |
+| Location | Hawaii, US |
 | Category | Business Development |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Kingston-NY-Ulster-0524/Full-Time---Sales-Specialist---Appliances---Day_JR-02516860-1) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Kailua-Kona-HI-Kona-1561/Full-Time---Sales-Specialist---Appliances---Day_JR-02533389-1) |
 
 ## About This Role
 
-This business development position at Lowe's was posted on 2026-05-09.
+This business development position at Lowe's was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Tokyo-Japan/Senior-Security-Compliance-Analyst_R34514-2) |
+| Location | 3 locations |
+| Category | Security Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Austin-Texas-United-States-of-America/Senior-Security-Compliance-Analyst_R34904) |
 
 ## About This Role
 
-This compliance & risk management position at Zendesk was posted on 2026-03-25.
+This security engineer position at Zendesk was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

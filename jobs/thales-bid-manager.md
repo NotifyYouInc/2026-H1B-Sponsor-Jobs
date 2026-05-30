@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rome, Lazio, Italy |
-| Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Roma/Bid-Manager_R0301630-1) |
+| Location | Ottawa, Ontario, Canada |
+| Category | Project Manager |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/Bid-Manager_R0328093) |
 
 ## About This Role
 
-This business analyst position at Thales was posted on 2026-02-20.
+This project manager position at Thales was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

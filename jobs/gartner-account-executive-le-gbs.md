@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Illinois, US |
+| Location | Texas, US |
 | Category | Account Executive |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Illinois/Account-Executive--LE--GBS_110031) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Texas/Account-Executive--LE--GBS_110834) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-04-29.
+This account executive position at Gartner was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

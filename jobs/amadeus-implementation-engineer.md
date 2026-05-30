@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Customer Success |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Implementation-Engineer_R32238-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Implementation-Engineer_R34816) |
 
 ## About This Role
 
-This customer success position at Amadeus was posted on 2026-03-05.
+This customer success position at Amadeus was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

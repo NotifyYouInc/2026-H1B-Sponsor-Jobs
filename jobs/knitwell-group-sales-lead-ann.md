@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Knitwell Group](https://scoutify.ai/companies/knitwell-group?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mebane, North Carolina, United States |
+| Location | Las Vegas, Nevada, United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-2927-Piedmont-Outlet-Mebane-ANN-Mebane-NC-27302/Sales-Lead-ANN_R-2026124) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-1202-Las-Vegas-Premium-Outlets-ANN-Las-Vegas-NV-89106/Sales-Lead-ANN_R-2026787) |
 
 ## About This Role
 
-This sales leadership position at Knitwell Group was posted on 2026-05-09.
+This sales leadership position at Knitwell Group was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

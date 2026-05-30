@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Pennsylvania, US |
 | Category | Account Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Elizabeth-New-Jersey/Post-Acute-Account-Manager_R2605531) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/REMOTE--Pennsylvania/Account-Manager_R2610218) |
 
 ## About This Role
 
-This account manager position at Medline was posted on 2026-03-20.
+This account manager position at Medline was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

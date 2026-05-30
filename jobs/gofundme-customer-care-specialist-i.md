@@ -1,16 +1,16 @@
-# Customer Care Specialist I at GoFundMe
+# Customer Care Specialist I  at GoFundMe
 
 | Field | Details |
 |-------|---------|
 | Company | [GoFundMe](https://scoutify.ai/companies/gofundme?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Dublin, Leinster, Ireland |
 | Category | Customer Success |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gofundme/jobs/7298299) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gofundme/jobs/7788453) |
 
 ## About This Role
 
-This customer success position at GoFundMe was posted on 2026-03-07.
+This customer success position at GoFundMe was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

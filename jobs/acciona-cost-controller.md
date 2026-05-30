@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Perth, Western Australia, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Melbourne/Cost-Controller_20093979) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Perth/Cost-Controller_20096155) |
 
 ## About This Role
 
-This corporate finance position at Acciona was posted on 2026-04-24.
+This corporate finance position at Acciona was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

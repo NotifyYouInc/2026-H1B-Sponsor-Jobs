@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hilo, Hawaii, United States |
+| Location | Atwater, California, United States |
 | Category | Customer Success |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Hilo-HI-96720/Customer-Experience-Coordinator_REQ120236) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Atwater-CA-95301/Customer-Experience-Coordinator_REQ122036-1) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-05-15.
+This customer success position at TJX was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

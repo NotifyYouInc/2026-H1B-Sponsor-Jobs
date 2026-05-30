@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Torreón, Coahuila, Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Torren/Asistente-Negocio-Select_Req1567309) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/Asistente-Negocio-Select_Req1578150) |
 
 ## About This Role
 
-This customer success position at Santander was posted on 2026-05-01.
+This customer success position at Santander was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

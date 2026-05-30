@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunbelt Rentals](https://scoutify.ai/companies/sunbelt-rentals?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | La Crosse, Wisconsin, United States |
+| Location | Kennewick, Washington, United States |
 | Category | Account Executive |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/La-Crosse-VA-23950/Equipment-Rental-Specialist_2026-6226) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Kennewick-WA-99336/Equipment-Rental-Specialist_2026-8795) |
 
 ## About This Role
 
-This account executive position at Sunbelt Rentals was posted on 2026-05-02.
+This account executive position at Sunbelt Rentals was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

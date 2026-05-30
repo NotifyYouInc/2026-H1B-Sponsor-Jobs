@@ -1,16 +1,16 @@
-# Customer Service Representative ii at Genuine Parts Company
+# Customer Service Representative II at Genuine Parts Company
 
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fairbanks, Alaska, United States |
+| Location | Puebla, Puebla, Mexico |
 | Category | Customer Success |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Fairbanks-AK-USA/Customer-Service-Representative-ii_R26_0000012493) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Puebla-Mexico/Customer-Service-Representative-II_R26_0000016488) |
 
 ## About This Role
 
-This customer success position at Genuine Parts Company was posted on 2026-04-17.
+This customer success position at Genuine Parts Company was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

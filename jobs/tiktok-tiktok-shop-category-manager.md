@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York, US |
-| Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7531074466798143751/detail) |
+| Location | New York City, New York, United States |
+| Category | Account Manager |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7639031260692629765/detail) |
 
 ## About This Role
 
-This account executive position at TikTok was posted on 2026-03-27.
+This account manager position at TikTok was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
