@@ -1,16 +1,16 @@
-# Part-Time Customer Experience Coordinator at TJX
+# Part Time Customer Experience Coordinator at TJX
 
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Littleton, Colorado, United States |
 | Category | Customer Success |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Nashville-TN-37221/Part-Time-Customer-Experience-Coordinator_REQ109653) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Littleton-CO-80121/Part-Time-Customer-Experience-Coordinator_REQ121671) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-04-11.
+This customer success position at TJX was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchling](https://scoutify.ai/companies/benchling?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
+| Location | San Francisco, California, United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/d5896e95-fed2-4cd4-b104-1ea4df92f7d7) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/2d954274-719c-4d6c-968b-5e1b868bb2a5) |
 
 ## About This Role
 

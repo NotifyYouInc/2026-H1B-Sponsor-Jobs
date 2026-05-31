@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | QA Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/IT-Quality-Sr-Analyst---Assistant-Vice-President_26960003) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/IT-Quality-Sr-Analyst---Assistant-Vice-President_26963049) |
 
 ## About This Role
 
-This qa engineer position at Citigroup was posted on 2026-05-07.
+This qa engineer position at Citigroup was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

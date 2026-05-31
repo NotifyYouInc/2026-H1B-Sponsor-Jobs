@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Michaels Stores](https://scoutify.ai/companies/michaels?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Greeley, Colorado, United States |
+| Location | Webster, Massachusetts, United States |
 | Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Greeley-4743-W-29th-St-Unit-A/FT-Customer-Experience-Manager_R00304133) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Webster-913-Holt-Rd-Ste-110/FT-Customer-Experience-Manager_R00310410) |
 
 ## About This Role
 
-This customer success position at Michaels Stores was posted on 2026-02-06.
+This customer success position at Michaels Stores was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

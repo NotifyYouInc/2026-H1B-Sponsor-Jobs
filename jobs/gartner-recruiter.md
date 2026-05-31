@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fort Myers, Florida, United States |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Fort-Myers-FL/Recruiter_109247) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Sao-Paulo/Recruiter_110034) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Gartner was posted on 2026-03-28.
+This talent acquisition / recruiting position at Gartner was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

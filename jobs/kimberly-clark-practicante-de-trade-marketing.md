@@ -5,12 +5,12 @@
 | Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Marketing |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Peru--Lima/Practicante-de-Trade-Marketing_884890) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Peru--Lima/Practicante-de-Trade-Marketing_885592) |
 
 ## About This Role
 
-This marketing position at Kimberly-Clark was posted on 2026-04-18.
+This marketing position at Kimberly-Clark was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

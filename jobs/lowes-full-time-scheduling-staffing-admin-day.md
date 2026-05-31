@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Fort Worth, Texas, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Arlington-TX-S-Arlington-0520/Full-Time---Scheduling-Staffing-Admin---Day_JR-02518076) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Fort-Worth-TX-White-Settlement-1619/Full-Time---Scheduling-Staffing-Admin---Day_JR-02536519) |
 
 ## About This Role
 
-This human resources / people ops position at Lowe's was posted on 2026-05-07.
+This human resources / people ops position at Lowe's was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

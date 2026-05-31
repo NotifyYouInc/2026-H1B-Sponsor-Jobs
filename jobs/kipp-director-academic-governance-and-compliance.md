@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [KIPP](https://scoutify.ai/companies/kipp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Houston, Texas, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Compliance & Risk Management |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000127976949-director-academic-governance-and-compliance) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KIPP/744000127977638-director-academic-governance-and-compliance) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Missoula, Montana, United States |
+| Location | Fresno, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Missoula-MT-USA/Underwriter---Crop_353734) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Fresno-CA-USA/Underwriter---Crop_355614) |
 
 ## About This Role
 
-This corporate finance position at QBE Insurance was posted on 2026-04-09.
+This corporate finance position at QBE Insurance was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

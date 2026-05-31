@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kahului, Hawaii, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | Business Development |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Kahului-HI-3279/Full-Time---Sales-Specialist---Flooring---Day_JR-02504532-1) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Wilmington-OH-0298/Full-Time---Sales-Specialist---Flooring---Day_JR-02524553-1) |
 
 ## About This Role
 
-This business development position at Lowe's was posted on 2026-05-02.
+This business development position at Lowe's was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

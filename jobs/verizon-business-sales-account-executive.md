@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Augusta, Georgia, United States |
+| Location | San Jose, California, United States |
 | Category | Account Executive |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Augusta-Georgia/Business-Sales-Account-Executive_R-1095410-1) |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/San-Jose-California/Business-Sales-Account-Executive_R-1095546) |
 
 ## About This Role
 

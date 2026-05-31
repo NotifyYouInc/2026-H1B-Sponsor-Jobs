@@ -1,16 +1,16 @@
-# Success Guide - Informatica at Salesforce
+# Success Guide (Informatica) at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Success-Guide---Informatica_JR338612) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Success-Guide--Informatica-_JR338914) |
 
 ## About This Role
 
-This customer success position at Salesforce was posted on 2026-04-23.
+This customer success position at Salesforce was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

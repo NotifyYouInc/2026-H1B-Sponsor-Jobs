@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Budapest, Budapest, Hungary |
 | Category | Financial Crimes & AML |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000119521587-fincrime-investigator-aml-investigations) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127995728-fincrime-investigator-aml-investigations) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-04-09.
+This financial crimes & aml position at WISE was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 
