@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Development-Engineer---Routing--C--Linux_2011886) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Development-Engineer---Routing--C--Linux_2011896) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-04-15.
+This software engineer position at Cisco was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

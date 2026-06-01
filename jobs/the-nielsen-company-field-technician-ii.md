@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Australia |
 | Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012128206-field-technician-ii) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013284246-field-technician-ii) |
 
 ## About This Role
 
-This customer success position at The Nielsen Company was posted on 2026-03-13.
+This customer success position at The Nielsen Company was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

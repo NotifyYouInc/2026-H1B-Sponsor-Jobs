@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Customer Success |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Process-Support-Engineer_R2612211) |
+| Location | Singapore, Singapore |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Support-Engineer_R2619878) |
 
 ## About This Role
 
-This customer success position at Applied Materials was posted on 2026-02-06.
+This semiconductor / chip design position at Applied Materials was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

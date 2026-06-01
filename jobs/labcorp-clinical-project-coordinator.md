@@ -5,12 +5,12 @@
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Project Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Clinical-Project-Coordinator_2616005) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Clinical-Project-Coordinator_2618140) |
 
 ## About This Role
 
-This project manager position at Labcorp was posted on 2026-05-18.
+This project manager position at Labcorp was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

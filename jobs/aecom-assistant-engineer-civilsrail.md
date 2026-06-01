@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Engineering Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000125759369-assistant-engineer-civilsrail) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000128189679-assistant-engineer-civilsrail) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-05-11.
+This engineering manager position at AECOM was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

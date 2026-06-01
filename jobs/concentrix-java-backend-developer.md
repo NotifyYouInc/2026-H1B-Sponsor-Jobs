@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Hyderabad-Raidurg-Village-B7-South-Tower-Serilingampally-Mandal-Divya-Sree-Orion/Java-Backend-Developer_R1719824) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Hyderabad-Raidurg-Village-B7-South-Tower-Serilingampally-Mandal-Divya-Sree-Orion/Java-Backend-Developer_R1733387-1) |
 
 ## About This Role
 
-This software engineer position at Concentrix was posted on 2026-04-03.
+This software engineer position at Concentrix was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

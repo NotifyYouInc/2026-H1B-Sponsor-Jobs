@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
-| Category | Mobile Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R168225) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R168853-1) |
 
 ## About This Role
 
-This mobile engineer position at Adobe was posted on 2026-05-13.
+This software engineer position at Adobe was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

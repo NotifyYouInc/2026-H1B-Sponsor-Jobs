@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [66degrees](https://scoutify.ai/companies/66degrees?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/5805595004) |
+| Category | Data Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/6003302004) |
 
 ## About This Role
 
-This software engineer position at 66degrees was posted on 2026-02-17.
+This data engineer position at 66degrees was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

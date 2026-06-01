@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Customer Success |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000125262905-technical-implementation-manager) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000128139130-technical-implementation-manager) |
 
 ## About This Role
 
-This customer success position at Flywire was posted on 2026-05-08.
+This customer success position at Flywire was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

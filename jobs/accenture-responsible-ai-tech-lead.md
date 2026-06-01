@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Trust & Safety |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Responsible-AI-Tech-Lead_ATCI-5271860-S2019487-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / ML Research |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Responsible-AI-Tech-Lead_ATCI-5310525-S1940387-1) |
 
 ## About This Role
 
-This trust & safety position at Accenture was posted on 2026-04-29.
+This ai / ml research position at Accenture was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

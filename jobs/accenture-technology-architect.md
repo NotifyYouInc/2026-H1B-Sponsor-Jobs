@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Full-Stack-Engineer_ATCI-R1-S2000875-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Technology-Architect_ATCI-5220990-S1915707-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-05-19.
+This technical & solutions architect position at Accenture was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

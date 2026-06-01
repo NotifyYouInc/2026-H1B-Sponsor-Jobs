@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Xiamen, Fujian, China |
 | Category | Channel / Partner Sales |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Channel-Specialist_JR00030436) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Channel-Specialist_JR00032660) |
 
 ## About This Role
 
-This channel / partner sales position at ABB was posted on 2026-04-02.
+This channel / partner sales position at ABB was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

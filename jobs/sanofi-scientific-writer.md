@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chengdu, Sichuan, China |
-| Category | Content Marketing |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Chengdu/Scientific-Writer_R2846817) |
+| Location | Hyderabad, Telangana, India |
+| Category | Technical Writer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Scientific-Writer_R2858530) |
 
 ## About This Role
 
-This content marketing position at Sanofi was posted on 2026-03-06.
+This technical writer position at Sanofi was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

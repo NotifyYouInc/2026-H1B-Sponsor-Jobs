@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Mechanical-Designer_579392) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Mechanical-Designer_583904-1) |
 
 ## About This Role
 
-This engineering manager position at Philips was posted on 2026-05-22.
+This electrical / hardware engineer position at Philips was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

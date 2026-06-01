@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | China |
-| Category | Account Executive |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Chong-Qing-/-_R-105468-1) |
+| Category | Sales Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Guang-Zhou-/-_R-106260-1) |
 
 ## About This Role
 
-This account executive position at Eli Lilly was posted on 2026-05-09.
+This sales engineer position at Eli Lilly was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

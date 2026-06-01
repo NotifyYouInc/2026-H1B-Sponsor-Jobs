@@ -5,12 +5,12 @@
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | Engineering Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#320996) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#334265) |
 
 ## About This Role
 
-This engineering manager position at Oracle was posted on 2026-02-18.
+This engineering manager position at Oracle was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

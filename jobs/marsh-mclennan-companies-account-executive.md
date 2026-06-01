@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Victoria, Australia |
 | Category | Account Executive |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Sydney---Barangaroo/Account-Executive_R_350490) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Melbourne---727-Collins/Account-Executive_R_352513) |
 
 ## About This Role
 
-This account executive position at Marsh & McLennan Companies was posted on 2026-05-07.
+This account executive position at Marsh & McLennan Companies was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

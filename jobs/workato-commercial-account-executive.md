@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Account Executive |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8422689002) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.workato.com/careers?gh_jid=8532416002#open-roles) |
 
 ## About This Role
 
-This account executive position at Workato was posted on 2026-02-24.
+This account executive position at Workato was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3196746/engagement-manager-asean-professional-services) |
+| Location | Jakarta, Jakarta, Indonesia |
+| Category | Customer Success |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429173/engagement-manager-asean-professional-services) |
 
 ## About This Role
 
-This strategy / management consulting position at Amazon was posted on 2026-03-05.
+This customer success position at Amazon was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

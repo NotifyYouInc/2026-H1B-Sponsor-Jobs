@@ -5,12 +5,12 @@
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Assurance-Associate-2---Industrial-Goods_JR117806) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Assurance-Associate-2---Industrial-Goods_JR117666) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-05-23.
+This corporate finance position at RSM was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

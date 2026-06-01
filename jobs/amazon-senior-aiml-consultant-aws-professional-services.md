@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Perth, Western Australia, Australia |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10378808/senior-ai-ml-consultant-aws-professional-services) |
+| Category | AI / ML Research |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412199/senior-ai-ml-consultant-aws-professional-services) |
 
 ## About This Role
 
-This technology / it consulting position at Amazon was posted on 2026-03-30.
+This ai / ml research position at Amazon was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

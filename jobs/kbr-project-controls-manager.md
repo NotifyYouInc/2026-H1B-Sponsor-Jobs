@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Adelaide, South Australia, Australia |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Melbourne-Victoria-Australia/Project-Controls-Manager_R2121551) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Adelaide-South-Australia-Australia/Project-Controls-Manager_R2124121-1) |
 
 ## About This Role
 
-This compliance & risk management position at KBR was posted on 2026-04-09.
+This compliance & risk management position at KBR was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

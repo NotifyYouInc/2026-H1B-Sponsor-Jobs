@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#328294) |
+| Location | India |
+| Category | DevOps Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#334262) |
 
 ## About This Role
 
-This software engineer position at Oracle was posted on 2026-02-25.
+This devops engineer position at Oracle was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

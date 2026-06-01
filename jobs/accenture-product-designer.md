@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Midrand, Gauteng, South Africa |
 | Category | Product Designer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Midrand/Product-Designer_14043127) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Midrand/Product-Designer_14388766) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-05-06.
+This product designer position at Accenture was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
