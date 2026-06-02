@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Senior-Process-Associate_JREQ197974) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Senior-Process-Associate_JREQ199839-1) |
 
 ## About This Role
 
-This corporate finance position at Thomson Reuters was posted on 2026-03-02.
+This corporate finance position at Thomson Reuters was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

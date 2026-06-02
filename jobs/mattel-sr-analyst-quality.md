@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | QA Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000125754919-sr-analyst-quality) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000128401849-sr-analyst-quality) |
 
 ## About This Role
 
-This qa engineer position at Mattel was posted on 2026-05-11.
+This qa engineer position at Mattel was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

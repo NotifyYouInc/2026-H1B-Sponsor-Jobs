@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Châteauneuf-les-Martigues, Provence-Alpes-Côte d'Azur, France |
 | Category | Learning & Development |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000124567149-formateur-technique) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000128407604-formateur-technique) |
 
 ## About This Role
 
-This learning & development position at Veolia was posted on 2026-05-05.
+This learning & development position at Veolia was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-4_R166794) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | DevOps Engineer |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-4_R169185) |
 
 ## About This Role
 
-This machine learning engineer position at Adobe was posted on 2026-05-08.
+This devops engineer position at Adobe was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

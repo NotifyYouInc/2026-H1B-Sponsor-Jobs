@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Shenzhen, Guangdong, China |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Software-Development-Engineer-III_R-101531) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/China---Shenzhen/Software-Development-Engineer-III_R-105213) |
 
 ## About This Role
 
-This software engineer position at Expedia was posted on 2026-02-17.
+This software engineer position at Expedia was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

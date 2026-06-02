@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | Customer Success |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Material---Process-In-Service-Engineer_JR10394879-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Engineering Manager |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Material---Process-In-Service-Engineer_JR10416646-1) |
 
 ## About This Role
 
-This customer success position at Airbus was posted on 2026-03-05.
+This engineering manager position at Airbus was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

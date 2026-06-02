@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bayan Lepas, Penang, Malaysia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126633239-data-scientist) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128395899-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Robert Bosch was posted on 2026-05-15.
+This data scientist position at Robert Bosch was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

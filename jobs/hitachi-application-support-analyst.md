@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Customer Success |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Application-Support-Analyst_R0127839) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Application-Support-Analyst_R0130389) |
 
 ## About This Role
 
-This customer success position at Hitachi was posted on 2026-05-05.
+This customer success position at Hitachi was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

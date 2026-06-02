@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000127811214-assoc-analyst-smartops) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000128410151-assoc-analyst-smartops) |
 
 ## About This Role
 
-This it & systems administration position at Mattel was posted on 2026-05-22.
+This it & systems administration position at Mattel was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

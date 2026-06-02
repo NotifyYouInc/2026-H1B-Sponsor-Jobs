@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Applications-Support-Senior-Analyst_26945188) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Applications-Support-Senior-Analyst_26956842) |
 
 ## About This Role
 
-This customer success position at Citigroup was posted on 2026-03-13.
+This customer success position at Citigroup was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

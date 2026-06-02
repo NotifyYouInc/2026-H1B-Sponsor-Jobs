@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Managing-Consultant--Advisors---Consulting-Services--Strategy---Transformation_R-273100) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Managing-Consultant--Advisors---Consulting-Services--Strategy---Transformation_R-278897) |
 
 ## About This Role
 
-This strategy / management consulting position at Mastercard was posted on 2026-04-30.
+This strategy / management consulting position at Mastercard was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

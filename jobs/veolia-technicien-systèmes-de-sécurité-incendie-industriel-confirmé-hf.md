@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 3 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122595423-technicien-systemes-de-securite-incendie-industriel-confirme-hf) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000128394699-technicien-systemes-de-securite-incendie-industriel-confirme-hf) |
 
 ## About This Role
 
-This security engineer position at Veolia was posted on 2026-04-24.
+This security engineer position at Veolia was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

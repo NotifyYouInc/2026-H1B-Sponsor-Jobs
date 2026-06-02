@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Engineering Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000121342359-inspector-structure) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000128409153-inspector-structure) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-04-17.
+This engineering manager position at AECOM was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

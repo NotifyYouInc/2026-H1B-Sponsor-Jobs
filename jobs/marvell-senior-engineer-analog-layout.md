@@ -5,12 +5,12 @@
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Senior-Engineer--Analog-Layout_2601099) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Senior-Engineer--Analog-Layout_2602023) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-04-17.
+This semiconductor / chip design position at Marvell was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/Shift-Engineer--MTB-PWF-THINNING_JR99086-1) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/Shift-Engineer--MTB-PWF-THINNING_JR96335) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-24.
+This semiconductor / chip design position at Micron was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
