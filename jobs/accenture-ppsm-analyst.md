@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Marketing |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/PPSM-Sr-Analyst_AIOC-S01626240-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Project Manager |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/PPSM-Analyst_AIOC-S01647788-1) |
 
 ## About This Role
 
-This marketing position at Accenture was posted on 2026-05-18.
+This project manager position at Accenture was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

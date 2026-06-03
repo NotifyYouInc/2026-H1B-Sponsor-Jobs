@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112585917-hardware-architect) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128649134-hardware-architect) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Robert Bosch was posted on 2026-03-04.
+This electrical / hardware engineer position at Robert Bosch was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

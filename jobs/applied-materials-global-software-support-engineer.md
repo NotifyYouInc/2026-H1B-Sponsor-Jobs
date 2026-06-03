@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Customer Success |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Global-Software-Support-Engineer_R2612159) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical Support Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Global-Software-Support-Engineer_R2619144) |
 
 ## About This Role
 
-This customer success position at Applied Materials was posted on 2026-02-10.
+This technical support engineer position at Applied Materials was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

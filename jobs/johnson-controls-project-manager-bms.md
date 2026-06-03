@@ -1,16 +1,16 @@
-# Project Manager, BMS at Johnson Controls
+# Project Manager - BMS at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Sydney, New South Wales, Australia |
 | Category | Project Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Project-Manager--BMS_WD30266864) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Sydney-New-South-Wales-Australia/Project-Manager---BMS_WD30269983) |
 
 ## About This Role
 
-This project manager position at Johnson Controls was posted on 2026-04-13.
+This project manager position at Johnson Controls was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

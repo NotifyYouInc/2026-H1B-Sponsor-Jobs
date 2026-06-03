@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vadodara, Gujarat, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vadodara-Gujarat-India/Service-Sales---Marketing-Specialist_R0126727) |
+| Location | Lusaka, Lusaka Province, Zambia |
+| Category | Sales Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Lusaka-Lusaka-Zambia/Service-Sales---Marketing-Specialist_R0130266) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-04-20.
+This sales engineer position at Hitachi was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

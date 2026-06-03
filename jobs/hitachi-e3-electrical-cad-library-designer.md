@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/E3-Electrical-CAD-Library-Designer_R0119842) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/E3-Electrical-CAD-Library-Designer_R0118037) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-03-02.
+This electrical / hardware engineer position at Hitachi was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

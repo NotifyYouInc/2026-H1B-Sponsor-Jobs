@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Junior-Officer-HR---Talent-Acquisition_36540) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Junior-Officer-HR---Talent-Acquisition_39800) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Guidehouse was posted on 2026-02-17.
+This talent acquisition / recruiting position at Guidehouse was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

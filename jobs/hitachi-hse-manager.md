@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Drammen, Buskerud, Norway |
+| Location | Gujarat, IN |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Drammen-Buskerud-Norway/HSE-Manager_R0127012-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/HSE-Manager_R0126604) |
 
 ## About This Role
 
-This compliance & risk management position at Hitachi was posted on 2026-04-29.
+This compliance & risk management position at Hitachi was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

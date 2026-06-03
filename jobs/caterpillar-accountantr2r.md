@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Accountant-R2R-_R0000339099) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Accountant-R2R-_R0000372084) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-06.
+This corporate finance position at Caterpillar was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

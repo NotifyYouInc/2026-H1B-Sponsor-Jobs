@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Associate-Specialist---India-Tier-1-PS-Operations_432106-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Associate-Specialist---India-Tier-1-PS-Operations_431431-1) |
 
 ## About This Role
 
-This human resources / people ops position at GSK was posted on 2026-03-23.
+This human resources / people ops position at GSK was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

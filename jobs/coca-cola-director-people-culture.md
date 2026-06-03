@@ -5,12 +5,12 @@
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Japan---Tokyo/Director--People---Culture_R-137032) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Japan---Tokyo/Director--People---Culture_R-141560) |
 
 ## About This Role
 
-This human resources / people ops position at Coca-Cola was posted on 2026-03-04.
+This human resources / people ops position at Coca-Cola was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

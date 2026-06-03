@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111010186-principal-software-engineer-moveworks) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000128646559-principal-software-engineer-moveworks) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-02-24.
+This software engineer position at ServiceNow was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

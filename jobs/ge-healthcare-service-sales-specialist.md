@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xi’an, Shaanxi, China |
-| Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/CHN42-01-Xian-No-11-Jinye-Road/Service-Sales-Specialist_R4037363-1) |
+| Location | Jinan, Shandong, China |
+| Category | Business Development |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Jinan/Service-Sales-Specialist_R4041608-1) |
 
 ## About This Role
 
-This account executive position at GE HealthCare was posted on 2026-03-05.
+This business development position at GE HealthCare was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
