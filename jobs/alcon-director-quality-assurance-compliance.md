@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fort Worth, Texas, United States |
+| Location | Houston, Texas, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Director--Quality-Assurance-Compliance_R-2026-46342-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Houston-Texas/Director--Quality-Assurance-Compliance_R-2026-47036-1) |
 
 ## About This Role
 
-This compliance & risk management position at Alcon was posted on 2026-04-28.
+This compliance & risk management position at Alcon was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

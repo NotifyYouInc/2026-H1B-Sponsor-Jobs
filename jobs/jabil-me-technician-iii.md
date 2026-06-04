@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sungai Petani, Kedah, Malaysia |
+| Location | Malaysia |
 | Category | Industrial Automation |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Sungai-Petani/ME-Technician-III_J2449757) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/ME-Technician-III_J2446708) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-05-22.
+This industrial automation position at Jabil was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Software Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Software-Engineer-II_R54298) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / ML Research |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Software-Engineer-II_R54792-1) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-04-28.
+This ai / ml research position at Cadence Design Systems was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

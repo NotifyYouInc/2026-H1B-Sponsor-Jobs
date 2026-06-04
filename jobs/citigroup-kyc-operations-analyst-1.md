@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/KYC-Operations-Analyst-1_26941063) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kuala-Lumpur-Selangor-Malaysia/KYC-Operations-Analyst-1_26965492) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-03-02.
+This financial crimes & aml position at Citigroup was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

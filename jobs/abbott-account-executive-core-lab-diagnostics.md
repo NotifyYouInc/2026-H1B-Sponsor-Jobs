@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Account Executive |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Philippines---Taguig-City/Account-Executive---Core-Lab-Diagnostics_31151396) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Philippines---Taguig-City/Account-Executive---Core-Lab-Diagnostics_31151763) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-05-22.
+This account executive position at Abbott was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

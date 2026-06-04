@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Poland |
 | Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Finance-Manager_26WD98441-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Poland---Remote/Finance-Manager_26WD97758-1) |
 
 ## About This Role
 
-This corporate finance position at Autodesk was posted on 2026-05-21.
+This corporate finance position at Autodesk was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

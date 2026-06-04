@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xiamen, Fujian, China |
+| Location | Beijing, Beijing, China |
 | Category | Strategy & Operations |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Continuous-Improvement-Specialist_JR00027012) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Continuous-Improvement-Specialist_JR00035461) |
 
 ## About This Role
 
-This strategy & operations position at ABB was posted on 2026-03-06.
+This strategy & operations position at ABB was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

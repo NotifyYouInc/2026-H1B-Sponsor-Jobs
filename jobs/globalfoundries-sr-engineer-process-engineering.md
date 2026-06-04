@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Sr-Engineer-Process-Engineering_JR-2601581) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Sr-Engineer-Process-Engineering_JR-2601680) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GlobalFoundries was posted on 2026-05-12.
+This semiconductor / chip design position at GlobalFoundries was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

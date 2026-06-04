@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanghai---Shanghai-Tower-A/Innovation---Engagement-Specialist_R395617-1) |
+| Location | Suzhou, Jiangsu, China |
+| Category | Account Manager |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Jiangsu---Suzhou/Innovation---Engagement-Specialist_R400835-2) |
 
 ## About This Role
 
-This business analyst position at Merck was posted on 2026-04-27.
+This account manager position at Merck was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

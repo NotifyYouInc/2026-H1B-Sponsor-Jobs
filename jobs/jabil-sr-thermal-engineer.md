@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taiwan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Sanchong/Lead-Thermal-Engineer_J2425870) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Sanchong/Sr-Thermal-Engineer_J2451731) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Jabil was posted on 2026-03-10.
+This electrical / hardware engineer position at Jabil was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

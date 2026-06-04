@@ -1,16 +1,16 @@
-# IN_Specialist 2 - Commercial Due diligence - Deals Strategy – Advisory - Mumbai at PwC
+# IN_Specialist 2_ Commercial Due Diligence_Deals Strategy_Advisory _ Mumbai at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Development & M&A |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Specialist-2---Commercial-Due-diligence---Deals-Strategy---Advisory---Mumbai_719369WD-1) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Specialist-2--Commercial-Due-Diligence-Deals-Strategy-Advisory---Mumbai_732236WD) |
 
 ## About This Role
 
-This corporate development & m&a position at PwC was posted on 2026-05-12.
+This strategy / management consulting position at PwC was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

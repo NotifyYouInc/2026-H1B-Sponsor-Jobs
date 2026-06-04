@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Senior-Accountant--Business-Services_JR102892-2) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Melbourne-Victoria/Senior-Accountant--Business-Services_JR103237) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-03-27.
+This corporate finance position at Bdo was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

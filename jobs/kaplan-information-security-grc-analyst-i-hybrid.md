@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaplan](https://scoutify.ai/companies/kaplan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://ghc.wd1.myworkdayjobs.com/kaplan_careers/job/Bangalore-KA-India/Information-Security-GRC-Analyst-I--Hybrid-_JR253043) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Security Engineer |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://ghc.wd1.myworkdayjobs.com/kaplan_careers/job/Bangalore-KA-India/Information-Security-GRC-Analyst-I--Hybrid-_JR255646) |
 
 ## About This Role
 
-This compliance & risk management position at Kaplan was posted on 2026-03-13.
+This security engineer position at Kaplan was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

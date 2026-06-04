@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Townsville, Queensland, Australia |
 | Category | Project Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000115806282-2027-graduate-project-manager) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000128874894-2027-graduate-project-manager) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-03-20.
+This project manager position at AECOM was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

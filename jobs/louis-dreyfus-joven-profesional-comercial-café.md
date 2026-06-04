@@ -1,16 +1,16 @@
-# Joven Profesional Comercial Café at Louis Dreyfus
+# Joven Profesional Comercial  Café at Louis Dreyfus
 
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Leadership Development Program |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000117443628-joven-profesional-comercial-cafe) |
+| Location | Villanueva, Cortés Department, Honduras |
+| Category | Corporate Finance |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000128794139-joven-profesional-comercial-cafe) |
 
 ## About This Role
 
-This leadership development program position at Louis Dreyfus was posted on 2026-03-28.
+This corporate finance position at Louis Dreyfus was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

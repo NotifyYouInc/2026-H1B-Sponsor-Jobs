@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013244641-system-integration-and-test-engineer-mwd) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013342876-system-integration-and-test-engineer-mwd) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Wabtec was posted on 2026-05-21.
+This embedded / firmware engineer position at Wabtec was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

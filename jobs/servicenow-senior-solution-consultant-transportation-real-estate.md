@@ -1,16 +1,16 @@
-# Senior Solution Consultant -  Transportation & Real Estate at ServiceNow
+# Senior Solution Consultant - Transportation & Real Estate at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Sales Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111002510-senior-solution-consultant-transportation-real-estate) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000128871311-senior-solution-consultant-transportation-real-estate) |
 
 ## About This Role
 
-This sales engineer position at ServiceNow was posted on 2026-02-24.
+This technical & solutions architect position at ServiceNow was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

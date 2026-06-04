@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Xiamen, Fujian, China |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/HR-Intern_JR00028901-2) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/HR-Intern_JR00035254-1) |
 
 ## About This Role
 
-This human resources / people ops position at ABB was posted on 2026-03-17.
+This human resources / people ops position at ABB was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

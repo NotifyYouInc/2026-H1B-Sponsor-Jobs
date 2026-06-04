@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Thailand |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000128412758-intern-people-development-assistant-studying-bachelor-degree-start-in-january-2027) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000128867279-intern-people-development-assistant-studying-bachelor-degree-start-in-january-2027) |
 
 ## About This Role
 
-This human resources / people ops position at Western Digital was posted on 2026-05-26.
+This human resources / people ops position at Western Digital was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

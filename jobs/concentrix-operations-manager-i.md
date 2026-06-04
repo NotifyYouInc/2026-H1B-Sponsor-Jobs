@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Location | Indonesia |
 | Category | Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Quezon-City---Eton/Operations-Manager-I_R1686155-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IDN-Sukaharjo---Hartono-Trade-Center-GF-Jl-Ir/Operations-Manager-I_R1728184) |
 
 ## About This Role
 
-This operations position at Concentrix was posted on 2026-02-10.
+This operations position at Concentrix was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
