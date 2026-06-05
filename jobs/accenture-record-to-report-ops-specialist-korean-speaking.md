@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur-UOA-Corp-Tower/Record-to-Report-Ops-Senior-Analyst--Korean-Speaking-_R00225027) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur/Record-to-Report-Ops-Specialist--Korean-Speaking-_R00333263) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-02.
+This corporate finance position at Accenture was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

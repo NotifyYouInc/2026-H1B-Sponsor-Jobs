@@ -1,0 +1,22 @@
+# Senior Customer Service Manager, Mainland South East Asia (MSEA) (Chinese speaking) at Avery Dennison Corporation
+
+| Field | Details |
+|-------|---------|
+| Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Nhà Bè, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Customer Success |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000129088519-senior-customer-service-manager-mainland-south-east-asia-msea-chinese-speaking) |
+
+## About This Role
+
+This customer success position at Avery Dennison Corporation was posted on 2026-05-29.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

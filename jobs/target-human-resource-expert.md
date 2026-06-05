@@ -1,16 +1,16 @@
-# Human resource expert at Target
+# Human Resource Expert at Target
 
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Santa Rosa, California, United States |
+| Location | Smyrna, Georgia, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/950-Coddingtown-Center-Santa-RosaCA-95401-3506/Human-resource-expert_R0000438221) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/803-Industrial-Blvd-Smyrna-TN-37167-6865/Human-Resource-Expert_R0000440541) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-05-11.
+This human resources / people ops position at Target was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

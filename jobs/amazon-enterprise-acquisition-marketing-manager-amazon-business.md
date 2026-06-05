@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Growth Marketing |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3207512/enterprise-acquisition-marketing-manager-amazon-business) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10433967/enterprise-acquisition-marketing-manager-amazon-business) |
 
 ## About This Role
 
-This growth marketing position at Amazon was posted on 2026-03-18.
+This growth marketing position at Amazon was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

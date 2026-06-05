@@ -5,12 +5,12 @@
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Compliance-Analyst_R-13912-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Compliance-Analyst_R-14192) |
 
 ## About This Role
 
-This compliance & risk management position at Invesco was posted on 2026-05-07.
+This compliance & risk management position at Invesco was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

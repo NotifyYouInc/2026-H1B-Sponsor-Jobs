@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103429) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118061) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-03-20.
+This strategy / management consulting position at IBM was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

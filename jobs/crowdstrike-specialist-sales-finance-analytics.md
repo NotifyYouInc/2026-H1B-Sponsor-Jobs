@@ -1,16 +1,16 @@
-# Specialist , Sales Finance Analytics at CrowdStrike
+# Specialist, Sales Finance Analytics at CrowdStrike
 
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Specialist---Sales-Finance-Analytics_R28641) |
+| Category | Operations |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Specialist--Sales-Finance-Analytics_R28863) |
 
 ## About This Role
 
-This business analyst position at CrowdStrike was posted on 2026-04-29.
+This operations position at CrowdStrike was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

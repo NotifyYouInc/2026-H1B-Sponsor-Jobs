@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Sales Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8437006002) |
+| Location | Montréal, Quebec, Canada |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8565278002) |
 
 ## About This Role
 
-This sales engineer position at Databricks was posted on 2026-03-21.
+This technical & solutions architect position at Databricks was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

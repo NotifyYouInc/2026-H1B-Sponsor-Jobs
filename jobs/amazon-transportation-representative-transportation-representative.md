@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
-| Category | Customer Success |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10394492/transportation-representative-transportation-representative) |
+| Category | Business Analyst |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10434046/transportation-representative-transportation-representative) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-04-17.
+This business analyst position at Amazon was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

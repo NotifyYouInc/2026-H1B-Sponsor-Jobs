@@ -1,16 +1,16 @@
-# Sales Representative III at Medtronic
+# Sales Representative  III at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Thiruvananthapuram, Kerala, India |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Kolkata-West-Bengal-India/Sales-Representative-III_R61687-2) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Thiruvananthapuram-Kerala-India/Sales-Representative--III_R68203-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-03-13.
+This account executive position at Medtronic was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

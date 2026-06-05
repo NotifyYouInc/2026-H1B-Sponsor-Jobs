@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rakovník, Central Bohemia, Czechia |
-| Category | QA Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Rakovnik/Quality-Trainee_REQ2026073341) |
+| Location | Santena, Piedmont, Italy |
+| Category | None of the Above (Reject) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Santena/Quality-Trainee_REQ2026075912) |
 
 ## About This Role
 
-This qa engineer position at Valeo was posted on 2026-05-06.
+This none of the above (reject) position at Valeo was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New Delhi, Delhi, India |
-| Category | Corporate Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-Delhi-18--20-Kasturba-GM/Business-Clients-Credit-Advisor--AS_R0407428-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Financial Advisory & Consulting |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Sidrah-Building/Business-Clients-Credit-Advisor--AS_R0434558-1) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-02-18.
+This financial advisory & consulting position at Deutsche Bank was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

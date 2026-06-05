@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Payroll-Analyst-2_R1503804) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Payroll-Analyst-2_R1538791) |
 
 ## About This Role
 
-This accounting position at IQVIA was posted on 2026-04-09.
+This accounting position at IQVIA was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

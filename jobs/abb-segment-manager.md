@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Sales Leadership |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Segment-Manager_JR00032814-4) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mumbai-Maharashtra-India/Segment-Manager_JR00035548) |
 
 ## About This Role
 
-This sales leadership position at ABB was posted on 2026-04-27.
+This sales leadership position at ABB was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

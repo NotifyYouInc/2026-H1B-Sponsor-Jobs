@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Growth Marketing |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Thungmahamek-Bangkok-Thailand/Marketing-Internship_JR00033441) |
+| Category | Marketing |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Thungmahamek-Bangkok-Thailand/Marketing-Internship_JR00036688) |
 
 ## About This Role
 
-This growth marketing position at ABB was posted on 2026-05-07.
+This marketing position at ABB was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

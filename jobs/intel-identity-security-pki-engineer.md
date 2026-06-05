@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Identity-Security---PKI-Engineer_JR0284294) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Identity-Security---PKI-Engineer_JR0284426) |
 
 ## About This Role
 
-This security engineer position at Intel was posted on 2026-05-23.
+This security engineer position at Intel was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

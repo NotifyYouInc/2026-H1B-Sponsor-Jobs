@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Account Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Beijing-Beijing/Account-Manager_R243174) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IN-KA-Bangalore-India-Trifecta-Adatto-Converge/Account-Manager_R243977) |
 
 ## About This Role
 
-This account manager position at Arrow Electronics was posted on 2026-05-18.
+This account manager position at Arrow Electronics was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

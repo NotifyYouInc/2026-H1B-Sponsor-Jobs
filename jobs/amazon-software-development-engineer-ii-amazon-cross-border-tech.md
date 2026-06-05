@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10370961/software-development-engineer-ii-amazon-cross-border-tech) |
+| Category | Software Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10433995/software-development-engineer-ii-amazon-cross-border-tech) |
 
 ## About This Role
 
-This frontend engineer position at Amazon was posted on 2026-03-19.
+This software engineer position at Amazon was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

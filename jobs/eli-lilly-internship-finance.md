@@ -5,12 +5,12 @@
 | Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/Malaysia-Petaling-Jaya/Internship---Finance_R-104956-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/Malaysia-Petaling-Jaya/Internship---Finance_R-106597-1) |
 
 ## About This Role
 
-This corporate finance position at Eli Lilly was posted on 2026-05-18.
+This corporate finance position at Eli Lilly was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

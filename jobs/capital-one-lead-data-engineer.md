@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Data-Engineer_R239469-2) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Lead-Data-Engineer_R243217) |
 
 ## About This Role
 
-This software engineer position at Capital One was posted on 2026-03-31.
+This data engineer position at Capital One was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Account Executive |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Seoul-Seoul-Korea/Sales-Representative-I--Transcatheter-Aortic-Valve-Implantation--TAVI-_R62170) |
+| Category | Business Development |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Seoul-Seoul-Korea/Sales-Representative-I--Transcatheter-Aortic-Valve-Implantation--TAVI-_R67639-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-03-19.
+This business development position at Medtronic was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Novi, Michigan, United States |
+| Location | San Diego, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/27100-Wixom-Rd-NoviMI-48374-1115/Human-Resources-Expert_R0000440267) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/3424-College-Ave-San-DiegoCA-92115-7134/Human-Resources-Expert_R0000440669) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-05-26.
+This human resources / people ops position at Target was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

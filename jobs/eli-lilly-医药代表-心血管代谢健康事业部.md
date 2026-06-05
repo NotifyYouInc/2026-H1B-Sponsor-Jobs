@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | China |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/CN-Nan-Jing/-_R-106363-1) |
+| Category | Account Executive |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Hang-Zhou-/-_R-106159) |
 
 ## About This Role
 
-This corporate finance position at Eli Lilly was posted on 2026-05-27.
+This account executive position at Eli Lilly was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

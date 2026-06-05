@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Enrollment--Billing-Associate-Representative_26002665-2) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Enrollment--Billing-Associate-Representative_26006585) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-04-22.
+This corporate finance position at Cigna was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

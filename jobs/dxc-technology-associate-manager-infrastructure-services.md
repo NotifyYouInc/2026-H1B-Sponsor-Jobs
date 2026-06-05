@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Macquarie Park, New South Wales, Australia |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---NSW---MACQUARIE-PARK/Associate-Manager-Infrastructure-Services_51581188) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Database Administration |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Associate-Manager-Infrastructure-Services_51565954) |
 
 ## About This Role
 
-This it & systems administration position at DXC Technology was posted on 2026-05-27.
+This database administration position at DXC Technology was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

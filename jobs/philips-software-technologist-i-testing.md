@@ -1,16 +1,16 @@
-# Software Technologist I – Testing at Philips
+# Software Technologist I - Testing at Philips
 
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | QA Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Technologist-I---Testing_578299-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Technologist-I---Testing_568345) |
 
 ## About This Role
 
-This qa engineer position at Philips was posted on 2026-04-28.
+This qa engineer position at Philips was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ronkonkoma, New York, United States |
-| Category | Business Development |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Ronkonkoma-NY-11779/Rental-Sales-Management-Trainee_R169204) |
+| Location | Canandaigua, New York, United States |
+| Category | Account Manager |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Canandaigua-NY-14424/Rental-Sales-Management-Trainee_R173669) |
 
 ## About This Role
 
-This business development position at Ryder System was posted on 2026-04-09.
+This account manager position at Ryder System was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

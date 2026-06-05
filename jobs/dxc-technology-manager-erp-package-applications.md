@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Program Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/Manager-ERP-Package-Applications_51580151-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/NZL---AUK---AUCKLAND/Manager-ERP-Package-Applications_51581487) |
 
 ## About This Role
 
-This program manager position at DXC Technology was posted on 2026-05-08.
+This program manager position at DXC Technology was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

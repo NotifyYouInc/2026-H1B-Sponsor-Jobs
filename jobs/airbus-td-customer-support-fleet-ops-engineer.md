@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/TD-Customer-Support-Fleet-Ops-Engineer_JR10397744) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/TD-Customer-Support-Fleet-Ops-Engineer_JR10416657) |
 
 ## About This Role
 
-This customer success position at Airbus was posted on 2026-03-13.
+This customer success position at Airbus was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

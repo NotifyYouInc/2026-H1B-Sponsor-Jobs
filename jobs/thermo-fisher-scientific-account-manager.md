@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Not specified |
 | Category | Account Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Account-Manager_R-01350493) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Gangnam-gu-Korea-Republic-of/Account-Manager_R-01353881-1) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-05-08.
+This account manager position at Thermo Fisher Scientific was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

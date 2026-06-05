@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Marketing |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10374383/assistant-brand-manager-in-beauty) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10433999/assistant-brand-manager-in-beauty) |
 
 ## About This Role
 
-This marketing position at Amazon was posted on 2026-03-24.
+This marketing position at Amazon was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
