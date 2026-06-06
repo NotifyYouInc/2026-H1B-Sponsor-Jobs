@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | La Jolla, California, United States |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/La-Jolla/Private-Wealth-Client-Associate_26014924) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Minneapolis/Private-Wealth-Client-Associate_26018738) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-24.
+This corporate finance position at Bank of America was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

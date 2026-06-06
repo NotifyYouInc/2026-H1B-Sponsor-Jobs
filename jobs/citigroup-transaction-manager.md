@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Transaction-Manager_26942535) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/NC-CHARLOTTE-BALLANTYNE/Transaction-Manager_26966308) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-05.
+This business analyst position at Citigroup was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

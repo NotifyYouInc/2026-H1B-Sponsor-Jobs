@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
-| Category | Account Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---FL---Miami---Remote/Sales-Manager---Florida_R-138180) |
+| Location | 2 locations |
+| Category | Sales Leadership |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---FL---Buena-Vista/Sales-Manager---Florida_R-141697) |
 
 ## About This Role
 
-This account manager position at Coca-Cola was posted on 2026-03-25.
+This sales leadership position at Coca-Cola was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

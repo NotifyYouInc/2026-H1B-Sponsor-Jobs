@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Summerville, South Carolina, United States |
 | Category | Operations |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10431225/operations-manager) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435092/operations-manager) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-05-27.
+This operations position at Amazon was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

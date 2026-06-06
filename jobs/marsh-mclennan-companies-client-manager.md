@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Walnut Creek, California, United States |
+| Location | Aliso Viejo, California, United States |
 | Category | Account Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Walnut-Creek---1255-Treat/Client-Manager_R_348420) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Aliso-Viejo---Polaris/Client-Manager_R_353568) |
 
 ## About This Role
 
-This account manager position at Marsh & McLennan Companies was posted on 2026-04-17.
+This account manager position at Marsh & McLennan Companies was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

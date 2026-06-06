@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | College Park, Maryland, United States |
+| Location | Plantation, Florida, United States |
 | Category | Customer Success |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/GA---College-Park-30349/Client-Experience-Associate_R223941-1) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Plantation/Client-Experience-Associate_R223906) |
 
 ## About This Role
 
-This customer success position at PNC Financial was posted on 2026-05-22.
+This customer success position at PNC Financial was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

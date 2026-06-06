@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 7 locations |
-| Category | Data Scientist |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-Senior_R0116326) |
+| Location | 5 locations |
+| Category | Data Analyst |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-Senior_R0117293) |
 
 ## About This Role
 
-This data scientist position at USAA was posted on 2026-03-25.
+This data analyst position at USAA was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

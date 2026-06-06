@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Akashi, Hyōgo, Japan |
+| Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Akashi-Hyogo/Engineering-Project-Team-Leader_R0000366459) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tucson-Arizona/Engineering-Project-Team-Leader_R0000372221-1) |
 
 ## About This Role
 
-This engineering manager position at Caterpillar was posted on 2026-05-11.
+This engineering manager position at Caterpillar was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

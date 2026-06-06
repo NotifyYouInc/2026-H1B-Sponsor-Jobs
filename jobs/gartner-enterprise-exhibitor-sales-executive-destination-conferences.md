@@ -5,12 +5,12 @@
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Enterprise-Exhibitor-Sales-Executive--Destination-Conferences_108854) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Enterprise-Exhibitor-Sales-Executive--Destination-Conferences_111102-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-03-11.
+This account executive position at Gartner was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

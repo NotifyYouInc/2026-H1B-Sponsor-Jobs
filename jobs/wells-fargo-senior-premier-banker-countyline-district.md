@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 6 locations |
-| Category | Corporate Finance |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/THOUSAND-OAKS-CA/Senior-Premier-Banker-Countyline-District_R-538884-1) |
+| Category | Account Manager |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/THOUSAND-OAKS-CA/Senior-Premier-Banker-Countyline-District_R-549871) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-04-18.
+This account manager position at Wells Fargo was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

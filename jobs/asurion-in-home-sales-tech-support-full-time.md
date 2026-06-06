@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Asurion](https://scoutify.ai/companies/asurion?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Des Moines, Iowa, United States |
-| Category | Business Development |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Des-Moines/In-Home-Sales---Tech-Support--Full-Time-_ASU0019641) |
+| Location | New York, US |
+| Category | Account Executive |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Long-Island/In-Home-Sales---Tech-Support--Full-Time-_ASU0020189) |
 
 ## About This Role
 
-This business development position at Asurion was posted on 2026-04-11.
+This account executive position at Asurion was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

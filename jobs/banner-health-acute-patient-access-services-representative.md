@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | Worland, Wyoming, United States |
 | Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-3838-N-Campbell-Ave/Acute-Patient-Access-Services-Representative_R4439751) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Washakie-Medical-Center-400-S-15th-St/Acute-Patient-Access-Services-Representative_R4443983) |
 
 ## About This Role
 
-This customer success position at Banner Health was posted on 2026-05-01.
+This customer success position at Banner Health was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

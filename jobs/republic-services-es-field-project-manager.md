@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Dixon, California, United States |
 | Category | Project Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Seattle-WA-USA/ES-Field-Project-Manager_R-171029) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Dixon-CA-USA/ES-Field-Project-Manager_R-175454) |
 
 ## About This Role
 
-This project manager position at Republic Services was posted on 2026-03-13.
+This project manager position at Republic Services was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

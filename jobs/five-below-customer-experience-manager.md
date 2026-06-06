@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Five Below](https://scoutify.ai/companies/five-below?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Mateo, California, United States |
+| Location | Freehold, New Jersey, United States |
 | Category | Customer Success |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://fivebelow.wd1.myworkdayjobs.com/fivebelowcareers/job/San-Mateo-CA-94404/Customer-Experience-Manager_JR87588) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://fivebelow.wd1.myworkdayjobs.com/fivebelowcareers/job/Freehold-NJ-07728/Customer-Experience-Manager_JR87805) |
 
 ## About This Role
 
-This customer success position at Five Below was posted on 2026-05-23.
+This customer success position at Five Below was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

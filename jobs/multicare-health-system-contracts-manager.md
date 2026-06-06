@@ -5,12 +5,12 @@
 | Company | [MultiCare Health System](https://scoutify.ai/companies/multicare-health-system?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | United States |
 | Category | Legal |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Contracts-Manager_JR67763-1) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Contracts-Manager_JR75925) |
 
 ## About This Role
 
-This legal position at MultiCare Health System was posted on 2026-02-21.
+This legal position at MultiCare Health System was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

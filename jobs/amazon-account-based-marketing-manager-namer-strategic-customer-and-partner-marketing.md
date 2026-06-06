@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Arlington, Texas, United States |
 | Category | Growth Marketing |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3191234/account-based-marketing-manager-namer-strategic-customer-and-partner-marketing) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435085/account-based-marketing-manager-namer-strategic-customer-and-partner-marketing) |
 
 ## About This Role
 
-This growth marketing position at Amazon was posted on 2026-02-27.
+This growth marketing position at Amazon was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Anheuser-Busch](https://scoutify.ai/companies/abinbev?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://abinbev.wd1.myworkdayjobs.com/USA/job/St-Louis-Missouri/Senior-Talent-Acquisition-Partner_30095257) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://abinbev.wd1.myworkdayjobs.com/USA/job/St-Louis-Missouri/Senior-Talent-Acquisition-Partner_30098690) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Anheuser-Busch was posted on 2026-04-07.
+This talent acquisition / recruiting position at Anheuser-Busch was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

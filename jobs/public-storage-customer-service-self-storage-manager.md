@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Oregon City, Oregon, United States |
+| Location | Strongsville, Ohio, United States |
 | Category | Customer Success |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000126771034-customer-service-self-storage-manager) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000129269239-customer-service-self-storage-manager) |
 
 ## About This Role
 
-This customer success position at Public Storage was posted on 2026-05-15.
+This customer success position at Public Storage was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Knitwell Group](https://scoutify.ai/companies/knitwell-group?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-1202-Las-Vegas-Premium-Outlets-ANN-Las-Vegas-NV-89106/Sales-Lead-ANN_R-2026787) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-1770-Penn-Square-Mall-ANN-Oklahoma-City-OK-73118/Sales-Lead-ANN_R-2027084) |
 
 ## About This Role
 
-This sales leadership position at Knitwell Group was posted on 2026-05-22.
+This sales leadership position at Knitwell Group was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Customer Success Executive at ServiceNow
+# Customer Success Executive  at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Madrid, Madrid, Spain |
 | Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109120174-customer-success-executive) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000129267589-customer-success-executive) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-02-13.
+This customer success position at ServiceNow was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
