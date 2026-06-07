@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Knitwell Group](https://scoutify.ai/companies/knitwell-group?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Kansas City, Missouri, United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-1770-Penn-Square-Mall-ANN-Oklahoma-City-OK-73118/Sales-Lead-ANN_R-2027084) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-1391-Zona-Rosa-ANN-Kansas-City-MO-64153/Sales-Lead-ANN_R-2027098-1) |
 
 ## About This Role
 
-This sales leadership position at Knitwell Group was posted on 2026-05-29.
+This sales leadership position at Knitwell Group was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

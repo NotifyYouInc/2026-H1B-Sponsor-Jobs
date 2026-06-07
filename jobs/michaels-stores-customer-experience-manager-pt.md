@@ -1,16 +1,16 @@
-# Customer Experience Manager PT at Michaels Stores
+# Customer Experience Manager - PT at Michaels Stores
 
 | Field | Details |
 |-------|---------|
 | Company | [Michaels Stores](https://scoutify.ai/companies/michaels?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ellicott City, Maryland, United States |
+| Location | Cypress, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Ellicott-City-4360-Montgomery-Rd/Customer-Experience-Manager-PT_R00308579) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Cypress-25715-Northwest-Fwy/Customer-Experience-Manager---PT_R00311266) |
 
 ## About This Role
 
-This customer success position at Michaels Stores was posted on 2026-04-26.
+This customer success position at Michaels Stores was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

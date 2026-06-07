@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Carthage, Missouri, United States |
 | Category | Business Development |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Wilmington-OH-0298/Full-Time---Sales-Specialist---Flooring---Day_JR-02524553-1) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Carthage-MO-2647/Full-Time---Sales-Specialist---Flooring---Day_JR-02528771-1) |
 
 ## About This Role
 
-This business development position at Lowe's was posted on 2026-05-23.
+This business development position at Lowe's was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

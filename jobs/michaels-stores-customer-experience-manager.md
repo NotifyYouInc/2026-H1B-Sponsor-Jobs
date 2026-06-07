@@ -1,16 +1,16 @@
-# Customer Experience manager at Michaels Stores
+# customer experience manager at Michaels Stores
 
 | Field | Details |
 |-------|---------|
 | Company | [Michaels Stores](https://scoutify.ai/companies/michaels?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ventura, California, United States |
+| Location | College Station, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Ventura-4850-Telephone-Rd/Customer-Experience-manager_R00310185) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/College-Station-1505-E-University-Dr-Ste-300/customer-experience-manager_R00311253) |
 
 ## About This Role
 
-This customer success position at Michaels Stores was posted on 2026-05-15.
+This customer success position at Michaels Stores was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Knitwell Group](https://scoutify.ai/companies/knitwell-group?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Riverside, California, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-4759-North-Riverside-LaneBryant-Riverside-IL-60546/Sales-Lead--SLPT---Lane-Bryant_R-2026446) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://knitwellgroup.wd1.myworkdayjobs.com/us_retail_jobs/job/Store-6773-Castleton-Sq-LaneBryant-Indianapolis-IN-46250/Sales-Lead--SLPT---Lane-Bryant_R-2027109-1) |
 
 ## About This Role
 
-This sales leadership position at Knitwell Group was posted on 2026-05-16.
+This sales leadership position at Knitwell Group was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

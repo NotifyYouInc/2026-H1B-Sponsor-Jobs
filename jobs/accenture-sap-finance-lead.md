@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Singapore, Singapore |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Montreal-5-Place-Ville-Marie-Corp/SAP-Finance-Lead_R00307454) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/SAP-Finance-Lead_R00333264) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-05-23.
+This technology / it consulting position at Accenture was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

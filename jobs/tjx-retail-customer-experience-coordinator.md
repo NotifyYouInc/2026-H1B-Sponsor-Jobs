@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brunswick, Ohio, United States |
+| Location | Johns Creek, Georgia, United States |
 | Category | Customer Success |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Brunswick-GA-31525/Retail-Customer-Experience-Coordinator_REQ120319) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Johns-Creek-GA-30097/Retail-Customer-Experience-Coordinator_REQ123680) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-05-16.
+This customer success position at TJX was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

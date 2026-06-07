@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Hampton, Virginia, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/San-Antonio-TX-N-San-Antonio-1579/Full-Time---Scheduling-Staffing-Admin---Day_JR-02541838) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Hampton-VA-1186/Full-Time---Scheduling-Staffing-Admin---Day_JR-02542060) |
 
 ## About This Role
 
-This human resources / people ops position at Lowe's was posted on 2026-05-29.
+This human resources / people ops position at Lowe's was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

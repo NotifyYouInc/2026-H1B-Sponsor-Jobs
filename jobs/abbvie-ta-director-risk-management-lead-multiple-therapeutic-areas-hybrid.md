@@ -6,7 +6,7 @@
 | Location | North Chicago, Illinois, United States |
 | Category | Talent Acquisition / Recruiting |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013383566-ta-director-risk-management-lead-multiple-therapeutic-areas-hybrid) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013383946-ta-director-risk-management-lead-multiple-therapeutic-areas-hybrid) |
 
 ## About This Role
 

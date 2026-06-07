@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Madison Heights, Michigan, United States |
+| Location | Lansing, Michigan, United States |
 | Category | Business Development |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Madison-Heights-VA-1839/Full-Time---Sales-Specialist---ProServices---Day_JR-02531337-1) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lansing-MI-S-Lansing-1596/Full-Time---Sales-Specialist---ProServices---Day_JR-02539767-1) |
 
 ## About This Role
 
-This business development position at Lowe's was posted on 2026-05-23.
+This business development position at Lowe's was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

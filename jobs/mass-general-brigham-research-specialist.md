@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Specialist_RQ4058889) |
+| Category | Data Scientist |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Specialist_RQ4066812) |
 
 ## About This Role
 
-This ai / ml research position at Mass General Brigham was posted on 2026-04-03.
+This data scientist position at Mass General Brigham was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

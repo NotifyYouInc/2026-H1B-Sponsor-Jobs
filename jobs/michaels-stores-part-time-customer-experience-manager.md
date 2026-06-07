@@ -1,16 +1,16 @@
-# Part Time Customer Experience Manager at Michaels Stores
+# Part time Customer Experience Manager at Michaels Stores
 
 | Field | Details |
 |-------|---------|
 | Company | [Michaels Stores](https://scoutify.ai/companies/michaels?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Winnipeg, Manitoba, Canada |
+| Location | Tarentum, Pennsylvania, United States |
 | Category | Customer Success |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Store--13-1585-Kenaston-Blvd-Unit-K4/Part-Time-Customer-Experience-Manager_R00309244) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Tarentum-1030-Village-Center-Dr/Part-time-Customer-Experience-Manager_R00311288) |
 
 ## About This Role
 
-This customer success position at Michaels Stores was posted on 2026-05-02.
+This customer success position at Michaels Stores was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

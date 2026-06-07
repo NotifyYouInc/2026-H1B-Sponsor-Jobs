@@ -5,12 +5,12 @@
 | Company | [Ashley Furniture Industries](https://scoutify.ai/companies/ashley-furniture-industries?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Not specified |
 | Category | Sales Leadership |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/ash1002af/JobBoard/20c06009-60fe-480c-8ce5-da3e9df145b9/OpportunityDetail?opportunityId=7bc91318-ca56-4d25-a4a9-b5dee0ef6eee) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/ash1002af/JobBoard/20c06009-60fe-480c-8ce5-da3e9df145b9/OpportunityDetail?opportunityId=299096f2-3b6f-4416-84b1-e1f397aca961) |
 
 ## About This Role
 
-This sales leadership position at Ashley Furniture Industries was posted on 2026-05-29.
+This sales leadership position at Ashley Furniture Industries was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

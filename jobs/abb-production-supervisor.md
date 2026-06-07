@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brno, South Moravian, Czechia |
+| Location | Athens, Georgia, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Brno-Jihomoravsk-kraj-Czechia/Production-Supervisor_JR00033681-1) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Athens-260-Dennis-St/Production-Supervisor_JR00035096) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-05-13.
+This industrial automation position at ABB was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 
