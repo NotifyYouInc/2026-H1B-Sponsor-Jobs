@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Engineer-III--Software_R-01336521) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Scrum Master & Agile Coach |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Engineer-III--Software_R-01351730) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-05-15.
+This scrum master & agile coach position at Thermo Fisher Scientific was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

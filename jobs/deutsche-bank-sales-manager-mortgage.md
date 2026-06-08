@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Pune, Maharashtra, India |
 | Category | Account Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-Delhi-18--20-Kasturba-GM/Sales-Manager---Mortgage_R0430746) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Sales-Manager---Mortgage_R0435467) |
 
 ## About This Role
 
-This account manager position at Deutsche Bank was posted on 2026-04-06.
+This account manager position at Deutsche Bank was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

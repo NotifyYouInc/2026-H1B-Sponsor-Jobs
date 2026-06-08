@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Chandler, Arizona, United States |
 | Category | Account Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Account-Resolution-Senior-Manager_R-534683) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Account-Resolution-Senior-Manager_R-549029) |
 
 ## About This Role
 
-This account manager position at Wells Fargo was posted on 2026-04-07.
+This account manager position at Wells Fargo was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

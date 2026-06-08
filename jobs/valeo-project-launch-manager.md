@@ -5,12 +5,12 @@
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chon Buri, Chon Buri, Thailand |
 | Category | Implementation / Professional Services |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chon-Buri/Project-Launch-Manager_REQ2026069955) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chon-Buri/Project-Launch-Manager_REQ2026069954) |
 
 ## About This Role
 
-This implementation / professional services position at Valeo was posted on 2026-02-24.
+This implementation / professional services position at Valeo was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

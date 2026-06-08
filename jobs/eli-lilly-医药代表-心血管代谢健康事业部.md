@@ -5,12 +5,12 @@
 | Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | China |
 | Category | Account Executive |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Hang-Zhou-/-_R-106159) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Nan-Chong-/-_R-106355-1) |
 
 ## About This Role
 
-This account executive position at Eli Lilly was posted on 2026-05-29.
+This account executive position at Eli Lilly was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

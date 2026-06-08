@@ -1,16 +1,16 @@
-# Engineer-Systems Engineering at GE Vernova
+# Engineer - Systems Engineering at GE Vernova
 
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pallāvaram, Tamil Nadu, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Pallavaram/Engineer-Systems-Engineering_R5040750-2) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Chennai/Engineer---Systems-Engineering_R5042525-2) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GE Vernova was posted on 2026-05-01.
+This electrical / hardware engineer position at GE Vernova was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

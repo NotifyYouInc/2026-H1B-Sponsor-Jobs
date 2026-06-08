@@ -5,12 +5,12 @@
 | Company | [Roland Berger](https://scoutify.ai/companies/rolandberger?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000110674968-consultant) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000129381618-consultant) |
 
 ## About This Role
 
-This strategy / management consulting position at Roland Berger was posted on 2026-02-23.
+This strategy / management consulting position at Roland Berger was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

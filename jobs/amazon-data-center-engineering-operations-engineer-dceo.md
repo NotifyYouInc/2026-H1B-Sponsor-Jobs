@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Mumbai, Maharashtra, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3198879/data-center-engineering-operations-engineer-dceo) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435283/data-center-engineering-operations-engineer-dceo) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-03-07.
+This electrical / hardware engineer position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

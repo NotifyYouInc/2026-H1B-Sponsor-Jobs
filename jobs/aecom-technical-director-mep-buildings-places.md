@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Engineering Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000125262079-technical-director-mep-buildings-places) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000129404129-technical-director-mep-buildings-places) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-05-08.
+This engineering manager position at AECOM was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

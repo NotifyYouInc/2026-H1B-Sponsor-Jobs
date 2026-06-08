@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432642/data-centre-engineering-operations-engineer-data-centre-engineering-operations) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435282/data-centre-engineering-operations-engineer-data-centre-engineering-operations) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-05-28.
+This data engineer position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

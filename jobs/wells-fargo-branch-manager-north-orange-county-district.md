@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fullerton, California, United States |
-| Category | Sales Leadership |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/FULLERTON-CA/Branch-Manager-North-Orange-County-District_R-531912) |
+| Location | 3 locations |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SANTA-FE-SPRINGS-CA/Branch-Manager-North-Orange-County-District_R-548053-1) |
 
 ## About This Role
 
-This sales leadership position at Wells Fargo was posted on 2026-03-25.
+This none of the above (reject) position at Wells Fargo was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

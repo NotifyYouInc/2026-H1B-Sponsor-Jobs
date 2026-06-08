@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Novosibirsk, Novosibirsk Oblast, Russia |
 | Category | Sales Leadership |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Bratislava/Area-Manager_REQ-10077041-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Novosibirsk/Area-Manager_REQ-10079389) |
 
 ## About This Role
 
-This sales leadership position at Novartis was posted on 2026-05-05.
+This sales leadership position at Novartis was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

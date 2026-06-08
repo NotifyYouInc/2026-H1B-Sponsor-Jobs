@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Chengdu, Sichuan, China |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Taiwan-Taipei/Statistical-Programmer-II_R0000041068) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/China-Chengdu/Statistical-Programmer-II_R0000041561) |
 
 ## About This Role
 
-This software engineer position at Parexel was posted on 2026-04-22.
+This software engineer position at Parexel was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Product Support (TPS) Engineer III - (E3) at Applied Materials
+# Technical Product Support (TPS) Engineer III – (E3) at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tainan, Taiwan, Taiwan |
+| Location | Kumamoto, Kumamoto, Japan |
 | Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/TaichungTWN/Technical-Product-Support--TPS--Engineer-III----E3-_R2612144) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/KumamotoJPN/Technical-Product-Support--TPS--Engineer-III----E3-_R2620618) |
 
 ## About This Role
 
-This customer success position at Applied Materials was posted on 2026-04-01.
+This customer success position at Applied Materials was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

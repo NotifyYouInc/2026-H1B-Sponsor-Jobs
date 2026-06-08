@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Australia---Sydney/Principal_JR_14791) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Japan---Tokyo/Principal_JR_14647) |
 
 ## About This Role
 
-This customer success position at Guidewire Software was posted on 2026-05-29.
+This customer success position at Guidewire Software was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

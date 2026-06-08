@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000121575077-senior-design-engineer-power-transmission-towers-telecom-hyderabad) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000129414484-senior-design-engineer-power-transmission-towers-telecom-hyderabad) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Ramboll was posted on 2026-04-18.
+This electrical / hardware engineer position at Ramboll was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

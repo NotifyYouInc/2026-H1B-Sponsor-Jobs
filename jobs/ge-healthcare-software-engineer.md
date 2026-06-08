@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Wuxi, Jiangsu, China |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Software-Engineer_R4040281-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/WuXi/Software-Engineer_R4041839) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-04-29.
+This software engineer position at GE HealthCare was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

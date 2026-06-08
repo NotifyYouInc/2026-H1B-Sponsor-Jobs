@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pennsylvania, US |
-| Category | Customer Success |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Pennsylvania---Remote-location/Field-Applications-Engineer_R025185) |
+| Location | San Jose, California, United States |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Field-Applications-Engineer_R026109) |
 
 ## About This Role
 
-This customer success position at Broadcom was posted on 2026-02-27.
+This embedded / firmware engineer position at Broadcom was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

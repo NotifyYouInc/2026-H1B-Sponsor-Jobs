@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
-| Category | Account Executive |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95598) |
+| Location | Hong Kong, Hong Kong |
+| Category | Sales Leadership |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118039) |
 
 ## About This Role
 
-This account executive position at IBM was posted on 2026-02-20.
+This sales leadership position at IBM was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Diego, California, United States |
+| Location | Rochester, New York, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/3424-College-Ave-San-DiegoCA-92115-7134/Human-Resources-Expert_R0000440669) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/600-Greece-Ridge-Center-Dr-RochesterNY-14626-2825/Human-Resources-Expert_R0000440779) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-05-29.
+This human resources / people ops position at Target was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

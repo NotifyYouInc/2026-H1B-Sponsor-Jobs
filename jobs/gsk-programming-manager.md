@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Programming-Manager_438965) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Programming-Manager_441660) |
 
 ## About This Role
 
-This engineering manager position at GSK was posted on 2026-05-13.
+This engineering manager position at GSK was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

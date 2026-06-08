@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | China |
 | Category | Account Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Gangnam-gu-Korea-Republic-of/Account-Manager_R-01353881-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Guangdong-China/Account-Manager_R-01353869) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-05-29.
+This account manager position at Thermo Fisher Scientific was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

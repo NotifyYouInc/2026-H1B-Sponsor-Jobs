@@ -5,12 +5,12 @@
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer_26WD94552-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer_26WD96707-1) |
 
 ## About This Role
 
-This software engineer position at Autodesk was posted on 2026-03-02.
+This software engineer position at Autodesk was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

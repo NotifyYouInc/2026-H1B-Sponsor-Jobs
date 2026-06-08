@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Jose, California, United States |
 | Category | Program Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Program-Manager_R169044) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Program-Manager_R168829-1) |
 
 ## About This Role
 
-This program manager position at Adobe was posted on 2026-05-21.
+This program manager position at Adobe was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000114890077-staff-engineer-firmware-verification-engineering) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000129404333-staff-engineer-firmware-verification-engineering) |
 
 ## About This Role
 
-This software engineer position at SanDisk was posted on 2026-03-16.
+This embedded / firmware engineer position at SanDisk was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

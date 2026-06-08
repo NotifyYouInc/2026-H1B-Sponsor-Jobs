@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Architect_ATCI-5556594-S2024936-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Data-Architect_ATCI-5608740-S2026773) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-05-20.
+This technical & solutions architect position at Accenture was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

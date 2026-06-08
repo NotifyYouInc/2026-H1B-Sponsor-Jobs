@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Industrial Automation |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Site-Manager_JR00031911-2) |
+| Location | Rotterdam, South Holland, The Netherlands |
+| Category | Engineering Manager |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Rotterdam-South-Holland-Netherlands/Site-Manager_JR00036026-1) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-04-17.
+This engineering manager position at ABB was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

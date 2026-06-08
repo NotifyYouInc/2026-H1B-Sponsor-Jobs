@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Criteo](https://scoutify.ai/companies/criteo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Haryana, IN |
+| Location | Gurugram, Haryana, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Gurgaon/People-Operations-Coordinator-Americas_r20331) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Gurgaon/People-Operations-Coordinator-Americas_r20670-1) |
 
 ## About This Role
 
-This human resources / people ops position at Criteo was posted on 2026-02-25.
+This human resources / people ops position at Criteo was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

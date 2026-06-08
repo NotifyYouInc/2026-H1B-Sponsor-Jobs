@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Switzerland |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Remote/Software-Verification-Engineer_JR2017801-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Verification-Engineer_JR2018751) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-05-11.
+This semiconductor / chip design position at Nvidia was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

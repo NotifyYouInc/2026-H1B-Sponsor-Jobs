@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Budapest, Budapest, Hungary |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Business-Process-Analyst_R00287057) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/HUN---Budapest---Budapest/Business-Process-Analyst_R00292085-1) |
 
 ## About This Role
 
-This business analyst position at Ecolab was posted on 2026-02-27.
+This business analyst position at Ecolab was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
