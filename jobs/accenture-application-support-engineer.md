@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Technical Support Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Application-Support-Engineer_ATCP-1298701-S407996-1) |
+| Location | 2 locations |
+| Category | Database Administration |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5154450-S1903470-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-05-29.
+This database administration position at Accenture was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

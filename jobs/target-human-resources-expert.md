@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rochester, New York, United States |
+| Location | New York City, New York, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/600-Greece-Ridge-Center-Dr-RochesterNY-14626-2825/Human-Resources-Expert_R0000440779) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/123-W-125th-St-New-YorkNY-10027-4436/Human-Resources-Expert_R0000440947) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-06-01.
+This human resources / people ops position at Target was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

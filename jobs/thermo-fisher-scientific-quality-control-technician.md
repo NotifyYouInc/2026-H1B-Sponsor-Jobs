@@ -1,0 +1,22 @@
+# Quality Control Technician at Thermo Fisher Scientific
+
+| Field | Details |
+|-------|---------|
+| Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Auckland, Auckland, New Zealand |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Auckland-New-Zealand/Quality-Control-Technician_R-01350767) |
+
+## About This Role
+
+This none of the above (reject) position at Thermo Fisher Scientific was posted on 2026-06-02.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

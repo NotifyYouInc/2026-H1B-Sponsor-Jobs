@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Vietnam |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116325837-eca-embedded-software-engineer-chinese-speaking) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129660199-eca-embedded-software-engineer-chinese-speaking) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Robert Bosch was posted on 2026-03-24.
+This embedded / firmware engineer position at Robert Bosch was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

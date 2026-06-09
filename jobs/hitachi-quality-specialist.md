@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hālol, Gujarat, India |
-| Category | QA Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Halol-Gujarat-India/Quality-Specialist_R0124534) |
+| Location | Landskrona, Skåne, Sweden |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Landskrona-Skane-County-Sweden/Quality-Specialist_R0118135) |
 
 ## About This Role
 
-This qa engineer position at Hitachi was posted on 2026-04-21.
+This none of the above (reject) position at Hitachi was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

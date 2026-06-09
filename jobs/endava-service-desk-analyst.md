@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000121939189-service-desk-analyst) |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000129656899-service-desk-analyst) |
 
 ## About This Role
 
-This customer success position at Endava was posted on 2026-04-21.
+This it & systems administration position at Endava was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

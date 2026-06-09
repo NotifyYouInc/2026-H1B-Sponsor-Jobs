@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-788861) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Corporate Finance |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Chennai-India/Apprentice_R-790551) |
 
 ## About This Role
 
-This data analyst position at State Street was posted on 2026-04-29.
+This corporate finance position at State Street was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

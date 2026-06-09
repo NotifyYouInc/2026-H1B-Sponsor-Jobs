@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Marketing |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112955) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117479) |
 
 ## About This Role
 
-This marketing position at IBM was posted on 2026-05-07.
+This marketing position at IBM was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

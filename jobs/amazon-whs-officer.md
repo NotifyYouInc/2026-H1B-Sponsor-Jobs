@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Haryana, IN |
+| Location | Delhi, Delhi, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10386851/whs-officer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436570/whs-officer) |
 
 ## About This Role
 
-This compliance & risk management position at Amazon was posted on 2026-04-09.
+This compliance & risk management position at Amazon was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

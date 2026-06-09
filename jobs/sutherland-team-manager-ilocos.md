@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Nicolas, Ilocos, Philippines |
-| Category | Human Resources / People Ops |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000112341323-team-manager-ilocos) |
+| Category | Leadership Development Program |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000129653129-team-manager-ilocos) |
 
 ## About This Role
 
-This human resources / people ops position at Sutherland was posted on 2026-03-03.
+This leadership development program position at Sutherland was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

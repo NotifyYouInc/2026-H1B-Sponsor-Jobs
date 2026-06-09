@@ -1,16 +1,16 @@
-# Financial Reporting, Senior Associate at State Street
+# Financial Reporting - Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Financial-Reporting--Senior-Associate_R-788018) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Financial-Reporting---Senior-Associate_R-789680-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-22.
+This corporate finance position at State Street was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

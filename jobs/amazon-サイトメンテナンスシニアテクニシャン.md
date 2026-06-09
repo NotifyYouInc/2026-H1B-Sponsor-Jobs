@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kyoto, Kyoto, Japan |
+| Location | Kanagawa, JP |
 | Category | Industrial Automation |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413209/) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436587/) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-05-07.
+This industrial automation position at Amazon was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

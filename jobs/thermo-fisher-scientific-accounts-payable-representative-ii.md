@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Accounts-Payable-Representative-II_R-01344325) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Accounts-Payable-Representative-II_R-01355249) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-09.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Bellevue, Washington, United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000111943845-senior-consultant-organizational-design) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000129602797-senior-consultant-organizational-design) |
 
 ## About This Role
 
-This strategy / management consulting position at SIA was posted on 2026-02-27.
+This strategy / management consulting position at SIA was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

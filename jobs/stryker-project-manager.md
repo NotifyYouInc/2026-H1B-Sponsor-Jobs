@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Gurugram, Haryana, India |
 | Category | Project Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Brisbane-Australia/Project-Manager_R564237-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Project-Manager_R565186) |
 
 ## About This Role
 
-This project manager position at Stryker was posted on 2026-05-07.
+This project manager position at Stryker was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

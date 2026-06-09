@@ -1,16 +1,16 @@
-# INTERN at Richemont
+# Intern at Richemont
 
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | China |
-| Category | Human Resources / People Ops |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/HONG-KONG-SAR-China/INTERN_JR128839) |
+| Category | Marketing |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/HONG-KONG-SAR-China/Intern_JR129639-2) |
 
 ## About This Role
 
-This human resources / people ops position at Richemont was posted on 2026-05-13.
+This marketing position at Richemont was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

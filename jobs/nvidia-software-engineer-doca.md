@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Israel |
 | Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--DOCA_JR2005910) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--DOCA_JR2018900) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-04-09.
+This software engineer position at Nvidia was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

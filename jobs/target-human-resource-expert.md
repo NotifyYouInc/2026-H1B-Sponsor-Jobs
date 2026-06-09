@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Smyrna, Georgia, United States |
+| Location | Bridgehampton, New York, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/803-Industrial-Blvd-Smyrna-TN-37167-6865/Human-Resource-Expert_R0000440541) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/2102-Montauk-Hwy-BridgehamptonNY-11932-4214/Human-Resource-Expert_R0000440977) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-05-29.
+This human resources / people ops position at Target was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

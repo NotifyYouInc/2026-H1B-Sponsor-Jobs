@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Operations |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Fraud---Claims-Operations-Senior-Manager_R-531948-1) |
+| Location | Chandler, Arizona, United States |
+| Category | Compliance & Risk Management |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Fraud---Claims-Operations-Senior-Manager_R-548671) |
 
 ## About This Role
 
-This operations position at Wells Fargo was posted on 2026-03-30.
+This compliance & risk management position at Wells Fargo was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

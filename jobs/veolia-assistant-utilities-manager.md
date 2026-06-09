@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tseung Kwan O, Sai Kung District, Hong Kong |
 | Category | Engineering Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127539109-assistant-utilities-manager) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129664539-assistant-utilities-manager) |
 
 ## About This Role
 
-This engineering manager position at Veolia was posted on 2026-05-21.
+This engineering manager position at Veolia was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

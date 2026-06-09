@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | China |
+| Location | Vienna, Vienna, Austria |
 | Category | Account Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Guangdong-China/Account-Manager_R-01353869) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Vienna-Austria/Account-Manager_R-01355135) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-06-01.
+This account manager position at Thermo Fisher Scientific was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

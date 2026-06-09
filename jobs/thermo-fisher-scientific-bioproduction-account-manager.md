@@ -1,16 +1,16 @@
-# BioProduction Account Manager at Thermo Fisher Scientific
+# Bioproduction Account Manager at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Account Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Gangnam-gu-Korea-Republic-of/BioProduction-Account-Manager_R-01352037) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Bioproduction-Account-Manager_R-01336345) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-05-13.
+This account manager position at Thermo Fisher Scientific was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

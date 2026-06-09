@@ -1,16 +1,16 @@
-# Technology Lead Business Analyst, Vice President at Citigroup
+# Technology Lead Business Analyst - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kowloon, Hong Kong |
-| Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Technology-Lead-Business-Analyst--Vice-President_26962003) |
+| Location | Pune, Maharashtra, India |
+| Category | Program Manager |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Technology-Lead-Business-Analyst---Vice-President_26964501) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-15.
+This program manager position at Citigroup was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

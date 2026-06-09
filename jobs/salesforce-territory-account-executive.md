@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Mumbai, Maharashtra, India |
 | Category | Account Executive |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-Zealand---Auckland/Territory-Account-Executive_JR339954) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Territory-Account-Executive_JR343748) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-04-29.
+This account executive position at Salesforce was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
