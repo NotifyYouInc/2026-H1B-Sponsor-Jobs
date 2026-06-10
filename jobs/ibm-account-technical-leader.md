@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Account Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102586) |
+| Location | Hong Kong, Hong Kong |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118567) |
 
 ## About This Role
 
-This account manager position at IBM was posted on 2026-03-13.
+This technical & solutions architect position at IBM was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

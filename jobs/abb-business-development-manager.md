@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Oklahoma, US |
+| Location | Perth, Western Australia, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dallas-Texas-United-States/Business-Development-Manager_JR00028671-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Perth-Western-Australia-Australia/Business-Development-Manager_JR00036369) |
 
 ## About This Role
 
-This engineering manager position at ABB was posted on 2026-03-14.
+This engineering manager position at ABB was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

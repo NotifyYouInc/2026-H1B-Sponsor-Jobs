@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Indore, Madhya Pradesh, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Infra-Tech-Support-Practitioner_ATCI-5027319-S1873480-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Infra-Tech-Support-Practitioner_ATCI-5499341-S2011147-1) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-05-29.
+This customer success position at Accenture was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

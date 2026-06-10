@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Philippines |
 | Category | Sales Leadership |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Manager-Sales-Professional_51579765) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Manager-Sales-Professional_51581094) |
 
 ## About This Role
 
-This sales leadership position at DXC Technology was posted on 2026-05-13.
+This sales leadership position at DXC Technology was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

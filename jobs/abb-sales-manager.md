@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kunming, Yunnan, China |
-| Category | Account Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Kunming-Yunnan-China/Sales-Manager_JR00036891) |
+| Location | Beijing, Beijing, China |
+| Category | Sales Leadership |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Sales-Manager_JR00036690-2) |
 
 ## About This Role
 
-This account manager position at ABB was posted on 2026-06-02.
+This sales leadership position at ABB was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

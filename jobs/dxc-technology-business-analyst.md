@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Software Engineer |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Business-Analyst_51577322) |
+| Location | Beijing, Beijing, China |
+| Category | Business Analyst |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---BEIJING/Business-Analyst_51581468) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-04-04.
+This business analyst position at DXC Technology was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Layout Engineer – DPG Layout at Micron
+# Staff layout Engineer – DPG Layout at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Layout-Engineer---DPG-Layout_JR97063) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-layout-Engineer---DPG-Layout_JR101979) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-28.
+This semiconductor / chip design position at Micron was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

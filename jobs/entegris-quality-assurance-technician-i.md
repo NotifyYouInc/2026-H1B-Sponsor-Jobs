@@ -5,12 +5,12 @@
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taiwan |
 | Category | None of the Above (Reject) |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Kaohsiung-City-Taiwan/Quality-Assurance-Technician-I_REQ-12264) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Kaohsiung-City-Taiwan/Quality-Assurance-Technician-I_REQ-12266) |
 
 ## About This Role
 
-This none of the above (reject) position at Entegris was posted on 2026-05-30.
+This none of the above (reject) position at Entegris was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

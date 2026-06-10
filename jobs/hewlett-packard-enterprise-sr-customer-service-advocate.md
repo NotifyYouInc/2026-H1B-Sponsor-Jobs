@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | National Capital Region, PH |
 | Category | Customer Success |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Chennai-Tamil-Nadu-India/Sr-Customer-Service-Advocate_1204400) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Taguig-City-National-Capital-Region-Manila-Philippines/Sr-Customer-Service-Advocate_1202126) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-03-07.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

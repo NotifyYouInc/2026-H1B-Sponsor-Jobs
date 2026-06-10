@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114900257-principal-data-operations-analyst) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
+| Category | Data Analyst |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129916064-principal-data-operations-analyst) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-03-16.
+This data analyst position at NielsenIQ was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

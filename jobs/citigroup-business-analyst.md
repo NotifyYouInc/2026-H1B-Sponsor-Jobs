@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Business-Analyst_26954931) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Business-Analyst_26964508) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-28.
+This business analyst position at Citigroup was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

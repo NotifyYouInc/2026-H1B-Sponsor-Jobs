@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Sydney, New South Wales, Australia |
 | Category | Robotics Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Auckland-Auckland-New-Zealand/Senior-Robotics-Clinical-Support-Specialist_R68056-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Sydney-New-South-Wales-Australia/Senior-Robotics-Clinical-Support-Specialist_R68172-1) |
 
 ## About This Role
 
-This robotics engineer position at Medtronic was posted on 2026-06-02.
+This robotics engineer position at Medtronic was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

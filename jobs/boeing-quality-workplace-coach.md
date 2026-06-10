@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Learning & Development |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Quality-Workplace-Coach_JR2026503169-2) |
+| Location | Everett, Washington, United States |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Quality-Workplace-Coach_JR2026508881-1) |
 
 ## About This Role
 
-This learning & development position at Boeing was posted on 2026-04-03.
+This none of the above (reject) position at Boeing was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

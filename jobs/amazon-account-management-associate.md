@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Account Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10407578/account-management-associate) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438348/account-management-associate) |
 
 ## About This Role
 
-This account manager position at Amazon was posted on 2026-04-30.
+This account manager position at Amazon was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

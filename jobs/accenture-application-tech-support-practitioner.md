@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Tech-Support-Practitioner_ATCI-5368947-S1954069-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Tech-Support-Practitioner_ATCI-5205424-S1910065-1) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-06-02.
+This customer success position at Accenture was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

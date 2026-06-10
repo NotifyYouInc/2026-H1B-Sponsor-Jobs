@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3198872/chief-engineer-aws-data-center-engineering-operations) |
+| Category | Engineering Manager |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438339/chief-engineer-aws-data-center-engineering-operations) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-03-07.
+This engineering manager position at Amazon was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

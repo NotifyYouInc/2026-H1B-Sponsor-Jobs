@@ -1,0 +1,22 @@
+# Account Sales Engineer at Cognex
+
+| Field | Details |
+|-------|---------|
+| Company | [Cognex](https://scoutify.ai/companies/cognex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Beijing, Beijing, China |
+| Category | Sales Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Beijing-China/Account-Sales-Engineer_R0012058) |
+
+## About This Role
+
+This sales engineer position at Cognex was posted on 2026-06-03.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

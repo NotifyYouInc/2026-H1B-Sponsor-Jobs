@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bucharest/Senior-Data-Engineer_R0318744) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Jakarta/Senior-Data-Engineer_R0330351) |
 
 ## About This Role
 
-This data engineer position at Thales was posted on 2026-04-30.
+This data engineer position at Thales was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

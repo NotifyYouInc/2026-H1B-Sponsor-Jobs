@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Bangalore-India/Consultant---Business-Development_R-113148) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Channel / Partner Sales |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Consultant---Business-Development_R-114373) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Ingram Micro was posted on 2026-05-05.
+This channel / partner sales position at Ingram Micro was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

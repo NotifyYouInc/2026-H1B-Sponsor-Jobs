@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | East Peoria, Illinois, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Accountant_R0000356940) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Shanghai-Shanghai/Accountant_R0000373372) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-13.
+This corporate finance position at Caterpillar was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

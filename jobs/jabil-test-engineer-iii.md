@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | QA Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Test-Engineer-III_J2444753) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Test-Engineer-III_J2452591) |
 
 ## About This Role
 
-This qa engineer position at Jabil was posted on 2026-04-17.
+This electrical / hardware engineer position at Jabil was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

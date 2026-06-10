@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---Mumbai/Territory-Business-Manager---Osvita---Mumbai_31147274) |
+| Category | Account Manager |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---Mumbai/Territory-Business-Manager---Osvita---Mumbai_31151650) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-04-14.
+This account manager position at Abbott was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 
