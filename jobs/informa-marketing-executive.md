@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vietnam |
 | Category | Growth Marketing |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000125758880-marketing-executive) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000130136384-marketing-executive) |
 
 ## About This Role
 
-This growth marketing position at Informa was posted on 2026-05-11.
+This growth marketing position at Informa was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

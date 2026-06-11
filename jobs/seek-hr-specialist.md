@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000127366099-hr-specialist) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000130149531-hr-specialist) |
 
 ## About This Role
 
-This human resources / people ops position at SEEK was posted on 2026-05-20.
+This human resources / people ops position at SEEK was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

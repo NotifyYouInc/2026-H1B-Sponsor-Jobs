@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Analyst_JR-0000102374-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Business Analyst |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Analyst_JR-0000114003) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-05-29.
+This business analyst position at Barclays was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

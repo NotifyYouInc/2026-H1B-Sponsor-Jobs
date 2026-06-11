@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Suzhou, Jiangsu, China |
 | Category | Account Executive |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Inside-Sales-Representative_R242902) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Suzhou-Jiangsu/Inside-Sales-Representative_R243056) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-05-15.
+This account executive position at Arrow Electronics was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8559353002?gh_jid=8559353002) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8576953002?gh_jid=8576953002) |
 
 ## About This Role
 
-This software engineer position at Point72 was posted on 2026-05-21.
+This software engineer position at Point72 was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Account Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438318/ads-campaign-creative-specialist-advertising-sales-excellence) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439519/ads-campaign-creative-specialist-advertising-sales-excellence) |
 
 ## About This Role
 
-This account manager position at Amazon was posted on 2026-06-03.
+This account manager position at Amazon was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kitchener, Ontario, Canada |
-| Category | Account Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/KITCHENER-Ontario-Canada/Client-Advisor_R-0000173653-1) |
+| Location | Ontario, CA |
+| Category | Account Executive |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GREATER-SUDBURY--GRAND-SUDBURY-Ontario-Canada/Client-Advisor_R-0000174586) |
 
 ## About This Role
 
-This account manager position at Royal Bank of Canada was posted on 2026-05-29.
+This account executive position at Royal Bank of Canada was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

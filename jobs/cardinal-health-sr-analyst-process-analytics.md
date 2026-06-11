@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Philippines-Bonifacio-Global-City-Taguig/Sr-Analyst--Process-Analytics_20177836) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Philippines-Bonifacio-Global-City-Taguig/Sr-Analyst--Process-Analytics_20181662) |
 
 ## About This Role
 
-This business analyst position at Cardinal Health was posted on 2026-04-22.
+This business analyst position at Cardinal Health was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

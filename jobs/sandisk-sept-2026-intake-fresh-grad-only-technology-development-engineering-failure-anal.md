@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Batu Kawan, Penang, Malaysia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000128850644-sept-2026-intake-fresh-grad-only-technology-development-engineering-failure-analysis) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000130144749-sept-2026-intake-fresh-grad-only-technology-development-engineering-failure-analysis) |
 
 ## About This Role
 
-This electrical / hardware engineer position at SanDisk was posted on 2026-05-28.
+This electrical / hardware engineer position at SanDisk was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

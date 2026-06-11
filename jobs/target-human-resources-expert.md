@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kapolei, Hawaii, United States |
+| Location | Gastonia, North Carolina, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/4450-Kapolei-PkwySte-100-KapoleiHI-96707-1878/Human-Resources-Expert_R0000441122-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/425-Cox-Rd-GastoniaNC-28054-0610/Human-Resources-Expert_R0000441274) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-06-03.
+This human resources / people ops position at Target was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sagamihara, Kanagawa, Japan |
+| Location | Ageo, Saitama, Japan |
 | Category | Industrial Automation |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438298/) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439533/) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-06-03.
+This industrial automation position at Amazon was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415635/advertising-ops-analyst-amazon) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439531/advertising-ops-analyst-amazon) |
 
 ## About This Role
 
-This digital / performance marketing position at Amazon was posted on 2026-05-11.
+This digital / performance marketing position at Amazon was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

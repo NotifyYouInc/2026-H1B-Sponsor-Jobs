@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Kuala-Lumpur-Malaysia/Manager--Network-Services--Analytics_R-265213-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Specialist--Product-Management_R-279045) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-15.
+This product manager position at Mastercard was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Senior-Analyst_R152640-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Financial Crimes & AML |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Senior-Analyst_R155017) |
 
 ## About This Role
 
-This business analyst position at Northern Trust was posted on 2026-04-13.
+This financial crimes & aml position at Northern Trust was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

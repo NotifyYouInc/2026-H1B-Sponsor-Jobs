@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Software-Engineering-Senior-Manager_R-546261) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Software-Engineering-Senior-Manager_R-546957) |
 
 ## About This Role
 
-This engineering manager position at Wells Fargo was posted on 2026-06-01.
+This engineering manager position at Wells Fargo was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

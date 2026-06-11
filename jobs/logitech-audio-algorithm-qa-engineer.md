@@ -5,12 +5,12 @@
 | Company | [Logitech](https://scoutify.ai/companies/logitech?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | QA Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://logitech.wd5.myworkdayjobs.com/logitech/job/Chennai-India/Audio-Algorithm-QA-Engineer_146085) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://logitech.wd5.myworkdayjobs.com/logitech/job/Chennai-India/Senior-Audio-ML-engineer_139374-1) |
 
 ## About This Role
 
-This qa engineer position at Logitech was posted on 2026-04-15.
+This qa engineer position at Logitech was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

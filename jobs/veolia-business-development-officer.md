@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Fanling, North District, Hong Kong |
-| Category | Account Executive |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123851270-business-development-officer) |
+| Category | Account Manager |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130155446-business-development-officer) |
 
 ## About This Role
 
-This account executive position at Veolia was posted on 2026-04-30.
+This account manager position at Veolia was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

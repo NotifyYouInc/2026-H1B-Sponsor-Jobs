@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | Learning & Development |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-Kuala-Lumpur--Sentral---NU-Tower-2---Level-9-10/Trainer-II_R1723192) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Makati-City---Glorietta/Trainer-II_R1728738) |
 
 ## About This Role
 
-This learning & development position at Concentrix was posted on 2026-04-17.
+This learning & development position at Concentrix was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

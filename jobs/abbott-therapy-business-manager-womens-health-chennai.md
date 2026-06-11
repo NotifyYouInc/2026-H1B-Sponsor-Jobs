@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Channel / Partner Sales |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---Chennai/Therapy-Business-Manager---Women-s-Health---Chennai_31145605) |
+| Category | Sales Leadership |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/INDIA---TAMIL-NADU---CHENNAI/Therapy-Business-Manager---Women-s-Health---Chennai_31152295) |
 
 ## About This Role
 
-This channel / partner sales position at Abbott was posted on 2026-03-25.
+This sales leadership position at Abbott was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

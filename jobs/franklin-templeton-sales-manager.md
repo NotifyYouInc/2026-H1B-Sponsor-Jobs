@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Franklin Templeton](https://scoutify.ai/companies/franklintempleton?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ahmedabad, Gujarat, India |
-| Category | Sales Leadership |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/FTAMC-Ahmedabad-F3401/Sales-Manager_867268) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Account Manager |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/FTAMC-Bangalore-F3403/Sales-Manager_867020) |
 
 ## About This Role
 
-This sales leadership position at Franklin Templeton was posted on 2026-04-14.
+This account manager position at Franklin Templeton was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
