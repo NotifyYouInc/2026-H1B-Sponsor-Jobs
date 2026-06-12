@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Macquarie Park, New South Wales, Australia |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---NSW---MACQUARIE-PARK/Associate-Manager-ERP-Package-Applications_51580988) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Associate-Manager-ERP-Package-Applications_51580860) |
 
 ## About This Role
 
-This customer success position at DXC Technology was posted on 2026-05-21.
+This technology / it consulting position at DXC Technology was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

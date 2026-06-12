@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000128192849-pricing-analyst) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130363759-pricing-analyst) |
 
 ## About This Role
 
-This business analyst position at Experian was posted on 2026-05-25.
+This business analyst position at Experian was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

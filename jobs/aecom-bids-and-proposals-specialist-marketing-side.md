@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philippines |
-| Category | Content Marketing |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000116103867-bids-and-proposals-specialist-marketing-side) |
+| Location | Taguig, National Capital Region, Philippines |
+| Category | Marketing |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000130363254-bids-and-proposals-specialist-marketing-side) |
 
 ## About This Role
 
-This content marketing position at AECOM was posted on 2026-03-23.
+This marketing position at AECOM was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

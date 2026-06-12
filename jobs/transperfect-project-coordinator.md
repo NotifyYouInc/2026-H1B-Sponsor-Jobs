@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransPerfect](https://scoutify.ai/companies/transperfect?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Project Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/Australia-Sydney/Project-Coordinator_R2025-243690) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/Israel-Tel-Aviv/Project-Coordinator_R2025-244039) |
 
 ## About This Role
 
-This project manager position at TransPerfect was posted on 2026-04-14.
+This project manager position at TransPerfect was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

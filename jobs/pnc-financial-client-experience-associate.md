@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Plantation, Florida, United States |
-| Category | Customer Success |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Plantation/Client-Experience-Associate_R223906) |
+| Location | Virginia, US |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/VA---Dulles-20166/Client-Experience-Associate_R224895) |
 
 ## About This Role
 
-This customer success position at PNC Financial was posted on 2026-05-30.
+This none of the above (reject) position at PNC Financial was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

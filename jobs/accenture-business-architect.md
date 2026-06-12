@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Architect_ATCI-5480776-S1999700) |
+| Location | Pune, Maharashtra, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Business-Architect_ATCI-5477211-S2001427-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-06-01.
+This technology / it consulting position at Accenture was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

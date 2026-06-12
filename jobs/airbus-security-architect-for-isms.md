@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Getafe, Madrid, Spain |
 | Category | Security Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Security-Architect-for-ISMS_JR10405205-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Security-Architect-for-ISMS_JR10418220-1) |
 
 ## About This Role
 
-This security engineer position at Airbus was posted on 2026-05-05.
+This security engineer position at Airbus was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

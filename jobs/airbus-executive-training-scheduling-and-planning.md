@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Gurugram/Executive---Training-Scheduling-and-Planning_JR10406958-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Gurugram/Executive---Training-Scheduling-and-Planning_JR10408008) |
 
 ## About This Role
 
-This business analyst position at Airbus was posted on 2026-04-21.
+This business analyst position at Airbus was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

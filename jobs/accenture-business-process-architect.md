@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Business-Process-Architect_ATCI-5596625-S2027362-1) |
+| Location | 3 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Process-Architect_ATCI-5610780-S2027532) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-06-04.
+This technology / it consulting position at Accenture was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

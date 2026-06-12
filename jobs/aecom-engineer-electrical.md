@@ -1,16 +1,16 @@
-# Engineer - Electrical  at AECOM
+# Engineer, Electrical at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Bukit Damansara, Kuala Lumpur, Malaysia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000127357679-engineer-electrical) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000130372289-engineer-electrical) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-05-20.
+This electrical / hardware engineer position at AECOM was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

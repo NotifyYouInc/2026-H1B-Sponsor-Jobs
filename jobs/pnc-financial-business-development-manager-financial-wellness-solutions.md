@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | New York City, New York, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Development-Manager---Financial-Wellness-Solutions_R222205-2) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Financial-Wellness-Consultant_R207691) |
 
 ## About This Role
 
-This engineering manager position at PNC Financial was posted on 2026-05-12.
+This engineering manager position at PNC Financial was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126916434-chennai-walk-in-associate-sr-associate-operations) |
+| Category | Corporate Finance |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000130362354-chennai-walk-in-associate-sr-associate-operations) |
 
 ## About This Role
 
-This business analyst position at WNS was posted on 2026-05-18.
+This corporate finance position at WNS was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

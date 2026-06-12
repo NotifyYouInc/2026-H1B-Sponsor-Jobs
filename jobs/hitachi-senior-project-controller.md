@@ -1,16 +1,16 @@
-# SENIOR PROJECT CONTROLLER at Hitachi
+# Senior Project Controller at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philippines |
+| Location | Xiamen, Fujian, China |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/STSPhilippines/SENIOR-PROJECT-CONTROLLER_R0122518) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Xiamen-Fujian-China/Senior-Project-Controller_R0132916) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-03-12.
+This corporate finance position at Hitachi was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

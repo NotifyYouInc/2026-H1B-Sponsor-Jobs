@@ -1,16 +1,16 @@
-# Associate Managing Consultant, Advisors & Consulting Services, Performance Analytics at Mastercard
+# Associate Managing Consultant, Advisors & Consulting Services, Performance Analytics/ Data Scientist at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Singapore, Singapore |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Associate-Managing-Consultant--Advisors---Consulting-Services--Performance-Analytics_R-276289-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Associate-Managing-Consultant--Advisors---Consulting-Services--Performance-Analytics--Data-Scientist_R-279786) |
 
 ## About This Role
 
-This strategy / management consulting position at Mastercard was posted on 2026-05-05.
+This strategy / management consulting position at Mastercard was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

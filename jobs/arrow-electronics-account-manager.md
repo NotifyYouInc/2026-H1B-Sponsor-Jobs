@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | New Taipei City, Taipei, Taiwan |
 | Category | Account Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IN-KA-Bangalore-India-Trifecta-Adatto-Converge/Account-Manager_R243977) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Zhonghe-Dist-New-Taipei-City/Account-Manager_R243893) |
 
 ## About This Role
 
-This account manager position at Arrow Electronics was posted on 2026-05-29.
+This account manager position at Arrow Electronics was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
