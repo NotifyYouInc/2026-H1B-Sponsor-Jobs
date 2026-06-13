@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Poland |
+| Location | Markham, Ontario, Canada |
 | Category | Project Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000129921218-project-manager) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000130595900-project-manager) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-06-03.
+This project manager position at AECOM was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

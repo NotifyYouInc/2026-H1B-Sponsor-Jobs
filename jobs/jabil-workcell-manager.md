@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Mexico |
 | Category | Engineering Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Workcell-Manager_J2450356) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Baja/Workcell-Manager_J2453171) |
 
 ## About This Role
 
-This engineering manager position at Jabil was posted on 2026-05-29.
+This engineering manager position at Jabil was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

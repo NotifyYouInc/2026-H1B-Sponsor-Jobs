@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Casa Grande, Arizona, United States |
-| Category | Customer Success |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Casa-Grande-AZ-85194/Customer-Experience-Coordinator_REQ122623) |
+| Location | Tucson, Arizona, United States |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Tucson-AZ-85747/Customer-Experience-Coordinator_REQ125582) |
 
 ## About This Role
 
-This customer success position at TJX was posted on 2026-05-30.
+This none of the above (reject) position at TJX was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

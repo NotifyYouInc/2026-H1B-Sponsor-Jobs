@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Canandaigua, New York, United States |
-| Category | Account Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Canandaigua-NY-14424/Rental-Sales-Management-Trainee_R173669) |
+| Location | Schenectady, New York, United States |
+| Category | Business Development |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Schenectady-NY-12306/Rental-Sales-Management-Trainee_R174617) |
 
 ## About This Role
 
-This account manager position at Ryder System was posted on 2026-05-29.
+This business development position at Ryder System was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

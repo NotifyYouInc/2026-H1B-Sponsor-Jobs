@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Michael Kors](https://scoutify.ai/companies/michael-kors?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Alpine, California, United States |
+| Location | Pearl, Mississippi, United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://capri.wd1.myworkdayjobs.com/michael_kors/job/Alpine/Sales-Supervisor_R_784055) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://capri.wd1.myworkdayjobs.com/michael_kors/job/Pearl/Sales-Supervisor_R_784742) |
 
 ## About This Role
 
-This sales leadership position at Michael Kors was posted on 2026-05-15.
+This sales leadership position at Michael Kors was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

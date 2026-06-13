@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Project Manager |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4817745101?gh_jid=4817745101) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4860081101?gh_jid=4860081101) |
 
 ## About This Role
 
-This project manager position at NiCE was posted on 2026-05-23.
+This project manager position at NiCE was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

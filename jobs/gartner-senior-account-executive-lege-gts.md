@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Solna, Stockholm, Sweden |
+| Location | Prague, Prague, Czechia |
 | Category | Account Executive |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Solna/Senior-Account-Executive--LE-GE--GTS_110344) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Prague/Senior-Account-Executive--LE-GE--GTS_107562) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-05-15.
+This account executive position at Gartner was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

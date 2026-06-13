@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Santa Maria, California, United States |
-| Category | Sales Leadership |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/223-E-Betteravia-Rd-Santa-MariaCA-93454-7803/Specialty-Sales-Team-Leader_R0000439435) |
+| Location | Keizer, Oregon, United States |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/6450-Keizer-Station-Blvd-NE-KeizerOR-97303-1695/Specialty-Sales-Team-Leader_R0000441556-1) |
 
 ## About This Role
 
-This sales leadership position at Target was posted on 2026-05-16.
+This none of the above (reject) position at Target was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

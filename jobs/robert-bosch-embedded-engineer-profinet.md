@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127588488-embedded-engineer-profinet) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130627288-embedded-engineer-profinet) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Robert Bosch was posted on 2026-05-21.
+This embedded / firmware engineer position at Robert Bosch was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

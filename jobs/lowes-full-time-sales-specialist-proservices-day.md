@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lansing, Michigan, United States |
-| Category | Business Development |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lansing-MI-S-Lansing-1596/Full-Time---Sales-Specialist---ProServices---Day_JR-02539767-1) |
+| Location | Kahului, Hawaii, United States |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Kahului-HI-3279/Full-Time---Sales-Specialist---ProServices---Day_JR-02556229-1) |
 
 ## About This Role
 
-This business development position at Lowe's was posted on 2026-05-30.
+This none of the above (reject) position at Lowe's was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sensata](https://scoutify.ai/companies/sensata?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Plovdiv, Plovdiv, Bulgaria |
+| Location | Aguascalientes, Aguascalientes, Mexico |
 | Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Plovdiv-Bulgaria/Financial-Planning-Analyst_IRC97407) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Aguascalientes-Mexico/Financial-Planning-Analyst_IRC97687) |
 
 ## About This Role
 
-This corporate finance position at Sensata was posted on 2026-04-30.
+This corporate finance position at Sensata was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

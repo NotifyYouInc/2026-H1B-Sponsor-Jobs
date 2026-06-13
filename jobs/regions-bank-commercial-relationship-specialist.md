@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | Dallas, Texas, United States |
 | Category | Account Manager |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Nashville-TN---Music-Row-Branch/Commercial-Relationship-Specialist_R102392) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Dallas-TX---17-Seventeen-Building-Branch/Commercial-Relationship-Specialist_R103100) |
 
 ## About This Role
 
-This account manager position at Regions Bank was posted on 2026-05-09.
+This account manager position at Regions Bank was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Washington, US |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-WA/Senior-Software-Development-Engineer_P749149) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Senior-Software-Development-Engineer_P748378-2) |
 
 ## About This Role
 
-This software engineer position at Zillow was posted on 2026-02-20.
+This software engineer position at Zillow was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

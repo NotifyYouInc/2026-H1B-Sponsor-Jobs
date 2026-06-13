@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Medford, Oregon, United States |
-| Category | Business Development |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Medford-OR-0248/Full-Time---Sales-Specialist---Millwork---Day_JR-02515896-1) |
+| Location | Merrillville, Indiana, United States |
+| Category | None of the Above (Reject) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Merrillville-IN-1569/Full-Time---Sales-Specialist---Millwork---Day_JR-02532502-1) |
 
 ## About This Role
 
-This business development position at Lowe's was posted on 2026-05-09.
+This none of the above (reject) position at Lowe's was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
