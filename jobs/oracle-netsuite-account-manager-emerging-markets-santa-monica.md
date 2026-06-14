@@ -5,12 +5,12 @@
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Santa Monica, California, United States |
 | Category | Account Manager |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#328942) |
+| Posted | 2025-08-25 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#274926) |
 
 ## About This Role
 
-This account manager position at Oracle was posted on 2026-02-28.
+This account manager position at Oracle was posted on 2025-08-25.
 
 ## Get Real-Time Alerts
 

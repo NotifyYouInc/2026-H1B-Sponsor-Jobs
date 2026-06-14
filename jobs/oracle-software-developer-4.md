@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | DevOps Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#334262) |
+| Location | United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#334632) |
 
 ## About This Role
 
-This devops engineer position at Oracle was posted on 2026-05-25.
+This ai / llm engineer position at Oracle was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

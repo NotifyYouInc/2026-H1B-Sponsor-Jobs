@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | United States |
 | Category | Engineering Manager |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#333062) |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#333343) |
 
 ## About This Role
 

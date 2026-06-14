@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Norway |
 | Category | Engineering Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#323189) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#332703) |
 
 ## About This Role
 
-This engineering manager position at Oracle was posted on 2026-05-12.
+This engineering manager position at Oracle was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

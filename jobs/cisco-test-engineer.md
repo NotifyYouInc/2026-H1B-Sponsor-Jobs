@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
-| Category | QA Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Test-Engineer_2006412-1) |
+| Location | 2 locations |
+| Category | Engineering Manager |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Guadalajara-Mexico/Test-Engineer_2014804) |
 
 ## About This Role
 
-This qa engineer position at Cisco was posted on 2026-04-03.
+This engineering manager position at Cisco was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 
