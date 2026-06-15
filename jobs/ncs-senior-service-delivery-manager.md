@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Project Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001005992-senior-service-delivery-manager) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001137320-senior-service-delivery-manager) |
 
 ## About This Role
 
-This project manager position at NCS was posted on 2026-04-17.
+This project manager position at NCS was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

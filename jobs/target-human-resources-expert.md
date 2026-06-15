@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gastonia, North Carolina, United States |
+| Location | Farmington, New Mexico, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/425-Cox-Rd-GastoniaNC-28054-0610/Human-Resources-Expert_R0000441274) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/4900-E-Main-St-FarmingtonNM-87402-8658/Human-Resources-Expert_R0000441637) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-06-04.
+This human resources / people ops position at Target was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

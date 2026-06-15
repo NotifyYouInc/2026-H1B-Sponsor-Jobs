@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | London, England, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124079769-senior-architect) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000130730649-senior-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at AECOM was posted on 2026-05-01.
+This technical & solutions architect position at AECOM was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

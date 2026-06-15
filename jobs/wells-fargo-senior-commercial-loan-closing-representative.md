@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Legal |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Commercial-Loan-Closing-Representative_R-529429) |
+| Location | Hyderabad, Telangana, India |
+| Category | Compliance & Risk Management |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Commercial-Loan-Closing-Representative_R-542096) |
 
 ## About This Role
 
-This legal position at Wells Fargo was posted on 2026-03-23.
+This compliance & risk management position at Wells Fargo was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

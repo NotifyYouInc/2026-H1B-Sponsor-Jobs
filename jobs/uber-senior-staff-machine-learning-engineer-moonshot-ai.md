@@ -1,0 +1,22 @@
+# Senior Staff Machine Learning Engineer – Moonshot AI at Uber
+
+| Field | Details |
+|-------|---------|
+| Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Sunnyvale, California, United States |
+| Category | AI / ML Research |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/155653/) |
+
+## About This Role
+
+This ai / ml research position at Uber was posted on 2026-02-14.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

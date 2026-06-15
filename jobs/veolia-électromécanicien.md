@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Moûtiers, Rhône-Alpes, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000125041809-electromecanicien) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130710596-electromecanicien) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Veolia was posted on 2026-05-07.
+This electrical / hardware engineer position at Veolia was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

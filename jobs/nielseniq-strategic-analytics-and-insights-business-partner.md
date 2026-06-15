@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Belgrade, Central Serbia, Serbia |
 | Category | Account Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126918379-strategic-analytics-and-insights-business-partner) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000130718519-strategic-analytics-and-insights-business-partner) |
 
 ## About This Role
 
-This account manager position at NielsenIQ was posted on 2026-05-18.
+This account manager position at NielsenIQ was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

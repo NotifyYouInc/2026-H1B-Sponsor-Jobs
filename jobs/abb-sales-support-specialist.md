@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | Beijing, Beijing, China |
 | Category | Sales Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Sales-Support-Specialist_JR00035695) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Sales-Support-Specialist_JR00015380) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-05-26.
+This sales engineer position at ABB was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

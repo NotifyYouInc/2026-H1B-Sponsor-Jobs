@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kowloon, Hong Kong |
-| Category | Customer Success |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Kowloon/Advanced-Application-Specialist_R4039408-1) |
+| Location | Kunming, Yunnan, China |
+| Category | Sales Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Kunming/Advanced-Application-Specialist_R4042088-1) |
 
 ## About This Role
 
-This customer success position at GE HealthCare was posted on 2026-04-10.
+This sales engineer position at GE HealthCare was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

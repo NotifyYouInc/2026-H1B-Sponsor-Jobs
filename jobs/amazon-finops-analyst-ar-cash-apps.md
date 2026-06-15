@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Telangana, IN |
+| Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3199097/finops-analyst-ar-cash-apps) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441794/finops-analyst-ar-cash-apps) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-03-09.
+This corporate finance position at Amazon was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

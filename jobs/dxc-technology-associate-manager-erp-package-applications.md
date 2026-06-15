@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Associate-Manager-ERP-Package-Applications_51580860) |
+| Location | Hyderabad, Telangana, India |
+| Category | Engineering Manager |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Associate-Manager-ERP-Package-Applications_51570845) |
 
 ## About This Role
 
-This technology / it consulting position at DXC Technology was posted on 2026-06-05.
+This engineering manager position at DXC Technology was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

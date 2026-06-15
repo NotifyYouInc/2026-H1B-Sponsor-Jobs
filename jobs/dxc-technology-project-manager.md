@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Seoul, Seoul, South Korea |
 | Category | Project Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---KUALA-LUMPUR/Project-Manager_51572511) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/KOR---SEOUL/Project-Manager_51582081) |
 
 ## About This Role
 
-This project manager position at DXC Technology was posted on 2026-02-11.
+This project manager position at DXC Technology was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

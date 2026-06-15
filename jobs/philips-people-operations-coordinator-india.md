@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | Gurugram, Haryana, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/People-Operations-Coordinator-India_580684) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Gurgaon/People-Operations-Coordinator-India_584433) |
 
 ## About This Role
 
-This human resources / people ops position at Philips was posted on 2026-04-13.
+This human resources / people ops position at Philips was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
-| Category | QA Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130156891-ingenieure-qualite-industrielle-hf) |
+| Category | Industrial Automation |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130726524-ingenieure-qualite-industrielle-hf) |
 
 ## About This Role
 
-This qa engineer position at ALTEN was posted on 2026-06-04.
+This industrial automation position at ALTEN was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

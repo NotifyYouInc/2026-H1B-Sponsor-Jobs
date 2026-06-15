@@ -1,16 +1,16 @@
-# Sr. Software Development Engineer at Renesas Electronics
+# Sr Software Development Engineer at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Wrocław, Lower Silesia, Poland |
 | Category | Software Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000120147725-sr-software-development-engineer) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000130722031-sr-software-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Renesas Electronics was posted on 2026-04-11.
+This software engineer position at Renesas Electronics was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

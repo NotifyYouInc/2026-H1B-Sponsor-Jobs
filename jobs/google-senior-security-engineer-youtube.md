@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Bruno, California, United States |
 | Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZHbn_ymITL3Bg9CUba-5DQnvVkW4dK95rO7PjKIqte6EjsACxwdTP7E9Qo9-MGsDY9cxlA4sTC9zWBsAwIpjj6SwYcIw8ZbnnjvwSvv2dbUFkfkoXkQaucjubUvzQ%3D%3D_V2&loc=US&title=Senior+Security+Engineer) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckesWfiV2PdnRgjB8qYoYWa1pnFPC5u9DCEZJtyF9A391EjsACxwdTMtiaOaonnqbRfMiOUiQqnA0eHCGNn5hbwugSlPYi9VkbWA3FiW3s7_gU6ONp29bu88AjjsUfQ%3D%3D_V2&loc=US&title=Senior+Security+Engineer) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-05-06.
+This security engineer position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

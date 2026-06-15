@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/ServiceNow-Developer_51578053-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---QUEZON-CITY/ServiceNow-Developer_51582002) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-05-15.
+This software engineer position at DXC Technology was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

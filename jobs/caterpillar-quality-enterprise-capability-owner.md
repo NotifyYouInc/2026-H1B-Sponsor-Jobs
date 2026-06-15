@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
-| Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peterlee-United-Kingdom/Quality-Enterprise-Capability-Owner_R0000374700) |
+| Location | Akashi, Hyōgo, Japan |
+| Category | Engineering Manager |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Akashi-Hyogo/Quality-Enterprise-Capability-Owner_R0000372740) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-06-04.
+This engineering manager position at Caterpillar was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

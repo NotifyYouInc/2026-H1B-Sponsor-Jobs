@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Program Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Engineering-Program-Manager_2014280) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bratislava-Slovakia/Engineering-Program-Manager_2016086) |
 
 ## About This Role
 
-This program manager position at Cisco was posted on 2026-05-28.
+This program manager position at Cisco was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

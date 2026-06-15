@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | La Haie-Fouassière, Pays de la Loire, France |
 | Category | Engineering Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000128878457-responsable-service-electromecanique-hf) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130714039-responsable-service-electromecanique-hf) |
 
 ## About This Role
 
-This engineering manager position at Veolia was posted on 2026-05-28.
+This engineering manager position at Veolia was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

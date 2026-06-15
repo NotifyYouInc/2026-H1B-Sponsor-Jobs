@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Customer Success |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000128869670-activate-sales-executive) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000130720894-activate-sales-executive) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-05-28.
+This customer success position at NielsenIQ was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

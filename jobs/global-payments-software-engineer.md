@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Shaanxi, CN |
 | Category | Software Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Chengdu---AN/Software-Engineer_R0071786-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/XIAN-SHAANXI-CHINA/Software-Engineer_R0071283) |
 
 ## About This Role
 
-This software engineer position at Global Payments was posted on 2026-04-30.
+This software engineer position at Global Payments was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

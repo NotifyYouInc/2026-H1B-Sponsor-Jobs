@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xi’an, Shaanxi, China |
+| Location | Singapore, Singapore |
 | Category | Project Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Xian-China/Project-Manager_R26-976) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Project-Manager_R26-4228) |
 
 ## About This Role
 
-This project manager position at Rockwell Automation was posted on 2026-03-13.
+This project manager position at Rockwell Automation was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

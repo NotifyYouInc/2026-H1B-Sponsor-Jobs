@@ -5,12 +5,12 @@
 | Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Miami, Florida, United States |
 | Category | Account Executive |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.uber.com/global/en/careers/list/157074/) |
+| Posted | 2026-01-10 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/153496/) |
 
 ## About This Role
 
-This account executive position at Uber was posted on 2026-03-13.
+This account executive position at Uber was posted on 2026-01-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Verkaufsberater (m/w/d) im Innendienst at BayWa
+# Verkaufsberater (m/w/d) im Innendienst  at BayWa
 
 | Field | Details |
 |-------|---------|
 | Company | [BayWa](https://scoutify.ai/companies/baywa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pretzfeld, Bavaria, Germany |
-| Category | Account Executive |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BayWaAG/744000129097589-verkaufsberater-mwd-im-innendienst) |
+| Location | Passau, Bavaria, Germany |
+| Category | Account Manager |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BayWaAG/744000130715255-verkaufsberater-mwd-im-innendienst) |
 
 ## About This Role
 
-This account executive position at BayWa was posted on 2026-05-29.
+This account manager position at BayWa was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Shanghai-Two-IFC/Investment-Bank---Investment-Banking---Capital-Markets-Local-Intern_R0424283) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Shanghai-Two-IFC/Investment-Bank---Investment-Banking---Capital-Markets-Local-Intern_R0424291) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-02-28.
+This corporate finance position at Deutsche Bank was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
