@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
 | Category | Industrial Automation |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/IE-Capacity-Engineer_JR99827) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/IE-Capacity-Engineer_JR99828-1) |
 
 ## About This Role
 
-This industrial automation position at Micron was posted on 2026-06-04.
+This industrial automation position at Micron was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

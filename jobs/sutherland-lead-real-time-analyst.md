@@ -5,12 +5,12 @@
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000125267969-lead-real-time-analyst) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000131050349-lead-real-time-analyst) |
 
 ## About This Role
 
-This business analyst position at Sutherland was posted on 2026-05-08.
+This business analyst position at Sutherland was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

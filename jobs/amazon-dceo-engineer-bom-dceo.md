@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427759/dceo-engineer-bom-dceo) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428026/dceo-engineer-bom-dceo) |
 
 ## About This Role
 

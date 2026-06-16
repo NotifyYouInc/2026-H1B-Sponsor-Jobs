@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | Content Marketing |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000129657986-associate-learning-content-producer-igt1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000131041919-associate-learning-content-producer-igt1) |
 
 ## About This Role
 
-This content marketing position at IFS was posted on 2026-06-02.
+This content marketing position at IFS was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | Account Executive |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hangzhou-Zhejiang-China/CRM-CIED-Technical-Sales-Representative-Hangzhou_R60794) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Hangzhou-Zhejiang-China/CRM-CIED-Technical-Sales-Representative-Hangzhou_R68945-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-03-03.
+This account executive position at Medtronic was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

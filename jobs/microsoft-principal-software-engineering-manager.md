@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Sydney, New South Wales, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556866978) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556752340) |
 
 ## About This Role
 
-This engineering manager position at Microsoft was posted on 2026-05-19.
+This engineering manager position at Microsoft was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

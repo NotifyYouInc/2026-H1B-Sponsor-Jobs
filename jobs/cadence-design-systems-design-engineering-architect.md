@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Design-Engineering-Architect_R54512) |
+| Category | Software Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Design-Engineering-Architect_R54590-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-06-04.
+This software engineer position at Cadence Design Systems was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Development |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000130723855-sr-global-partner-manager-lead-cognizant) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000131020601-sr-global-partner-manager-lead-cognizant) |
 
 ## About This Role
 
-This business development position at ServiceNow was posted on 2026-06-08.
+This business development position at ServiceNow was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000125997779-lead-associate-operations) |
+| Location | Pune, Maharashtra, India |
+| Category | Business Analyst |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000131055679-lead-associate-operations) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-05-12.
+This business analyst position at WNS was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

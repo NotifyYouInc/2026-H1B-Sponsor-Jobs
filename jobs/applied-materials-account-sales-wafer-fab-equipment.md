@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Account Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Account-Sales--Wafer-Fab-Equipment-_R2621087) |
+| Category | Account Executive |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Account-Sales--Wafer-Fab-Equipment-_R2620514) |
 
 ## About This Role
 
-This account manager position at Applied Materials was posted on 2026-06-02.
+This account executive position at Applied Materials was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

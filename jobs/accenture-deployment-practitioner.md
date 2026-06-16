@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Customer Success |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Deployment-Practitioner_ATCI-5271624-S2003871-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Deployment-Practitioner_ATCI-5271623-S1932171-1) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-05-14.
+This customer success position at Accenture was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

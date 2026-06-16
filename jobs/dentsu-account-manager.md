@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Account Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Gurugram/Account-Manager_R1120786) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Istanbul/Account-Manager_R1087269-1) |
 
 ## About This Role
 
-This account manager position at Dentsu was posted on 2026-04-29.
+This account manager position at Dentsu was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

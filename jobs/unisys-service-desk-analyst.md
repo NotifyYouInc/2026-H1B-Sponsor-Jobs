@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mandaluyong City, National Capital Region, Philippines |
-| Category | Customer Success |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Citynet---Mandaluyong-City/Service-Desk-Analyst_REQ573401) |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Citynet---Mandaluyong-City/Service-Desk-Analyst_REQ573388) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-05-29.
+This it & systems administration position at Unisys was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

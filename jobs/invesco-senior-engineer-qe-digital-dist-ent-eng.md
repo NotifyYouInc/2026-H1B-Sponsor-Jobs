@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Senior-Engineer-QE-Digital-Dist---Ent-Eng_R-13072) |
+| Category | QA Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Senior-Engineer-QE-Digital-Dist---Ent-Eng_R-13076-1) |
 
 ## About This Role
 
-This software engineer position at Invesco was posted on 2026-03-25.
+This qa engineer position at Invesco was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

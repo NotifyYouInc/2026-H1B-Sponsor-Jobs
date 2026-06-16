@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/PHOTO-DUV-PE-ENGINEER_JR98408-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/PHOTO-DUV-PE-ENGINEER_JR96111) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-05-15.
+This semiconductor / chip design position at Micron was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

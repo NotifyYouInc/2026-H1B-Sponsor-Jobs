@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jeddah, Mecca Region, Saudi Arabia |
-| Category | Engineering Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000125759019-interface-manager) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Project Manager |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000131056836-interface-manager) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-05-11.
+This project manager position at AECOM was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

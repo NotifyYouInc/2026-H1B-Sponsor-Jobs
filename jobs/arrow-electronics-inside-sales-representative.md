@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Suzhou-Jiangsu/Inside-Sales-Representative_R243056) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/CN-Qingdao-China-Remote/Inside-Sales-Representative_R243881-1) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-06-04.
+This account executive position at Arrow Electronics was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

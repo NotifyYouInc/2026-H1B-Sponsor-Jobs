@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shenzhen-Eco-Park/Sales-Pricing---Incentive-Representative_14303967) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Marketing |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shenzhen-Eco-Park/Sales-Pricing---Incentive-Representative_14404222) |
 
 ## About This Role
 
-This account executive position at Accenture was posted on 2026-04-24.
+This marketing position at Accenture was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

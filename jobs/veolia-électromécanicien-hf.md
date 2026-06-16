@@ -1,16 +1,16 @@
-# Électromécanicien H/F at Veolia
+# Électromécanicien (H/F) at Veolia
 
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | France |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130714399-electromecanicien-hf) |
+| Location | Annet-sur-Marne, Île-de-France, France |
+| Category | Industrial Automation |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000131052504-electromecanicien-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Veolia was posted on 2026-06-08.
+This industrial automation position at Veolia was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

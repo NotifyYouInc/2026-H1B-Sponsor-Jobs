@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Chennai---Taramani-Ascendas/Sr-Associate-Other-Technologies_JR1036747-1) |
+| Category | QA Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Chennai/Automation-Tester_JR1040334) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-03-05.
+This qa engineer position at Synechron was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

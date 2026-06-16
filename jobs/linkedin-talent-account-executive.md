@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Beijing, Beijing, China |
 | Category | Account Executive |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000128184869-talent-account-executive) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000131059074-talent-account-executive) |
 
 ## About This Role
 
-This account executive position at LinkedIn was posted on 2026-05-25.
+This account executive position at LinkedIn was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

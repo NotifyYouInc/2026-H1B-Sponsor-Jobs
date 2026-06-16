@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Japan |
 | Category | Customer Success |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7895281) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7984998) |
 
 ## About This Role
 
-This customer success position at Twilio was posted on 2026-05-09.
+This customer success position at Twilio was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 
