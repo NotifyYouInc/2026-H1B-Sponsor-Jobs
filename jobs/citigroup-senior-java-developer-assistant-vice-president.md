@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Java-Developer---Assistant-Vice-President_26950766-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Senior-Java-Developer---Assistant-Vice-President_26968335) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-13.
+This software engineer position at Citigroup was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

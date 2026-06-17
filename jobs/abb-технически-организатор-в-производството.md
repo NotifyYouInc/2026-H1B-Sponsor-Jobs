@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Plovdiv, BG |
 | Category | Industrial Automation |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Stryama-Plovdiv-Bulgaria/---_JR00036412) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Stryama-Plovdiv-Bulgaria/---_JR00037266) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-05-28.
+This industrial automation position at ABB was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | Malaysia |
 | Category | Customer Success |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556867562) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556874354) |
 
 ## About This Role
 
-This customer success position at Microsoft was posted on 2026-05-28.
+This customer success position at Microsoft was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

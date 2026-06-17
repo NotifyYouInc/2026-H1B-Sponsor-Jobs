@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Germany |
 | Category | Corporate Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013529270-senior-financial-analyst-rd-invest-site-controlling-all-genders-vollzeit-unbefristet) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013553025-senior-financial-analyst-rd-invest-site-controlling-all-genders-vollzeit-unbefristet) |
 
 ## About This Role
 
-This corporate finance position at AbbVie was posted on 2026-06-09.
+This corporate finance position at AbbVie was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

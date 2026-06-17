@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Chennai-India/Middle-Office---Senior-Associate_R-781869) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Corporate Finance |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Middle-Office---Senior-Associate_R-788993) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-04-29.
+This corporate finance position at State Street was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

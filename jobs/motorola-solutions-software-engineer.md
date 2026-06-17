@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Glostrup, Capital Region, Denmark |
 | Category | Software Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Software-Engineer_R61883) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glostrup-Denmark-ZDK02/Software-Engineer_R65791) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-03-16.
+This software engineer position at Motorola Solutions was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

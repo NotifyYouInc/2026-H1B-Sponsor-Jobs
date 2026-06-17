@@ -5,12 +5,12 @@
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Compliance-Analyst_REQ-055667-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Compliance-Analyst_REQ-056957) |
 
 ## About This Role
 
-This compliance & risk management position at Morningstar was posted on 2026-03-04.
+This compliance & risk management position at Morningstar was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

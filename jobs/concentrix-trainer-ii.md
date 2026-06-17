@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Learning & Development |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Makati-City---Glorietta/Trainer-II_R1728738) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/VNM-Ho-Chi-Minh-City---4th-Flr-QTSC-Bldg-1-Quang-Trung-Software-City/Trainer-II_R1731887) |
 
 ## About This Role
 
-This learning & development position at Concentrix was posted on 2026-06-04.
+This learning & development position at Concentrix was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

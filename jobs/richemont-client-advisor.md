@@ -1,16 +1,16 @@
-# CLIENT ADVISOR at Richemont
+# Client Advisor at Richemont
 
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | China |
+| Location | Singapore, Singapore |
 | Category | Account Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/HONG-KONG-SAR-China/CLIENT-ADVISOR_JR128960) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/SINGAPORE/Client-Advisor_JR129769-2) |
 
 ## About This Role
 
-This account manager position at Richemont was posted on 2026-05-14.
+This account manager position at Richemont was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

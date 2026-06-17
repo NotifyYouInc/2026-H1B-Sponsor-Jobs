@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/IP-Logic-Design-Engineer_JR0281645) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/IP-Logic-Design-Engineer_JR0284635) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-03-13.
+This semiconductor / chip design position at Intel was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

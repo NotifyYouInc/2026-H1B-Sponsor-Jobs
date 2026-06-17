@@ -1,16 +1,16 @@
-# Technical & Design Promotion Specialist at ABB
+# Technical& Design Promotion Specialist at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Sales Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ho-Chi-Minh-City-TP-Ho-Chi-Minh-Vietnam/Technical---Design-Promotion-Specialist_JR00035846-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Riyadh-Riyadh-Saudi-Arabia/Technical--Design-Promotion-Specialist_JR00024900) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-05-28.
+This sales engineer position at ABB was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

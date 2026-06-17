@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7735173003) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767921003) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Sigma Computing was posted on 2026-05-15.
+This talent acquisition / recruiting position at Sigma Computing was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Budapest, Budapest, Hungary |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Credit---Collections-Representative_R-01353003) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Budapest-Hungary/Credit---Collections-Representative_R-01355894) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-05-22.
+This corporate finance position at Thermo Fisher Scientific was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Malaysia |
+| Location | Solna, Stockholm, Sweden |
 | Category | Account Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Kelana-Centre-Point-Malaysia/Account-Manager_R51435) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Solna-Sweden/Account-Manager_R52234) |
 
 ## About This Role
 
-This account manager position at TD Synnex was posted on 2026-05-15.
+This account manager position at TD Synnex was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

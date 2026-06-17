@@ -5,12 +5,12 @@
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Content Marketing |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://careers.formlabs.com/job/7916275/apply/?gh_jid=7916275) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://careers.formlabs.com/job/7994927/apply/?gh_jid=7994927) |
 
 ## About This Role
 
-This content marketing position at Formlabs was posted on 2026-05-12.
+This content marketing position at Formlabs was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

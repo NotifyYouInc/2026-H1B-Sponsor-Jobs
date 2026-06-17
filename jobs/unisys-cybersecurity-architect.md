@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Cybersecurity-Architect_REQ572445) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Cybersecurity-Architect_REQ573161) |
 
 ## About This Role
 
-This security engineer position at Unisys was posted on 2026-04-09.
+This security engineer position at Unisys was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

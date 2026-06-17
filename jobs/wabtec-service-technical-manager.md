@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Siliguri, West Bengal, India |
+| Location | Gāndhīdhām, Gujarat, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012825336-service-technical-manager) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013553196-service-technical-manager) |
 
 ## About This Role
 
-This engineering manager position at Wabtec was posted on 2026-04-27.
+This engineering manager position at Wabtec was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Xi’an, Shaanxi, China |
 | Category | Sales Leadership |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/CHN42-01-Xian-No-11-Jinye-Road/Regional-Service-Sales-Director--West_R4039174-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Xian/Regional-Service-Sales-Director--West_R4042191-1) |
 
 ## About This Role
 
-This sales leadership position at GE HealthCare was posted on 2026-04-06.
+This sales leadership position at GE HealthCare was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

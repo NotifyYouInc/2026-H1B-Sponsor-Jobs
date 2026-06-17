@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Cash-and-Trade-Proc-Analyst_26963981) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Cash-and-Trade-Proc-Analyst_26969881) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-18.
+This business analyst position at Citigroup was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

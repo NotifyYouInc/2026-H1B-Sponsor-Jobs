@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000124561122-business-systems-analyst-sap-fico) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000131373029-business-systems-analyst-sap-fico) |
 
 ## About This Role
 
-This business analyst position at Intuitive Surgical was posted on 2026-05-05.
+This business analyst position at Intuitive Surgical was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

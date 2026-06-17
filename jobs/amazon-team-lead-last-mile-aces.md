@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Jaipur, Rajasthan, India |
 | Category | Leadership Development Program |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443252/team-lead-last-mile-aces) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10444416/team-lead-last-mile-aces) |
 
 ## About This Role
 
-This leadership development program position at Amazon was posted on 2026-06-09.
+This leadership development program position at Amazon was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
