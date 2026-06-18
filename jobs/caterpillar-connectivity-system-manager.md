@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Wuxi, Jiangsu, China |
 | Category | Engineering Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Connectivity-System-Manager_R0000374203) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Connectivity-System-Manager_R0000376174) |
 
 ## About This Role
 
-This engineering manager position at Caterpillar was posted on 2026-06-10.
+This engineering manager position at Caterpillar was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Development Representative, SME & Growth  at Airwallex
+# Sales Development Representative, SME & Growth at Airwallex
 
 | Field | Details |
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Sydney, New South Wales, Australia |
 | Category | Business Development |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/48d3ca5d-e2b1-4e2c-abd9-e58e84942e52) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/b64077ca-eed1-4d03-8a5e-1fc5278ef38b) |
 
 ## About This Role
 
-This business development position at Airwallex was posted on 2026-03-25.
+This business development position at Airwallex was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

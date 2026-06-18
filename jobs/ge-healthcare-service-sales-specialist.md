@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guiyang, Guizhou, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Business Development |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/GuiYang/Service-Sales-Specialist_R4041968-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Service-Sales-Specialist_R4042255-2) |
 
 ## About This Role
 
-This business development position at GE HealthCare was posted on 2026-06-04.
+This business development position at GE HealthCare was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

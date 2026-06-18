@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Marketing |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Shanghai/Brand-Manager_R2840163) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Shanghai/Brand-Manager_R2860755) |
 
 ## About This Role
 
-This marketing position at Sanofi was posted on 2026-02-24.
+This marketing position at Sanofi was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

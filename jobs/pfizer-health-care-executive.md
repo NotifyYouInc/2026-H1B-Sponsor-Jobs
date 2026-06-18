@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Health-Care-Executive_4954064) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Delhi/Health-Care-Executive_4959263) |
 
 ## About This Role
 
-This account executive position at Pfizer was posted on 2026-03-20.
+This account executive position at Pfizer was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

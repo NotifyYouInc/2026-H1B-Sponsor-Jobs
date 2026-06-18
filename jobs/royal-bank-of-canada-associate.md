@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Associate_R-0000172896-1) |
+| Location | Putrajaya, Putrajaya, Malaysia |
+| Category | Business Analyst |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Associate_R-0000173148) |
 
 ## About This Role
 
-This corporate finance position at Royal Bank of Canada was posted on 2026-05-15.
+This business analyst position at Royal Bank of Canada was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

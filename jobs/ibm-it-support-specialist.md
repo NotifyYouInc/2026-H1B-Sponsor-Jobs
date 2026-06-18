@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Bengaluru, Karnataka, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100038) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119877) |
 
 ## About This Role
 
-This it & systems administration position at IBM was posted on 2026-03-07.
+This it & systems administration position at IBM was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

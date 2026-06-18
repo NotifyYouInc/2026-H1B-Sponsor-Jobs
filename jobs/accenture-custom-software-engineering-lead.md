@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ahmedabad, Gujarat, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ahmedabad/Technology-Delivery-Lead_ATCI-4482263-S1863703-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineering-Lead_ATCI-5618531-S2029072) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-09.
+This software engineer position at Accenture was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Germany |
+| Location | Haßfurt, Bavaria, Germany |
 | Category | Industrial Automation |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000122173457-facharbeiter-im-bereich-montageprufenmaschinenbedienung-wmdiv-befristet) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131588991-facharbeiter-im-bereich-montageprufenmaschinenbedienung-wmdiv-befristet) |
 
 ## About This Role
 
-This industrial automation position at Robert Bosch was posted on 2026-04-22.
+This industrial automation position at Robert Bosch was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

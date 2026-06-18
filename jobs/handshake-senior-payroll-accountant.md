@@ -5,12 +5,12 @@
 | Company | [Handshake](https://scoutify.ai/companies/handshake?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/handshake/cd0c1096-8588-443b-8009-b0a6b25ece8f) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/handshake/18f32660-5194-4d6d-bd9a-6b37425ccb09) |
 
 ## About This Role
 
-This corporate finance position at Handshake was posted on 2026-06-05.
+This corporate finance position at Handshake was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

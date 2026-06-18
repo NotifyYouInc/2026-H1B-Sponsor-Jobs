@@ -1,16 +1,16 @@
-# Hardware & Silicon Validation Senior Staff Engineer at Marvell
+# Hardware & Silicon Validation, Senior Staff Engineer at Marvell
 
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Massachusetts, US |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Hardware---Silicon-Validation-Senior-Staff-Engineer_2600851) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/TW---Hsinchu/Hardware---Silicon-Validation--Senior-Staff-Engineer_2601379) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Marvell was posted on 2026-03-28.
+This electrical / hardware engineer position at Marvell was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

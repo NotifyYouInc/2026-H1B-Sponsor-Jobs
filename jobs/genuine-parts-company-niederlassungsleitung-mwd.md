@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hildesheim, Lower Saxony, Germany |
+| Location | Kreuztal, North Rhine-Westphalia, Germany |
 | Category | Leadership Development Program |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Hildesheim-Niedersachsen-Deutschland/Niederlassungsleitung--m-w-d-_R25_0000035890-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Kreuztal-Nordrhein-Westfalen-Deutschland/Niederlassungsleitung--m-w-d-_R25_0000038065) |
 
 ## About This Role
 
-This leadership development program position at Genuine Parts Company was posted on 2026-05-20.
+This leadership development program position at Genuine Parts Company was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

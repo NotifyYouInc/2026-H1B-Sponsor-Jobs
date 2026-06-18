@@ -1,16 +1,16 @@
-# IN_Director_Internal Audit_FS - Internal audit services_Advisory_Mumbai at PwC
+# IN_Director_Internal audit_FS - Internal audit services_Advisory_Mumbai at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Accounting |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Director-Internal-Audit-FS---Internal-audit-services-Advisory-Mumbai_735216WD-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Director-Internal-audit-FS---Internal-audit-services-Advisory-Mumbai_734752WD-1) |
 
 ## About This Role
 
-This accounting position at PwC was posted on 2026-06-10.
+This accounting position at PwC was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

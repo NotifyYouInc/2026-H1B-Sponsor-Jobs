@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Nashik, Maharashtra, India |
 | Category | Project Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Richmond-Virginia-United-States-of-America/Project-Specialist_JR00029164) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nashik-Maharashtra-India/Project-Specialist_JR00037713) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-06-05.
+This project manager position at ABB was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

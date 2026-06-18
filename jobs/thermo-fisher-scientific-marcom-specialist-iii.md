@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Growth Marketing |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Shanghai-China/Marcom-Specialist-III_R-01355883) |
+| Category | Marketing |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Shanghai-China/Marcom-Specialist-III_R-01356412) |
 
 ## About This Role
 
-This growth marketing position at Thermo Fisher Scientific was posted on 2026-06-05.
+This marketing position at Thermo Fisher Scientific was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

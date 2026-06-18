@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Business-Architect_ATCI-5477211-S2001427-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Business Analyst |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Business-Architect_ATCI-5497901-S2007173-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-06-05.
+This business analyst position at Accenture was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

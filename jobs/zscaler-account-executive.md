@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5079893007) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5158382007) |
 
 ## About This Role
 
-This account executive position at Zscaler was posted on 2026-03-26.
+This account executive position at Zscaler was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chengdu, Sichuan, China |
-| Category | Account Executive |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/China-Chengdu-Field/Key-Account-Manager_Req-46775) |
+| Location | Guangzhou, Guangdong, China |
+| Category | Account Manager |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/China-Guangzhou-Field/Key-Account-Manager_Req-48687) |
 
 ## About This Role
 
-This account executive position at Edwards Lifesciences was posted on 2026-03-23.
+This account manager position at Edwards Lifesciences was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

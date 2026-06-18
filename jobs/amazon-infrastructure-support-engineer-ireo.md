@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | IT & Systems Administration |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3195369/infrastructure-support-engineer-ireo) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Customer Success |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445608/infrastructure-support-engineer-ireo) |
 
 ## About This Role
 
-This it & systems administration position at Amazon was posted on 2026-03-04.
+This customer success position at Amazon was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

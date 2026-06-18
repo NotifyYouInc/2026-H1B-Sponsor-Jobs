@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Niigata, Niigata, Japan |
-| Category | Accounting |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013390915-mr-ap) |
+| Category | Account Executive |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013573265-mr-ap) |
 
 ## About This Role
 
-This accounting position at AbbVie was posted on 2026-06-01.
+This account executive position at AbbVie was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Livermore, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/112-W-34th-St-New-YorkNY-10120-0101/Human-Resources-Expert_R0000441693) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/4300-Las-Positas-Rd-LivermoreCA-94551-9641/Human-Resources-Expert_R0000442038) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-06-09.
+This human resources / people ops position at Target was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

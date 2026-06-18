@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Anaheim, California, United States |
+| Location | Saint Paul, Minnesota, United States |
 | Category | Account Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---California---Anaheim/Territory-Sales-and-Service-Representative_R00293202) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Territory-Sales-and-Service-Representative_R00296865) |
 
 ## About This Role
 
-This account manager position at Ecolab was posted on 2026-05-07.
+This account manager position at Ecolab was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

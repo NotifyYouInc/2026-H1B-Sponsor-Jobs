@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | None of the Above (Reject) |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Quality-Engineer-II_R68068-2) |
+| Category | QA Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Quality-Engineer-II_R69310) |
 
 ## About This Role
 
-This none of the above (reject) position at Medtronic was posted on 2026-06-03.
+This qa engineer position at Medtronic was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

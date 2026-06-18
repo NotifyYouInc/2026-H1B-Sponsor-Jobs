@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Algiers, Algiers, Algeria |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Sales Leadership |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Algeria---Algiers/Head-of-Trade_31143718) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Vietnam---Ho-Chi-Minh-City/Head-of-Trade_31140320) |
 
 ## About This Role
 
-This sales leadership position at Abbott was posted on 2026-03-09.
+This sales leadership position at Abbott was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

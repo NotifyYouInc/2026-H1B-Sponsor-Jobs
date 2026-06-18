@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Global-Delivery-Intern_R-791698) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Global-Delivery-Intern_R-792237) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-04.
+This corporate finance position at State Street was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

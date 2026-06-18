@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Japan-Tokyo-HQ/Analyst--Business-Systems_Req-47794-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/India-Pune/Analyst--Business-Systems_Req-48491-1) |
 
 ## About This Role
 
-This business analyst position at Edwards Lifesciences was posted on 2026-05-14.
+This business analyst position at Edwards Lifesciences was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

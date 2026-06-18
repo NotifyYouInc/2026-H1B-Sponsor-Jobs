@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Account Executive |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Taipei-Taiwan/Manager--Specialist-Sales_R-271196) |
+| Location | Singapore, Singapore |
+| Category | Sales Leadership |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Manager--Specialist-Sales_R-276385) |
 
 ## About This Role
 
-This account executive position at Mastercard was posted on 2026-02-28.
+This sales leadership position at Mastercard was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

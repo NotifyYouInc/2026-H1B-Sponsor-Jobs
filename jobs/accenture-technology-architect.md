@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Junior-Solution-Software-Architect_ATCP-1274578-S396880) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Technology-Architect_ATCI-4929562-S1860127-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-06-09.
+This technical & solutions architect position at Accenture was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 
