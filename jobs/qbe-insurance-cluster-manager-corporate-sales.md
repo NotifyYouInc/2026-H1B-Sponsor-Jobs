@@ -1,16 +1,16 @@
-# Cluster Manager - Corporate Sales at QBE Insurance
+# Cluster Manager – Corporate Sales at QBE Insurance
 
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Pune, Maharashtra, India |
 | Category | Account Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/New-Delhi-India/Cluster-Manager---Corporate-Sales_355669-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Pune-India/Cluster-Manager---Corporate-Sales_355987-1) |
 
 ## About This Role
 
-This account manager position at QBE Insurance was posted on 2026-05-20.
+This account manager position at QBE Insurance was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

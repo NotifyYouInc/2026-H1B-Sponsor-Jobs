@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Account Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Relationship-Associate_26959307) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Krakow--Poland/Relationship-Associate_26971588) |
 
 ## About This Role
 
-This account manager position at Citigroup was posted on 2026-04-29.
+This account manager position at Citigroup was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

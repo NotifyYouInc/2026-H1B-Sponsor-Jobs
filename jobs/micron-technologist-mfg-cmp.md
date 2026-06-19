@@ -1,16 +1,16 @@
-# TECHNOLOGIST - MFG CMP at Micron
+# Technologist - MFG CMP at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Industrial Automation |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/TECHNOLOGIST---MFG-CMP_JR101047) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Technologist---MFG-CMP_JR99141) |
 
 ## About This Role
 
-This industrial automation position at Micron was posted on 2026-06-11.
+This industrial automation position at Micron was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

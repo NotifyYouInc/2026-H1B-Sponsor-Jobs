@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Livermore, California, United States |
+| Location | Bakersfield, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/4300-Las-Positas-Rd-LivermoreCA-94551-9641/Human-Resources-Expert_R0000442038) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/6301-Gosford-Rd-BakersfieldCA-93313-4748/Human-Resources-Expert_R0000442208) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-06-11.
+This human resources / people ops position at Target was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

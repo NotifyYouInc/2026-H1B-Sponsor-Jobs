@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rayong, Rayong, Thailand |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Account Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Rayong/Key-Account-Manager_REQ2026069849) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Key-Account-Manager_REQ2026075367) |
 
 ## About This Role
 
-This account manager position at Valeo was posted on 2026-03-04.
+This account manager position at Valeo was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

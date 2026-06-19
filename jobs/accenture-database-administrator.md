@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Database Administration |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Database-Administrator_ATCI-5477368-S2004739-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Database-Administrator_ATCI-5547806-S2029343-1) |
 
 ## About This Role
 
-This database administration position at Accenture was posted on 2026-06-03.
+This database administration position at Accenture was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

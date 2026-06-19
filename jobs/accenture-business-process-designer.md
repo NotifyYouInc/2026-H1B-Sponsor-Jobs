@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Software-Development-Engineer_ATCI-5079951-S1877800-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Program Manager |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Process-Designer_ATCI-5548044-S2029209-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-05-11.
+This program manager position at Accenture was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# TECHNOLOGIST - MFG DRY ETCH at Micron
+# Technologist -MFG Dry Etch at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/TECHNOLOGIST---MFG-DRY-ETCH_JR103046) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Technologist--MFG-Dry-Etch_JR102968) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-06-11.
+This semiconductor / chip design position at Micron was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Analysis Senior Manager – Vice President at Citigroup
+# Business Analysis Senior Manager - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Business-Analysis-Senior-Manager---Vice-President_26959114) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Business-Analysis-Senior-Manager---Vice-President_26968724-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-12.
+This business analyst position at Citigroup was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

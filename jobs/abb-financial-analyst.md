@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Shanghai, Shanghai, China |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Financial-Analyst_JR00034122) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Financial-Analyst_JR00013585) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-05-20.
+This corporate finance position at ABB was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

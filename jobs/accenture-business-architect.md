@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Business Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Business-Architect_ATCI-5497901-S2007173-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Architect_ATCI-5614289-S2029224-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-06-11.
+This strategy / management consulting position at Accenture was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

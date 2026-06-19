@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wuhan, Hubei, China |
+| Location | Shaoxing, Zhejiang, China |
 | Category | Account Executive |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013103846-sr-professional-medical-representative) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013593376-sr-professional-medical-representative) |
 
 ## About This Role
 
-This account executive position at AbbVie was posted on 2026-05-13.
+This account executive position at AbbVie was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

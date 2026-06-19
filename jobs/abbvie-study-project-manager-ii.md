@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Irvine, California, United States |
 | Category | Project Manager |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013505576-study-project-manager-ii) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013593156-study-project-manager-ii) |
 
 ## About This Role
 
-This project manager position at AbbVie was posted on 2026-06-06.
+This project manager position at AbbVie was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

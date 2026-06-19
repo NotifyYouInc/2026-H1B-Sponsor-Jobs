@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineering-Lead_ATCI-5618531-S2029072) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Custom-Software-Engineering-Lead_ATCI-5620530-S2029266-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-11.
+This software engineer position at Accenture was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

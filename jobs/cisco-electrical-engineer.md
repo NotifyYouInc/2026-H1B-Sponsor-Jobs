@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Guadalajara-Mexico/Electrical-Engineer_2008648) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Electrical-Engineer_2014796-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Cisco was posted on 2026-05-17.
+This electrical / hardware engineer position at Cisco was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

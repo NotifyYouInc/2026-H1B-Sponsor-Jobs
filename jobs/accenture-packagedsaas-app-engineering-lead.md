@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Packaged-SaaS-App-Engineering-Lead_ATCI-5566836-S2026308) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Packaged-SaaS-App-Engineering-Lead_ATCI-5620536-S2029263-1) |
 
 ## About This Role
 
-This engineering manager position at Accenture was posted on 2026-05-27.
+This software engineer position at Accenture was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

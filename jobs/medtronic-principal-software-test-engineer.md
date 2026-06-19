@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principal-Software-Test-Engineer_R60191-2) |
+| Location | Hyderabad, Telangana, India |
+| Category | QA Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principal-Software-Test-Engineer_R68946-1) |
 
 ## About This Role
 
-This software engineer position at Medtronic was posted on 2026-02-26.
+This qa engineer position at Medtronic was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Software Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Web-Developer_ATCI-5523155-S2012605-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Frontend Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Web-Developer_ATCI-5617808-S2029368) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-05-22.
+This frontend engineer position at Accenture was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

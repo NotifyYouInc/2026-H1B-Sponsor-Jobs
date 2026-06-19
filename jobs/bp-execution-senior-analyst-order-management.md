@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Execution-Senior-Analyst--Order-Management_RQ107038) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Execution-Senior-Analyst--Order-Management_RQ111733-1) |
 
 ## About This Role
 
-This business analyst position at BP was posted on 2026-04-09.
+This business analyst position at BP was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

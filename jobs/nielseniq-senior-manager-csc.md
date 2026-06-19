@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Customer Success |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131587061-senior-manager-csc) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131825891-senior-manager-csc) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-06-11.
+This customer success position at NielsenIQ was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

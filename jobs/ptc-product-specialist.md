@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Gurugram, Haryana, India |
 | Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Gurgaon-India/Product-Specialist_JR111879) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Gurgaon-India/Product-Specialist_JR112318) |
 
 ## About This Role
 
-This customer success position at PTC was posted on 2026-04-09.
+This customer success position at PTC was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
