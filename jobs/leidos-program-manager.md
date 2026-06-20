@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lorton, Virginia, United States |
+| Location | United States |
 | Category | Program Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Lorton-VA/Program-Manager_R-00175572-1) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Program-Manager_R-00185375) |
 
 ## About This Role
 
-This program manager position at Leidos was posted on 2026-02-09.
+This program manager position at Leidos was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Diego, California, United States |
+| Location | San Mateo, California, United States |
 | Category | Program Manager |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5826645004) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5982709004) |
 
 ## About This Role
 
-This program manager position at Sony Interactive Entertainment was posted on 2026-03-21.
+This program manager position at Sony Interactive Entertainment was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

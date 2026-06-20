@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shreveport, Louisiana, United States |
-| Category | Sales Leadership |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000119213592-district-manager) |
+| Location | Pasadena, Texas, United States |
+| Category | Account Manager |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000132010362-district-manager) |
 
 ## About This Role
 
-This sales leadership position at Public Storage was posted on 2026-04-07.
+This account manager position at Public Storage was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

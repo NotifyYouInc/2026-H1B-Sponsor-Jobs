@@ -1,16 +1,16 @@
-# Joven Profesional Comercial  Café at Louis Dreyfus
+# Joven Profesional Comercial Café at Louis Dreyfus
 
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Villanueva, Cortés Department, Honduras |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000128794139-joven-profesional-comercial-cafe) |
+| Location | Mexico |
+| Category | Business Analyst |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000131989033-joven-profesional-comercial-cafe) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-05-27.
+This business analyst position at Louis Dreyfus was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | San Jose, California, United States |
 | Category | Marketing |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7642788482783824133/detail) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7644213806197459253/detail) |
 
 ## About This Role
 
-This marketing position at TikTok was posted on 2026-05-22.
+This marketing position at TikTok was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

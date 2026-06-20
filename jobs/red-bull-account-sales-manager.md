@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gardena, California, United States |
+| Location | Dallas, Texas, United States |
 | Category | Account Manager |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000122776429-account-sales-manager) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000131994889-account-sales-manager) |
 
 ## About This Role
 
-This account manager position at Red Bull was posted on 2026-04-25.
+This account manager position at Red Bull was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

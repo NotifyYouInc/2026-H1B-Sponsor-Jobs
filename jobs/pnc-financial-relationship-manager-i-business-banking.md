@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lake Mary, Florida, United States |
+| Location | Potomac, Maryland, United States |
 | Category | Account Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/FL---Lake-Mary/Relationship-Manager-I-Business-Banking_R225119-1) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/MD---Potomac/Relationship-Manager-I-Business-Banking_R226084-1) |
 
 ## About This Role
 
-This account manager position at PNC Financial was posted on 2026-06-04.
+This account manager position at PNC Financial was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

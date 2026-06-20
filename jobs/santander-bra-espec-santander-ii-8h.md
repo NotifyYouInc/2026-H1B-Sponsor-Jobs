@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Campo Grande, Mato Grosso do Sul, Brazil |
-| Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CAMPO-GRANDE/BRA-Espec-Santander-II-8h_Req1561133) |
+| Location | Florianópolis, Santa Catarina, Brazil |
+| Category | Account Manager |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/FLORIANOPOLIS/BRA-Espec-Santander-II-8h_Req1567030) |
 
 ## About This Role
 
-This account executive position at Santander was posted on 2026-04-07.
+This account manager position at Santander was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

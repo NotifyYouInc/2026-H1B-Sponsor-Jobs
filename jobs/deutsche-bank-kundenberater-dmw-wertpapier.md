@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Berlin, State of Berlin, Germany |
-| Category | Account Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Berlin-Gutschmidtstr-19-PB/Kundenberater--d-m-w--Wertpapier_R0432622-1) |
+| Location | Leverkusen, North Rhine-Westphalia, Germany |
+| Category | Corporate Finance |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Leverkusen-Dnhoffstr-39-PB/Kundenberater--d-m-w--Wertpapier_R0437433-1) |
 
 ## About This Role
 
-This account manager position at Deutsche Bank was posted on 2026-05-18.
+This corporate finance position at Deutsche Bank was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

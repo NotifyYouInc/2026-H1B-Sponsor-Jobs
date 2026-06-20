@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
+| Location | Seattle, Washington, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Principal-Corporate-Development-Manager_R19077-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Principal-Corporate-Development-Manager_R19260-1) |
 
 ## About This Role
 
-This engineering manager position at Zoom was posted on 2026-04-25.
+This engineering manager position at Zoom was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

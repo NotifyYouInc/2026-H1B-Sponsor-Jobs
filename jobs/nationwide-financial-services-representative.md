@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Grandview Heights, Ohio, United States |
-| Category | Account Manager |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Grandview-Heights-1000-Yard-Street-H-Building/Financial-Services-Representative_098102) |
+| Category | Account Executive |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Grandview-Heights-1000-Yard-Street-H-Building/Financial-Services-Representative_098693) |
 
 ## About This Role
 
-This account manager position at Nationwide was posted on 2026-05-09.
+This account executive position at Nationwide was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

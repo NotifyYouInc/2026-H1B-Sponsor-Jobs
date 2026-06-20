@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Renton, Washington, United States |
+| Location | Everett, Washington, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Manufacturing-Manager_JR2026510154) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Manufacturing-Manager_JR2026514816-1) |
 
 ## About This Role
 
-This engineering manager position at Boeing was posted on 2026-05-15.
+This engineering manager position at Boeing was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

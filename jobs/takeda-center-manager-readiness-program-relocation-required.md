@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 6 locations |
+| Location | Texas, US |
 | Category | Leadership Development Program |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/USA---TX---Virtual/Center-Manager-Readiness-Program---Relocation-Required_R0177126-1) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/USA---TX---Virtual/Center-Manager-Readiness-Program---Relocation-Required_R0182122-1) |
 
 ## About This Role
 
-This leadership development program position at Takeda was posted on 2026-03-26.
+This leadership development program position at Takeda was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

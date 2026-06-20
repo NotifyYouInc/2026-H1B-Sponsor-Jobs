@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Austin, Texas, United States |
 | Category | Business Development |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Business-Development-Representative_R166297) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Austin/Business-Development-Representative_R169749) |
 
 ## About This Role
 
-This business development position at Adobe was posted on 2026-03-17.
+This business development position at Adobe was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

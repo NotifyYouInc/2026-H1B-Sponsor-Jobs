@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iHeartMedia](https://scoutify.ai/companies/iheartmedia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Denver, Colorado, United States |
 | Category | Account Executive |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/Account-Executive_Req38081-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Denver-CO-Monaco/Account-Executive_Req38754-4) |
 
 ## About This Role
 
-This account executive position at iHeartMedia was posted on 2026-03-20.
+This account executive position at iHeartMedia was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

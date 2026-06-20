@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York, US |
+| Location | Fort Myers, Florida, United States |
 | Category | Account Executive |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---New-York/Business-Development-Executive--LE-GE--GTS_107573) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Fort-Myers-FL/Business-Development-Executive--LE-GE--GTS_106128-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-03-06.
+This account executive position at Gartner was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ashburn, Virginia, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/Data-Scientist_R0235384) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0242207) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-03-06.
+This data scientist position at Booz Allen was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

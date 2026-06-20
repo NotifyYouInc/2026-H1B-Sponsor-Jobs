@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Tysons, Virginia, United States |
 | Category | Sales Leadership |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000115980608-sales-director) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000132026579-sales-director) |
 
 ## About This Role
 
-This sales leadership position at MicroStrategy was posted on 2026-03-20.
+This sales leadership position at MicroStrategy was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

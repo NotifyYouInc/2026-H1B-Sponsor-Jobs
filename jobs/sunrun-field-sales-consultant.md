@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fort Worth, Texas, United States |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/TX-Fort-Worth/Field-Sales-Consultant_R64647) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Apple-Valley/Field-Sales-Consultant_R68412) |
 
 ## About This Role
 
-This account executive position at Sunrun was posted on 2026-05-02.
+This account executive position at Sunrun was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

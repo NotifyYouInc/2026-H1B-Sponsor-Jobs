@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Marketing |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443264/sr-product-marketing-manager-b2b-alexa-enterprise) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448329/sr-product-marketing-manager-b2b-alexa-enterprise) |
 
 ## About This Role
 
-This marketing position at Amazon was posted on 2026-06-09.
+This marketing position at Amazon was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

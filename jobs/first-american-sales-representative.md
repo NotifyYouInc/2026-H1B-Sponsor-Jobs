@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [First American](https://scoutify.ai/companies/firstam?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Santa Ana, California, United States |
-| Category | Sales |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Sales-Representative_R054597) |
+| Location | Santa Fe, New Mexico, United States |
+| Category | Account Executive |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/505-Cerrillos-Rd-Units-A204-A206--A208-A209-Santa-Fe-NM-87501/Sales-Representative_R057130) |
 
 ## About This Role
 
-This sales position at First American was posted on 2026-02-13.
+This account executive position at First American was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
