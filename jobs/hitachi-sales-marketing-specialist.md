@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gauteng, ZA |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maputo-Gauteng-South-Africa/Sales---Marketing-Specialist_R0132135) |
+| Location | India |
+| Category | Business Development |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Karnataka-India/Sales---Marketing-Specialist_R0126725) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-05-27.
+This business development position at Hitachi was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

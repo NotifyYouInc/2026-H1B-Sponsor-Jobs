@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | Account Executive |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8003867) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/8000760) |
 
 ## About This Role
 

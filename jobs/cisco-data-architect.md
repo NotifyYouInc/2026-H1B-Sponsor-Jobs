@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Jose, California, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Architect_2013868) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Architect_2014954) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-05-17.
+This data engineer position at Cisco was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

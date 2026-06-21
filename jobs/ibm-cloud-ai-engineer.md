@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112236) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119742) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-04-28.
+This ai / llm engineer position at IBM was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

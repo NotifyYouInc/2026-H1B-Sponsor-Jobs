@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gujarat, IN |
+| Location | Dammam, Eastern Province, Saudi Arabia |
 | Category | Project Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Project-Manager_R0131796) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dammam-Eastern-Region-Saudi-Arabia/Project-Manager_R0123301) |
 
 ## About This Role
 
-This project manager position at Hitachi was posted on 2026-06-08.
+This project manager position at Hitachi was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

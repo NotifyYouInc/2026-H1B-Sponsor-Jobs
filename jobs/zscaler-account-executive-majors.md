@@ -1,16 +1,16 @@
-#  Account Executive - Majors at Zscaler
+# Account Executive - Majors at Zscaler
 
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Malaysia |
 | Category | Account Executive |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5156014007) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5156016007) |
 
 ## About This Role
 
-This account executive position at Zscaler was posted on 2026-06-10.
+This account executive position at Zscaler was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

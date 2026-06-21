@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philippines |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Sales Leadership |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Manager-Sales-Professional_51581094) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/TWN---TPE---TAIPEI/Manager-Sales-Professional_51579758) |
 
 ## About This Role
 
-This sales leadership position at DXC Technology was posted on 2026-06-03.
+This sales leadership position at DXC Technology was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Human Resources / People Ops |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Senior-Assosiate-Resource-management-OC-RMG-Advisory-Kolkata_725539WD) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Business Analyst |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Assosiate-Resource-management-OC-RMG-Advisory-Kolkata_736511WD) |
 
 ## About This Role
 
-This human resources / people ops position at PwC was posted on 2026-04-30.
+This business analyst position at PwC was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 
