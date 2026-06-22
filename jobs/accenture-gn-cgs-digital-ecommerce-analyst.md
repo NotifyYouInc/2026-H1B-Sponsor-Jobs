@@ -1,16 +1,16 @@
-# Custom Software Engineer at Accenture
+# GN-CG&S-Digital eCommerce - Analyst at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Location | 3 locations |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5437001-S1978429-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/GN-CG-S-Digital-eCommerce---Analyst_R00311795) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-15.
+This digital / performance marketing position at Accenture was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

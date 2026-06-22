@@ -1,16 +1,16 @@
-# Custom Software Engineer at Accenture
+# GN-IC-Comms and Media-CTO Advisory & Network Transformation- Senior Principal at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Location | 7 locations |
+| Category | Engineering Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5437001-S1978429-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram-DDC1A-NonSTPI/GN-IC-Comms-and-Media-Digital-Core-BSS---Digital-Channels-Consultant_R00311729) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-15.
+This engineering manager position at Accenture was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
