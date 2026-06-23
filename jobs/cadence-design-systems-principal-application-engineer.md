@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Principal-Application-Engineer_R52625) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Principal-Application-Engineer_R53452) |
 
 ## About This Role
 
-This engineering manager position at Cadence Design Systems was posted on 2026-06-02.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

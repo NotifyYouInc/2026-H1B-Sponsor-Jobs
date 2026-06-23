@@ -1,16 +1,16 @@
-# Technology Lead Business Analyst-Vice President at Citigroup
+# Technology Lead Business Analyst - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Project Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Technology-Lead-Business-Analyst-Vice-President_26968829) |
+| Location | Pune, Maharashtra, India |
+| Category | Program Manager |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Technology-Lead-Business-Analyst---Vice-President_26969666) |
 
 ## About This Role
 
-This project manager position at Citigroup was posted on 2026-06-10.
+This program manager position at Citigroup was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

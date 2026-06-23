@@ -1,16 +1,16 @@
-# Técnico(a) de Diagnóstico Sr. at Jabil
+# Técnico(a) de Diagnóstico Sr at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Customer Success |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Tcnico-a--de-Diagnstico-Sr_J2449211) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Tcnico-a--de-Diagnstico-Sr_J2454219) |
 
 ## About This Role
 
-This customer success position at Jabil was posted on 2026-05-07.
+This customer success position at Jabil was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

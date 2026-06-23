@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Program Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Sr-Principal-Program-Manager_R52280) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Sr-Principal-Program-Manager_R51622) |
 
 ## About This Role
 
-This program manager position at Cadence Design Systems was posted on 2026-02-24.
+This program manager position at Cadence Design Systems was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

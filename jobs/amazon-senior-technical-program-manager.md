@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Program Manager |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428855/senior-technical-program-manager) |
+| Category | Technical Product Manager |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435887/senior-technical-program-manager) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-05-23.
+This technical product manager position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

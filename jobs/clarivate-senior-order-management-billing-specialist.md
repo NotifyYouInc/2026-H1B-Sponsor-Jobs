@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Malaysia |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Malaysia---Penang/Senior-Order-Management---Billing-Specialist_JREQ135682) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R271--Noida/Senior-Order-Management---Billing-Specialist_JREQ135759) |
 
 ## About This Role
 
-This corporate finance position at Clarivate was posted on 2026-05-15.
+This corporate finance position at Clarivate was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

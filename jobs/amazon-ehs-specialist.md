@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Liberty, Missouri, United States |
+| Location | Hollister, California, United States |
 | Category | ESG / Sustainability |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428859/ehs-specialist) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436129/ehs-specialist) |
 
 ## About This Role
 
-This esg / sustainability position at Amazon was posted on 2026-05-23.
+This esg / sustainability position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

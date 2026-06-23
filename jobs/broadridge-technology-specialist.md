@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Engineering Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Technology-Specialist_JR1083070-1) |
+| Location | 2 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Technology-Specialist_JR1083739-1) |
 
 ## About This Role
 
-This engineering manager position at Broadridge was posted on 2026-05-25.
+This devops engineer position at Broadridge was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

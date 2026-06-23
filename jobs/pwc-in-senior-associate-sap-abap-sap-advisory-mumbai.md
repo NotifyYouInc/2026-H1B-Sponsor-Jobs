@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Airoli, Maharashtra, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Airoli/IN-Senior-Associate-SAP-ABAP-SAP-Advisory-Mumbai_734757WD-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate-SAP-ABAP-SAP-Advisory-Mumbai_737292WD) |
 
 ## About This Role
 
-This technology / it consulting position at PwC was posted on 2026-06-08.
+This technology / it consulting position at PwC was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

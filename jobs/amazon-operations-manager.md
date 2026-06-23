@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Pooler, Georgia, United States |
 | Category | Operations |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428344/operations-manager) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436015/operations-manager) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-05-22.
+This operations position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Sr. EU Site Process Engineer, EU CF PE at Amazon
+
+| Field | Details |
+|-------|---------|
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Swindon, England, United Kingdom |
+| Category | Industrial Automation |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445814/sr-eu-site-process-engineer-eu-cf-pe) |
+
+## About This Role
+
+This industrial automation position at Amazon was posted on 2026-06-11.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

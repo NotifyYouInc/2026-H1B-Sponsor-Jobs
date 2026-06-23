@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Operations |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10397558/sellerflex-operation-executive-external-fulfillment) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432629/sellerflex-operation-executive-external-fulfillment) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-04-21.
+This operations position at Amazon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

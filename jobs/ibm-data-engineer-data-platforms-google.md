@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Haryana, IN |
-| Category | Software Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98868) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120313) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-03-17.
+This data engineer position at IBM was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

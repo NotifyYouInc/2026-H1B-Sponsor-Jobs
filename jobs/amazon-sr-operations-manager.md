@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rancho Cordova, California, United States |
+| Location | East Point, Georgia, United States |
 | Category | Operations |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417241/sr-operations-manager) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428767/sr-operations-manager) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-05-12.
+This operations position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

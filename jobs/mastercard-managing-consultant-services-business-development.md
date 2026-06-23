@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Business Development |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Manila-Philippines/Managing-Consultant--Services-Business-Development_R-266394-1) |
+| Location | Tbilisi, Tbilisi, Georgia |
+| Category | Account Executive |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Tbilisi-Georgia/Managing-Consultant--Services-Business-Development_R-279813) |
 
 ## About This Role
 
-This business development position at Mastercard was posted on 2026-02-06.
+This account executive position at Mastercard was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

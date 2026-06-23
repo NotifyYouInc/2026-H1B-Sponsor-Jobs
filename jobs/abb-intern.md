@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xiamen, Fujian, China |
-| Category | Human Resources / People Ops |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Intern_JR00035310) |
+| Location | Shanghai, Shanghai, China |
+| Category | Industrial Automation |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Intern_JR00037878-2) |
 
 ## About This Role
 
-This human resources / people ops position at ABB was posted on 2026-05-28.
+This industrial automation position at ABB was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Program Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Technical-Program-Manager-1_R-271326) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Technical-Program-Manager-1_R-277465-1) |
 
 ## About This Role
 
-This program manager position at Mastercard was posted on 2026-03-24.
+This program manager position at Mastercard was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

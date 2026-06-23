@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | Account Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Istanbul/Account-Manager_R1087269-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Makati-City/Account-Manager_R1125452) |
 
 ## About This Role
 
-This account manager position at Dentsu was posted on 2026-06-09.
+This account manager position at Dentsu was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

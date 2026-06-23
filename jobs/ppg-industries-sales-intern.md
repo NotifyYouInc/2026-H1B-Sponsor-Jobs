@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hefei, Anhui, China |
+| Location | Changsha, Hunan, China |
 | Category | Business Development |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/CHN---Hefei/Sales-Intern_JR261060) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/CHN---Changsha/Sales-Intern_JR261061) |
 
 ## About This Role
 
-This business development position at PPG Industries was posted on 2026-04-16.
+This business development position at PPG Industries was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

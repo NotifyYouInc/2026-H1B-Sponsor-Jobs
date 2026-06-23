@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Business-Bay/Senior-Analyst---Insurance-Operations_R_351741) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---DLF-Building/Senior-Analyst---Insurance-Operations_R_350382) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-06-11.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

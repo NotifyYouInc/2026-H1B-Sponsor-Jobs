@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | QA Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Technologist-I---Testing_568345) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Technologist-I---Testing_584094) |
 
 ## About This Role
 
-This qa engineer position at Philips was posted on 2026-05-29.
+This qa engineer position at Philips was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

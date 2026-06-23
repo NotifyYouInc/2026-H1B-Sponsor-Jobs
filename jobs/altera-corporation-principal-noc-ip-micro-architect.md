@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Penang, MY |
-| Category | Solutions Architect |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Principal-NoC-IP-Micro-Architect_R01976) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Principal-NoC-IP-Micro-Architect_R02673) |
 
 ## About This Role
 
-This solutions architect position at Altera Corporation was posted on 2026-02-06.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

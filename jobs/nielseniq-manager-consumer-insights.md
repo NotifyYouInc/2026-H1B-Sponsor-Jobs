@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129383194-manager-consumer-insights) |
+| Location | Shanghai, Shanghai, China |
+| Category | Project Manager |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132339049-manager-consumer-insights) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-06-01.
+This project manager position at NielsenIQ was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
