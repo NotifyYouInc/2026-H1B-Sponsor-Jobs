@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Ahmedabad, Gujarat, India |
 | Category | Channel / Partner Sales |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429171/ctl-quick-commerce-last-mile-fulfillment-center-operations-management) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429228/ctl-quick-commerce-last-mile-fulfillment-center-operations-management) |
 
 ## About This Role
 
-This channel / partner sales position at Amazon was posted on 2026-05-25.
+This channel / partner sales position at Amazon was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

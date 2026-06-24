@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Business Development |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Tokyo-Japan/Senior-Commercial-Account-Executive_R34197-5) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Account Executive |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Melbourne-Australia/Senior-Commercial-Account-Executive_R34995) |
 
 ## About This Role
 
-This business development position at Zendesk was posted on 2026-03-09.
+This account executive position at Zendesk was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

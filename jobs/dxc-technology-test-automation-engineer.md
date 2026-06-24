@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
-| Category | Software Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Test-Automation-Engineer_51568158) |
+| Category | QA Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Test-Automation-Engineer_51572905) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-02-20.
+This qa engineer position at DXC Technology was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

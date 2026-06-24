@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Germany |
+| Location | Hong Kong, Hong Kong |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556755476) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556875612) |
 
 ## About This Role
 
-This technical & solutions architect position at Microsoft was posted on 2026-02-27.
+This technical & solutions architect position at Microsoft was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

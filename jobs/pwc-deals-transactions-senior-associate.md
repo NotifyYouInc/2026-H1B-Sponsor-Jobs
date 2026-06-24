@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dar es Salaam, Dar es Salaam Region, Tanzania |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Dar-es-Salaam/Deals--Transactions----Senior-Associate_730362WD) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Dar-es-Salaam/Deals--Transactions----Senior-Associate_737547WD) |
 
 ## About This Role
 
-This financial advisory & consulting position at PwC was posted on 2026-05-20.
+This financial advisory & consulting position at PwC was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Amarillo, Texas, United States |
+| Location | Carlisle, Pennsylvania, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10383633/mechatronics-robotics-tech) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436363/mechatronics-robotics-tech) |
 
 ## About This Role
 
-This robotics engineer position at Amazon was posted on 2026-04-06.
+This robotics engineer position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

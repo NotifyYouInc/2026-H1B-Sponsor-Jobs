@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Content Marketing |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3205068/marketing-intern-amazon-global-logistics) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10451149/marketing-intern-amazon-global-logistics) |
 
 ## About This Role
 
-This content marketing position at Amazon was posted on 2026-03-16.
+This content marketing position at Amazon was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

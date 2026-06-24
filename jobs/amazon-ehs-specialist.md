@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hollister, California, United States |
+| Location | Goodyear, Arizona, United States |
 | Category | ESG / Sustainability |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436129/ehs-specialist) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412666/ehs-specialist) |
 
 ## About This Role
 
-This esg / sustainability position at Amazon was posted on 2026-06-01.
+This esg / sustainability position at Amazon was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

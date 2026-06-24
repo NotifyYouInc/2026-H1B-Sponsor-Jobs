@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Osaka, Osaka, Japan |
+| Location | Boston, Massachusetts, United States |
 | Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3201828/data-solutions-lead-data-collection-excellence) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422804/data-solutions-lead-data-collection-excellence) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-03-11.
+This customer success position at Amazon was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

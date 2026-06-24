@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Australia |
+| Location | Warana, Queensland, Australia |
 | Category | Industrial Automation |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Scoresby-Caribbean-Australia/BMS-Service-Technician_WD30267073) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Warana-Queensland-Australia/BMS-Service-Technician_WD30272430) |
 
 ## About This Role
 
-This industrial automation position at Johnson Controls was posted on 2026-04-16.
+This industrial automation position at Johnson Controls was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

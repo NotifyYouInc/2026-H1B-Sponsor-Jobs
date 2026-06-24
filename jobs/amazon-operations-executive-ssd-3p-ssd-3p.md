@@ -1,16 +1,16 @@
-# Operations Executive, SSD 3P, SSD 3P at Amazon
+# Operations Executive, SSD 3P, SSD - 3P at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Tennessee, US |
 | Category | Operations |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439556/operations-executive-ssd-3p-ssd-3p) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449073/operations-executive-ssd-3p-ssd-3p) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-06-16.
+This operations position at Amazon was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 
