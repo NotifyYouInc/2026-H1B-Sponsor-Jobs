@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Murfreesboro, Tennessee, United States |
+| Location | Maryland, US |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422681/it-support-engineer-i-ops-tech-solutions-ots) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439004/it-support-engineer-i-ops-tech-solutions-ots) |
 
 ## About This Role
 
-This it & systems administration position at Amazon was posted on 2026-05-18.
+This it & systems administration position at Amazon was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

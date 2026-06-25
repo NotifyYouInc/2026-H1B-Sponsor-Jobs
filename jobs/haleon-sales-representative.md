@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tianjin, Tianjin, China |
+| Location | Thessaloníki, Central Macedonia, Greece |
 | Category | Account Executive |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Tianjin---TEDA---No65-Fifth-Avenue/Sales-Representative_543287-2) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Thessaloniki/Sales-Representative_544830) |
 
 ## About This Role
 
-This account executive position at Haleon was posted on 2026-05-09.
+This account executive position at Haleon was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

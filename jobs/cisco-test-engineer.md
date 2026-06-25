@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Engineering Manager |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Guadalajara-Mexico/Test-Engineer_2014804) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Guadalajara-Mexico/Test-Engineer_2016303) |
 
 ## About This Role
 
-This engineering manager position at Cisco was posted on 2026-06-07.
+This engineering manager position at Cisco was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132337274-senior-software-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132778639-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at NielsenIQ was posted on 2026-06-16.
+This ai / llm engineer position at NielsenIQ was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

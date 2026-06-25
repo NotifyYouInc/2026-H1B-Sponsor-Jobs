@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Stone Mountain, Georgia, United States |
+| Location | Moreno Valley, California, United States |
 | Category | Operations |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432320/operations-manager) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413616/operations-manager) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-05-27.
+This operations position at Amazon was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

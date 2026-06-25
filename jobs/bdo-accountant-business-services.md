@@ -1,16 +1,16 @@
-# Accountant - Business Services at Bdo
+# Accountant, Business Services at Bdo
 
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Sydney-New-South-Wales/Accountant---Business-Services_JR103280) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Melbourne-Victoria/Accountant--Business-Services_JR103223) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-06-11.
+This corporate finance position at Bdo was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

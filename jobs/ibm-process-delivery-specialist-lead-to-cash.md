@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119874) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119872) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-06-16.
+This business analyst position at IBM was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Chennai/Lead-Engineer---Controls---Protection_R5035676-2) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Pallavaram/Lead-Engineer---Controls---Protection_R5045269-2) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GE Vernova was posted on 2026-03-27.
+This electrical / hardware engineer position at GE Vernova was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

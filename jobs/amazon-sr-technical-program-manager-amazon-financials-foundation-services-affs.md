@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Program Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432602/sr-technical-program-manager-amazon-financials-foundation-services-affs) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10425594/sr-technical-program-manager-amazon-financials-foundation-services-affs) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-05-28.
+This program manager position at Amazon was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

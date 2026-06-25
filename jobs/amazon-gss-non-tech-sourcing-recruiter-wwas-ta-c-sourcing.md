@@ -1,16 +1,16 @@
-# GSS - Non-Tech Sourcing Recruiter , WWAS TA C Sourcing at Amazon
+# GSS - Non Tech Sourcing Recruiter , WWAS TA C Sourcing at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10397557/gss-non-tech-sourcing-recruiter-wwas-ta-c-sourcing) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10425216/gss-non-tech-sourcing-recruiter-wwas-ta-c-sourcing) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Amazon was posted on 2026-04-21.
+This talent acquisition / recruiting position at Amazon was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

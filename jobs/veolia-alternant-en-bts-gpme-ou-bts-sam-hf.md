@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Avallon, Bourgogne, France |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000128868549-alternant-en-bts-gpme-ou-bts-sam-hf) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132788070-alternant-en-bts-gpme-ou-bts-sam-hf) |
 
 ## About This Role
 
-This business analyst position at Veolia was posted on 2026-05-28.
+This business analyst position at Veolia was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

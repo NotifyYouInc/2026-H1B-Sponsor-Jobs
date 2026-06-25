@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Milton Keynes, England, United Kingdom |
+| Location | Kettering, England, United Kingdom |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422375/hr-business-partner) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10409947/hr-business-partner) |
 
 ## About This Role
 
-This human resources / people ops position at Amazon was posted on 2026-05-18.
+This human resources / people ops position at Amazon was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

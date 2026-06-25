@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager---External-Quality-Supplier-Compliance---GCC_439664) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager---External-Quality-Supplier-Compliance---GCC_439665) |
 
 ## About This Role
 
-This compliance & risk management position at GSK was posted on 2026-04-20.
+This compliance & risk management position at GSK was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

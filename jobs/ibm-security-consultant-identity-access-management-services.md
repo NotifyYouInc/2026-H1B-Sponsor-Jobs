@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104759) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Security Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=121128) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-03-23.
+This security engineer position at IBM was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

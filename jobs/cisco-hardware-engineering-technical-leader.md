@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hyderabad-India/Hardware-Engineering-Technical-Leader_2016873) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Taipei-Taiwan/Hardware-Engineering-Technical-Leader_2016661) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Cisco was posted on 2026-06-10.
+This electrical / hardware engineer position at Cisco was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

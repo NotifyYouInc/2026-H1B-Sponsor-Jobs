@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Annet-sur-Marne, Île-de-France, France |
-| Category | Industrial Automation |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000131052504-electromecanicien-hf) |
+| Location | Avallon, Bourgogne, France |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132787983-electromecanicien-hf) |
 
 ## About This Role
 
-This industrial automation position at Veolia was posted on 2026-06-09.
+This electrical / hardware engineer position at Veolia was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

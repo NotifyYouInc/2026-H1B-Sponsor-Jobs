@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Hong Kong, Hong Kong |
 | Category | Customer Success |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfdKY_JNZO3qo73lNCTUsTDKwJ4HmCKPwBoHjpMDOnf3EjoACxwdTEIjuPxzVipIxYrLewU7f1mcyxQET9S-XKvhRRFQAmOddLU7iB7c9Pp3aqtdcnSzMew83Wyq_V2&loc=CN&title=Technical+Account+Manager) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXECL_F-oabcxf_0saDr8POXXbkLTbpiLBbuu7np02C0EjsA1Ny_i7vR_YhZyANseeZ3lh2NkMvxXJO1bCtEWQHN2mtuPEk7rCp4FA74_nNrrzsJoX7RkSlNRqCxGA%3D%3D_V2&loc=HK&title=Technical+Account+Manager) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-06-10.
+This customer success position at Google was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

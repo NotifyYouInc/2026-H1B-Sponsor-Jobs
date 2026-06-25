@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Joliet, Illinois, United States |
+| Location | Kernersville, North Carolina, United States |
 | Category | Operations |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436848/sr-operations-manager) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406145/sr-operations-manager) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-06-02.
+This operations position at Amazon was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

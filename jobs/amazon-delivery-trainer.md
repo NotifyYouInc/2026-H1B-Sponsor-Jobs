@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Livermore, California, United States |
+| Location | Loveland, Colorado, United States |
 | Category | Learning & Development |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435430/delivery-trainer) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411099/delivery-trainer) |
 
 ## About This Role
 
-This learning & development position at Amazon was posted on 2026-06-01.
+This learning & development position at Amazon was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

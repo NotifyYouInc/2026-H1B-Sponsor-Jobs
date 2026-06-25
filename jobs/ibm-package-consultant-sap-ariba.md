@@ -1,16 +1,16 @@
-# Package Consultant-SAP Ariba at IBM
+# Package Consultant- SAP Ariba at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100455) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120252) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-03-09.
+This technology / it consulting position at IBM was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

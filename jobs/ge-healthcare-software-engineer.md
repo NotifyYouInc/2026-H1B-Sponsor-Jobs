@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wuxi, Jiangsu, China |
+| Location | South Korea |
 | Category | Software Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/WuXi/Software-Engineer_R4041839) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Seongnam/Software-Engineer_R4042394-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-06-01.
+This software engineer position at GE HealthCare was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

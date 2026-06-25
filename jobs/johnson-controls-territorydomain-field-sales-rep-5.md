@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Littleton, Colorado, United States |
 | Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Littleton-Colorado-United-States-of-America/Territory-Domain-Field-Sales-Rep-5_WD30267999) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Littleton-Colorado-United-States-of-America/Territory-Domain-Field-Sales-Rep-5_WD30268193) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-05-01.
+This account executive position at Johnson Controls was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 
