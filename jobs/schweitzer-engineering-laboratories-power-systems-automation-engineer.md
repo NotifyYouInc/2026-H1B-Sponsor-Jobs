@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 3 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-02-15 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Markham/Project-Engineer-III---Auto_2025-19158) |
+| Category | Industrial Automation |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Power-Systems-Automation-Engineer_2026-20962) |
 
 ## About This Role
 
-This devops engineer position at Schweitzer Engineering Laboratories was posted on 2026-02-15.
+This industrial automation position at Schweitzer Engineering Laboratories was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

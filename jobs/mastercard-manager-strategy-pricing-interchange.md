@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Operations |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Tokyo-Japan/Manager--Strategy-Pricing---Interchange_R-273720) |
+| Location | 2 locations |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Strategy-Pricing---Interchange_R-280433) |
 
 ## About This Role
 
-This operations position at Mastercard was posted on 2026-03-25.
+This strategy / management consulting position at Mastercard was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

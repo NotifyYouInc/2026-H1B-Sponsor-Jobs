@@ -1,16 +1,16 @@
-# Ingénieur Chargé d’Affaires Outillage / Machines H/F  at ALTEN
+# Ingénieur Chargé d’Affaires Outillage / Machines H/F at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Saint-Nazaire, Pays de la Loire, France |
 | Category | Engineering Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131829491-ingenieur-charge-daffaires-outillage-machines-hf) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000133001650-ingenieur-charge-daffaires-outillage-machines-hf) |
 
 ## About This Role
 
-This engineering manager position at ALTEN was posted on 2026-06-12.
+This engineering manager position at ALTEN was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Support-Engineer--VSE-EPI-_R2621089) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Process-Support-Engineer--VSE-EPI-_R2622294) |
 
 ## About This Role
 
-This semiconductor / chip design position at Applied Materials was posted on 2026-06-02.
+This semiconductor / chip design position at Applied Materials was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Homburg, Saarland, Germany |
+| Location | 2 locations |
 | Category | Account Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Homburg-Saarland-Deutschland/Kundenberatung-Auendienst--m-w-d-_R26_0000012716) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Kln-Nordrhein-Westfalen-Deutschland/Kundenberatung-Auendienst--m-w-d-_R26_0000008188) |
 
 ## About This Role
 
-This account manager position at Genuine Parts Company was posted on 2026-04-24.
+This account manager position at Genuine Parts Company was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

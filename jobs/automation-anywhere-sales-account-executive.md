@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Automation Anywhere](https://scoutify.ai/companies/automation-anywhere?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Toronto, Ontario, Canada |
 | Category | Account Executive |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/BR-Sao-Paulo/Sales-Account-Executive_JR1320) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://automationanywhere.wd5.myworkdayjobs.com/automationanywherejobs/job/Toronto-Canada/Sales-Account-Executive_JR1113) |
 
 ## About This Role
 
-This account executive position at Automation Anywhere was posted on 2026-04-06.
+This account executive position at Automation Anywhere was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

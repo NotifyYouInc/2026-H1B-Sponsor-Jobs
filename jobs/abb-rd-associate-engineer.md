@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xiamen, Fujian, China |
+| Location | 2 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/R-D-Senior-Engineer_JR00018763) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/R-D-Associate-Engineer_JR00030614) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-05-07.
+This electrical / hardware engineer position at ABB was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

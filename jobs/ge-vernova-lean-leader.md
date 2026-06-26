@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Yokohama, Kanagawa, Japan |
-| Category | Project Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Yokohama/Lean-Leader_R5033805-2) |
+| Category | Industrial Automation |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Yokohama/Lean-Leader_R5045429-2) |
 
 ## About This Role
 
-This project manager position at GE Vernova was posted on 2026-03-12.
+This industrial automation position at GE Vernova was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

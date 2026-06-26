@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Reno, Nevada, United States |
+| Location | Blue Ash, Ohio, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/6845-Sierra-Center-Pkwy-RenoNV-89511-2214/Human-Resources-Expert_R0000442822) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/9099-Plainfield-Rd-Blue-AshOH-45236-1245/Human-Resources-Expert_R0000443009) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-06-18.
+This human resources / people ops position at Target was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

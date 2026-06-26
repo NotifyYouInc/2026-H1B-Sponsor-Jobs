@@ -1,16 +1,16 @@
-# Ingénieur Système Ferroviaire (H/F) at ALTEN
+# Ingénieur Système Ferroviaire (H/F)  at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Valenciennes, Hauts-de-France, France |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131385049-ingenieur-systeme-ferroviaire-hf) |
+| Location | Tours, Centre-Val de Loire, France |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000133001500-ingenieur-systeme-ferroviaire-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-06-10.
+This electrical / hardware engineer position at ALTEN was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

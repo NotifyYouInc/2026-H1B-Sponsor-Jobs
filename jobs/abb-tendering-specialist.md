@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Tokyo-Tokyo-Japan/Tendering-Specialist_JR00034789) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Petaling-Jaya-Selangor-Malaysia/Tendering-Specialist_JR00030857) |
 
 ## About This Role
 
-This business analyst position at ABB was posted on 2026-05-19.
+This business analyst position at ABB was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

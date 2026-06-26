@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Engineering Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131830480-ingenieur-systemes-mecaniques-hf) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000133002611-ingenieur-systemes-mecaniques-hf) |
 
 ## About This Role
 
-This engineering manager position at ALTEN was posted on 2026-06-12.
+This engineering manager position at ALTEN was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

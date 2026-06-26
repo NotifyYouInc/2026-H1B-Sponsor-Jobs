@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3202870/delivery-consultant-application-modernization-tech-industry-apps) |
+| Category | Customer Success |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10453458/delivery-consultant-application-modernization-tech-industry-apps) |
 
 ## About This Role
 
-This technology / it consulting position at Amazon was posted on 2026-03-12.
+This customer success position at Amazon was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

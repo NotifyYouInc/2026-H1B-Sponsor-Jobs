@@ -1,16 +1,16 @@
-# Sales Director-Public Sector at Oracle
+# Sales Director - Public Sector at Oracle
 
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Utrecht, Utrecht, The Netherlands |
 | Category | Sales Leadership |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#333350) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#337592) |
 
 ## About This Role
 
-This sales leadership position at Oracle was posted on 2026-05-13.
+This sales leadership position at Oracle was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

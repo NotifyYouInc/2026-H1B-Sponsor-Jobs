@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Cavite, Central Luzon, Philippines |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Technician-1--Product-Engineering_R263116) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Technician-1--Product-Engineering_R262784) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-06-08.
+This electrical / hardware engineer position at Analog Devices was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
