@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fairfax, Virginia, United States |
+| Location | Maryland, US |
 | Category | Software Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Fairfax/Software-Engineer_RQ213936-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer_RQ222244-1) |
 
 ## About This Role
 
-This software engineer position at General Dynamics Information Technology was posted on 2026-02-07.
+This software engineer position at General Dynamics Information Technology was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

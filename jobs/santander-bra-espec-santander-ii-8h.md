@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Florianópolis, Santa Catarina, Brazil |
+| Location | Maricá, Rio de Janeiro, Brazil |
 | Category | Account Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/FLORIANOPOLIS/BRA-Espec-Santander-II-8h_Req1567030) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/MARICA/BRA-Espec-Santander-II-8h_Req1588070) |
 
 ## About This Role
 
-This account manager position at Santander was posted on 2026-06-12.
+This account manager position at Santander was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

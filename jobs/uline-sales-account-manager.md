@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | New York City, New York, United States |
 | Category | Account Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Plano-TX/Sales-Account-Manager_R262891-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/New-York-City-New-York/Sales-Account-Manager_R264788-1) |
 
 ## About This Role
 
-This account manager position at Uline was posted on 2026-04-09.
+This account manager position at Uline was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

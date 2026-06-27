@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Surrey, British Columbia, Canada |
+| Location | Ontario, CA |
 | Category | Account Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/SURREY-British-Columbia-Canada/Client-Advisor_R-0000176680) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/SOUTH-BRUCE-PENINSULA-Ontario-Canada/Client-Advisor_R-0000177379) |
 
 ## About This Role
 
-This account manager position at Royal Bank of Canada was posted on 2026-06-16.
+This account manager position at Royal Bank of Canada was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

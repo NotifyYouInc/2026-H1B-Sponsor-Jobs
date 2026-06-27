@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | New York City, New York, United States |
 | Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Kansas-City-MO/Outside-Sales-Representative_R262592-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/New-York-City-New-York/Outside-Sales-Representative_R264793-1) |
 
 ## About This Role
 
-This account executive position at Uline was posted on 2026-03-27.
+This account executive position at Uline was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

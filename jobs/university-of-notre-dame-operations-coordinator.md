@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of Notre Dame](https://scoutify.ai/companies/universityofnotredame?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
-| Category | Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990011607236-operations-coordinator) |
+| Location | Notre Dame, Indiana, United States |
+| Category | Program Manager |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990013711267-operations-coordinator) |
 
 ## About This Role
 
-This operations position at University of Notre Dame was posted on 2026-02-10.
+This program manager position at University of Notre Dame was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

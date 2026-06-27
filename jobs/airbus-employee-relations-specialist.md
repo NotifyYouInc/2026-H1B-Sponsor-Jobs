@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 3 locations |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Employee-Relations-Specialist_JR10403971-1) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/Employee-Relations-Specialist_JR10422924) |
 
 ## About This Role
 
-This human resources / people ops position at Airbus was posted on 2026-04-03.
+This human resources / people ops position at Airbus was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

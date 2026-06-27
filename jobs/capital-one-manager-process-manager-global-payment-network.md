@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | McLean, Virginia, United States |
 | Category | Project Manager |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Manager--Process-Manager--Global-Payment-Network_R241561-1) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Process-Manager--Global-Payment-Network_R245010-1) |
 
 ## About This Role
 
-This project manager position at Capital One was posted on 2026-05-02.
+This project manager position at Capital One was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

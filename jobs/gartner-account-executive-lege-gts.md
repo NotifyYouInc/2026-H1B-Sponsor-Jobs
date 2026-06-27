@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sweden |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Account Executive |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Sweden/Account-Executive--LE-GE--GTS_110025) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Sao-Paulo/Account-Executive--LE-GE--GTS_111507-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-06-12.
+This account executive position at Gartner was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Transformation-Assoc-Manager_AIOC-S01649022-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Transformation-Assoc-Manager_AIOC-S01615492-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Accenture was posted on 2026-06-04.
+This strategy / management consulting position at Accenture was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

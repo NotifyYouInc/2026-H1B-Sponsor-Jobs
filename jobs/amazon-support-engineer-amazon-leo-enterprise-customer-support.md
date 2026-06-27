@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10437973/support-engineer-amazon-leo-enterprise-customer-support) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454355/support-engineer-amazon-leo-enterprise-customer-support) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-06-02.
+This customer success position at Amazon was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

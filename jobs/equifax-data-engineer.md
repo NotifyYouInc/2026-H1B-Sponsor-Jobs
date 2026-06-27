@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Alpharetta, Georgia, United States |
 | Category | Data Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Data-Engineer_J00177176) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Data-Engineer_J00177602-1) |
 
 ## About This Role
 
-This data engineer position at Equifax was posted on 2026-05-18.
+This data engineer position at Equifax was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

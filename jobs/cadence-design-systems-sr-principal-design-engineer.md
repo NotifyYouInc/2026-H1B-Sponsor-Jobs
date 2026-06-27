@@ -1,16 +1,16 @@
-# Sr Principal Design Engineer at Cadence Design Systems
+# Sr. Principal Design Engineer at Cadence Design Systems
 
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Sr-Principal-Design-Engineer_R52275) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA-01/Design-Engineering-Architect_R51719) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-05-12.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 
