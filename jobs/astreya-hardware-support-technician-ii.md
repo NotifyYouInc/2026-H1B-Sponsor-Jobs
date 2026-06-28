@@ -5,12 +5,12 @@
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Customer Success |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Mountain-View-CA/Hardware-Support-Technician-II_R0015784) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Mountain-View-CA/Hardware-Support-Technician-II_R0015969) |
 
 ## About This Role
 
-This customer success position at Astreya was posted on 2026-06-08.
+This customer success position at Astreya was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

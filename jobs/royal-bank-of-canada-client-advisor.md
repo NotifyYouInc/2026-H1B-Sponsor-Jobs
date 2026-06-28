@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ontario, CA |
+| Location | Prince Rupert, British Columbia, Canada |
 | Category | Account Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/SOUTH-BRUCE-PENINSULA-Ontario-Canada/Client-Advisor_R-0000177379) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PRINCE-RUPERT-British-Columbia-Canada/Client-Advisor_R-0000177700) |
 
 ## About This Role
 
-This account manager position at Royal Bank of Canada was posted on 2026-06-19.
+This account manager position at Royal Bank of Canada was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

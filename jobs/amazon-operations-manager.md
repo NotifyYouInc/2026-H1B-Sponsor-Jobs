@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Perris, California, United States |
+| Location | Prince George, Virginia, United States |
 | Category | Operations |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10380819/operations-manager) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440891/operations-manager) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-03-31.
+This operations position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

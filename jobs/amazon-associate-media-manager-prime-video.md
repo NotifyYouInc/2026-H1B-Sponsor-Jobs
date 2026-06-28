@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Culver City, California, United States |
 | Category | Marketing |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10389135/associate-media-manager-prime-video) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441104/associate-media-manager-prime-video) |
 
 ## About This Role
 
-This marketing position at Amazon was posted on 2026-04-11.
+This marketing position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

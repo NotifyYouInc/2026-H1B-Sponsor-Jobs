@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Industrial Automation |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10393537/reliability-maintenance-engineering-supervisor-uae-national) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10401044/reliability-maintenance-engineering-supervisor-uae-national) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-04-16.
+This industrial automation position at Amazon was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

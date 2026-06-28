@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | 5 locations |
 | Category | Account Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Texas---San-Antonio/Territory-Representative_R00290665) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Ohio---Cleveland/Territory-Representative_R00297349) |
 
 ## About This Role
 
-This account manager position at Ecolab was posted on 2026-05-01.
+This account manager position at Ecolab was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4768889101?gh_jid=4768889101) |
+| Category | Database Administration |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4898892101?gh_jid=4898892101) |
 
 ## About This Role
 
-This software engineer position at NiCE was posted on 2026-02-05.
+This database administration position at NiCE was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

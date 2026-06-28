@@ -1,16 +1,16 @@
-# Technical Account Manager , ES – APJC-ASEAN at Amazon
+# Technical Account Manager, ES – APJC-ASEAN at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436812/technical-account-manager-es-apjc-asean) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441630/technical-account-manager-es-apjc-asean) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-06-02.
+This customer success position at Amazon was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

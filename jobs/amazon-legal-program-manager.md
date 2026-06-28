@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 5 locations |
 | Category | Legal |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412477/legal-program-manager) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441501/legal-program-manager) |
 
 ## About This Role
 
-This legal position at Amazon was posted on 2026-05-06.
+This legal position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

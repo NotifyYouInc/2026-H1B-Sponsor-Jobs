@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Marketing |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Dubai/Graphic-Designer_R180933) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/Graphic-Designer_R182179) |
 
 ## About This Role
 
-This marketing position at Parsons was posted on 2026-05-14.
+This marketing position at Parsons was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

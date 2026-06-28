@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jiangsu, CN |
+| Location | Rayong, Rayong, Thailand |
 | Category | Engineering Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wujiang-Jiangsu/Manager-Production_R0000363418-1) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rayong-Thailand/Manager-Production_R0000377981) |
 
 ## About This Role
 
-This engineering manager position at Caterpillar was posted on 2026-04-14.
+This engineering manager position at Caterpillar was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

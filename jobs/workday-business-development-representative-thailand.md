@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Business Development |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Singapore/Business-Development-Representative---Thailand_JR-0108040) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Singapore/Business-Development-Representative---Thailand_JR-0108037) |
 
 ## About This Role
 
-This business development position at Workday was posted on 2026-06-10.
+This business development position at Workday was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Ordonnanceur (F/H) at Thales
+# Ordonnanceur F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brive-la-Gaillarde, Nouvelle-Aquitaine, France |
+| Location | Élancourt, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Brive-la-Gaillarde/Ordonnanceur--F-H-_R0330424-1) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Elancourt/Ordonnanceur-F-H_R0331649-1) |
 
 ## About This Role
 
-This business analyst position at Thales was posted on 2026-06-05.
+This business analyst position at Thales was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

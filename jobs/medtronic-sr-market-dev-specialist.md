@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Marketing |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tokyo-Tokyo-Japan/Senior-Market-Development-Specialist--CRDN---Tokyo-_R59325-1) |
+| Location | Nairobi, Nairobi County, Kenya |
+| Category | Product Manager |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nairobi-Nairobi-Kenya/Sr-Market-Dev-Specialist_R66628) |
 
 ## About This Role
 
-This marketing position at Medtronic was posted on 2026-03-04.
+This product manager position at Medtronic was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

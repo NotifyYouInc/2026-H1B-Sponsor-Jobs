@@ -1,16 +1,16 @@
-# Senior Customer Success Manager, Consumables at Amazon
+# Senior Customer Success Manager , Consumables at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Seattle, Washington, United States |
 | Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427116/senior-customer-success-manager-consumables) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441220/senior-customer-success-manager-consumables) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-05-21.
+This customer success position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

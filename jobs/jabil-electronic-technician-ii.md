@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Electronic-Technician-II_J2435335) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Electronic-Technician-II_J2438170) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Jabil was posted on 2026-05-29.
+This electrical / hardware engineer position at Jabil was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

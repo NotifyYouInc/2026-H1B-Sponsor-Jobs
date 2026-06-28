@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Software Engineer |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Engineering-Student_JR2018722) |
+| Location | Israel |
+| Category | QA Engineer |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineering-Student_JR2018720) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-05-31.
+This qa engineer position at Nvidia was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

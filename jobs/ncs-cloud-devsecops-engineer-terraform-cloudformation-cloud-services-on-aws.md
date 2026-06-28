@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001151764-cloud-devsecops-engineer-terraform-cloudformation-cloud-services-on-aws) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001168283-cloud-devsecops-engineer-terraform-cloudformation-cloud-services-on-aws) |
 
 ## About This Role
 
-This devops engineer position at NCS was posted on 2026-06-13.
+This devops engineer position at NCS was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

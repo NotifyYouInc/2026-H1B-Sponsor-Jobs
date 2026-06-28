@@ -1,4 +1,4 @@
-# Sr. Manager, Product Manager- Technical , Amazon Customer Service at Amazon
+# Sr. Manager, Product Manager Technical, Amazon Customer Service at Amazon
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Seattle, Washington, United States |
 | Category | Technical Product Manager |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438833/sr-manager-product-manager-technical-amazon-customer-service) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438873/sr-manager-product-manager-technical-amazon-customer-service) |
 
 ## About This Role
 

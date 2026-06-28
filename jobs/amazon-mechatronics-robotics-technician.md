@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Amarillo, Texas, United States |
-| Category | Industrial Automation |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10383634/mechatronics-robotics-technician) |
+| Location | Mesa, Arizona, United States |
+| Category | Robotics Engineer |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430556/mechatronics-robotics-technician) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-04-06.
+This robotics engineer position at Amazon was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Milan, Lombardy, Italy |
 | Category | Program Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Program-Manager_112092-JOB) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/Italy---Milan/Program-Manager_113203-JOB) |
 
 ## About This Role
 
-This program manager position at Sprinklr was posted on 2026-03-24.
+This program manager position at Sprinklr was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
+| Location | North Sydney, New South Wales, Australia |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer_2015325) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/North-Sydney-Australia/Software-Engineer_2015324-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-06-10.
+This software engineer position at Cisco was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

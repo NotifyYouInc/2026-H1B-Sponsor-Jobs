@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | 4 locations |
 | Category | Robotics Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435606/deployment-execution-engineer-robotics-deployment-packaging-and-innovation-first-deployment-execution) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441617/deployment-execution-engineer-robotics-deployment-packaging-and-innovation-first-deployment-execution) |
 
 ## About This Role
 
-This robotics engineer position at Amazon was posted on 2026-06-01.
+This robotics engineer position at Amazon was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Chennai-India/Apprentice_R-790551) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-792592-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-02.
+This corporate finance position at State Street was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

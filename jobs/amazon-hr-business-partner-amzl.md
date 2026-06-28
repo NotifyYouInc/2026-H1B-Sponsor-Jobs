@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Salem, Oregon, United States |
+| Location | Fairburn, Georgia, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10421365/hr-business-partner-amzl) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415119/hr-business-partner-amzl) |
 
 ## About This Role
 
-This human resources / people ops position at Amazon was posted on 2026-05-15.
+This human resources / people ops position at Amazon was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

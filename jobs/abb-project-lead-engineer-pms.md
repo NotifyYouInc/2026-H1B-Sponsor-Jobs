@@ -1,16 +1,16 @@
-# Project Lead Engineer - PMS at ABB
+# Project Lead  Engineer- PMS at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Project Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Project-Lead-Engineer---PMS_JR00023214) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Project-Lead--Engineer--PMS_JR00038474) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-02-06.
+This electrical / hardware engineer position at ABB was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

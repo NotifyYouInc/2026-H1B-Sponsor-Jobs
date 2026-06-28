@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Boardman, Ohio, United States |
+| Location | Sterling, Virginia, United States |
 | Category | Engineering Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454373/engineering-operations-technician) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428843/engineering-operations-technician) |
 
 ## About This Role
 
-This engineering manager position at Amazon was posted on 2026-06-19.
+This engineering manager position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

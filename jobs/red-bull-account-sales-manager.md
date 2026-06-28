@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Farmington, New Mexico, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Account Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000133137449-account-sales-manager) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000133225909-account-sales-manager) |
 
 ## About This Role
 
-This account manager position at Red Bull was posted on 2026-06-19.
+This account manager position at Red Bull was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

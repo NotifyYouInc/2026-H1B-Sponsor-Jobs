@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132784365-service-delivery-leader-technical-accounting) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133225209-service-delivery-leader-technical-accounting) |
 
 ## About This Role
 
-This corporate finance position at NielsenIQ was posted on 2026-06-18.
+This corporate finance position at NielsenIQ was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

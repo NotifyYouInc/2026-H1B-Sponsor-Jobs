@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hobbs, New Mexico, United States |
+| Location | Kinston, North Carolina, United States |
 | Category | Learning & Development |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411178/delivery-trainer-rsr) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428337/delivery-trainer-rsr) |
 
 ## About This Role
 
-This learning & development position at Amazon was posted on 2026-05-05.
+This learning & development position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

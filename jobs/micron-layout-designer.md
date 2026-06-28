@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Layout-Designer_JR98012) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Layout-Designer_JR103904) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-13.
+This semiconductor / chip design position at Micron was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 
