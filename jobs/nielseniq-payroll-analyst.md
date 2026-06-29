@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127353499-payroll-analyst) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133266918-payroll-analyst) |
 
 ## About This Role
 
-This corporate finance position at NielsenIQ was posted on 2026-05-20.
+This corporate finance position at NielsenIQ was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

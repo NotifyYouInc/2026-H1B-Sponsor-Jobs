@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001025893-eg-scrum-master) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001170349-eg-scrum-master) |
 
 ## About This Role
 
-This scrum master & agile coach position at NCS was posted on 2026-04-27.
+This scrum master & agile coach position at NCS was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

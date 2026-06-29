@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Assistant-Manager_R1120554-1) |
+| Category | Project Manager |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Assistant-Manager_R1122642-2) |
 
 ## About This Role
 
-This corporate finance position at Dentsu was posted on 2026-04-15.
+This project manager position at Dentsu was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

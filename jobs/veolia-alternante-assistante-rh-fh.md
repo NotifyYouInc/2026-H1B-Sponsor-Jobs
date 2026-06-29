@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Aubervilliers, Île-de-France, France |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000115125128-alternante-assistante-rh-fh) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000133277549-alternante-assistante-rh-fh) |
 
 ## About This Role
 
-This human resources / people ops position at Veolia was posted on 2026-03-17.
+This human resources / people ops position at Veolia was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

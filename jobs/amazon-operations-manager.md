@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Prince George, Virginia, United States |
+| Location | Tennessee, US |
 | Category | Operations |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440891/operations-manager) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432302/operations-manager) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-06-05.
+This operations position at Amazon was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

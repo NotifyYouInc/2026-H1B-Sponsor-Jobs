@@ -1,16 +1,16 @@
-# Service Sales specialist at ABB
+# Service Sales Specialist at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Zagreb, Zagreb, Croatia |
-| Category | Account Executive |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Zagreb-Grad-Zagreb-Croatia/Service-Sales-specialist_JR00003209) |
+| Location | Bắc Ninh, Bac Ninh, Vietnam |
+| Category | Sales Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bac-Ninh-Bac-Ninh-Vietnam/Service-Sales-Specialist_JR00036544) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-06-09.
+This sales engineer position at ABB was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

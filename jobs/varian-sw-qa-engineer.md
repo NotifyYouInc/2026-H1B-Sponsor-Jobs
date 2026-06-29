@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PAO-H/SW-QA-Engineer_R-27567) |
+| Location | Pune, Maharashtra, India |
+| Category | QA Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PUN-MIC-T-4/SW-QA-Engineer_R-28734) |
 
 ## About This Role
 
-This software engineer position at Varian was posted on 2026-03-20.
+This qa engineer position at Varian was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

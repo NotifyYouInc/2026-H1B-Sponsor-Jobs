@@ -5,12 +5,12 @@
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kowloon, Hong Kong |
 | Category | Account Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/HK-Kowloon/XMLNAME--Senior--Account-Manager-HK_R01131080) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/HK-Kowloon/XMLNAME--Senior--Account-Manager-HK_R01131559) |
 
 ## About This Role
 
-This account manager position at Solventum was posted on 2026-06-01.
+This account manager position at Solventum was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

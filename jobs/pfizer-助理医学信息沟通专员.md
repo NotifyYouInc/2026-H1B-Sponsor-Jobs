@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Sales Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Beijing---Beijing/_4958852-2) |
+| Location | China |
+| Category | Account Executive |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Neimenggu---Huhehaote/_4959721-1) |
 
 ## About This Role
 
-This sales engineer position at Pfizer was posted on 2026-06-03.
+This account executive position at Pfizer was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

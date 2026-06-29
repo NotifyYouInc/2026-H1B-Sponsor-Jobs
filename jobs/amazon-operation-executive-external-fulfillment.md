@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Operations |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448428/operation-executive-external-fulfillment) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454618/operation-executive-external-fulfillment) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-06-15.
+This operations position at Amazon was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Engineering-Manager_JR-0000036328-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Engineering-Manager_JR-0000108384) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-02-18.
+This engineering manager position at Barclays was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

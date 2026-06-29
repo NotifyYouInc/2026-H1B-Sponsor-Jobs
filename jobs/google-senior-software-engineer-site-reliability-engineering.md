@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSF3JbbObzjfTUtFIbbyJH06h2ErHQgmjak3Mb3zzliPEjsACxwdTNH9sZ09IxmfcuJFm1W1Cg-gZltC8i6RsKvkMqVZhd29sF8V2UqIBLhixk0r7iqwo0u2arl_NA%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYhod0F59N-gQczLFlSQCOTERkf15ogn2UIzRf2he4MjEjsA1Ny_i_aXgfQoCOsLfHdlJ3EphM2sMOQ0uHEpjbt7XaDl7cmYqzt_pgsyNFXvwzMTEX3-csp4ck5mNQ%3D%3D_V2&loc=PL&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-05-01.
+This devops engineer position at Google was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

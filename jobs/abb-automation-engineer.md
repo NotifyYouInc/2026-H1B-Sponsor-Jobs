@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Anyang, Henan, China |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Industrial Automation |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Anyang-Seoul-Republic-of-Korea/Automation-Engineer_JR00024933-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Tokyo-Tokyo-Japan/Automation-Engineer_JR00038336-1) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-03-10.
+This industrial automation position at ABB was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

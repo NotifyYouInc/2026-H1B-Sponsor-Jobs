@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sānand, Gujarat, India |
-| Category | Industrial Automation |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---MIB---Mini-Pioneer-India/Engineer--Manufacturing_JR87890) |
+| Category | Engineering Manager |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---MIB---Mini-Pioneer-India/Engineer--Manufacturing_JR87791) |
 
 ## About This Role
 
-This industrial automation position at Micron was posted on 2026-04-07.
+This engineering manager position at Micron was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

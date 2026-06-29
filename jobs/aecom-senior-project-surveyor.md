@@ -1,16 +1,16 @@
-# Senior Project Surveyor  at AECOM
+# Senior Project Surveyor at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000110670705-senior-project-surveyor) |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Category | Project Manager |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133274989-senior-project-surveyor) |
 
 ## About This Role
 
-This financial advisory & consulting position at AECOM was posted on 2026-02-23.
+This project manager position at AECOM was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

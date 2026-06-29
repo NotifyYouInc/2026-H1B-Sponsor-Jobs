@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | QA Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Senior-SDET-Analyst_R0071415-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Senior-SDET-Analyst_R0072250-2) |
 
 ## About This Role
 
-This qa engineer position at Global Payments was posted on 2026-06-05.
+This qa engineer position at Global Payments was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

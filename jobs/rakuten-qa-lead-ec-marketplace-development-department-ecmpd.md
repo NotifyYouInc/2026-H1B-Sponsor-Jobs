@@ -5,12 +5,12 @@
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | QA Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/QA-Lead---EC-Marketplace-Development-Department--ECMPD-_1032722-39) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/QA-Lead---EC-Marketplace-Development-Department--ECMPD-_1034312-1) |
 
 ## About This Role
 
-This qa engineer position at Rakuten was posted on 2026-04-06.
+This qa engineer position at Rakuten was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

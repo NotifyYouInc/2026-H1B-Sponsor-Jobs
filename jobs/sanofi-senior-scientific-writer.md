@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Technical Writer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Scientific-Writer_R2858050-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Scientific-Writer_R2855172-1) |
 
 ## About This Role
 
-This technical writer position at Sanofi was posted on 2026-05-22.
+This technical writer position at Sanofi was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# HR Analyst – Workday Data Administration at RTX
+# HR Analyst - Workday Data Administration at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/HR-Analyst_01830578) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/HR-Analyst---Workday-Data-Administration_01854383) |
 
 ## About This Role
 
-This human resources / people ops position at RTX was posted on 2026-05-23.
+This human resources / people ops position at RTX was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

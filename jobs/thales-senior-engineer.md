@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bangalore/SAP-OData-Senior-Engineer_R0323743-1) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bangalore/Senior-Engineer---Software--DO-_R0320502-1) |
 
 ## About This Role
 
-This software engineer position at Thales was posted on 2026-06-17.
+This embedded / firmware engineer position at Thales was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

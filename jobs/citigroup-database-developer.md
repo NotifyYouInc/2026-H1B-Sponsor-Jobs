@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Database-Developer_26933792) |
+| Category | Database Administration |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Database-Developer_26971189) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-05-07.
+This database administration position at Citigroup was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

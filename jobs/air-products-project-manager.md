@@ -5,12 +5,12 @@
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Project Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Seoul-Seoul-South-Korea/Project-Manager_JR-2026-20426) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Seoul-Seoul-South-Korea/Project-Manager_JR-2026-20852) |
 
 ## About This Role
 
-This project manager position at Air Products was posted on 2026-05-15.
+This project manager position at Air Products was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
