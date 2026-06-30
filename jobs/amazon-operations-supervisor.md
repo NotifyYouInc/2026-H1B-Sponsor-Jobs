@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Schkeuditz, Saxony, Germany |
+| Location | Ramstein-Miesenbach, Rheinland-Pfalz, Germany |
 | Category | Operations |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10425028/operations-supervisor) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438602/operations-supervisor) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-05-20.
+This operations position at Amazon was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

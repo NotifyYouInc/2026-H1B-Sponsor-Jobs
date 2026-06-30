@@ -1,16 +1,16 @@
-# Монтажник електрооборудване at ABB
+# Монтажник, електрооборудване at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Plovdiv, Plovdiv, Bulgaria |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Plovdiv-Plovdiv-Bulgaria/-_JR00012713) |
+| Location | Plovdiv, BG |
+| Category | Industrial Automation |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Stryama-Plovdiv-Bulgaria/--_JR00038859) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-05-26.
+This industrial automation position at ABB was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

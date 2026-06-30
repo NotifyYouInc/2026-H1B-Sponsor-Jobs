@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covestro](https://scoutify.ai/companies/covestro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pudong, Shanghai, China |
-| Category | Business Development |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pudong-Shanghai-China/Intern_JR-2026-00781) |
+| Location | Shanghai, Shanghai, China |
+| Category | Business Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pudong-Shanghai-China/Intern_JR-2026-01116) |
 
 ## About This Role
 
-This business development position at Covestro was posted on 2026-05-11.
+This business analyst position at Covestro was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

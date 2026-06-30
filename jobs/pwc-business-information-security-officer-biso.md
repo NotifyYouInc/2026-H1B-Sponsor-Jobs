@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Compliance & Risk Management |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Amsterdam/Business-Information-Security-Officer--BISO-_737863WD) |
+| Category | Security Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Amsterdam/Business-Information-Security-Officer--BISO-_739010WD) |
 
 ## About This Role
 
-This compliance & risk management position at PwC was posted on 2026-06-18.
+This security engineer position at PwC was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

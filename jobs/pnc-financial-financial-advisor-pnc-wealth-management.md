@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Murrysville, Pennsylvania, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15234/Financial-Advisor---PNC-Wealth-Management_R225140-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Murrysville/Financial-Advisor---PNC-Wealth-Management_R226782-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-06-04.
+This corporate finance position at PNC Financial was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

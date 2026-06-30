@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Adelaide, South Australia, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Security Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---SA---ADELAIDE/Security-Engineer_51576936-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AU312---DXC-Brisbane-Brookes-St-AU312/Security-Engineer_51583609-1) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-03-30.
+This security engineer position at DXC Technology was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

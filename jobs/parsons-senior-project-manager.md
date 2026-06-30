@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Oak Ridge, Tennessee, United States |
+| Location | Jeddah, Mecca Region, Saudi Arabia |
 | Category | Project Manager |
-| Posted | 2026-02-15 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---TN-Oak-Ridge/Senior-Project-Manager_R174485-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Jeddah/Senior-Project-Manager_R182169) |
 
 ## About This Role
 
-This project manager position at Parsons was posted on 2026-02-15.
+This project manager position at Parsons was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

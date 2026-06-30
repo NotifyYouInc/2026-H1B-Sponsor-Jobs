@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bukit Damansara, Kuala Lumpur, Malaysia |
 | Category | Engineering Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000123608219-senior-engineer-mechanical-healthcare-sector) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133524371-senior-engineer-mechanical-healthcare-sector) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-04-29.
+This engineering manager position at AECOM was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

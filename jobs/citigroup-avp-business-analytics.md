@@ -1,16 +1,16 @@
-# AVP - Business Analytics at Citigroup
+# AVP, Business Analytics at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | Data Scientist |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/AVP---Business-Analytics_26942027) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Business Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/AVP--Business-Analytics_26971848) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-03-02.
+This business analyst position at Citigroup was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Analyst - Paid Social at Dentsu
+# Senior Analyst, Paid Social at Dentsu
 
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Chennai---Anna-Nagar-Tyche-Towers/Senior-Analyst---Paid-Social_R1122200-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-Philippines---Makati-City---RCBC-Plaza/Senior-Analyst--Paid-Social_R1125950) |
 
 ## About This Role
 
-This digital / performance marketing position at Dentsu was posted on 2026-05-13.
+This digital / performance marketing position at Dentsu was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

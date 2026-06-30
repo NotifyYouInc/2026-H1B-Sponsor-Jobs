@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Project Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Senior-Member-Technical_JR1083419) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Senior-Member-Technical_JR1083790) |
 
 ## About This Role
 
-This project manager position at Broadridge was posted on 2026-06-10.
+This devops engineer position at Broadridge was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

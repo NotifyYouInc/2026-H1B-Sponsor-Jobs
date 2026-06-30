@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Operations-Processor_R-524369) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Operations-Processor_R-531514-1) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-06-08.
+This business analyst position at Wells Fargo was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Network-Engineer_R-529887) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Network-Engineer_R-554853) |
 
 ## About This Role
 
-This it & systems administration position at Wells Fargo was posted on 2026-03-23.
+This it & systems administration position at Wells Fargo was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

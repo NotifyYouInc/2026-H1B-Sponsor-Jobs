@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/India---Chennai/Associate-STEM-Content-Analyst_JREQ135817) |
+| Category | Data Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/India---Chennai/Associate-STEM-Content-Analyst_JREQ135727) |
 
 ## About This Role
 
-This business analyst position at Clarivate was posted on 2026-06-16.
+This data analyst position at Clarivate was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

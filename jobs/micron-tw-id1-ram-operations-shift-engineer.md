@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taoyuan, Taiwan, Taiwan |
-| Category | Engineering Manager |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/TW-ID1-RAM-Operations-Shift-Engineer_JR98072) |
+| Category | Industrial Automation |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/TW-ID1-RAM-Operations-Shift-Engineer_JR96086) |
 
 ## About This Role
 
-This engineering manager position at Micron was posted on 2026-04-19.
+This industrial automation position at Micron was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

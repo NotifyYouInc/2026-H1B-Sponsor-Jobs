@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4036536-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Chennai/Graduate-Engineer-Trainee_R4038071-1) |
 
 ## About This Role
 
-This business analyst position at GE HealthCare was posted on 2026-02-19.
+This electrical / hardware engineer position at GE HealthCare was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

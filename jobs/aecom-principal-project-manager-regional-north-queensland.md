@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rockhampton, Queensland, Australia |
+| Location | Mackay, Queensland, Australia |
 | Category | Project Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124074419-principal-project-manager-regional-north-queensland) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133516756-principal-project-manager-regional-north-queensland) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-05-01.
+This project manager position at AECOM was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

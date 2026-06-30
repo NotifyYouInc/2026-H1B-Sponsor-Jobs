@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000132993719-kyc-operations-associate-analyst-consumer) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000133512409-kyc-operations-associate-analyst-consumer) |
 
 ## About This Role
 
-This compliance & risk management position at WISE was posted on 2026-06-19.
+This compliance & risk management position at WISE was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

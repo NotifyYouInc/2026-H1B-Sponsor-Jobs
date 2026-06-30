@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Perth, Western Australia, Australia |
 | Category | Project Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000129089234-associate-director-project-management) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133515449-associate-director-project-management) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-05-29.
+This project manager position at AECOM was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10431200/dceo) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10370866/dceo) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-05-27.
+This devops engineer position at Amazon was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | North Brunswick, New Jersey, United States |
+| Location | Baldwin Park, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/101-Grand-Ave-North-BrunswickNJ-08902-1056/Human-Resources-Expert_R0000443089) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/3100-Baldwin-Park-Blvd-Baldwin-ParkCA-91706-4703/Human-Resources-Expert_R0000443424) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-06-22.
+This human resources / people ops position at Target was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

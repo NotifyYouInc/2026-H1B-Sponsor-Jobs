@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | Wuhan, Hubei, China |
 | Category | QA Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Suzhou---China/System-Functional-Test-Engineer_R2026-2480) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Wuhan---China/System-Functional-Test-Engineer_R2026-2499) |
 
 ## About This Role
 
-This qa engineer position at BorgWarner was posted on 2026-06-22.
+This qa engineer position at BorgWarner was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

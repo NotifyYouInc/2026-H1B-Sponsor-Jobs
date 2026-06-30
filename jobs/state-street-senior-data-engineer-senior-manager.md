@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Senior-Data-Engineer---Senior-Manager_R-791245-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Senior-Data-Engineer---Senior-Manager_R-791519) |
 
 ## About This Role
 
-This data engineer position at State Street was posted on 2026-05-28.
+This data engineer position at State Street was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

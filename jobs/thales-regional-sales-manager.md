@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Account Executive |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/Regional-Sales-Manager_R0319303-1) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Category | Sales Leadership |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Riyadh/Regional-Sales-Manager_R0318785) |
 
 ## About This Role
 
-This account executive position at Thales was posted on 2026-03-10.
+This sales leadership position at Thales was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

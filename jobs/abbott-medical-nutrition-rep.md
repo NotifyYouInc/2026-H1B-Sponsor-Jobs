@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | China |
+| Location | Beijing, Beijing, China |
 | Category | Account Executive |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Remote/Medical-Nutrition-Rep_31152325) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Beijing/Medical-Nutrition-Rep_31154322) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-06-05.
+This account executive position at Abbott was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

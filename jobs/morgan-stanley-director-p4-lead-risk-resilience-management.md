@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Leadership Development Program |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Tokyo-Japan/Director--P4--Lead-Risk---Resilience-Management_PT-JR037154-1) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Tokyo-Japan/Director--P4--Lead-Risk---Resilience-Management_PT-JR039044) |
 
 ## About This Role
 
-This leadership development program position at Morgan Stanley was posted on 2026-06-03.
+This compliance & risk management position at Morgan Stanley was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

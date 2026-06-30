@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Account Executive |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Territory-Account-Executive---SMB_JR346277) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore---Remote/Territory-Account-Executive---SMB_JR347356) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-06-16.
+This account executive position at Salesforce was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

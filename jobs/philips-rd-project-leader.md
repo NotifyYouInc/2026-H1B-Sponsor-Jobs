@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shenzhen, Guangdong, China |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenzhen/R-D-Project-Leader_579280) |
+| Category | Project Manager |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenzhen/R-D-Project-Leader_585100) |
 
 ## About This Role
 
-This strategy / management consulting position at Philips was posted on 2026-03-27.
+This project manager position at Philips was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

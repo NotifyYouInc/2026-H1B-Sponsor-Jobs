@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Business Development |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Ho-Chi-Minh-City/Partner-Account-Manager_582749) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Account Manager |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Kuala-Lumpur--Co-labs/Partner-Account-Manager_585073) |
 
 ## About This Role
 
-This business development position at Philips was posted on 2026-05-12.
+This account manager position at Philips was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

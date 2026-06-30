@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/HR-Intern_R0119846) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/HR-Intern_R0134836) |
 
 ## About This Role
 
-This human resources / people ops position at Hitachi was posted on 2026-02-19.
+This human resources / people ops position at Hitachi was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

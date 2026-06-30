@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Recruiting-Specialist_AIOC-S01622929-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Recruiting-Senior-Analyst_AIOC-S01651720-1) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Accenture was posted on 2026-06-19.
+This talent acquisition / recruiting position at Accenture was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
