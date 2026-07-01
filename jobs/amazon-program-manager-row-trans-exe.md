@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Program Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10375481/program-manager-row-trans-exe) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457380/program-manager-row-trans-exe) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-03-25.
+This program manager position at Amazon was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

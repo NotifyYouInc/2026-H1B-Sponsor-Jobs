@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Raleigh, North Carolina, United States |
 | Category | Customer Success |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Technical-Support-Engineer_R0004618) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Raleigh/Technical-Support-Engineer_R0004776) |
 
 ## About This Role
 
-This customer success position at Qualys was posted on 2026-04-14.
+This customer success position at Qualys was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

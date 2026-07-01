@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | China |
-| Category | Account Executive |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Urumqi/Clinical-Sales-Leader_R4038786-1) |
+| Location | Kunming, Yunnan, China |
+| Category | Sales Leadership |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Kunming/Clinical-Sales-Leader_R4042832-2) |
 
 ## About This Role
 
-This account executive position at GE HealthCare was posted on 2026-04-04.
+This sales leadership position at GE HealthCare was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

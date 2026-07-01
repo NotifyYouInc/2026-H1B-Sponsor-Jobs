@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Customer Success |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/CAE-Gurugram/Apprentice-Simulator-Technician_119213) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Bangkok/Apprentice-Simulator-Technician_122195) |
 
 ## About This Role
 
-This customer success position at CAE was posted on 2026-04-27.
+This electrical / hardware engineer position at CAE was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

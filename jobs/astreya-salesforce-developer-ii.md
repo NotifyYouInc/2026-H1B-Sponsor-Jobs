@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Chennai-India/Salesforce-Developer-II_R0015011) |
+| Location | 3 locations |
+| Category | Customer Success |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Coimbatore-India/Salesforce-Developer-II_R0015992) |
 
 ## About This Role
 
-This frontend engineer position at Astreya was posted on 2026-03-20.
+This customer success position at Astreya was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

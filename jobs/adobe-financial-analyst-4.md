@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Financial-Analyst-4_R168427-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Financial-Analyst-4_R169582-1) |
 
 ## About This Role
 
-This corporate finance position at Adobe was posted on 2026-05-25.
+This corporate finance position at Adobe was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

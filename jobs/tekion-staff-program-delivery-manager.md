@@ -5,12 +5,12 @@
 | Company | [Tekion](https://scoutify.ai/companies/tekion?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Program Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tekion/jobs/7714569003) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tekion/jobs/7588525003) |
 
 ## About This Role
 
-This program manager position at Tekion was posted on 2026-04-27.
+This program manager position at Tekion was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

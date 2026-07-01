@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shenzhen, Guangdong, China |
-| Category | QA Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000128396956-senior-engineer-reliability-lab-engineering-qa) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000133877280-senior-engineer-reliability-lab-engineering-qa) |
 
 ## About This Role
 
-This qa engineer position at Western Digital was posted on 2026-05-26.
+This electrical / hardware engineer position at Western Digital was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

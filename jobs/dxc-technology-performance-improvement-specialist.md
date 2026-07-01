@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Macquarie Park, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---NSW---MACQUARIE-PARK/Performance-Improvement-Specialist_51583469) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/Performance-Improvement-Specialist_51583749) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-06-21.
+This business analyst position at DXC Technology was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

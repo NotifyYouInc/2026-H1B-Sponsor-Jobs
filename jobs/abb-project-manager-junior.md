@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Brno, South Moravian, Czechia |
 | Category | Project Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Brno-Jihomoravsk-kraj-Czechia/Project-Manager-Junior_JR00033057) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Brno-Jihomoravsk-kraj-Czechia/Project-Manager-Junior_JR00039182) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-04-27.
+This project manager position at ABB was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

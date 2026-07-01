@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Marketing |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Marketing-Marketing-Servcies_REQ-10075659) |
+| Category | Data Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Marketing-Marketing-Servcies_REQ-10081789-1) |
 
 ## About This Role
 
-This marketing position at Novartis was posted on 2026-05-13.
+This data analyst position at Novartis was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

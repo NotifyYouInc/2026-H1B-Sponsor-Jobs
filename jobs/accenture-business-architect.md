@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Architect_ATCI-5614289-S2029224-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Business Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Architect_ATCI-5497900-S2007191-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Accenture was posted on 2026-06-12.
+This business analyst position at Accenture was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

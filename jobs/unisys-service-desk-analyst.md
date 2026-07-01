@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mandaluyong City, National Capital Region, Philippines |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Citynet---Mandaluyong-City/Service-Desk-Analyst_REQ573390) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Citynet---Mandaluyong-City/Service-Desk-Analyst_REQ573406) |
 
 ## About This Role
 
-This it & systems administration position at Unisys was posted on 2026-06-22.
+This it & systems administration position at Unisys was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

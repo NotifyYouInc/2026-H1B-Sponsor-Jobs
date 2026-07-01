@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 6 locations |
+| Location | Dearborn, Michigan, United States |
 | Category | Account Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Ohio---Youngstown/Territory-Sales-and-Service-Representative_R00297170) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Michigan---Dearborn/Territory-Sales-and-Service-Representative_R00298153) |
 
 ## About This Role
 
-This account manager position at Ecolab was posted on 2026-06-12.
+This account manager position at Ecolab was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

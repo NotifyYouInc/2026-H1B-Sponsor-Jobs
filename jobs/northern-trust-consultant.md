@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Consultant_R154439-1) |
+| Location | 2 locations |
+| Category | Data Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Consultant_R156751-1) |
 
 ## About This Role
 
-This financial advisory & consulting position at Northern Trust was posted on 2026-04-23.
+This data analyst position at Northern Trust was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

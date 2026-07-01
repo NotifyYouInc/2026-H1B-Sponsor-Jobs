@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wenzhou, Zhejiang, China |
-| Category | Account Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3305-8E-Zhongtong-Building-319-Xincheng-Road-Wenzhou-Lucheng-District-Zhejiang-China/_20157222) |
+| Location | Qingdao, Shandong, China |
+| Category | Account Executive |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3382-22F-Everbright-Financial-Center-No-67-Hongkong-West-Road-Qingdao-Shinan-District-Shandong-China/_20159100-1) |
 
 ## About This Role
 
-This account manager position at Otis was posted on 2026-04-30.
+This account executive position at Otis was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

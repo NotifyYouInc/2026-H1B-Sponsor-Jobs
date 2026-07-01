@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wisconsin, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Chippewa-Falls-Wisconsin-United-States-of-America/Signal-Integrity-Engineer_1200563) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Signal-Integrity-Engineer_1206991-3) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hewlett Packard Enterprise was posted on 2026-02-24.
+This electrical / hardware engineer position at Hewlett Packard Enterprise was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

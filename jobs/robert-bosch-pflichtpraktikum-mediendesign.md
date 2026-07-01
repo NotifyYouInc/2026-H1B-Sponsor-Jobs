@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Salzgitter, Lower Saxony, Germany |
 | Category | Marketing |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127589538-pflichtpraktikum-mediendesign) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133866435-pflichtpraktikum-mediendesign) |
 
 ## About This Role
 
-This marketing position at Robert Bosch was posted on 2026-05-21.
+This marketing position at Robert Bosch was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

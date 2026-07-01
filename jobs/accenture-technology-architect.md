@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Technology-Architect_ATCI-5373809-S1972151-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Technology-Architect_ATCI-5630940-S2031865-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-06-17.
+This technical & solutions architect position at Accenture was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

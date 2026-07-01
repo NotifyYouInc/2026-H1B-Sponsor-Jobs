@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Industrial Automation |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000123605200-technician-iii-manufacturing-equipment-engineering) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000133869009-technician-iii-manufacturing-equipment-engineering) |
 
 ## About This Role
 
-This industrial automation position at Western Digital was posted on 2026-04-29.
+This industrial automation position at Western Digital was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

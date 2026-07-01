@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Spain |
+| Location | Madrid, Madrid, Spain |
 | Category | Industrial Automation |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Baleares/Beca-Ingeniero-a-Industrial_20098505) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Madrid/Beca-Ingeniero-a-Industrial_20098372) |
 
 ## About This Role
 
-This industrial automation position at Acciona was posted on 2026-06-23.
+This industrial automation position at Acciona was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bhubaneswar, Odisha, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bhubaneswar/Packaged-SaaS-Application-Engineer_ATCI-5609782-S2029785-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Governance-Practitioner_ATCI-5508794-S2014193-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-19.
+This software engineer position at Accenture was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

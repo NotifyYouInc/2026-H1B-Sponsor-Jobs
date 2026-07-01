@@ -1,16 +1,16 @@
-# Sales Representative II at Medtronic
+# Sales Representative  II at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fukuoka, Fukuoka, Japan |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Account Executive |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fukuoka-Fukuoka-Japan/Sales-Representative--CS---Fukuoka-_R64374-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jakarta-Jakarta-Indonesia/Sales-Representative--II_R70363-2) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-04-20.
+This account executive position at Medtronic was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

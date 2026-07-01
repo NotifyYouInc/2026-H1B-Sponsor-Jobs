@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Product-Manager_R169376) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Product-Manager_R169401) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-06-04.
+This product manager position at Adobe was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

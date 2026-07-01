@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Johor Bahru, Johor, Malaysia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000133274959-test-principal-engineer) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000133865839-test-principal-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Western Digital was posted on 2026-06-22.
+This electrical / hardware engineer position at Western Digital was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

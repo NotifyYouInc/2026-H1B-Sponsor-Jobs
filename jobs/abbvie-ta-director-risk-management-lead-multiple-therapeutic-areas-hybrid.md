@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013383946-ta-director-risk-management-lead-multiple-therapeutic-areas-hybrid) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013759096-ta-director-risk-management-lead-multiple-therapeutic-areas-hybrid) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at AbbVie was posted on 2026-05-29.
+This compliance & risk management position at AbbVie was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

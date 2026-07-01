@@ -1,16 +1,16 @@
-# Sr. Accounting Analyst - A2R, Closing & Reporting at Sanofi
+# Sr. Accounting Analyst - A2R Closing & Reporting at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Sr-Accounting-Analyst---A2R--Closing---Reporting_R2842161) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Sr-Accounting-Analyst---A2R-Closing---Reporting_R2858024) |
 
 ## About This Role
 
-This corporate finance position at Sanofi was posted on 2026-05-22.
+This corporate finance position at Sanofi was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

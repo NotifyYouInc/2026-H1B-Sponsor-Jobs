@@ -1,16 +1,16 @@
-# Software Development Engineer at Amazon
+# Software development Engineer at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454329/software-development-engineer) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448634/software-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-19.
+This software engineer position at Amazon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
