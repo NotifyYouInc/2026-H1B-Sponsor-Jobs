@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Operations |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000127355944-amea-regulatory-operations-and-digital-lead) |
+| Category | Program Manager |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000134189889-amea-regulatory-operations-and-digital-lead) |
 
 ## About This Role
 
-This operations position at Syngenta was posted on 2026-05-20.
+This program manager position at Syngenta was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

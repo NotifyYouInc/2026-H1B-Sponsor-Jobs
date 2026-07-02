@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Oslo, Oslo, Norway |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445604/solutions-architect) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458542/solutions-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-11.
+This technical & solutions architect position at Amazon was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

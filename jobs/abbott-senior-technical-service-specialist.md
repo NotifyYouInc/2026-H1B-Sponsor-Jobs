@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Princeton, Florida, United States |
+| Location | Latvia |
 | Category | Customer Success |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Princeton/Senior-Technical-Service-Specialist_31150449-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Latvia--Remote/Senior-Technical-Service-Specialist_31154111-1) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-05-16.
+This customer success position at Abbott was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Account Executive |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439521/business-development-associate-private-brands) |
+| Category | Business Analyst |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458563/business-development-associate-private-brands) |
 
 ## About This Role
 
-This account executive position at Amazon was posted on 2026-06-04.
+This business analyst position at Amazon was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

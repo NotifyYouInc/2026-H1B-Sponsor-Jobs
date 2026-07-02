@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Business-Process-Specialist---Adonis_R0118035) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Business-Process-Specialist---Adonis_R0124761) |
 
 ## About This Role
 
-This business analyst position at Hitachi was posted on 2026-02-27.
+This business analyst position at Hitachi was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

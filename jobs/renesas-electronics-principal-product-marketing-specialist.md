@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kodaira, Tokyo, Japan |
-| Category | Content Marketing |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000116319907-principal-product-marketing-specialist) |
+| Category | Marketing |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000134186860-principal-product-marketing-specialist) |
 
 ## About This Role
 
-This content marketing position at Renesas Electronics was posted on 2026-03-24.
+This marketing position at Renesas Electronics was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

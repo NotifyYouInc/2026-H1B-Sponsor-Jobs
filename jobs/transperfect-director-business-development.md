@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransPerfect](https://scoutify.ai/companies/transperfect?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/AU-Melbourne/Director--Business-Development_R2025-243573) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Business Development |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/South-Korea-Seoul/Director--Business-Development_R2025-244145) |
 
 ## About This Role
 
-This account executive position at TransPerfect was posted on 2026-03-30.
+This business development position at TransPerfect was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

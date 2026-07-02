@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Business Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Architect_ATCI-5497900-S2007191-1) |
+| Location | 2 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Business-Architect_ATCI-5344891-S2033158-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-06-24.
+This technology / it consulting position at Accenture was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

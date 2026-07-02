@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pasir Gudang, Johor, Malaysia |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000113092431-staff-engineer-development-engineering) |
+| Location | Bang Pa-in, Phra Nakhon Si Ayutthaya, Thailand |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000134180999-staff-engineer-development-engineering) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Western Digital was posted on 2026-03-06.
+This semiconductor / chip design position at Western Digital was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

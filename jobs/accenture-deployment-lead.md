@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Project Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Deployment-Lead_ATCI-5514042-S2024704-1) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Deployment-Lead_ATCI-5628431-S2032134) |
 
 ## About This Role
 
-This project manager position at Accenture was posted on 2026-05-19.
+This technology / it consulting position at Accenture was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

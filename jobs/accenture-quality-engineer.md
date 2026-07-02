@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | 2 locations |
 | Category | QA Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Quality-Engineer_ATCP-1443016-S424908) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Quality-Engineer_ATCI-5630583-S2033099-1) |
 
 ## About This Role
 
-This qa engineer position at Accenture was posted on 2026-06-22.
+This qa engineer position at Accenture was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

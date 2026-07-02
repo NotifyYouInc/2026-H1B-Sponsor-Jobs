@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Business Development |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3201777/business-development-representative-web3-fsi-dnb) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458549/business-development-representative-web3-fsi-dnb) |
 
 ## About This Role
 
-This business development position at Amazon was posted on 2026-03-11.
+This business development position at Amazon was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

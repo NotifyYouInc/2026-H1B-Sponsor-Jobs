@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Fukuoka, Fukuoka, Japan |
-| Category | Sales Leadership |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000122169697-regional-on-premise-manager-south-fukuoka) |
+| Category | Marketing |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000134178589-regional-on-premise-manager-south-fukuoka) |
 
 ## About This Role
 
-This sales leadership position at Red Bull was posted on 2026-04-22.
+This marketing position at Red Bull was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

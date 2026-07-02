@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | QA Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Quality-Engineering-Lead--Test-Lead-_ATCI-4820746-S1864266-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Quality-Engineering-Lead_ATCI-5613012-S2033174-1) |
 
 ## About This Role
 
-This qa engineer position at Accenture was posted on 2026-06-19.
+This qa engineer position at Accenture was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

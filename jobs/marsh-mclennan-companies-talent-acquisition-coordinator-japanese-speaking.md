@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Manila---SixNEO/Talent-Acquisition-Coordinator--Japanese-Speaking-_R_348694) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Manila---SixNEO/Talent-Acquisition-Coordinator--Japanese-Speaking-_R_353889) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Marsh & McLennan Companies was posted on 2026-04-28.
+This talent acquisition / recruiting position at Marsh & McLennan Companies was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

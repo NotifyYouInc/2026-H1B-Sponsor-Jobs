@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roland Berger](https://scoutify.ai/companies/rolandberger?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Leadership Development Program |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000127128009-consulting-analyst-program-6-months) |
+| Location | Jakarta, Jakarta, Indonesia |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000134180769-consulting-analyst-program-6-months) |
 
 ## About This Role
 
-This leadership development program position at Roland Berger was posted on 2026-05-19.
+This strategy / management consulting position at Roland Berger was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

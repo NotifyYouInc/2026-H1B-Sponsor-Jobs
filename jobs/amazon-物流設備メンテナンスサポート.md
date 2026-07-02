@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sayama, Saitama, Japan |
+| Location | Sagamihara, Kanagawa, Japan |
 | Category | Industrial Automation |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439535/) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458573/) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-06-04.
+This industrial automation position at Amazon was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
