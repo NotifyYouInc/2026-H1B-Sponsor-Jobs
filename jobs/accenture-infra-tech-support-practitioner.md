@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mandaluyong, National Capital Region, Philippines |
-| Category | Customer Success |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mandaluyong/Infra-Tech-Support-Practitioner_14466594-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Infra-Tech-Support-Practitioner_ATCI-5534438-S2025831-1) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-06-22.
+This it & systems administration position at Accenture was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

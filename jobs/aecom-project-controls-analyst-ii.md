@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000114539257-project-controls-analyst-ii) |
+| Location | Bucharest, București, Romania |
+| Category | Project Manager |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000134432520-project-controls-analyst-ii) |
 
 ## About This Role
 
-This corporate finance position at AECOM was posted on 2026-03-13.
+This project manager position at AECOM was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

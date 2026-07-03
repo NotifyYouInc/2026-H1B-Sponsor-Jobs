@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Consultant--Private-Equity_R152519-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Financial Advisory & Consulting |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Consultant--Private-Equity_R155829) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-06-01.
+This financial advisory & consulting position at Northern Trust was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

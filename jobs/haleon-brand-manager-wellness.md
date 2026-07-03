@@ -1,16 +1,16 @@
-# Brand Manager - Wellness at Haleon
+# Brand Manager, Wellness at Haleon
 
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United Kingdom |
+| Location | Singapore, Singapore |
 | Category | Marketing |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Finance-Center-Building/Brand-Manager---Wellness_542677-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Singapore---Rochester-Park/Brand-Manager--Wellness_545504) |
 
 ## About This Role
 
-This marketing position at Haleon was posted on 2026-05-15.
+This marketing position at Haleon was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

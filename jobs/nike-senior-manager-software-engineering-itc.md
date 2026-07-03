@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | Engineering Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Senior-Manger--Software-Engineering--ITC_R-85510) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Senior-Manager--Software-Engineering--ITC_R-86694-1) |
 
 ## About This Role
 
-This engineering manager position at Nike was posted on 2026-06-08.
+This engineering manager position at Nike was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

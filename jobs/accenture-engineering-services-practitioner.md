@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Engineering-Services-Practitioner_ATCI-5386311-S1970885-1) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Engineering-Services-Practitioner_ATCI-5639005-S2034598-1) |
 
 ## About This Role
 
-This engineering manager position at Accenture was posted on 2026-06-04.
+This technology / it consulting position at Accenture was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

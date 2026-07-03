@@ -5,12 +5,12 @@
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Engineering Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Senior-Manager--IT-Delivery_176972) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Senior-Manager--IT-Delivery_177978) |
 
 ## About This Role
 
-This engineering manager position at Vanguard was posted on 2026-05-25.
+This engineering manager position at Vanguard was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

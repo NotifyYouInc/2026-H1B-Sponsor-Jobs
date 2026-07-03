@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Industrial Automation |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Engineer--Shift-Manufacturing_JR96365) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Engineer--Shift-Manufacturing_JR105145) |
 
 ## About This Role
 
-This industrial automation position at Micron was posted on 2026-06-05.
+This industrial automation position at Micron was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

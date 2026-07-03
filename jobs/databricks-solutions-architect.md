@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Seoul, Seoul, South Korea |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8472736002) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8607718002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-03-21.
+This technical & solutions architect position at Databricks was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

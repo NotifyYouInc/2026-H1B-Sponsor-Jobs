@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-engineer_2016809) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-engineer_2018088) |
 
 ## About This Role
 
-This customer success position at Cisco was posted on 2026-06-12.
+This technology / it consulting position at Cisco was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

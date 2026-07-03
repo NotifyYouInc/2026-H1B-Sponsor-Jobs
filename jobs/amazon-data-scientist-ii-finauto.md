@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452417/data-scientist-ii-finauto) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459653/data-scientist-ii-finauto) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-06-18.
+This data scientist position at Amazon was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

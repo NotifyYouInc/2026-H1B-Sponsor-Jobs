@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Development |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000133859890-business-development-representative) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134424935-business-development-representative) |
 
 ## About This Role
 
-This business development position at ServiceNow was posted on 2026-06-24.
+This business development position at ServiceNow was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
