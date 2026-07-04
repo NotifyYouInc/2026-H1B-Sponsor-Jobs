@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Mill-Bay---Squlew/Ship-Maintenance-Lead---Victoria-BC_R0327079-1) |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Victoria---905-Ellery/Ship-Maintenance-Lead---Victoria-BC_R0331313) |
 
 ## About This Role
 
-This engineering manager position at Thales was posted on 2026-05-25.
+This engineering manager position at Thales was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

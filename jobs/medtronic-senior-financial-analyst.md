@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fridley, Minnesota, United States |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Senior-Financial-Analyst_R70216-2) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Senior-Financial-Analyst_R70343-1) |
 
 ## About This Role
 
-This corporate finance position at Medtronic was posted on 2026-06-19.
+This corporate finance position at Medtronic was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

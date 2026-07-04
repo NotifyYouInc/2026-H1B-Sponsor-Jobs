@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Scrum Master & Agile Coach |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Technical-Program-Manager_R-278579) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Program Manager |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Senior-Technical-Program-Manager_R-275198) |
 
 ## About This Role
 
-This scrum master & agile coach position at Mastercard was posted on 2026-06-05.
+This program manager position at Mastercard was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

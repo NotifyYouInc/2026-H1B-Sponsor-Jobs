@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mexico |
-| Category | Program Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Mexico/Project---Program-Management-III_R0014484) |
+| Category | Project Manager |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Mexico/Project---Program-Management-III_R0016054) |
 
 ## About This Role
 
-This program manager position at Astreya was posted on 2026-02-12.
+This project manager position at Astreya was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

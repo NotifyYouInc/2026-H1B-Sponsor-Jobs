@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Operations |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Egham/Manager--Data-Analytics_111292-1) |
+| Category | Data Analyst |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Manager--Data-Analytics_111553) |
 
 ## About This Role
 
-This operations position at Gartner was posted on 2026-06-08.
+This data analyst position at Gartner was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Malaysia |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Senior-Engineer--Test-Engineering---Product-Development_R262540) |
+| Location | Norwood, Massachusetts, United States |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Norwood-South/Senior-Engineer--Test-Engineering---Product-Development_R263763) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-06-08.
+This semiconductor / chip design position at Analog Devices was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

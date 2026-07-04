@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Neon](https://scoutify.ai/companies/neon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Marketing |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/neon/a0bee7e0-a029-448d-9fbf-3806bc48d1c3) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/neon/ceeecef6-dce4-4d8f-aea9-c2ffb87c7a91) |
 
 ## About This Role
 
-This marketing position at Neon was posted on 2026-03-20.
+This marketing position at Neon was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

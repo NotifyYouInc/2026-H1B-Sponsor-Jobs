@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000134178819-trade-support-analyst) |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000134598969-trade-support-analyst) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-06-25.
+This business analyst position at Louis Dreyfus was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

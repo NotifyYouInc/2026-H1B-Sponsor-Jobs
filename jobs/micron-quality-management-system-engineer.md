@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
-| Category | Qa Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Quality-Management-System-Engineer_JR90275) |
+| Location | Singapore |
+| Category | QA Engineer |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Quality-Management-System-Engineer_JR105220) |
 
 ## About This Role
 
-This qa engineer position at Micron was posted on 2026-02-06.
+This qa engineer position at Micron was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

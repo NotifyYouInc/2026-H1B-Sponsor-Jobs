@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rialto, California, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Program Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457852/operations-manager) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441092/operations-manager) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-06-24.
+This program manager position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

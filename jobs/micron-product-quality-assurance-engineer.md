@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Product-Quality-Assurance-Engineer_JR90305) |
+| Category | QA Engineer |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Product-Quality-Assurance-Engineer_JR105223) |
 
 ## About This Role
 
-This operations position at Micron was posted on 2026-02-06.
+This qa engineer position at Micron was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

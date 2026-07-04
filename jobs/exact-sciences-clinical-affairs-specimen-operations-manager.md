@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exact Sciences](https://scoutify.ai/companies/exactsciences?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Clinical-Affairs-Specimen-Operations-Manager_R26-12100) |
+| Location | Madison, Wisconsin, United States |
+| Category | Program Manager |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Clinical-Affairs-Specimen-Operations-Manager_R26-13610) |
 
 ## About This Role
 
-This operations position at Exact Sciences was posted on 2026-02-05.
+This program manager position at Exact Sciences was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

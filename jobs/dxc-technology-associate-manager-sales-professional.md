@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Account Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---BEIJING/Associate-Manager-Sales-Professional_51579760) |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Associate-Manager-Sales-Professional_51584016) |
 
 ## About This Role
 
-This account manager position at DXC Technology was posted on 2026-05-13.
+This account manager position at DXC Technology was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 
