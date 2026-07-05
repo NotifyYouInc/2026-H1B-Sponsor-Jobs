@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Growth Marketing |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Director--SEO_110176) |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Surrey/Director--SEO_111912) |
 
 ## About This Role
 
-This growth marketing position at Gartner was posted on 2026-05-23.
+This growth marketing position at Gartner was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

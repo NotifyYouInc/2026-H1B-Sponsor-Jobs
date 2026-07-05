@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Suzhou, Jiangsu, China |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000122858168-adas-xc) |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134596109-adas-xc) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Robert Bosch was posted on 2026-04-25.
+This embedded / firmware engineer position at Robert Bosch was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 
