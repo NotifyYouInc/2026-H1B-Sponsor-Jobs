@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Laval, Pays de la Loire, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130725866-ingenieur-radiofrequences-hf) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000134749899-ingenieur-radiofrequences-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-06-08.
+This electrical / hardware engineer position at ALTEN was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

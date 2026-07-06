@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Channel / Partner Sales |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443278/channel-team-lead-amzl-channel-team-lead-amzl) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460786/channel-team-lead-amzl-channel-team-lead-amzl) |
 
 ## About This Role
 
-This channel / partner sales position at Amazon was posted on 2026-06-09.
+This channel / partner sales position at Amazon was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

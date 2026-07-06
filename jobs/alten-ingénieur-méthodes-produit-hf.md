@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Étrelles, Brittany, France |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130726149-ingenieur-methodes-produit-hf) |
+| Category | Industrial Automation |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000134744709-ingenieur-methodes-produit-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-06-08.
+This industrial automation position at ALTEN was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

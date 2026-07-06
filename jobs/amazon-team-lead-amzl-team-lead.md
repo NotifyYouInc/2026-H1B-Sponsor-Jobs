@@ -1,16 +1,16 @@
-# Team Lead - AMZL , Team lead at Amazon
+# Team Lead - AMZL , Team Lead at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jaipur, Rajasthan, India |
-| Category | Leadership Development Program |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426247/team-lead-amzl-team-lead) |
+| Location | Lucknow, Uttar Pradesh, India |
+| Category | Program Manager |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460793/team-lead-amzl-team-lead) |
 
 ## About This Role
 
-This leadership development program position at Amazon was posted on 2026-05-21.
+This program manager position at Amazon was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fougères, Brittany, France |
+| Location | Étrelles, Brittany, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130722609-ingenieur-rf-hf) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000134747874-ingenieur-rf-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-06-08.
+This electrical / hardware engineer position at ALTEN was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, JP |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Minato-ku-Tokyo/XMLNAME--AIG-Sonpo---_JR2506553-2) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Minato-ku-Tokyo/XMLNAME--AIG-Sonpo---_JR2602802-1) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-06-19.
+This corporate finance position at AIG was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/AI---ML-Engineer_ATCI-5284916-S1931501-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/AI---ML-Engineer_ATCI-5454602-S2002179) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-06-12.
+This ai / llm engineer position at Accenture was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

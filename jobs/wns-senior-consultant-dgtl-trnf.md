@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000121948272-senior-consultant-dgtl-trnf) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000134750933-senior-consultant-dgtl-trnf) |
 
 ## About This Role
 
-This strategy / management consulting position at WNS was posted on 2026-04-21.
+This technology / it consulting position at WNS was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

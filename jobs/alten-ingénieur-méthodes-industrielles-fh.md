@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Fougères, Brittany, France |
 | Category | Industrial Automation |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130717892-ingenieur-methodes-industrielles-fh) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000134746260-ingenieur-methodes-industrielles-fh) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-06-08.
+This industrial automation position at ALTEN was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

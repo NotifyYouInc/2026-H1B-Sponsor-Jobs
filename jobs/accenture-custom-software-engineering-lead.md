@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5635255-S2034577-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Software Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Custom-Software-Engineering-Lead_ATCI-5633493-S2034946-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-06-26.
+This software engineer position at Accenture was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

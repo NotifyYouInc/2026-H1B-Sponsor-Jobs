@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Johor Bahru, Johor, Malaysia |
+| Location | Hyderabad, Telangana, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556870256) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556914181) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Microsoft was posted on 2026-06-03.
+This electrical / hardware engineer position at Microsoft was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

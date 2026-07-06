@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hengelo, Overijssel, The Netherlands |
+| Location | Grenoble, Rhône-Alpes, France |
 | Category | Engineering Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Hengelo/Engineering-Delivery-Manager_R0327727-1) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Grenoble/Engineering-Delivery-Manager_R0330371-2) |
 
 ## About This Role
 
-This engineering manager position at Thales was posted on 2026-05-18.
+This engineering manager position at Thales was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000111992427-compliance-senior-specialist) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000134760557-compliance-senior-specialist) |
 
 ## About This Role
 
-This compliance & risk management position at WISE was posted on 2026-02-28.
+This compliance & risk management position at WISE was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

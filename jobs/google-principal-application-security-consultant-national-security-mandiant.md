@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckc3ff3sCEZkcsP04rDt-I6eLGrvKTbnqIfzVoU6AvZMoEjsACxwdTDxgbJeeXCeTF-wt8soG-A2cqfrWSiC61aaXtuRzKm-e-bETcHeHi4UT97R0JzuM32Hs_LL6NA%3D%3D_V2&loc=CA&title=Principal+Application+Security+Consultant) |
+| Category | Offensive Security & Pentesting |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUnlas01N2OWp6sLAioDFa5D_lTMcIUngKLMG8QlqWAMEjsA1Ny_iwKwv3E2EqPNgyOjIKob9xg5OixNcfR8SGMWs0y5CXNB_Svoqals2EjJDIEKGtmey_GmNP3Chw%3D%3D_V2&loc=CA&title=Principal+Application+Security+Consultant) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-05-27.
+This offensive security & pentesting position at Google was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

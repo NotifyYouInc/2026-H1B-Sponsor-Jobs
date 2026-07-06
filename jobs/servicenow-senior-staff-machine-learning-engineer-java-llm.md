@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000126911979-senior-staff-machine-learning-engineer-java-llm) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134750839-senior-staff-machine-learning-engineer-java-llm) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-05-18.
+This ai / llm engineer position at ServiceNow was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 
