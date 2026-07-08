@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Irvine, California, United States |
 | Category | Account Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012921493-account-supervisor) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013888636-account-supervisor) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-05-01.
+This account manager position at AbbVie was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

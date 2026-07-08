@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
-| Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/One-Pennsylvania-Plaza-26th-Floor-New-York-NY-USA/Customer-Success-Manager_R116059) |
+| Location | Los Angeles, California, United States |
+| Category | Customer Success Manager |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6100-Center-Dr-6th-FL-Los-Angeles-CA-USA/Customer-Success-Manager_R118277) |
 
 ## About This Role
 
-This customer success position at Samsung was posted on 2026-04-07.
+This customer success manager position at Samsung was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

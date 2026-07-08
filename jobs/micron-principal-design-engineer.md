@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Tokyo-Japan/Principal-Design-Engineer_JR101984) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Principal-Design-Engineer_JR104722-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-05-20.
+This semiconductor / chip design position at Micron was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

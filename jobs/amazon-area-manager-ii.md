@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Appling, Georgia, United States |
+| Location | Macon, Georgia, United States |
 | Category | Program Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10446695/area-manager-ii) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10463941/area-manager-ii) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-06-11.
+This program manager position at Amazon was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

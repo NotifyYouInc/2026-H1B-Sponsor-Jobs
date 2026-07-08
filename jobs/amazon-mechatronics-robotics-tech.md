@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | Robotics Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10424138/mechatronics-robotics-tech) |
+| Location | Aurora, Colorado, United States |
+| Category | Industrial Automation |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10376066/mechatronics-robotics-tech) |
 
 ## About This Role
 
-This robotics engineer position at Amazon was posted on 2026-05-19.
+This industrial automation position at Amazon was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

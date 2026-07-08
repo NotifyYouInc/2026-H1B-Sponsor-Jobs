@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Team-Leader_R-01348815) |
+| Location | Cincinnati, Ohio, United States |
+| Category | Engineering Manager |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Cincinnati-Ohio-USA/Team-Leader_R-01357085) |
 
 ## About This Role
 
-This compliance & risk management position at Thermo Fisher Scientific was posted on 2026-05-18.
+This engineering manager position at Thermo Fisher Scientific was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

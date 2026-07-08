@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422445/it-manager-ops-tech-solutions-ots) |
+| Location | 2 locations |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464099/it-manager-ops-tech-solutions-ots) |
 
 ## About This Role
 
-This engineering manager position at Amazon was posted on 2026-05-18.
+This it & systems administration position at Amazon was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

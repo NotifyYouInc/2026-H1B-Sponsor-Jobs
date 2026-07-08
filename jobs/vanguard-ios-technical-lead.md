@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/iOS-Technical-Lead_173609-1) |
+| Category | Mobile Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/iOS-Technical-Lead_179827) |
 
 ## About This Role
 
-This software engineer position at Vanguard was posted on 2026-02-05.
+This mobile engineer position at Vanguard was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

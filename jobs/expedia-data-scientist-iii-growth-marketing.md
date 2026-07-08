@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Data Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Scientist-III---Growth-Marketing_R-103926-1) |
+| Category | Data Scientist |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Scientist-III---Growth-Marketing_R-107547-1) |
 
 ## About This Role
 
-This data analyst position at Expedia was posted on 2026-03-20.
+This data scientist position at Expedia was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

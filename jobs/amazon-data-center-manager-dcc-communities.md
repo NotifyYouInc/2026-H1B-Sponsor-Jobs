@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Virginia, US |
+| Location | Sterling, Virginia, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10392315/data-center-manager-dcc-communities) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464154/data-center-manager-dcc-communities) |
 
 ## About This Role
 
-This engineering manager position at Amazon was posted on 2026-04-15.
+This engineering manager position at Amazon was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

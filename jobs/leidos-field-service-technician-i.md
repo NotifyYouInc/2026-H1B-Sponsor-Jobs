@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Denver-CO/Field-Service-Technician-I_R-00178918) |
+| Location | Fort Lauderdale, Florida, United States |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Lauderdale-FL/Field-Service-Technician-I_R-00186498) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Leidos was posted on 2026-03-20.
+This technical support engineer position at Leidos was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 
