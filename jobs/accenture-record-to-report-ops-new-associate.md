@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Record-to-Report-Ops-New-Associate_AIOC-S01646055-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Accounting |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Record-to-Report-Ops-New-Associate_AIOC-S01653090-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-19.
+This accounting position at Accenture was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

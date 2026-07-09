@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Hefei, Anhui, China |
 | Category | Industrial Automation |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Shenzhen-China/Snr-Process-Tech_JR-2026-20737) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Hefei-Anhui/Snr-Process-Tech_JR-2026-21224) |
 
 ## About This Role
 
-This industrial automation position at Air Products was posted on 2026-06-02.
+This industrial automation position at Air Products was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

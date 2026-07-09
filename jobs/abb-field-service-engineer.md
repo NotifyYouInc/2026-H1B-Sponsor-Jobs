@@ -1,16 +1,16 @@
-# Field Service Engineer at ABB
+# Field service Engineer at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Vadodara, Gujarat, India |
 | Category | Industrial Automation |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Santiago-Region-Metropolitana-de-Santiago-Chile/Field-Service-Engineer_JR00038953) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vadodara-Gujarat-India/Field-service-Engineer_JR00033864) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-06-26.
+This industrial automation position at ABB was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

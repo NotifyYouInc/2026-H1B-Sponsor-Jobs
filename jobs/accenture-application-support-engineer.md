@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5639335-S2032175-1) |
+| Location | 2 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Application-Support-Engineer_ATCI-5206642-S1912788-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-29.
+This technology / it consulting position at Accenture was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Customer Success |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Sydney-NSW-Australia/Tech-Field-Eng---Sydney_REQ573577) |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Sydney-NSW-Australia/Tech-Field-Eng---Sydney_REQ574026) |
 
 ## About This Role
 
-This customer success position at Unisys was posted on 2026-06-11.
+This technical support engineer position at Unisys was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

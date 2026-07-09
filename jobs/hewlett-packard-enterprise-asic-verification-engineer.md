@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/ASIC-Verification-Engineer_1206111-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/ASIC-Verification-Engineer_1207938-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Hewlett Packard Enterprise was posted on 2026-05-06.
+This semiconductor / chip design position at Hewlett Packard Enterprise was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

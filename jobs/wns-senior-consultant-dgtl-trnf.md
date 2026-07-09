@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000134750933-senior-consultant-dgtl-trnf) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000135446408-senior-consultant-dgtl-trnf) |
 
 ## About This Role
 
-This technology / it consulting position at WNS was posted on 2026-06-29.
+This technology / it consulting position at WNS was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

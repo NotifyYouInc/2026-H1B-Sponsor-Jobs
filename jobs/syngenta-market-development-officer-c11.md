@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kon Tum, Quang Ngai, Vietnam |
-| Category | Account Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000117212345-market-development-officer-c11) |
+| Category | Account Executive |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000135422960-market-development-officer-c11) |
 
 ## About This Role
 
-This account manager position at Syngenta was posted on 2026-03-27.
+This account executive position at Syngenta was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

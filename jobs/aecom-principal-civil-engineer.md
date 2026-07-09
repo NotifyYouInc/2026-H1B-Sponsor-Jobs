@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Whitehaven, England, United Kingdom |
+| Location | Adelaide, South Australia, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000134748110-principal-civil-engineer) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000135437014-principal-civil-engineer) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-06-29.
+This engineering manager position at AECOM was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

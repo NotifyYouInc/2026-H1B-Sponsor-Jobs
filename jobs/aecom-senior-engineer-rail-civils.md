@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133512682-senior-engineer-rail-civils) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000135449589-senior-engineer-rail-civils) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-06-23.
+This engineering manager position at AECOM was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

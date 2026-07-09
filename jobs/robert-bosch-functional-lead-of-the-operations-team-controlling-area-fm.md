@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Poland |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126914932-functional-lead-of-the-operations-team-controlling-area-fm) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135440933-functional-lead-of-the-operations-team-controlling-area-fm) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-05-18.
+This fp&a / strategic finance position at Robert Bosch was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

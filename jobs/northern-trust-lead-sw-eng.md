@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Database Administration |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Lead--SW-Eng_R147399) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Lead--SW-Eng_R157175-1) |
 
 ## About This Role
 
-This database administration position at Northern Trust was posted on 2026-02-18.
+This data engineer position at Northern Trust was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

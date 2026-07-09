@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Project Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Change-Expert_REQ-10112480-1) |
+| Category | Program Manager |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Change-Expert_REQ-10112468-1) |
 
 ## About This Role
 
-This project manager position at ING was posted on 2026-04-09.
+This program manager position at ING was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

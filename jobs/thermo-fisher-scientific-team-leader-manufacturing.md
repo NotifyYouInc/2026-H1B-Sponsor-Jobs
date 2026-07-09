@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Operations |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Team-Leader--Manufacturing_R-01346003) |
+| Location | Lenexa, Kansas, United States |
+| Category | Engineering Manager |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lenexa-Kansas-USA/Team-Leader--Manufacturing_R-01358933) |
 
 ## About This Role
 
-This operations position at Thermo Fisher Scientific was posted on 2026-03-18.
+This engineering manager position at Thermo Fisher Scientific was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

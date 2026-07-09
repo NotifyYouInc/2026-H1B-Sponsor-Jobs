@@ -1,16 +1,16 @@
-# Ingénieur conception mécanique (H/F) at ALTEN
+# Ingénieur Conception Mécanique (H/F) at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Villeneuve-d'Ascq, Hauts-de-France, France |
-| Category | Industrial Automation |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131830379-ingenieur-conception-mecanique-hf) |
+| Location | Boulogne-Billancourt, Île-de-France, France |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135445329-ingenieur-conception-mecanique-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-06-12.
+This electrical / hardware engineer position at ALTEN was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

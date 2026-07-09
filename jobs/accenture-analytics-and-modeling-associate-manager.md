@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Project Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Associate-Manager_AIOC-S01649154-1) |
+| Category | Data Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Associate-Manager_AIOC-S01653079-1) |
 
 ## About This Role
 
-This project manager position at Accenture was posted on 2026-06-05.
+This data analyst position at Accenture was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

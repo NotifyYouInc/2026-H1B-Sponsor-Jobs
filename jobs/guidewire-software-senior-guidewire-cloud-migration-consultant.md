@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | Implementation / Professional Services |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Senior-Guidewire-Cloud-Migration-Consultant_JR_14410) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Senior-Guidewire-Cloud-Migration-Consultant_JR_14527-1) |
 
 ## About This Role
 
-This implementation / professional services position at Guidewire Software was posted on 2026-02-26.
+This technology / it consulting position at Guidewire Software was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

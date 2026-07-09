@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Tokyo-Tokyo-Japan/Financial-Analyst_R0125582) |
+| Location | Brno, South Moravian, Czechia |
+| Category | Financial Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Brno-Jihomoravsk-kraj-Czechia/Financial-Analyst_R0135842-1) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-05-13.
+This financial analyst position at Hitachi was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

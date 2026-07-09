@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Senior-Design-Engineer_R566261-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Senior-Design-Engineer_R567639) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Stryker was posted on 2026-06-12.
+This electrical / hardware engineer position at Stryker was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

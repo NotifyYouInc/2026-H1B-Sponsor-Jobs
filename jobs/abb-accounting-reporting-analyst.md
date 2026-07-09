@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-Analyst_JR00036527-1) |
+| Category | Accounting |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Accounting---Reporting-Analyst_JR00038557) |
 
 ## About This Role
 
-This corporate finance position at ABB was posted on 2026-06-02.
+This accounting position at ABB was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

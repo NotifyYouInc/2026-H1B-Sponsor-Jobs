@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Securities-Operations-Associate_R-528491) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Financial Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Securities-Operations-Associate_R-545771) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-03-23.
+This financial analyst position at Wells Fargo was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

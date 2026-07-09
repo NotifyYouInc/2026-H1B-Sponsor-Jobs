@@ -1,16 +1,16 @@
-# Executive Service Sales at Otis
+# Executive - Service Sales at Otis
 
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Account Executive |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/Wester-Region---9th-Floor-Magnus-Tower-Mindspace-Link-Road-Malad-West-MUMBAI-400064-India/Executive-Service-Sales_20157461) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Account Manager |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/The-Corenthum-Tower-B-Unit-No-B-532-3rd-Floor--A-41-Sector-62-Noida-Uttar-Pradesh/Executive---Service-Sales_20162739) |
 
 ## About This Role
 
-This account executive position at Otis was posted on 2026-06-18.
+This account manager position at Otis was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

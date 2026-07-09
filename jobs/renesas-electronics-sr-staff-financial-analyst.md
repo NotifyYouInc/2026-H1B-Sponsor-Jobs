@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Toyosu, Tokyo, Japan |
-| Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000110304055-sr-staff-financial-analyst) |
+| Category | Financial Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000135413399-sr-staff-financial-analyst) |
 
 ## About This Role
 
-This corporate finance position at Renesas Electronics was posted on 2026-02-20.
+This financial analyst position at Renesas Electronics was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

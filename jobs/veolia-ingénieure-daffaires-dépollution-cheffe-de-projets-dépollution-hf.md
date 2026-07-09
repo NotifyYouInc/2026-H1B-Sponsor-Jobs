@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gennevilliers, Île-de-France, France |
-| Category | Engineering Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130723100-ingenieure-daffaires-depollution-cheffe-de-projets-depollution-hf) |
+| Category | Project Manager |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135448888-ingenieure-daffaires-depollution-cheffe-de-projets-depollution-hf) |
 
 ## About This Role
 
-This engineering manager position at Veolia was posted on 2026-06-08.
+This project manager position at Veolia was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

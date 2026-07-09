@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | Lenexa, Kansas, United States |
 | Category | Engineering Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Cincinnati-Ohio-USA/Manufacturing-Supervisor_R-01358479) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lenexa-Kansas-USA/Manufacturing-Supervisor_R-01359002-1) |
 
 ## About This Role
 
-This engineering manager position at Thermo Fisher Scientific was posted on 2026-07-01.
+This engineering manager position at Thermo Fisher Scientific was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
