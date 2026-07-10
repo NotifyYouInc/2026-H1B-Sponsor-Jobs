@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ankara, Ankara, Turkey |
-| Category | Account Manager |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Trkiye---Ankara/Customer-Experience-Manager_31154775) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Product Marketing |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---Mumbai/Customer-Experience-Manager_31155195) |
 
 ## About This Role
 
-This account manager position at Abbott was posted on 2026-06-29.
+This product marketing position at Abbott was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

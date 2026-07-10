@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Faridabad, Haryana, India |
 | Category | Industrial Automation |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Tokyo-Tokyo-Japan/Automation-Engineer_JR00038336-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Faridabad-Haryana-India/Automation-Engineer_JR00036109) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-06-22.
+This industrial automation position at ABB was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

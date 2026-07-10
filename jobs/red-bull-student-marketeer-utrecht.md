@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
 | Category | Field & Event Marketing |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000135451317-student-marketeer-utrecht) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000135685904-student-marketeer-utrecht) |
 
 ## About This Role
 
-This field & event marketing position at Red Bull was posted on 2026-07-02.
+This field & event marketing position at Red Bull was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

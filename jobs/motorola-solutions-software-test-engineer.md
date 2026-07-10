@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Schaumburg, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Test-Engineer_R60538-1) |
+| Location | United Kingdom |
+| Category | QA Engineer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Software-Test-Engineer_R56121) |
 
 ## About This Role
 
-This software engineer position at Motorola Solutions was posted on 2026-02-10.
+This qa engineer position at Motorola Solutions was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

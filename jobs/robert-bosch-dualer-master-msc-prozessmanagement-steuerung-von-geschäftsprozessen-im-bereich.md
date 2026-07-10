@@ -1,16 +1,16 @@
-# Dualer Master (M.Sc.) Prozessmanagement – Steuerung von Geschäftsprozessen im Bereich der kfm. Funktionen Buderus Deutschland at Robert Bosch
+# Dualer Master (M.Sc.) - Prozessmanagement – Steuerung von Geschäftsprozessen im Bereich Business Process Management  at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wetzlar, Hesse, Germany |
+| Location | Wernau, Baden-Wurttemberg, Germany |
 | Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133524589-dualer-master-msc-prozessmanagement-steuerung-von-geschaftsprozessen-im-bereich-der-kfm-funktionen-buderus-deutschland) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135673961-dualer-master-msc-prozessmanagement-steuerung-von-geschaftsprozessen-im-bereich-business-process-management) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-06-23.
+This business analyst position at Robert Bosch was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

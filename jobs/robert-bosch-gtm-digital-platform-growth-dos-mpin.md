@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Account Executive |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111302336-gtm-digital-platform-growth-dos-mpin) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135678209-gtm-digital-platform-growth-dos-mpin) |
 
 ## About This Role
 
-This account executive position at Robert Bosch was posted on 2026-02-25.
+This account executive position at Robert Bosch was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

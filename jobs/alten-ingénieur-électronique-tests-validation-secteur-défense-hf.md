@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bourges, Centre-Val de Loire, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135458620-ingenieur-electronique-tests-validation-secteur-defense-hf) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135685029-ingenieur-electronique-tests-validation-secteur-defense-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-02.
+This electrical / hardware engineer position at ALTEN was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

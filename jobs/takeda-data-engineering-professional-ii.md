@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Data-Engineering-Professional-II_R0177805) |
+| Category | Data Engineer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Data-Engineering-Professional-II_R0183785) |
 
 ## About This Role
 
-This technical & solutions architect position at Takeda was posted on 2026-04-07.
+This data engineer position at Takeda was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

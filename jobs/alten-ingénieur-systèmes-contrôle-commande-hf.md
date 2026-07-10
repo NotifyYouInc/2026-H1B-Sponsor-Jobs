@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Nantes, Pays de la Loire, France |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131056352-ingenieur-systemes-controle-commande-hf) |
+| Category | Industrial Automation |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135688381-ingenieur-systemes-controle-commande-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-06-09.
+This industrial automation position at ALTEN was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

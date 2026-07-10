@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Odense, South Denmark, Denmark |
 | Category | Project Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Customer-Project-Manager_583478-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denmark---Remote-Based/Customer-Project-Manager_587622-1) |
 
 ## About This Role
 
-This project manager position at Philips was posted on 2026-05-25.
+This project manager position at Philips was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

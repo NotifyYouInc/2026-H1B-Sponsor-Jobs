@@ -1,16 +1,16 @@
-# Ingénieur Méthodes Industrialisation (H/F) at ALTEN
+# Ingénieur méthodes industrialisation (H/F) at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Bourges, Centre-Val de Loire, France |
 | Category | Industrial Automation |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000133004219-ingenieur-methodes-industrialisation-hf) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135685839-ingenieur-methodes-industrialisation-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-06-19.
+This industrial automation position at ALTEN was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Wissous, Île-de-France, France |
-| Category | Sales Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000131831886-ingenieur-technico-commercial-systemes-de-purification-deau-de-laboratoire-paris-ouest-et-normandie-hf) |
+| Category | Account Executive |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135676469-ingenieur-technico-commercial-systemes-de-purification-deau-de-laboratoire-paris-ouest-et-normandie-hf) |
 
 ## About This Role
 
-This sales engineer position at Veolia was posted on 2026-06-12.
+This account executive position at Veolia was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

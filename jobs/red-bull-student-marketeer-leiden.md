@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Leiden, South Holland, The Netherlands |
-| Category | Field & Event Marketing |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000135422647-student-marketeer-leiden) |
+| Category | Brand Marketing |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000135689258-student-marketeer-leiden) |
 
 ## About This Role
 
-This field & event marketing position at Red Bull was posted on 2026-07-02.
+This brand marketing position at Red Bull was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

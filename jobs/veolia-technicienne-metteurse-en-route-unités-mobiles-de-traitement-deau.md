@@ -1,16 +1,16 @@
-# Technicien·ne Metteur·se en Route – Unités Mobiles de Traitement d'Eau  at Veolia
+# Technicien·ne Metteur·se en Route – Unités Mobiles de Traitement d'Eau  at Veolia
 
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mourenx, Nouvelle-Aquitaine, France |
+| Location | Fos-sur-Mer, Provence-Alpes-Côte d'Azur, France |
 | Category | Industrial Automation |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135436049-technicienne-metteurse-en-route-unites-mobiles-de-traitement-deau) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135679125-technicienne-metteurse-en-route-unites-mobiles-de-traitement-deau) |
 
 ## About This Role
 
-This industrial automation position at Veolia was posted on 2026-07-02.
+This industrial automation position at Veolia was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
