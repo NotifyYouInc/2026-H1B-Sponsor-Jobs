@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Corporate Finance |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000117442450-joven-profesional-finanzas) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000135772920-joven-profesional-finanzas) |
 
 ## About This Role
 
-This corporate finance position at Louis Dreyfus was posted on 2026-03-28.
+This fp&a / strategic finance position at Louis Dreyfus was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

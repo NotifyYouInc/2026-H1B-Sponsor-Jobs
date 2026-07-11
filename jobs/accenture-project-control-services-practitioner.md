@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Project Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Project-Control-Services-Practitioner_ATCI-5329690-S1955423-1) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Program Manager |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Project-Control-Services-Practitioner_ATCP-1447973-S425811-1) |
 
 ## About This Role
 
-This project manager position at Accenture was posted on 2026-04-02.
+This program manager position at Accenture was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

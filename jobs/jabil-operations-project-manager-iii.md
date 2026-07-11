@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Project Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Operations-Project-Manager-III_J2440657) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Operations-Project-Manager-III_J2456191-1) |
 
 ## About This Role
 
-This project manager position at Jabil was posted on 2026-02-20.
+This project manager position at Jabil was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

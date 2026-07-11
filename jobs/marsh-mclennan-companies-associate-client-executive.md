@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Calgary, Alberta, Canada |
 | Category | Account Executive |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Dubai---Burj-Al-Salam/Associate-Client-Executive_R_341499-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Calgary---3rd-Avenue-SW/Associate-Client-Executive_R_355317-1) |
 
 ## About This Role
 
-This account executive position at Marsh & McLennan Companies was posted on 2026-06-24.
+This account executive position at Marsh & McLennan Companies was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

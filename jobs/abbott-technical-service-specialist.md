@@ -1,16 +1,16 @@
-# Technical Service Specialist at Abbott
+# Technical Service Specialist at Abbott
 
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Latvia |
-| Category | Customer Success |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Latvia---Remote/Technical-Service-Specialist_31154112-1) |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Arab-Emirates-----Abu-Dhabi/Technical-Service-Specialist_31155322) |
 
 ## About This Role
 
-This customer success position at Abbott was posted on 2026-06-25.
+This technical support engineer position at Abbott was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

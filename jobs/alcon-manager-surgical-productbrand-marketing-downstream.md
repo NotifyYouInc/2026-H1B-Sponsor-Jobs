@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore |
-| Category | Marketing |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Queenstown-Singapore/Manager--Surgical-Product-Brand-Marketing---Downstream_R-2026-46707-1) |
+| Location | 2 locations |
+| Category | Product Marketing |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Lima-Peru/Manager--Surgical-Product-Brand-Marketing---Downstream_R-2026-48240) |
 
 ## About This Role
 
-This marketing position at Alcon was posted on 2026-04-29.
+This product marketing position at Alcon was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

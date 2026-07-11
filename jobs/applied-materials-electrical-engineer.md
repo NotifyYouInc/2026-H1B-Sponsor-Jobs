@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Santa Clara, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Electrical-Engineer_R2620429) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Electrical-Engineer_R2622701) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Applied Materials was posted on 2026-05-21.
+This electrical / hardware engineer position at Applied Materials was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

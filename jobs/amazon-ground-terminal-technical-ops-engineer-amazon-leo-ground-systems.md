@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432594/ground-terminal-technical-ops-engineer-amazon-leo-ground-systems) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Deployment Engineer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465751/ground-terminal-technical-ops-engineer-amazon-leo-ground-systems) |
 
 ## About This Role
 
-This engineering manager position at Amazon was posted on 2026-05-28.
+This deployment engineer position at Amazon was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

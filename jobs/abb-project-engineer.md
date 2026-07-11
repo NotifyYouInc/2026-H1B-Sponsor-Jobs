@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Arraiján, Panamá Oeste Province, Panama |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Project-Engineer_JR00038062-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Arraijan-Panam-Oeste-Panama/Project-Engineer_JR00039929) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-06-21.
+This electrical / hardware engineer position at ABB was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

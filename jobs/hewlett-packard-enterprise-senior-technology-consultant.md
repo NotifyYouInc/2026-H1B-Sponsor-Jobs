@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Senior-Technology-Consultant_1193133-3) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Oklahoma-City-Oklahoma-United-States-of-America/Senior-Technology-Consultant_1208837) |
 
 ## About This Role
 
-This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-04-21.
+This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

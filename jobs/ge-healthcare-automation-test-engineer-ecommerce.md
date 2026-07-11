@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | QA Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Automation-Test-Engineer---eCommerce_R4040571-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Automation-Test-Engineer---eCommerce_R4043273-1) |
 
 ## About This Role
 
-This qa engineer position at GE HealthCare was posted on 2026-05-05.
+This qa engineer position at GE HealthCare was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

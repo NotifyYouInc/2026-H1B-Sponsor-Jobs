@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Murrysville, Pennsylvania, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Murrysville/Financial-Advisor---PNC-Wealth-Management_R226782-1) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NC---Charlotte-28277/Financial-Advisor---PNC-Wealth-Management_R228334-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-06-23.
+This wealth management / private banking position at PNC Financial was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

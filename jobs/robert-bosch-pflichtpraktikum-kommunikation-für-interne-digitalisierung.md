@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bühl, Baden-Wurttemberg, Germany |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128859810-pflichtpraktikum-kommunikation-fur-interne-digitalisierung) |
+| Category | Content Marketing |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135752579-pflichtpraktikum-kommunikation-fur-interne-digitalisierung) |
 
 ## About This Role
 
-This digital / performance marketing position at Robert Bosch was posted on 2026-05-28.
+This content marketing position at Robert Bosch was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

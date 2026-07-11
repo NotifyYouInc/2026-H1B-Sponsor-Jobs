@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Paço de Arcos, Lisbon, Portugal |
 | Category | Legal |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Contract-Manager_R0329206) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Pao-de-Arcos---Q45/Contract-Manager_R0330150) |
 
 ## About This Role
 
-This legal position at Thales was posted on 2026-06-05.
+This legal position at Thales was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

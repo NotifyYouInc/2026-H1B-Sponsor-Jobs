@@ -6,7 +6,7 @@
 | Location | Philippines |
 | Category | Customer Success Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Dela-Rosa---Street-office/Customer-Success-Specialist_R206639) |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Dela-Rosa---Street-office/Customer-Success-Specialist_R205269-1) |
 
 ## About This Role
 
