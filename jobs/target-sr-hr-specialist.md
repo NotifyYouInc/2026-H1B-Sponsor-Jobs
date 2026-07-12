@@ -1,16 +1,16 @@
-# Engineer at Target
+# Sr Hr Specialist at Target
 
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-07-04 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer_R0000290432) |
+| Location | Ontario, California, United States |
+| Category | Human Resources / People Ops |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1505-S-Haven-Ave-OntarioCA-91761-2928/Sr-Hr-Specialist_R0000444348) |
 
 ## About This Role
 
-This software engineer position at Target was posted on 2026-07-04.
+This human resources / people ops position at Target was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

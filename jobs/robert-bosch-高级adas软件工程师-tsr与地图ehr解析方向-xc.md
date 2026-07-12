@@ -1,16 +1,16 @@
-# Projektplaner (w/m/div.) - Gebiet Büchel at Robert Bosch
+# 高级ADAS软件工程师 (TSR与地图EHR解析方向)_XC at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wittlich, Rheinland-Pfalz, Germany |
-| Category | Project Manager |
-| Posted | 2026-07-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135813848-projektplaner-wmdiv-gebiet-buchel) |
+| Location | Suzhou, Jiangsu, China |
+| Category | Software Engineer |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135865858-adas-tsrehr-xc) |
 
 ## About This Role
 
-This project manager position at Robert Bosch was posted on 2026-07-04.
+This software engineer position at Robert Bosch was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

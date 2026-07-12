@@ -1,16 +1,16 @@
-# Information Technology Intern (Saudi National) at Parsons
+# Engineering Manager - Bridges and Marine at Parsons
 
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | IT & Systems Administration |
-| Posted | 2026-07-05 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/Information-Technology-Intern--Saudi-National-_R182896) |
+| Location | Halifax, Nova Scotia, Canada |
+| Category | Engineering Manager |
+| Posted | 2026-07-04 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/CA-NS---Halifax/Engineering-Manager---Bridges-and-Marine_R182893) |
 
 ## About This Role
 
-This it & systems administration position at Parsons was posted on 2026-07-05.
+This engineering manager position at Parsons was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

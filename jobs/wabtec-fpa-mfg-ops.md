@@ -1,16 +1,16 @@
-# Data Scientist at Sanofi
+# FP&A - Mfg Ops at Wabtec
 
 | Field | Details |
 |-------|---------|
-| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Data Scientist |
+| Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | India |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-07-04 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/Data-Scientist_R2838912) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013929156-fpa-mfg-ops) |
 
 ## About This Role
 
-This data scientist position at Sanofi was posted on 2026-07-04.
+This fp&a / strategic finance position at Wabtec was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist at Sanofi
+# Deputy Director, Safety & security HQ at Mistral AI
 
 | Field | Details |
 |-------|---------|
-| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Company | [Mistral AI](https://scoutify.ai/companies/mistral?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Data Scientist |
+| Category | Security Engineer |
 | Posted | 2026-07-04 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/Data-Scientist_R2838912) |
+| Apply | [View on company site](https://jobs.lever.co/mistral/c18fd797-2275-4f2a-bbff-cc38fee3021a) |
 
 ## About This Role
 
-This data scientist position at Sanofi was posted on 2026-07-04.
+This security engineer position at Mistral AI was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

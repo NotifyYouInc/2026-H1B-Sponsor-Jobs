@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Automation-Test-Engineer_JR-0000090812) |
+| Category | QA Engineer |
+| Posted | 2026-07-04 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Automation-Test-Engineer_JR-0000107801-1) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-27.
+This qa engineer position at Barclays was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

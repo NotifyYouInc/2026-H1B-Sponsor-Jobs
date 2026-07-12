@@ -1,16 +1,16 @@
-# Projektplaner (w/m/div.) - Gebiet Büchel at Robert Bosch
+# Systemspezialist (w/m/div.) Schwerpunkt IT- und Video-Systeme – Gebiet Büchel at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Wittlich, Rheinland-Pfalz, Germany |
-| Category | Project Manager |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135813848-projektplaner-wmdiv-gebiet-buchel) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135813788-systemspezialist-wmdiv-schwerpunkt-it-und-video-systeme-gebiet-buchel) |
 
 ## About This Role
 
-This project manager position at Robert Bosch was posted on 2026-07-04.
+This it & systems administration position at Robert Bosch was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

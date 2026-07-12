@@ -1,16 +1,16 @@
-# Information Technology Intern (Saudi National) at Parsons
+# A400M GSD Representative at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Malaysia |
 | Category | IT & Systems Administration |
 | Posted | 2026-07-05 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/Information-Technology-Intern--Saudi-National-_R182896) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Subang/A400M-GSD-Representative_JR10419068-1) |
 
 ## About This Role
 
-This it & systems administration position at Parsons was posted on 2026-07-05.
+This it & systems administration position at Airbus was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

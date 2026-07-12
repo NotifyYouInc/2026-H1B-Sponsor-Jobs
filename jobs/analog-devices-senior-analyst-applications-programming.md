@@ -1,16 +1,16 @@
-# Engineer at Target
+# Senior Analyst, Applications Programming at Analog Devices
 
 | Field | Details |
 |-------|---------|
-| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
 | Posted | 2026-07-04 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Engineer_R0000290432) |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-RMZ/Senior-Analyst--Applications-Programming_R262822) |
 
 ## About This Role
 
-This software engineer position at Target was posted on 2026-07-04.
+This software engineer position at Analog Devices was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

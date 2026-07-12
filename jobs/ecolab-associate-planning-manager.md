@@ -1,16 +1,16 @@
-# Execution Lead, Payments at BP
+# Associate Planning Manager at Ecolab
 
 | Field | Details |
 |-------|---------|
-| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-07-04 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Execution-Lead--Payments_RQ112766) |
+| Category | Business Analyst |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Associate-Planning-Manager_R00296698) |
 
 ## About This Role
 
-This accounting position at BP was posted on 2026-07-04.
+This business analyst position at Ecolab was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

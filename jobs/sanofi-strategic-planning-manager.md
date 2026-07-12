@@ -1,16 +1,16 @@
-# Data Scientist at Sanofi
+# Strategic Planning Manager at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Data Scientist |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Strategy & Operations |
 | Posted | 2026-07-04 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/Data-Scientist_R2838912) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/So-Paulo/Strategic-Planning-Manager_R2863550-1) |
 
 ## About This Role
 
-This data scientist position at Sanofi was posted on 2026-07-04.
+This strategy & operations position at Sanofi was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 
