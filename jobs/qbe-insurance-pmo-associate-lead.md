@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Project Manager |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHI---Manila/PMO-Associate-Lead_352080) |
+| Category | Program Manager |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHI---Manila/PMO-Associate-Lead_357851) |
 
 ## About This Role
 
-This project manager position at QBE Insurance was posted on 2026-03-22.
+This program manager position at QBE Insurance was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

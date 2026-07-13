@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Diego, California, United States |
+| Location | Peterborough, England, United Kingdom |
 | Category | Program Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445318/operations-manager) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10466111/operations-manager) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-06-10.
+This program manager position at Amazon was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

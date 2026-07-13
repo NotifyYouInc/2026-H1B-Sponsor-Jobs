@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | China |
+| Location | Guiyang, Guizhou, China |
 | Category | Sales Leadership |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Urumqi/Sales-Leader_R4040878) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/GuiYang/Sales-Leader_R4043299-1) |
 
 ## About This Role
 
-This sales leadership position at GE HealthCare was posted on 2026-05-08.
+This sales leadership position at GE HealthCare was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

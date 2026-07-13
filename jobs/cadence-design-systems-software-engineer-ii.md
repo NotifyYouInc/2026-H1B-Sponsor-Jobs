@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Software-Engineer-II_R54792-1) |
+| Location | Cambridge, England, United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CAMBRIDGE/Software-Engineer-II_R55345) |
 
 ## About This Role
 
-This ai / ml research position at Cadence Design Systems was posted on 2026-05-28.
+This software engineer position at Cadence Design Systems was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

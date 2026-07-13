@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/DWH-ETL-Technical-Project-Manager_R1437430) |
+| Location | 2 locations |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Managed-Services-Analyst_R1540006) |
 
 ## About This Role
 
-This data engineer position at IQVIA was posted on 2026-04-23.
+This it & systems administration position at IQVIA was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

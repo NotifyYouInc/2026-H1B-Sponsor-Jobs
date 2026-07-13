@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Project Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000115583518-technical-project-manager) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000135938940-technical-project-manager) |
 
 ## About This Role
 
-This project manager position at Endava was posted on 2026-03-19.
+This project manager position at Endava was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

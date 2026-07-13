@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Engineering Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/PLM-Engineer_R0124750) |
+| Category | Software Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/PLM-Engineer_R0135975) |
 
 ## About This Role
 
-This engineering manager position at Hitachi was posted on 2026-06-17.
+This software engineer position at Hitachi was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

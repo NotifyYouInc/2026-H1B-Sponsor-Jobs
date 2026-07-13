@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Account Executive |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432636/senior-account-exective-central-government) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10433855/senior-account-exective-central-government) |
 
 ## About This Role
 
-This account executive position at Amazon was posted on 2026-05-28.
+This account executive position at Amazon was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

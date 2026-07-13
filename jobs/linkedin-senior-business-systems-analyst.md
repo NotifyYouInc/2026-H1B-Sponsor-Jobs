@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115591817-senior-business-systems-analyst) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000135938359-senior-business-systems-analyst) |
 
 ## About This Role
 
-This business analyst position at LinkedIn was posted on 2026-03-19.
+This business analyst position at LinkedIn was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Rome, Lazio, Italy |
-| Category | Business Analyst |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013388396-associate-pricing-manager-italy-greece-allergan-aesthetics) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013931106-associate-pricing-manager-italy-greece-allergan-aesthetics) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-05-30.
+This fp&a / strategic finance position at AbbVie was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

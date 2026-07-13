@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000135776384-director-labor-relations-emea) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000135953399-director-labor-relations-emea) |
 
 ## About This Role
 
-This human resources / people ops position at LinkedIn was posted on 2026-07-03.
+This human resources / people ops position at LinkedIn was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

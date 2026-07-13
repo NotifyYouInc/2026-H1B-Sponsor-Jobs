@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000134191572-senior-associate-operations) |
+| Category | Accounting |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000135960549-senior-associate-operations) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-06-25.
+This accounting position at WNS was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

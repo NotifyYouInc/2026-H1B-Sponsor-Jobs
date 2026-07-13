@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000107517945-specialiste-devops-senior) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135943449-specialiste-devops-senior) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-02-05.
+This devops engineer position at ALTEN was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

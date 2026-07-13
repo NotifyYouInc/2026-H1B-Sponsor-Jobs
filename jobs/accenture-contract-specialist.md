@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Legal |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/Contract-Specialist_R00336704-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Contract-Specialist_R00338533) |
 
 ## About This Role
 
-This legal position at Accenture was posted on 2026-07-02.
+This legal position at Accenture was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

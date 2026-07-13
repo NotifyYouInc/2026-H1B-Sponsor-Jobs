@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Luxembourg, Luxembourg, Luxembourg |
 | Category | Program Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454680/program-manager-eu-inbound-inventory-placement-operations) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10466110/program-manager-eu-inbound-inventory-placement-operations) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-06-22.
+This program manager position at Amazon was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

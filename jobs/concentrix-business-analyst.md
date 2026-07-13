@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---55-Divyasree-Towers-Bannerghatta-Main-Road/Business-Analyst_R1698029) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Quezon-City---EXXA-Tower/Business-Analyst_R1730954-1) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-02-09.
+This business analyst position at Concentrix was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
