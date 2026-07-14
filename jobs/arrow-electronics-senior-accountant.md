@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
-| Category | Corporate Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Penang-Pulau-Pinang-Penang/Senior-Accountant_R241013) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/KR-Seoul-Korea-Centerpoint-Seocho/Senior-Accountant_R245616) |
 
 ## About This Role
 
-This corporate finance position at Arrow Electronics was posted on 2026-03-02.
+This accounting position at Arrow Electronics was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

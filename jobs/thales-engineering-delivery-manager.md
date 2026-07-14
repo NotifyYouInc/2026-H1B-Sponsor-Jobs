@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Grenoble, Rhône-Alpes, France |
-| Category | Engineering Manager |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Grenoble/Engineering-Delivery-Manager_R0330371-2) |
+| Location | 2 locations |
+| Category | Project Manager |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Engineering-Delivery-Manager_R0333443-1) |
 
 ## About This Role
 
-This engineering manager position at Thales was posted on 2026-06-29.
+This project manager position at Thales was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Casablanca, Casablanca-Settat, Morocco |
+| Location | 10 locations |
 | Category | Account Executive |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/MA-Casablanca-Morocco-Boulevard-Al-Quods/Inside-Sales-Representative_R242482) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Inside-Sales-Representative_R245723) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-06-22.
+This account executive position at Arrow Electronics was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

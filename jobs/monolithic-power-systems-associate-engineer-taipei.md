@@ -5,12 +5,12 @@
 | Company | [Monolithic Power Systems](https://scoutify.ai/companies/monolithic-power-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Taipei---Taiwan/Associate-Engineer--Taipei-_R-1486) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/Taipei---Taiwan/Associate-Engineer--Taipei-_R-1677) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-06-01.
+This electrical / hardware engineer position at Monolithic Power Systems was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

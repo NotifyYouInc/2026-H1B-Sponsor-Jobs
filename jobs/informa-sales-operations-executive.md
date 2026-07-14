@@ -1,16 +1,16 @@
-# Sales Operations Executive at Informa
+# Sales Operations Executive  at Informa
 
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
-| Category | Operations |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000113972404-sales-operations-executive) |
+| Location | Singapore, Singapore |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000136149893-sales-operations-executive) |
 
 ## About This Role
 
-This operations position at Informa was posted on 2026-03-11.
+This revenue / sales operations position at Informa was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

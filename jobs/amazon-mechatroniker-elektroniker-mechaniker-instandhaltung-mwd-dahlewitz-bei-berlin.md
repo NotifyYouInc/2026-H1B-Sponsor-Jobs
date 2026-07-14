@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Blankenfelde-Mahlow, Brandenburg, Germany |
 | Category | Industrial Automation |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10418409/mechatroniker-elektroniker-mechaniker-instandhaltung-m-w-d-dahlewitz-bei-berlin) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10467231/mechatroniker-elektroniker-mechaniker-instandhaltung-m-w-d-dahlewitz-bei-berlin) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-05-13.
+This industrial automation position at Amazon was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

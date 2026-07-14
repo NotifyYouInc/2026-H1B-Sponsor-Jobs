@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Aubonne, Vaud, Switzerland |
-| Category | Product Marketing |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000135437395-director-product-digital-portfolio-marketing) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000136161740-director-product-digital-portfolio-marketing) |
 
 ## About This Role
 
-This product marketing position at Intuitive Surgical was posted on 2026-07-02.
+This asset management / portfolio management position at Intuitive Surgical was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

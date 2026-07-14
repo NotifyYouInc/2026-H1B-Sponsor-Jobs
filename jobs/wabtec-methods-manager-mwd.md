@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Schüttorf, Lower Saxony, Germany |
 | Category | Engineering Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012967566-methods-manager-mwd) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013951086-methods-manager-mwd) |
 
 ## About This Role
 
-This engineering manager position at Wabtec was posted on 2026-05-05.
+This engineering manager position at Wabtec was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

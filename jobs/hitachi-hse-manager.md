@@ -1,16 +1,16 @@
-# HSE Manager at Hitachi
+# HSE MANAGER at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gujarat, IN |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Compliance & Risk Management |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/HSE-Manager_R0126604) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maynila-Philippines/HSE-MANAGER_R1013013-1) |
 
 ## About This Role
 
-This compliance & risk management position at Hitachi was posted on 2026-05-27.
+This compliance & risk management position at Hitachi was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

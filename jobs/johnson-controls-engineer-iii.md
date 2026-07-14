@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Wuxi, Jiangsu, China |
-| Category | Engineering Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Wuxi-Jiangsu-China/Engineer-III_WD30265317-1) |
+| Category | Software Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Wuxi---Changjiang-Road/Engineer-III_WD30271714-1) |
 
 ## About This Role
 
-This engineering manager position at Johnson Controls was posted on 2026-05-11.
+This software engineer position at Johnson Controls was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

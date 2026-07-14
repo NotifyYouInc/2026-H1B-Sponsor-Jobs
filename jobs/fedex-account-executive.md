@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FedEx](https://scoutify.ai/companies/fedex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Llantrisant, Wales, United Kingdom |
 | Category | Account Executive |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://fedex.wd1.myworkdayjobs.com/fxe-eu_external/job/FXE-EUSVKKSCAKSCALETISKO-KOSICE/Account-Executive_RC777007) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://fedex.wd1.myworkdayjobs.com/fxe-eu_external/job/FXE-EUGBRCXEACXEALlantrisant/Account-Executive_RC765702) |
 
 ## About This Role
 
-This account executive position at FedEx was posted on 2026-05-08.
+This account executive position at FedEx was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Rodange, Esch-sur-Alzette, Luxembourg |
 | Category | Industrial Automation |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000135758919-ingenieur-projets-et-automatisation-hf) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000136162650-ingenieur-projets-et-automatisation-hf) |
 
 ## About This Role
 
-This industrial automation position at Avery Dennison Corporation was posted on 2026-07-03.
+This industrial automation position at Avery Dennison Corporation was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

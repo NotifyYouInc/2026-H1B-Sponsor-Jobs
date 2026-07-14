@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126462490-key-user-ku-general-ledger-s4hana) |
+| Category | Accounting |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000136153364-key-user-ku-general-ledger-s4hana) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-05-14.
+This accounting position at Robert Bosch was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

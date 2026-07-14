@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Calgary, Alberta, Canada |
 | Category | Account Executive |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Field-Sales-Representative_R243191) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/CA-AB-Alberta-Canada-Remote-Employees/Field-Sales-Representative_R243879) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-05-22.
+This account executive position at Arrow Electronics was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

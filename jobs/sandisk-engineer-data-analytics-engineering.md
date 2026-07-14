@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Batu Kawan, Penang, Malaysia |
 | Category | Data Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000128869399-engineer-data-analytics-engineering) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000136157599-engineer-data-analytics-engineering) |
 
 ## About This Role
 
-This data engineer position at SanDisk was posted on 2026-05-28.
+This data engineer position at SanDisk was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

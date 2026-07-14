@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Recklinghausen, North Rhine-Westphalia, Germany |
-| Category | Growth Marketing |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013196476-marketing-specialist-mfd) |
+| Category | Product Marketing |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013951077-marketing-specialist-mfd) |
 
 ## About This Role
 
-This growth marketing position at Wabtec was posted on 2026-05-19.
+This product marketing position at Wabtec was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

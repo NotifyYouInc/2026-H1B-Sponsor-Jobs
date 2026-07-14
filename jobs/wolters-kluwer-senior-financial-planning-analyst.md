@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Financial-Planning-Analyst_R0057978) |
+| Location | 2 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---New-York-City-NY/Senior-Financial-Planning-Analyst_R0053478) |
 
 ## About This Role
 
-This corporate finance position at Wolters Kluwer was posted on 2026-06-12.
+This fp&a / strategic finance position at Wolters Kluwer was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

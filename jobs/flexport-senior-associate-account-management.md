@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flexport](https://scoutify.ai/companies/flexport?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Hong Kong, Hong Kong |
 | Category | Account Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/8020312?gh_jid=8020312) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/8048080?gh_jid=8048080) |
 
 ## About This Role
 
-This account manager position at Flexport was posted on 2026-06-22.
+This account manager position at Flexport was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
