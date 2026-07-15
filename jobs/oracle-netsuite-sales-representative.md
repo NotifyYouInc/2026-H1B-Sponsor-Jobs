@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Account Executive |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#328949) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#339364) |
 
 ## About This Role
 
-This account executive position at Oracle was posted on 2026-02-28.
+This account executive position at Oracle was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

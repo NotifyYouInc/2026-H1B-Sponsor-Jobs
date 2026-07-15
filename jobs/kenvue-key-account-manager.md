@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Oslo, Oslo, Norway |
 | Category | Account Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-Australia-New-South-Wales-Sydney/Key-Account-Manager_2607046930W) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/EuropeMiddle-EastAfrica-Norway-Oslo-Oslo/Key-Account-Manager_2607047404W) |
 
 ## About This Role
 
-This account manager position at Kenvue was posted on 2026-06-22.
+This account manager position at Kenvue was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

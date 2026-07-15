@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000117210848-data-science-consultant) |
+| Location | Rotterdam, South Holland, The Netherlands |
+| Category | Data Scientist |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000136407459-data-science-consultant) |
 
 ## About This Role
 
-This strategy / management consulting position at SIA was posted on 2026-03-27.
+This data scientist position at SIA was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

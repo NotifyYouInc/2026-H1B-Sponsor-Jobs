@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Data Scientist |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000135922860-senior-data-science-consultant) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000136407134-senior-data-science-consultant) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-07-06.
+This data scientist position at SIA was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

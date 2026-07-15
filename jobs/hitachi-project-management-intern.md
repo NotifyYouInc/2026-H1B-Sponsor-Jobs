@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | China |
+| Location | Hefei, Anhui, China |
 | Category | Project Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Anhui-China/Project-Management-Intern_R0132229) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hefei-Anhui-China/Project-Management-Intern_R0135840) |
 
 ## About This Role
 
-This project manager position at Hitachi was posted on 2026-05-27.
+This project manager position at Hitachi was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 
