@@ -5,12 +5,12 @@
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Lima/PRACTICANTE-PROFESIONAL_20099038) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Lima/PRACTICANTE-PROFESIONAL_20099289) |
 
 ## About This Role
 
-This human resources / people ops position at Acciona was posted on 2026-07-03.
+This human resources / people ops position at Acciona was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

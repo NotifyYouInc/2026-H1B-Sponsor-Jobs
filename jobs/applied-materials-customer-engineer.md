@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BeijingCHN/Customer-Engineer_R2622831) |
+| Location | Singapore, Singapore |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer_R2623642) |
 
 ## About This Role
 
-This technical support engineer position at Applied Materials was posted on 2026-07-02.
+This sales engineer position at Applied Materials was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

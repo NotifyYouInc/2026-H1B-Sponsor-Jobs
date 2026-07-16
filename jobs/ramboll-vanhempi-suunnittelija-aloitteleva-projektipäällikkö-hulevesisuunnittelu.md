@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Espoo, Uusimaa, Finland |
 | Category | Project Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000135955339-vanhempi-suunnittelija-aloitteleva-projektipaallikko-hulevesisuunnittelu) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000136731554-vanhempi-suunnittelija-aloitteleva-projektipaallikko-hulevesisuunnittelu) |
 
 ## About This Role
 
-This project manager position at Ramboll was posted on 2026-07-06.
+This project manager position at Ramboll was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

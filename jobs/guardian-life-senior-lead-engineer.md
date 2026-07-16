@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Senior-Lead-Engineer_R000109111) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | QA Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Senior-Lead-Engineer_R000109728) |
 
 ## About This Role
 
-This software engineer position at Guardian Life was posted on 2026-06-16.
+This qa engineer position at Guardian Life was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

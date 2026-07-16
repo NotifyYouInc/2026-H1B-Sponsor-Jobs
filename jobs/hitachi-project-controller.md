@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Västerås, Västmanland, Sweden |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Accounting |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaesteras-Vastmanland-County-Sweden/Project-Controller_R0125342) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Controller_R0136716) |
 
 ## About This Role
 
-This accounting position at Hitachi was posted on 2026-05-13.
+This accounting position at Hitachi was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

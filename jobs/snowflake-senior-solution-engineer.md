@@ -1,16 +1,16 @@
-# Senior Solution Engineer at Snowflake
+# Senior Solution Engineer  at Snowflake
 
 | Field | Details |
 |-------|---------|
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/207852d7-870f-42c5-a370-6e755a05bc3d) |
+| Location | London, England, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/e32988e0-4e39-42a0-a9d3-e3e98248668e) |
 
 ## About This Role
 
-This technical & solutions architect position at Snowflake was posted on 2026-05-27.
+This sales engineer position at Snowflake was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

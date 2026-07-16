@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000125760217-hr-service-advisor) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136729684-hr-service-advisor) |
 
 ## About This Role
 
-This human resources / people ops position at Experian was posted on 2026-05-11.
+This human resources / people ops position at Experian was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

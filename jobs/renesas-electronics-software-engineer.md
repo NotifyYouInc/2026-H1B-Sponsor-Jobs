@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000112081417-software-engineer) |
+| Location | Lviv, Lviv, Ukraine |
+| Category | Software Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000136734002-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Renesas Electronics was posted on 2026-03-02.
+This software engineer position at Renesas Electronics was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

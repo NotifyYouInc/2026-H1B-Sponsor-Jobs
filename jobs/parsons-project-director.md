@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Jeddah, Mecca Region, Saudi Arabia |
 | Category | Project Manager |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/Project-Director_R180554) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Jeddah/Project-Director_R182992) |
 
 ## About This Role
 
-This project manager position at Parsons was posted on 2026-05-10.
+This project manager position at Parsons was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

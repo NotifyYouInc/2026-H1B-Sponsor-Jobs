@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | Dublin, Leinster, Ireland |
 | Category | Industrial Automation |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454685/reliability-maintenance-engineering-technician-rme) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10469673/reliability-maintenance-engineering-technician-rme) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-06-22.
+This industrial automation position at Amazon was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

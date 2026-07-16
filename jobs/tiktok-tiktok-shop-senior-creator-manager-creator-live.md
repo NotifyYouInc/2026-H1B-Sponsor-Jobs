@@ -1,16 +1,16 @@
-# TikTok Shop - Senior Creator Manager, Creator Live at TikTok
+# TikTok Shop - Senior Creator Manager, Creator LIVE at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Growth Marketing |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7642479621687216437/detail) |
+| Category | Social Media / Community |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7660171085308447029/detail) |
 
 ## About This Role
 
-This growth marketing position at TikTok was posted on 2026-06-06.
+This social media / community position at TikTok was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

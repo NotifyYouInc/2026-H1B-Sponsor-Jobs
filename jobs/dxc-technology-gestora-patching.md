@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Spain |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---ANY-CITY/Gestor-a-Patching_51580991) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---ANY-CITY/Gestor-a-Patching_51584755) |
 
 ## About This Role
 
-This it & systems administration position at DXC Technology was posted on 2026-05-21.
+This it & systems administration position at DXC Technology was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

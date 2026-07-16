@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Account Executive |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Vienna-Austria/Inside-Account-Executive---Architecture_2012983) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Singapore-Singapore/Inside-Account-Executive---Architecture_2015508-1) |
 
 ## About This Role
 
-This account executive position at Cisco was posted on 2026-05-27.
+This account executive position at Cisco was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

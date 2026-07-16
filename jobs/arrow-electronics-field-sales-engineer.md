@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/TH-Bangkok-Thailand9-Rama-9/Field-Sales-Engineer_R241831) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Sales Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Field-Sales-Engineer_R244055) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-03-11.
+This sales engineer position at Arrow Electronics was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

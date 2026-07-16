@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BGR---SOFIA/HR-Advisor---UK_51575348) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BGR---SOFIA/HR-Advisor---UK_51584728) |
 
 ## About This Role
 
-This human resources / people ops position at DXC Technology was posted on 2026-06-19.
+This human resources / people ops position at DXC Technology was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

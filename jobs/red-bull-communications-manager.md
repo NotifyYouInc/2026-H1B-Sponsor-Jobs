@@ -1,0 +1,22 @@
+# Communications Manager at Red Bull
+
+| Field | Details |
+|-------|---------|
+| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
+| Category | PR & External Communications |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000136746871-communications-manager) |
+
+## About This Role
+
+This pr & external communications position at Red Bull was posted on 2026-07-09.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

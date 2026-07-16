@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Operations |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10394471/central-operations) |
+| Category | Business Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10469646/central-operations) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-04-17.
+This business analyst position at Amazon was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

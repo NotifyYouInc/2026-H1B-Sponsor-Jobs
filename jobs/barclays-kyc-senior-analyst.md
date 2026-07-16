@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/KYC-Senior-Analyst_JR-0000104420) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/KYC-Senior-Analyst_JR-0000106779-1) |
 
 ## About This Role
 
-This financial crimes & aml position at Barclays was posted on 2026-06-15.
+This financial crimes & aml position at Barclays was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

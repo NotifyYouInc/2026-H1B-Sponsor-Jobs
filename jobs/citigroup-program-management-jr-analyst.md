@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Program Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Program-Management-Jr-Analyst_26976210) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Program-Management-Jr-Analyst_26976616) |
 
 ## About This Role
 
-This program manager position at Citigroup was posted on 2026-07-02.
+This program manager position at Citigroup was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

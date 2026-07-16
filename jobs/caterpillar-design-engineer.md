@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Burnie, Tasmania, Australia |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Burnie-Tasmania/Design-Engineer_R0000369499) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Design-Engineer_R0000381237) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-05-28.
+This software engineer position at Caterpillar was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

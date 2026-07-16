@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sānand, Gujarat, India |
+| Location | Ahmedabad, Gujarat, India |
 | Category | Legal |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126462529-in-bosch-rexroth-india-assistant-manager-deputy-manager-company-secretarial-legal) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000136749456-in-bosch-rexroth-india-assistant-manager-deputy-manager-company-secretarial-legal) |
 
 ## About This Role
 
-This legal position at Robert Bosch was posted on 2026-05-14.
+This legal position at Robert Bosch was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

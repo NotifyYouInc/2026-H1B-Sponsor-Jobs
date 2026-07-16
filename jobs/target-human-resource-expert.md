@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bridgehampton, New York, United States |
+| Location | Portland, Oregon, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/2102-Montauk-Hwy-BridgehamptonNY-11932-4214/Human-Resource-Expert_R0000440977) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/12675-NW-Cornell-Rd-PortlandOR-97229-5886/Human-Resource-Expert_R0000445088) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-06-02.
+This human resources / people ops position at Target was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
