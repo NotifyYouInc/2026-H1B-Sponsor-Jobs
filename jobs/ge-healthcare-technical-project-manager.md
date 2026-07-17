@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 6 locations |
+| Location | Tianjin, Tianjin, China |
 | Category | Project Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/BeiJing/Technical-Project-Manager_R4038494-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Tianjin/Technical-Project-Manager_R4043508-1) |
 
 ## About This Role
 
-This project manager position at GE HealthCare was posted on 2026-03-26.
+This project manager position at GE HealthCare was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

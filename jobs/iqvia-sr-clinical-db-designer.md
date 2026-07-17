@@ -1,16 +1,16 @@
-# Sr. Clinical DB Designer at IQVIA
+# Sr Clinical DB Designer at IQVIA
 
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Kochi, Kerala, India |
 | Category | Database Administration |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Sr-Clinical-DB-Designer_R1553971) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Sr-Clinical-DB-Designer_R1553654) |
 
 ## About This Role
 
-This database administration position at IQVIA was posted on 2026-07-06.
+This database administration position at IQVIA was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

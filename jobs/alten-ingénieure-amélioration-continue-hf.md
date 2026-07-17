@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Industrial Automation |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000133003124-ingenieure-amelioration-continue-hf) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137062659-ingenieure-amelioration-continue-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-06-19.
+This industrial automation position at ALTEN was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

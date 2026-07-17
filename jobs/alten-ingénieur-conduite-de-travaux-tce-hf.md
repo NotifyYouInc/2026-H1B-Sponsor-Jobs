@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | La Rochelle, Nouvelle-Aquitaine, France |
-| Category | Engineering Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131833517-ingenieur-conduite-de-travaux-tce-hf) |
+| Category | Project Manager |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137059219-ingenieur-conduite-de-travaux-tce-hf) |
 
 ## About This Role
 
-This engineering manager position at ALTEN was posted on 2026-06-12.
+This project manager position at ALTEN was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

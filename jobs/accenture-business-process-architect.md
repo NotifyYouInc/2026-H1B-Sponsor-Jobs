@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Business-Process-Architect_ATCI-5110185-S1889550-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Business-Process-Architect_ATCI-5047229-S1871522-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-07-07.
+This technology / it consulting position at Accenture was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

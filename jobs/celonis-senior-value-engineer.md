@@ -1,16 +1,16 @@
-# Senior Value Engineer  at Celonis
+# Senior Value Engineer at Celonis
 
 | Field | Details |
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7630954003?gh_jid=7630954003) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Sales Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7608430003?gh_jid=7608430003) |
 
 ## About This Role
 
-This technology / it consulting position at Celonis was posted on 2026-03-05.
+This sales engineer position at Celonis was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

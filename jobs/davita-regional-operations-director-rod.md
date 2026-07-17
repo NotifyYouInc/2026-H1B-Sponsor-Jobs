@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
-| Category | Operations |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01505---Wisconsin-Badgerland-Region-03-Office/Regional-Operations-Director--ROD-_R0457988) |
+| Location | New York, US |
+| Category | Strategy & Operations |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/00709---NorEasters-Divisional-Office/Regional-Operations-Director--ROD-_R0467475) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-05-15.
+This strategy & operations position at DaVita was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

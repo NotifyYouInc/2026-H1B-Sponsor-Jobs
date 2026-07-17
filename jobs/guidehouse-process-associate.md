@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Process-Associate_41114-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Process-Associate_41783) |
 
 ## About This Role
 
-This financial crimes & aml position at Guidehouse was posted on 2026-06-25.
+This financial crimes & aml position at Guidehouse was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

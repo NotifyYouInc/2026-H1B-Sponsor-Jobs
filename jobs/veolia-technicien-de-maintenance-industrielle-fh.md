@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Provence-Alpes-Côte d'Azur, FR |
+| Location | Limoges, Nouvelle-Aquitaine, France |
 | Category | Industrial Automation |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000132342469-technicien-de-maintenance-industrielle-fh) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137069236-technicien-de-maintenance-industrielle-fh) |
 
 ## About This Role
 
-This industrial automation position at Veolia was posted on 2026-06-16.
+This industrial automation position at Veolia was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

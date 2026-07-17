@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ahmedabad, Gujarat, India |
+| Location | Seoul, Seoul, South Korea |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000131597269-district-sales-operations) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000137045696-district-sales-operations) |
 
 ## About This Role
 
-This revenue / sales operations position at Expeditors International of Washington was posted on 2026-06-11.
+This revenue / sales operations position at Expeditors International of Washington was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

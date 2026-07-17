@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
+| Location | Malmö, Skåne, Sweden |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000135674349-lead-reward-specialist) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000137075789-lead-reward-specialist) |
 
 ## About This Role
 
-This human resources / people ops position at Ramboll was posted on 2026-07-03.
+This human resources / people ops position at Ramboll was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

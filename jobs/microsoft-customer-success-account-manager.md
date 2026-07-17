@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Malaysia |
-| Category | Customer Success |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556874354) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Customer Success Manager |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556928955) |
 
 ## About This Role
 
-This customer success position at Microsoft was posted on 2026-06-10.
+This customer success manager position at Microsoft was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

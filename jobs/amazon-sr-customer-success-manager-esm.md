@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Customer Success |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10425080/sr-customer-success-manager-esm) |
+| Category | Customer Success Manager |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10470819/sr-customer-success-manager-esm) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-05-20.
+This customer success manager position at Amazon was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

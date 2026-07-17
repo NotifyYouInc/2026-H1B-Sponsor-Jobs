@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 7 locations |
-| Category | Account Executive |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000133187529-senior-business-development) |
+| Location | Girona, Catalonia, Spain |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137059069-senior-business-development) |
 
 ## About This Role
 
-This account executive position at Veolia was posted on 2026-06-20.
+This sales development (sdr / bdr) position at Veolia was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

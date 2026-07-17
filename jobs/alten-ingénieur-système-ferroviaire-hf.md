@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tours, Centre-Val de Loire, France |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135929390-ingenieur-systeme-ferroviaire-hf) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137060325-ingenieur-systeme-ferroviaire-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-07-06.
+This embedded / firmware engineer position at ALTEN was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

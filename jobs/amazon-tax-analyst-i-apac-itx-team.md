@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435439/tax-analyst-i-apac-itx-team) |
+| Category | Accounting |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10470782/tax-analyst-i-apac-itx-team) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-06-01.
+This accounting position at Amazon was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

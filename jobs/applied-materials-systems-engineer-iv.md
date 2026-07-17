@@ -1,16 +1,16 @@
-# Systems Engineer IV at Applied Materials
+# Systems Engineer- IV at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-IV_R2616284) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Systems-Engineer--IV_R2621260) |
 
 ## About This Role
 
-This semiconductor / chip design position at Applied Materials was posted on 2026-04-07.
+This semiconductor / chip design position at Applied Materials was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

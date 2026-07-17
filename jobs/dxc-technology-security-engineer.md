@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Singapore, Singapore |
 | Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AU312---DXC-Brisbane-Brookes-St-AU312/Security-Engineer_51583609-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/Security-Engineer_51584837) |
 
 ## About This Role
 
-This security engineer position at DXC Technology was posted on 2026-06-23.
+This security engineer position at DXC Technology was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

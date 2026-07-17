@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Bengaluru-India/Sr-SW-Test-Engineer---Phone-Compatibility_JR111574) |
+| Category | Software Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Bengaluru-India/Sr-SW-Test-Development-Engineer_JR111567) |
 
 ## About This Role
 
-This semiconductor / chip design position at Dexcom was posted on 2026-03-03.
+This software engineer position at Dexcom was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

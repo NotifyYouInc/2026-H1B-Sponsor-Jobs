@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Assoc-Consultant_R1523953-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Gurugram-India/Assoc-Consultant_R1543039) |
 
 ## About This Role
 
-This strategy / management consulting position at IQVIA was posted on 2026-05-21.
+This strategy / management consulting position at IQVIA was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

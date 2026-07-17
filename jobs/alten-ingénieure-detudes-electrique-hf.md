@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tours, Centre-Val de Loire, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000133001614-ingenieure-detudes-electrique-hf) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137059580-ingenieure-detudes-electrique-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-06-19.
+This electrical / hardware engineer position at ALTEN was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

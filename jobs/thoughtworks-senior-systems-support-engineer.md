@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brazil |
-| Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7523778?gh_jid=7523778) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8045790?gh_jid=8045790) |
 
 ## About This Role
 
-This customer success position at Thoughtworks was posted on 2026-02-09.
+This technical support engineer position at Thoughtworks was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

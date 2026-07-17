@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Industrial Automation |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Quality-Automation-Engineer--SDET----Intermediate_J00176541-2) |
+| Location | Pune, Maharashtra, India |
+| Category | QA Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Quality-Automation-Engineer--SDET----Intermediate_J00177626-1) |
 
 ## About This Role
 
-This industrial automation position at Equifax was posted on 2026-05-05.
+This qa engineer position at Equifax was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

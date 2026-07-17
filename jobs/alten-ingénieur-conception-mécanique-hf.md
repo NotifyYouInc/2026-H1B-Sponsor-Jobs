@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Boulogne-Billancourt, Île-de-France, France |
+| Location | Vendôme, Centre-Val de Loire, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135445329-ingenieur-conception-mecanique-hf) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137057379-ingenieur-conception-mecanique-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-02.
+This electrical / hardware engineer position at ALTEN was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

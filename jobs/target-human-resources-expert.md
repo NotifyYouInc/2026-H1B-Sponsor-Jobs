@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Baldwin Park, California, United States |
+| Location | Orland Park, Illinois, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/3100-Baldwin-Park-Blvd-Baldwin-ParkCA-91706-4703/Human-Resources-Expert_R0000443424) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/15850-S-94th-Ave-Orland-ParkIL-60462-4725/Human-Resources-Expert_R0000445174) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-06-23.
+This human resources / people ops position at Target was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
