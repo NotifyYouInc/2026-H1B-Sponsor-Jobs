@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vixxo](https://scoutify.ai/companies/vixxo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Account Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vixxo/jobs/8578813002) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vixxo/jobs/8626502002) |
 
 ## About This Role
 
-This account manager position at Vixxo was posted on 2026-06-22.
+This account manager position at Vixxo was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

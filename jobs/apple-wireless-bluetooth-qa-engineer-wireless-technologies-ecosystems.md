@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Not specified |
 | Category | QA Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657201/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671935/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems) |
 
 ## About This Role
 
-This qa engineer position at Apple was posted on 2026-04-10.
+This qa engineer position at Apple was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

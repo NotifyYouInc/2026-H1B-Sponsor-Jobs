@@ -1,16 +1,16 @@
-# SMB ACCOUNT MANAGER at Block
+# SMB Account Manager at Block
 
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5120818008?gh_jid=5120818008) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Account Manager |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5258330008?gh_jid=5258330008) |
 
 ## About This Role
 
-This customer success position at Block was posted on 2026-02-13.
+This account manager position at Block was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

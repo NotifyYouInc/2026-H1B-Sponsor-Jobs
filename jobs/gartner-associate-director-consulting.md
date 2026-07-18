@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | 2 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-04 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Arlington-VA/Associate-Director-Consulting_111795) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---California/Associate-Director-Consulting_112109) |
 
 ## About This Role
 
-This technology / it consulting position at Gartner was posted on 2026-07-04.
+This technology / it consulting position at Gartner was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | San Antonio, Texas, United States |
 | Category | Trust & Safety |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Trust---Safety-Associate_AIOC-S01637134-1) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/San-Antonio-10931-Laureate-Drive-OPS/Trust---Safety-Associate_R00342722) |
 
 ## About This Role
 
-This trust & safety position at Accenture was posted on 2026-06-19.
+This trust & safety position at Accenture was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

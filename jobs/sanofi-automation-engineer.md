@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Industrial Automation |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Singapore/Automation-Engineer_R2846340) |
+| Location | Framingham, Massachusetts, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/Automation-Engineer_R2860783-1) |
 
 ## About This Role
 
-This industrial automation position at Sanofi was posted on 2026-03-18.
+This devops engineer position at Sanofi was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wilmer, Texas, United States |
+| Location | Wharton, Pennsylvania, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465584/data-center-technician-night-role) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10471739/data-center-technician-night-role) |
 
 ## About This Role
 
-This it & systems administration position at Amazon was posted on 2026-07-03.
+This it & systems administration position at Amazon was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 
