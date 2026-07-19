@@ -1,16 +1,16 @@
-# Team Leader at Pfizer
+# Team leader at Pfizer
 
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
-| Category | Leadership Development Program |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Vizag/Team-Leader_4953923-1) |
+| Category | Engineering Manager |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Vizag/Team-leader_4959552) |
 
 ## About This Role
 
-This leadership development program position at Pfizer was posted on 2026-04-23.
+This engineering manager position at Pfizer was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

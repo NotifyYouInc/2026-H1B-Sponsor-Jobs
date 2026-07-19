@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Takasaki, Gunma, Japan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000120601597-senior-staff-device-engineer) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000137261169-senior-staff-device-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-04-14.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

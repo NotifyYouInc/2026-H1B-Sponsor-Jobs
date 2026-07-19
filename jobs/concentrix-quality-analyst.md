@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Financial Crimes & AML |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---Manyata-Blk-D4-1st-Flr/Quality-Analyst_R1728179) |
+| Location | Hyderabad, Telangana, India |
+| Category | QA Engineer |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Hyderabad---Google-Client-Site/Quality-Analyst_R1746251) |
 
 ## About This Role
 
-This financial crimes & aml position at Concentrix was posted on 2026-05-06.
+This qa engineer position at Concentrix was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

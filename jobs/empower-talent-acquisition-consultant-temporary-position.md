@@ -1,0 +1,22 @@
+# Talent Acquisition Consultant - Temporary position at Empower
+
+| Field | Details |
+|-------|---------|
+| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | United States |
+| Category | Talent Acquisition / Recruiting |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Talent-Acquisition-Consultant---Temporary-position_R0060425) |
+
+## About This Role
+
+This talent acquisition / recruiting position at Empower was posted on 2026-07-11.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

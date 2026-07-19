@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Account Executive |
 | Posted | 2026-07-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000137229069-account-executive) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000137252819-account-executive) |
 
 ## About This Role
 

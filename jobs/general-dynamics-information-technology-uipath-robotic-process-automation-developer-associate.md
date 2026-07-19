@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bossier City, Louisiana, United States |
-| Category | Robotics Engineer |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/UiPath-Robotic-Process-Automation-Developer-Associate_RQ218022) |
+| Category | Software Engineer |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer-Associate_RQ223293-1) |
 
 ## About This Role
 
-This robotics engineer position at General Dynamics Information Technology was posted on 2026-04-12.
+This software engineer position at General Dynamics Information Technology was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

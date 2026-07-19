@@ -1,16 +1,16 @@
-# Organ Health Specialist at Natera
+# Organ Health Specialist  at Natera
 
 | Field | Details |
 |-------|---------|
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5817798004) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/6105415004) |
 
 ## About This Role
 
-This account executive position at Natera was posted on 2026-03-11.
+This account executive position at Natera was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

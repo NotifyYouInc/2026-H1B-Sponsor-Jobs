@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Location | Cookeville, Tennessee, United States |
 | Category | Project Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Coimbatore-India/Project-Manager_R-18981) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Cookeville-Tennessee-US/Project-Manager_R-20043-1) |
 
 ## About This Role
 
-This project manager position at Flowserve was posted on 2026-04-30.
+This project manager position at Flowserve was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

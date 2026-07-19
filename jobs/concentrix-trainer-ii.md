@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Hyderabad, Telangana, India |
 | Category | Learning & Development |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/VNM-Ho-Chi-Minh-City---4th-Flr-QTSC-Bldg-1-Quang-Trung-Software-City/Trainer-II_R1731887) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Hyderabad---Google-Client-Site/Trainer-II_R1746249) |
 
 ## About This Role
 
-This learning & development position at Concentrix was posted on 2026-06-10.
+This learning & development position at Concentrix was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 
