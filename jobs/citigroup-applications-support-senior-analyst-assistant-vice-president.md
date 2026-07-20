@@ -1,16 +1,16 @@
-# Applications Support Senior Analyst – Assistant Vice President at Citigroup
+# Applications Support Senior Analyst -Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Applications-Support-Senior-Analyst---Assistant-Vice-President_26959290-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Applications-Support-Senior-Analyst--Assistant-Vice-President_26976598-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-12.
+This technical support engineer position at Citigroup was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

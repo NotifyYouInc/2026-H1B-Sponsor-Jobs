@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5102821007) |
+| Location | 2 locations |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5185335007) |
 
 ## About This Role
 
-This customer success position at Zscaler was posted on 2026-05-07.
+This technical support engineer position at Zscaler was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

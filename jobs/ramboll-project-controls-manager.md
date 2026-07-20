@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Swords, Leinster, Ireland |
 | Category | Compliance & Risk Management |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000136745604-project-controls-manager) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000137399358-project-controls-manager) |
 
 ## About This Role
 
-This compliance & risk management position at Ramboll was posted on 2026-07-09.
+This compliance & risk management position at Ramboll was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

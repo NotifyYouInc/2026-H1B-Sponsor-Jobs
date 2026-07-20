@@ -1,16 +1,16 @@
-# Engineer, HIG HBM Layout at Micron
+# Engineer, HIG HBM LAYOUT at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer--HIG-HBM-Layout_JR100011) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer--HIG-HBM-LAYOUT_JR105859) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-05-07.
+This semiconductor / chip design position at Micron was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

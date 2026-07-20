@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3202871/engagement-manager-engagement-management-and-delivery-excellence) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10472150/engagement-manager-engagement-management-and-delivery-excellence) |
 
 ## About This Role
 
-This strategy / management consulting position at Amazon was posted on 2026-03-12.
+This strategy / management consulting position at Amazon was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

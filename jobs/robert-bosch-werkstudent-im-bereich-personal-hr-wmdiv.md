@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Verl, North Rhine-Westphalia, Germany |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125036249-werkstudent-im-bereich-personal-hr-wmdiv) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137380663-werkstudent-im-bereich-personal-hr-wmdiv) |
 
 ## About This Role
 
-This human resources / people ops position at Robert Bosch was posted on 2026-05-07.
+This human resources / people ops position at Robert Bosch was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

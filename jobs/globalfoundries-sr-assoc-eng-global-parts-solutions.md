@@ -5,12 +5,12 @@
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Sr-Assoc-Eng-Global-Parts-Solutions_JR-2504237-1) |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Sr-Assoc-Eng-Global-Parts-Solutions_JR-2602061) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GlobalFoundries was posted on 2026-02-24.
+This electrical / hardware engineer position at GlobalFoundries was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

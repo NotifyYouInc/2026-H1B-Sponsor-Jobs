@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vialto](https://scoutify.ai/companies/vialto?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Legal |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Kuala-Lumpur/Associate_REQ907619) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Ho-Chi-Minh-City/Immigration-Associate_REQ908425) |
 
 ## About This Role
 
-This legal position at Vialto was posted on 2026-06-19.
+This legal position at Vialto was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Martos, Andalusia, Spain |
 | Category | Industrial Automation |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Guangzhou/Process-PTM_REQ2026072581) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Martos/Process-PTM_REQ2025065822) |
 
 ## About This Role
 
-This industrial automation position at Valeo was posted on 2026-06-04.
+This industrial automation position at Valeo was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | AI / LLM Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/AI-Engineer--TrendIQ-Core-Team-_R0009780) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/AI-Engineer--TrendIQ-Core-Team-_R0009952) |
 
 ## About This Role
 
-This ai / llm engineer position at Trend Micro was posted on 2026-06-10.
+This ai / llm engineer position at Trend Micro was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

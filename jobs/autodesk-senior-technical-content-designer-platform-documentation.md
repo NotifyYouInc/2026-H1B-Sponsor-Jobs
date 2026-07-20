@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical Writer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Technical-Content-Designer--Platform-documentation_26WD96376-1) |
+| Category | UX Writer & Content Designer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Technical-Content-Designer--Platform-documentation_26WD96723-1) |
 
 ## About This Role
 
-This technical writer position at Autodesk was posted on 2026-04-16.
+This ux writer & content designer position at Autodesk was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

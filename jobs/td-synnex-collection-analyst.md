@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Hyderabad-India/Collection-Analyst_R52635) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bangalore-India/Collection-Analyst_R52634) |
 
 ## About This Role
 
-This accounting position at TD Synnex was posted on 2026-07-06.
+This accounting position at TD Synnex was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

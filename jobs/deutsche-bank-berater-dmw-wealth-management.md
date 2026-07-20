@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Starnberg, Bavaria, Germany |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Starnberg-Wittelsbacher-Str/Berater--d-m-w--Wealth-Management_R0426699) |
+| Location | Hamburg, Hamburg, Germany |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Hamburg-An-der-Alster-63-64/Berater--d-m-w--Wealth-Management-Digital-Affluents_R0426594) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-06-24.
+This wealth management / private banking position at Deutsche Bank was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

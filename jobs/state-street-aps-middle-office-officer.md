@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/APS-Middle-Office---Officer_R-786756) |
+| Location | Hyderabad, Telangana, India |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/APS-Middle-Office---Officer_R-786972) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-06-18.
+This asset management / portfolio management position at State Street was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

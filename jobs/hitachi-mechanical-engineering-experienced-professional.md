@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Datong, Shanxi, China |
+| Location | Chongqing, Chongqing, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Datong-Shanxi-China/Mechanical-Engineering-Experienced-Professional_R0122858-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chongqing-China/Mechanical-Engineering-Experienced-Professional_R0133893-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-03-21.
+This electrical / hardware engineer position at Hitachi was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

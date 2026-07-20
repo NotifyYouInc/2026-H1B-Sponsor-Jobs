@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Austin---River-Place-B7/DFT-Engineer_R026349-1) |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/China-Shanghai-Zhangjiang-Hi-Tech/DFT-Engineer_R026422) |
 
 ## About This Role
 
-This semiconductor / chip design position at Broadcom was posted on 2026-06-26.
+This semiconductor / chip design position at Broadcom was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

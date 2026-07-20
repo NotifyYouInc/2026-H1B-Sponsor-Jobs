@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454611/sr-delivery-consultant-migrations-and-modernization-aws-professional-services-asean) |
+| Location | Hanoi, Hanoi, Vietnam |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10472133/sr-delivery-consultant-migrations-and-modernization-aws-professional-services-asean) |
 
 ## About This Role
 
-This technical & solutions architect position at Amazon was posted on 2026-06-22.
+This technology / it consulting position at Amazon was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

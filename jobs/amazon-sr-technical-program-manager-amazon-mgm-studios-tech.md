@@ -1,16 +1,16 @@
-# Sr Technical Program Manager, Amazon MGM Studios Tech at Amazon
+# Sr. Technical Program Manager, Amazon MGM Studios Tech at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Culver City, California, United States |
 | Category | Program Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459632/sr-technical-program-manager-amazon-mgm-studios-tech) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10472120/sr-technical-program-manager-amazon-mgm-studios-tech) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-06-26.
+This program manager position at Amazon was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

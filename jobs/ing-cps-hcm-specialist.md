@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/CPS-HCM-Specialist_REQ-10113856-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/CPS-HCM-Specialist_REQ-10116605-1) |
 
 ## About This Role
 
-This human resources / people ops position at ING was posted on 2026-06-03.
+This human resources / people ops position at ING was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

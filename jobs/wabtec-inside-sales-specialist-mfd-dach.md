@@ -1,16 +1,16 @@
-# Inside Sales Specialist (m/f/d), DACH at Wabtec
+# Inside Sales Specialist (m/f/d) DACH at Wabtec
 
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hamburg, Hamburg, Germany |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Account Executive |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013950832-inside-sales-specialist-mfd-dach) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014051936-inside-sales-specialist-mfd-dach) |
 
 ## About This Role
 
-This account executive position at Wabtec was posted on 2026-07-07.
+This account executive position at Wabtec was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

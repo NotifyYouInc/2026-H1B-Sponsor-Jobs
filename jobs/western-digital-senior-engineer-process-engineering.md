@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
 | Category | Industrial Automation |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000133861649-senior-engineer-process-engineering) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000137398016-senior-engineer-process-engineering) |
 
 ## About This Role
 
-This industrial automation position at Western Digital was posted on 2026-06-24.
+This industrial automation position at Western Digital was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

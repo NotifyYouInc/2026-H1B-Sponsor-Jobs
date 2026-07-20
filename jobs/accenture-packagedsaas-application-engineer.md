@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5457668-S1996857-1) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Software Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Packaged-SaaS-Application-Engineer_ATCP-1474883-S426931) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-07-01.
+This software engineer position at Accenture was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

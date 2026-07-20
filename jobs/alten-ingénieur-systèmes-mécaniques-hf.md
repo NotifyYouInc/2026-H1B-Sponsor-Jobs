@@ -1,16 +1,16 @@
-# Ingénieur Systèmes Mécaniques (H/F) at ALTEN
+# Ingénieur systèmes mécaniques (H/F)  at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Strasbourg, Grand Est, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137061159-ingenieur-systemes-mecaniques-hf) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137388685-ingenieur-systemes-mecaniques-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-10.
+This electrical / hardware engineer position at ALTEN was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

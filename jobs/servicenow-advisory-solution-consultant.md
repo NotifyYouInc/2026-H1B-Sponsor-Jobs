@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Waltham, Massachusetts, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111530665-advisory-solution-consultant) |
+| Location | Madrid, Madrid, Spain |
+| Category | Sales Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137382574-advisory-solution-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at ServiceNow was posted on 2026-02-26.
+This sales engineer position at ServiceNow was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

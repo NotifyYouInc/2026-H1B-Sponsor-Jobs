@@ -1,16 +1,16 @@
-# senior associate at Vialto
+# Senior Associate at Vialto
 
 | Field | Details |
 |-------|---------|
 | Company | [Vialto](https://scoutify.ai/companies/vialto?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | Human Resources / People Ops |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Bangalore-VVN/senior-associate_REQ907751) |
+| Location | Hyderabad, Telangana, India |
+| Category | Engineering Manager |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Hyderabad/Senior-Associate_REQ907915) |
 
 ## About This Role
 
-This human resources / people ops position at Vialto was posted on 2026-03-19.
+This engineering manager position at Vialto was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

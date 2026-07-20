@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Irvine, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-Engineer-IC-Design_R026035) |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Electronic-City---S1/R-D-Engineer-IC-Design_R026394-6) |
 
 ## About This Role
 
-This semiconductor / chip design position at Broadcom was posted on 2026-05-16.
+This semiconductor / chip design position at Broadcom was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

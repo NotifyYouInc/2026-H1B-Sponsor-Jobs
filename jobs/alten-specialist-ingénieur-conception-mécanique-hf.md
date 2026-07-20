@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Strasbourg, Grand Est, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135681310-specialist-ingenieur-conception-mecanique-hf) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137388099-specialist-ingenieur-conception-mecanique-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-03.
+This electrical / hardware engineer position at ALTEN was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
