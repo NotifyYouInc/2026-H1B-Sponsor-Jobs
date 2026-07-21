@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Customer Success |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Singapore-Singapore/Customer-Experience-Customer-Success-Specialist_2015620-1) |
+| Location | Minato, Wakayama, Japan |
+| Category | Customer Success Manager |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Customer-Experience-Customer-Success-Specialist_2019895) |
 
 ## About This Role
 
-This customer success position at Cisco was posted on 2026-06-20.
+This customer success manager position at Cisco was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

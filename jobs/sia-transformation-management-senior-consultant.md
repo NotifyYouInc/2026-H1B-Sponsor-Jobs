@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Maastricht, Limburg, The Netherlands |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000136407720-transformation-management-senior-consultant) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000137612764-transformation-management-senior-consultant) |
 
 ## About This Role
 
-This strategy / management consulting position at SIA was posted on 2026-07-08.
+This strategy / management consulting position at SIA was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/KUALA-LUMPUR/HR-Executive_JR125452-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/TAIPEI/HR-Executive_JR131373) |
 
 ## About This Role
 
-This human resources / people ops position at Richemont was posted on 2026-02-28.
+This human resources / people ops position at Richemont was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

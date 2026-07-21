@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000136408720-senior-manager-financial-services) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000137609171-senior-manager-financial-services) |
 
 ## About This Role
 
-This strategy / management consulting position at SIA was posted on 2026-07-08.
+This strategy / management consulting position at SIA was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

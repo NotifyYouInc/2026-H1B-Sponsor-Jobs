@@ -1,16 +1,16 @@
-# (Sr.) Local Marketing Manager at AbbVie
+# Sr Local Marketing Manager at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Chengdu, Sichuan, China |
 | Category | Brand Marketing |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013996996-sr-local-marketing-manager) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014072416-sr-local-marketing-manager) |
 
 ## About This Role
 
-This brand marketing position at AbbVie was posted on 2026-07-09.
+This brand marketing position at AbbVie was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

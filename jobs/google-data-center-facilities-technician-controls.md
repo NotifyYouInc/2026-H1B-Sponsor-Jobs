@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lima, Ohio, United States |
+| Location | Monrovia, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbtKfYd6BhyAwyHs4fJvkqr74pZM64O1FP5gFLGm0FUuEjsACxwdTBifiPfmCzUJa6K8fl-0Oy9jeffWevv1_yY7aOdx0s5lPaBci5wt_TJV-KaZbmEN1G2tSYR6HA%3D%3D_V2&loc=US&title=Data+Center+Facilities+Technician) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSllfMe03ndMiteLU6ieU3N1jsBATyomU3S19pESMDqvEjsA1Ny_i5CE8q4SyCXfMXYy_t8bB_pZGMfdOUku8iiwBJxyok-Itdw8ORejDZOWMblM3E7XP26rJF56dg%3D%3D_V2&loc=US&title=Data+Center+Facilities+Technician) |
 
 ## About This Role
 
-This industrial automation position at Google was posted on 2026-04-24.
+This industrial automation position at Google was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

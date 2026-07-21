@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUXQNdybQV41LTg_ATucR-2S5HGfhal3-r2xj2LvvGQNEjsACxwdTGbV7S3sC4sopQmhel_-8Jyg_-O3_qV1mbUKnNuvuDE3lmykLRoI1IGXNV4mXOxumcK-YzhZJg%3D%3D_V2&loc=US&title=Staff+Technical+Program+Manager) |
+| Category | Program Manager |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckc_pZG_pOcNLMENh6vd9nZfNxeLFNtEjKCdSioKZa-B_EjsA1Ny_i5Uba5qZDobLRSf7iep-NxxmF81Zkjq-X4tH-P95DbIZsZ6XqowMj2hpGoEGwwQIwS7xyuI0IA%3D%3D_V2&loc=US&title=Staff+Technical+Program+Manager) |
 
 ## About This Role
 
-This security engineer position at Google was posted on 2026-06-12.
+This program manager position at Google was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

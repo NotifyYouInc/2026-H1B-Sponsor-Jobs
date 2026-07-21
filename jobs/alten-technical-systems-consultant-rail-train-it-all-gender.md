@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vienna, Vienna, Austria |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000134761589-technical-systems-consultant-rail-train-it-all-gender) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137603380-technical-systems-consultant-rail-train-it-all-gender) |
 
 ## About This Role
 
-This technology / it consulting position at ALTEN was posted on 2026-06-29.
+This technology / it consulting position at ALTEN was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

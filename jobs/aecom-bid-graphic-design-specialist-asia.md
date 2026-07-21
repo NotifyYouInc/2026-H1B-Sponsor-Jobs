@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Marketing |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000123851659-bid-graphic-design-specialist-asia) |
+| Category | Graphic / Brand Design |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000137618129-bid-graphic-design-specialist-asia) |
 
 ## About This Role
 
-This marketing position at AECOM was posted on 2026-04-30.
+This graphic / brand design position at AECOM was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

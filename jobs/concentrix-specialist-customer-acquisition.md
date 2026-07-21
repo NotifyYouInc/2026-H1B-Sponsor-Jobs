@@ -1,16 +1,16 @@
-# Specialist, Customer Acquisition at Concentrix
+# Specialist Customer Acquisition at Concentrix
 
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fukuoka, Fukuoka, Japan |
-| Category | Business Development |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/JPN-Fukuoka---1-9-22-Akasaka-Chuo-ku/Specialist--Customer-Acquisition_R1720889) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-Kuala-Lumpur---Lvl-15-Wisma-Mont-Kiara-1-Jalan-Kiara/Specialist-Customer-Acquisition_R1746667) |
 
 ## About This Role
 
-This business development position at Concentrix was posted on 2026-05-07.
+This sales development (sdr / bdr) position at Concentrix was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

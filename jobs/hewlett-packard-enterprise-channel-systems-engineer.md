@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Gurugram, Haryana, India |
 | Category | Sales Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Illinois-United-States-of-America/Channel-Systems-Engineer_1203015) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Gurgaon-Haryana-India/Channel-Systems-Engineer_1209032-2) |
 
 ## About This Role
 
-This sales engineer position at Hewlett Packard Enterprise was posted on 2026-04-03.
+This sales engineer position at Hewlett Packard Enterprise was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

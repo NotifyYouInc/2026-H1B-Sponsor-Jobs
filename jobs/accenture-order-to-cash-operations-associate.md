@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Order-to-Cash-Operations-Associate_AIOC-S01653092-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Order-to-Cash-Operations-Associate_AIOC-S01654676-1) |
 
 ## About This Role
 
-This accounting position at Accenture was posted on 2026-07-02.
+This technology / it consulting position at Accenture was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

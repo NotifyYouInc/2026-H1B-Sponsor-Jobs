@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Graz, Styria, Austria |
 | Category | Frontend Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000129108861-webentwickler-in-react-angular-all-gender-osterreichweit) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137602979-webentwickler-in-react-angular-all-gender-osterreichweit) |
 
 ## About This Role
 
-This frontend engineer position at ALTEN was posted on 2026-05-29.
+This frontend engineer position at ALTEN was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

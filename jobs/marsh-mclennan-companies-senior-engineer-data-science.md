@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mumbai---Hiranandani/Senior-Engineer---Data-Science_R_354873) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mumbai---Hiranandani/Senior-Engineer---Data-Science_R_336679) |
 
 ## About This Role
 
-This data scientist position at Marsh & McLennan Companies was posted on 2026-07-10.
+This data scientist position at Marsh & McLennan Companies was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

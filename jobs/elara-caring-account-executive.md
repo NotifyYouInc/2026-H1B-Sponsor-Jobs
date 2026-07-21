@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elara Caring](https://scoutify.ai/companies/elara-caring?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Connecticut, US |
+| Location | Dallas, Texas, United States |
 | Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Rocky-Hill---CT/Account-Executive_JR-135089) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Dallas---TX-LBJ-FWY/Account-Executive_JR-136899) |
 
 ## About This Role
 
-This account executive position at Elara Caring was posted on 2026-05-01.
+This account executive position at Elara Caring was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

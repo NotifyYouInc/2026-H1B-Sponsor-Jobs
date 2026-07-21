@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sweden |
+| Location | Ludvika, Dalarna, Sweden |
 | Category | Business Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Figeholm-Kalmar-County-Sweden/Produktionsplanerare_R0131993) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Produktionsplanerare_R0135569) |
 
 ## About This Role
 
-This business analyst position at Hitachi was posted on 2026-06-11.
+This business analyst position at Hitachi was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

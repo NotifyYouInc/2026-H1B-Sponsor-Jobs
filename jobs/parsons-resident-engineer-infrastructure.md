@@ -1,16 +1,16 @@
-# Resident Engineer - Infrastructure at Parsons
+# Resident Engineer (Infrastructure) at Parsons
 
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Engineering Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Abu-Dhabi/Resident-Engineer---Infrastructure_R182904) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Dubai/Resident-Engineer--Infrastructure-_R183242) |
 
 ## About This Role
 
-This engineering manager position at Parsons was posted on 2026-07-06.
+This engineering manager position at Parsons was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

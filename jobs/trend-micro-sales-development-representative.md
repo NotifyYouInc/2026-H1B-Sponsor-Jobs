@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
-| Category | Business Development |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Jakarta/Sales-Development-Representative_R0009174) |
+| Location | North Sydney, New South Wales, Australia |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/North-Sydney/Sales-Development-Representative_R0009959) |
 
 ## About This Role
 
-This business development position at Trend Micro was posted on 2026-02-25.
+This sales development (sdr / bdr) position at Trend Micro was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Business Development |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113772) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=125602) |
 
 ## About This Role
 
-This business development position at IBM was posted on 2026-05-14.
+This sales development (sdr / bdr) position at IBM was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

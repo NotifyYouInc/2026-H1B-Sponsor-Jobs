@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
+| Location | Denver, Colorado, United States |
 | Category | Account Executive |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--TX/Account-Executive---Midmarket-VAST_R18833) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Denver-CO/Account-Executive---Midmarket-VAST_R19372) |
 
 ## About This Role
 
-This account executive position at Zoom was posted on 2026-04-09.
+This account executive position at Zoom was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

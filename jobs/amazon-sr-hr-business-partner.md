@@ -1,16 +1,16 @@
-# Sr. HR Business Partner at Amazon
+# Sr HR Business Partner at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Dartford, England, United Kingdom |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426064/sr-hr-business-partner) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473464/sr-hr-business-partner) |
 
 ## About This Role
 
-This human resources / people ops position at Amazon was posted on 2026-05-20.
+This human resources / people ops position at Amazon was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

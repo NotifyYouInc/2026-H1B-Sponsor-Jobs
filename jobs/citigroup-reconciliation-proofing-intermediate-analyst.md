@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Maharashtra, IN |
-| Category | Corporate Finance |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Reconciliation---Proofing-Intermediate-Analyst_25924944) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Accounting |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Reconciliation---Proofing-Intermediate-Analyst_26974398) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-03-27.
+This accounting position at Citigroup was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

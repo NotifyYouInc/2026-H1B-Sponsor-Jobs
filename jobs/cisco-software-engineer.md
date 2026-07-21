@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2015918-1) |
+| Location | Kraków, Lesser Poland, Poland |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Software-Engineer_2018770) |
 
 ## About This Role
 
-This ai / llm engineer position at Cisco was posted on 2026-07-06.
+This software engineer position at Cisco was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
