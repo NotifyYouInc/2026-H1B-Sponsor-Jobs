@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Business-Execution-Administrator---Total-Rewards_R-555616) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Business-Execution-Administrator---Total-Rewards_R-559480) |
 
 ## About This Role
 
-This human resources / people ops position at Wells Fargo was posted on 2026-07-06.
+This human resources / people ops position at Wells Fargo was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

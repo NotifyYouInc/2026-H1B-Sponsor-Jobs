@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore |
+| Location | Singapore, Singapore |
 | Category | QA Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001215200-functional-testing-engineer-video-intelligence) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001236385-functional-testing-engineer-video-intelligence) |
 
 ## About This Role
 
-This qa engineer position at NCS was posted on 2026-07-07.
+This qa engineer position at NCS was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

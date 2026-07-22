@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Engineering Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130376990-praktikum-in-der-prozessentwicklung-und-uberwachung-beim-laserstrahlschweien) |
+| Category | Industrial Automation |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137823668-praktikum-in-der-prozessentwicklung-und-uberwachung-beim-laserstrahlschweien) |
 
 ## About This Role
 
-This engineering manager position at Robert Bosch was posted on 2026-06-05.
+This industrial automation position at Robert Bosch was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

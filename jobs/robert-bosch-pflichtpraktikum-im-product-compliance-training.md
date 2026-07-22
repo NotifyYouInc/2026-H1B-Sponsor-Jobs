@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Learning & Development |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134182856-pflichtpraktikum-im-product-compliance-training) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137821490-pflichtpraktikum-im-product-compliance-training) |
 
 ## About This Role
 
-This learning & development position at Robert Bosch was posted on 2026-06-25.
+This learning & development position at Robert Bosch was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

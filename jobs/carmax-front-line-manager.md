@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | El Mirage, Arizona, United States |
+| Location | King of Prussia, Pennsylvania, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/AZ---El-Mirage/Front-Line-Manager_JR-174063) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/PA---Philadelphia---King-of-Prussia/Front-Line-Manager_JR-181660) |
 
 ## About This Role
 
-This leadership development program position at CarMax was posted on 2026-04-24.
+This leadership development program position at CarMax was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

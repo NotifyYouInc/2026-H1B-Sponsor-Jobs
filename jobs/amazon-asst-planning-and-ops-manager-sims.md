@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Operations |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454626/asst-planning-and-ops-manager-sims) |
+| Category | Program Manager |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10474874/asst-planning-and-ops-manager-sims) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-06-22.
+This program manager position at Amazon was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

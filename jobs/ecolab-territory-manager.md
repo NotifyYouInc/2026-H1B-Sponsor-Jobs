@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hamilton, Waikato Region, New Zealand |
 | Category | Account Executive |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Territory-Manager_R00287065) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/NZL---Waikato---Hamilton/Territory-Manager_R00300043) |
 
 ## About This Role
 
-This account executive position at Ecolab was posted on 2026-06-11.
+This account executive position at Ecolab was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

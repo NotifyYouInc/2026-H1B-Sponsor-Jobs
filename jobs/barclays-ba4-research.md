@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Financial Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/BA4---Research_JR-0000121905-1) |
+| Category | Investor Relations |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/BA4---Research_JR-0000122566) |
 
 ## About This Role
 
-This financial analyst position at Barclays was posted on 2026-07-13.
+This investor relations position at Barclays was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

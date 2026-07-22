@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/India---Remote/Product-Support-Specialist_26WD98534) |
+| Location | Kraków, Lesser Poland, Poland |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Krakw-POL/Product-Support-Specialist_26WD99980-1) |
 
 ## About This Role
 
-This customer success position at Autodesk was posted on 2026-06-12.
+This technical support engineer position at Autodesk was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

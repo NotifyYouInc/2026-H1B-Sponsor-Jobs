@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000133513225-marketing-data-scientist-consultant) |
+| Category | Data Scientist |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000137808754-marketing-data-scientist-consultant) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-06-23.
+This data scientist position at SIA was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

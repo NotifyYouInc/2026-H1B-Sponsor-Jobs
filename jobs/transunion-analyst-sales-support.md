@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Business Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bogota/Analyst-Sales-Support_19041195) |
+| Location | San Juan, San Juan, Puerto Rico |
+| Category | Data Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/San-Juan-Puerto-Rico/Analyst-Sales-Support_19041371) |
 
 ## About This Role
 
-This business analyst position at TransUnion was posted on 2026-06-26.
+This data analyst position at TransUnion was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

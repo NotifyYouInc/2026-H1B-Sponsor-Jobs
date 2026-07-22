@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cheonan, Chungcheongnam-do, South Korea |
+| Location | Xi’an, Shaanxi, China |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Cheonan-si-Chungcheongnam-do-Republic-of-Korea/HSE-Specialist_R0121690) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/XiAn-Shaanxi-China/HSE-Specialist_R0137896) |
 
 ## About This Role
 
-This compliance & risk management position at Hitachi was posted on 2026-03-09.
+This compliance & risk management position at Hitachi was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

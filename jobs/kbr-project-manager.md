@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Adelaide, South Australia, Australia |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Project Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Adelaide-South-Australia-Australia/Project-Manager_R2123575-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Abu-Dhabi-United-Arab-Emirates/Project-Manager_R2126639) |
 
 ## About This Role
 
-This project manager position at KBR was posted on 2026-05-13.
+This project manager position at KBR was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

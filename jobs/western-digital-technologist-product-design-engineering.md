@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shenzhen, Guangdong, China |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000111291226-technologist-product-design-engineering) |
+| Location | George Town, Penang, Malaysia |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000137840719-technologist-product-design-engineering) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Western Digital was posted on 2026-02-25.
+This semiconductor / chip design position at Western Digital was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

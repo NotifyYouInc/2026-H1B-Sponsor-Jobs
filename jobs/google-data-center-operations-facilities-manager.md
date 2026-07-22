@@ -1,16 +1,16 @@
-# Data Center Operations, Facilities Manager at Google
+# Data Center Operations Facilities Manager at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Council Bluffs, Iowa, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckR4A07Vkr_BGzMUTM3L-KgFBpX9K4bWx7K8dercltflCEjsACxwdTOQdIFBMb_X9C5vpQl6NDm6V7LAqGX0FrYw9mjRgY7YI52BZv4Ek6zWgGSkARYMYVBt3f4ZnJw%3D%3D_V2&loc=US&title=Data+Center+Operations) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckerLg4qdUO7lteVPR-0_aUBOAZware64nWQlFB9Ewx9JEjsA1Ny_i1HcJevjeVJ_4S9OhuvsWFmREzat90fb8yG2yA44U7hGhLaWuockg-OBBgf6DshJMMnSXG55fA%3D%3D_V2&loc=US&title=Data+Center+Operations+Facilities+Manager) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-05-06.
+This engineering manager position at Google was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

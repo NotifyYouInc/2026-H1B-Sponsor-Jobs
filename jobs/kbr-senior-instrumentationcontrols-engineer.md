@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Singapore, Singapore |
 | Category | Industrial Automation |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Bangalore-Karnataka-India/Senior-Instrumentation-Controls-Engineer_R2121922) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Singapore-Singapore/Senior-Instrumentation-Controls-Engineer_R2126577) |
 
 ## About This Role
 
-This industrial automation position at KBR was posted on 2026-04-14.
+This industrial automation position at KBR was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Marketing |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114299087-praktikum-in-der-film-und-videokommunikation) |
+| Category | Motion / Video Production |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137822958-praktikum-in-der-film-und-videokommunikation) |
 
 ## About This Role
 
-This marketing position at Robert Bosch was posted on 2026-03-12.
+This motion / video production position at Robert Bosch was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

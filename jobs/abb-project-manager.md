@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Moorebank, New South Wales, Australia |
+| Location | Henderson, Auckland, New Zealand |
 | Category | Project Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Moorebank-New-South-Wales-Australia/Project-Manager_JR00034041) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Henderson-Western-Australia-New-Zealand/Project-Manager_JR00040898) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-05-19.
+This project manager position at ABB was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7703705?gh_jid=7703705) |
+| Location | Barcelona, Catalonia, Spain |
+| Category | QA Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8055125?gh_jid=8055125) |
 
 ## About This Role
 
-This software engineer position at Thoughtworks was posted on 2026-03-23.
+This qa engineer position at Thoughtworks was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

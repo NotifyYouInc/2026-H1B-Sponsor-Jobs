@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sānand, Gujarat, India |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---MIB---Mini-Pioneer-India/Graduate-Engineering-Technician_JR102966) |
+| Category | Industrial Automation |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Graduate-Engineering-Technician_JR105932) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Micron was posted on 2026-06-19.
+This industrial automation position at Micron was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

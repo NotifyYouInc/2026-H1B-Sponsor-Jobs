@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-Pune-Cummins-India-Office-Campus-8th-floor-Survey-No-21-Balewadi/Lead-Engineer--Product-Performance-Engineering---Mechanical_R164585) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-Pune-Cummins-India-Office-Campus-8th-floor-Survey-No-21-Balewadi/Lead-Engineer--Product-Performance-Engineering---Mechanical_R163879) |
 
 ## About This Role
 
-This engineering manager position at Baker Hughes was posted on 2026-05-19.
+This electrical / hardware engineer position at Baker Hughes was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

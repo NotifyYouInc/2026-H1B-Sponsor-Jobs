@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hatvan, Heves County, Hungary |
 | Category | QA Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137402140-q-teamer-production-quality-engineer-mse31) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137811429-q-teamer-production-quality-engineer-mse31) |
 
 ## About This Role
 
-This qa engineer position at Robert Bosch was posted on 2026-07-13.
+This qa engineer position at Robert Bosch was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

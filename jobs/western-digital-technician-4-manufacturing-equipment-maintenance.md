@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
 | Category | Industrial Automation |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000132994664-technician-4-manufacturing-equipment-maintenance) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000137823104-technician-4-manufacturing-equipment-maintenance) |
 
 ## About This Role
 
-This industrial automation position at Western Digital was posted on 2026-06-19.
+This industrial automation position at Western Digital was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

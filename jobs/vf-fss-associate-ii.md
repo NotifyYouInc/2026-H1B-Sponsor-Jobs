@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VF](https://scoutify.ai/companies/vfc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/ASIA--MYS--Kuala-Lumpur--KL-Office/FSS-Associate-II_R-20260518-0002) |
+| Category | Accounting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/ASIA--MYS--Kuala-Lumpur--KL-Office/FSS-Associate-II_R-20260708-0007-1) |
 
 ## About This Role
 
-This corporate finance position at VF was posted on 2026-05-28.
+This accounting position at VF was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
