@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | QA Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Gurgaon/Lead-Engineer_R000109062) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Lead-Engineer_R000109113) |
 
 ## About This Role
 
-This qa engineer position at Guardian Life was posted on 2026-06-29.
+This software engineer position at Guardian Life was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

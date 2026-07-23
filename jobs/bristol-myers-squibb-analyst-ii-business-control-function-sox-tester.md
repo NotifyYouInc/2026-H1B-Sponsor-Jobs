@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Analyst-II--Business-Control-Function-SOX-Tester_R1603875) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Analyst-II--Business-Control-Function-SOX-Tester_R1604458) |
 
 ## About This Role
 
-This compliance & risk management position at Bristol-Myers Squibb was posted on 2026-06-29.
+This compliance & risk management position at Bristol-Myers Squibb was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

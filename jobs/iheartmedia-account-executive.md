@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iHeartMedia](https://scoutify.ai/companies/iheartmedia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | San Diego, California, United States |
 | Category | Account Executive |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Denver-CO-Monaco/Account-Executive_Req38754-4) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/San-Diego-CA-Granite/Account-Executive_Req38923-4) |
 
 ## About This Role
 
-This account executive position at iHeartMedia was posted on 2026-06-12.
+This account executive position at iHeartMedia was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

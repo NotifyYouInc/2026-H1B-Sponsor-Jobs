@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | South Korea |
+| Location | Budapest, Budapest, Hungary |
 | Category | Software Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Seongnam/Software-Engineer_R4042394-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/HUN02-01-Budapest-Vaci-Greens-C/Software-Engineer_R4041685-2) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-06-18.
+This software engineer position at GE HealthCare was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

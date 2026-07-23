@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
-| Category | Project Manager |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Customer-Journey-Expert_REQ-10116549-1) |
+| Location | Milan, Lombardy, Italy |
+| Category | Product Manager |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Customer-Journey-Expert_REQ-10118123) |
 
 ## About This Role
 
-This project manager position at ING was posted on 2026-06-29.
+This product manager position at ING was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

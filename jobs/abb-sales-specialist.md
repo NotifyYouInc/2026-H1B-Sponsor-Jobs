@@ -1,16 +1,16 @@
-# Sales Specialist at ABB
+# Sales specialist at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Account Executive |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Guangzhou-Guangdong-China/Sales-Specialist_JR00032315) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Sales-specialist_JR00041383-3) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-06-09.
+This account executive position at ABB was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior-Data-Scientist_JR99898) |
+| Category | Data Scientist |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior-Data-Scientist_JR88945) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-05-18.
+This data scientist position at Micron was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

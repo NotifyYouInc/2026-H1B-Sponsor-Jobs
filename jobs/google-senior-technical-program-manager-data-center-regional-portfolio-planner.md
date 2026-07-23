@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Program Manager |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/97057110952420038-senior-technical-program-manager-data-center-regional-portfolio-planner?sort_by=date&page=1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTHB6yalvpJMCNFNDVda27lI7o4vh4gdy54XeDESlCYfEjsA1Ny_ixeEvGWrV8a-rkhj42WBJ6BKgEyoyu0e3_Uggfi_7DkYGxr0x3cqKGKWZJ7nsLFNVJwjLCboFQ%3D%3D_V2&loc=US&title=Senior+Technical+Program+Manager) |
 
 ## About This Role
 
-This program manager position at Google was posted on 2026-02-14.
+This program manager position at Google was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

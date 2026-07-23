@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
-| Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IDN---Jakarta---Jakarta/Equipment-Maintenance-Engineer_R00278650) |
+| Location | Pekanbaru, Riau, Indonesia |
+| Category | Account Manager |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IDN---Riau---Pekanbaru/Associate-District-Representative_R00293839) |
 
 ## About This Role
 
-This customer success position at Ecolab was posted on 2026-04-21.
+This account manager position at Ecolab was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

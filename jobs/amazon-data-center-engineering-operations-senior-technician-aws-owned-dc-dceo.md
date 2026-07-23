@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Milan, Lombardy, Italy |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422618/data-center-engineering-operations-senior-technician-aws-owned-dc-dceo) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10476089/data-center-engineering-operations-senior-technician-aws-owned-dc-dceo) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-05-18.
+This electrical / hardware engineer position at Amazon was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

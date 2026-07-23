@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Software-Architect_J000687523) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Bangalore-India/Software-Architect_J000700890) |
 
 ## About This Role
 
-This technical & solutions architect position at Aptiv was posted on 2026-03-03.
+This software engineer position at Aptiv was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

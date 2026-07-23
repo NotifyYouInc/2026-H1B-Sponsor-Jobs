@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wagga Wagga, New South Wales, Australia |
+| Location | Singapore, Singapore |
 | Category | Sales Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Wagga-Wagga-NSW-Australia/Technical-Field-Engineer_REQ574394) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Multi-Client-Singapore/Technical-Field-Engineer_REQ574544) |
 
 ## About This Role
 
-This sales engineer position at Unisys was posted on 2026-07-10.
+This sales engineer position at Unisys was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

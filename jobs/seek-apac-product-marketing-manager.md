@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Australia |
-| Category | Marketing |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000121340157-apac-product-marketing-manager) |
+| Location | Cremorne, New South Wales, Australia |
+| Category | Product Marketing |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000138052401-apac-product-marketing-manager) |
 
 ## About This Role
 
-This marketing position at SEEK was posted on 2026-04-17.
+This product marketing position at SEEK was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

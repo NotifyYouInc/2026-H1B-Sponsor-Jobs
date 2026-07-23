@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | QA Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013931376-sr-qa-engineer) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014121626-sr-qa-engineer) |
 
 ## About This Role
 
-This qa engineer position at Wabtec was posted on 2026-07-06.
+This qa engineer position at Wabtec was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

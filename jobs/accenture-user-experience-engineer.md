@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/User-Experience-Engineer_ATCI-5496284-S2007897-1) |
+| Location | Málaga, Andalusia, Spain |
+| Category | UX Researcher |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-ID6---South-Building/User-Experience-Engineer_14554604) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-10.
+This ux researcher position at Accenture was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

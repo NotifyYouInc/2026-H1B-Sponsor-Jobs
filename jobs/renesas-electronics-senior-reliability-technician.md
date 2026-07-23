@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kulim, Kedah, Malaysia |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000128412398-senior-reliability-technician) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000138040639-senior-reliability-technician) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Renesas Electronics was posted on 2026-05-26.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

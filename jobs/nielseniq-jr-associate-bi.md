@@ -1,16 +1,16 @@
-# Jr Associate BI at NielsenIQ
+# Jr. Associate BI at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cairo, Cairo, Egypt |
-| Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131063330-jr-associate-bi) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138040919-jr-associate-bi) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-06-09.
+This data analyst position at NielsenIQ was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

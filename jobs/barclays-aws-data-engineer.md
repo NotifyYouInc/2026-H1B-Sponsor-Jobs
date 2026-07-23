@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/AWS-Data-Engineer_JR-0000104358) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/AWS-Data-Engineer_JR-0000069983-1) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-05-26.
+This data engineer position at Barclays was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

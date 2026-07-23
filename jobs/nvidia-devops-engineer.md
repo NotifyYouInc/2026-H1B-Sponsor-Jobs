@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/DevOps-Engineer_JR2016828) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/DevOps-Engineer_JR2020630) |
 
 ## About This Role
 
-This devops engineer position at Nvidia was posted on 2026-05-02.
+This devops engineer position at Nvidia was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

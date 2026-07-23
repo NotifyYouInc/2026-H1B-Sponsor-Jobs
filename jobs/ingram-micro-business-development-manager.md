@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Cham, Zug, Switzerland |
 | Category | Engineering Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Hyderabad-India/Business-Development-Manager_R-112399) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Cham-Switzerland/Business-Development-Manager_R-116082) |
 
 ## About This Role
 
-This engineering manager position at Ingram Micro was posted on 2026-02-17.
+This engineering manager position at Ingram Micro was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

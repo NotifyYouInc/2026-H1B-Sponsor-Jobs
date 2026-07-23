@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fort Myers, Florida, United States |
+| Location | California, US |
 | Category | Account Executive |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Fort-Myers-FL/Account-Executive--LE--GBS_111296) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---California/Account-Executive--LE--GBS_111784-1) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-06-13.
+This account executive position at Gartner was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

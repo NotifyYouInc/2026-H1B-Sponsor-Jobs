@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Technology-Architect_ATCI-5677562-S2058181-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Architect_ATCI-5675404-S2058921-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-07-13.
+This technology / it consulting position at Accenture was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

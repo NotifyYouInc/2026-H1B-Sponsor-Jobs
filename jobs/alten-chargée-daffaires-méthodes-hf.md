@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Amiens, Hauts-de-France, France |
-| Category | Project Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131829580-chargee-daffaires-methodes-hf) |
+| Category | Industrial Automation |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138044130-chargee-daffaires-methodes-hf) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-06-12.
+This industrial automation position at ALTEN was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Li, Lamphun, Thailand |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134191240-explore-sap-career-opportunities-at-bosch-vietnam) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138041730-explore-sap-career-opportunities-at-bosch-vietnam) |
 
 ## About This Role
 
-This technology / it consulting position at Robert Bosch was posted on 2026-06-25.
+This technology / it consulting position at Robert Bosch was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

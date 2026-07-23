@@ -1,16 +1,16 @@
-# Supervisor, Manufacturing Engineering  at Western Digital
+# Supervisor, Manufacturing Engineering at Western Digital
 
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
 | Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000127362974-supervisor-manufacturing-engineering) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000138062016-supervisor-manufacturing-engineering) |
 
 ## About This Role
 
-This engineering manager position at Western Digital was posted on 2026-05-20.
+This engineering manager position at Western Digital was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jeddah, Mecca Region, Saudi Arabia |
-| Category | Project Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Jeddah/Project-Director_R182992) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Program Manager |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Dubai/Project-Director_R183364) |
 
 ## About This Role
 
-This project manager position at Parsons was posted on 2026-07-09.
+This program manager position at Parsons was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

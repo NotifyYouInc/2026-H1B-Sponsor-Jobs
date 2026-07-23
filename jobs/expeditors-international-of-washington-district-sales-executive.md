@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Busan, Busan, South Korea |
+| Location | Singapore, Singapore |
 | Category | Account Executive |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000129098875-district-sales-executive) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000138052119-district-sales-executive) |
 
 ## About This Role
 
-This account executive position at Expeditors International of Washington was posted on 2026-05-29.
+This account executive position at Expeditors International of Washington was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

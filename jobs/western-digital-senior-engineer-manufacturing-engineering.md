@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
-| Category | Engineering Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000133862089-senior-engineer-manufacturing-engineering) |
+| Category | Industrial Automation |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000138057618-senior-engineer-manufacturing-engineering) |
 
 ## About This Role
 
-This engineering manager position at Western Digital was posted on 2026-06-24.
+This industrial automation position at Western Digital was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

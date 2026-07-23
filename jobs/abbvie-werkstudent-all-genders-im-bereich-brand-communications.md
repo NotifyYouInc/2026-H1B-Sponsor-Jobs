@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
 | Category | PR & External Communications |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013897756-werkstudent-all-genders-im-bereich-brand-communications) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014121506-werkstudent-all-genders-im-bereich-brand-communications) |
 
 ## About This Role
 
-This pr & external communications position at AbbVie was posted on 2026-07-02.
+This pr & external communications position at AbbVie was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

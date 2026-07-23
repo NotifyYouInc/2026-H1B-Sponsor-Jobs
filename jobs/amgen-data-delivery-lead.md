@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Project Manager |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Delivery-Lead_R-243289) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Delivery-Lead_R-243336) |
 
 ## About This Role
 
-This project manager position at Amgen was posted on 2026-05-26.
+This project manager position at Amgen was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

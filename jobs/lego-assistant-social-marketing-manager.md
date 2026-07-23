@@ -5,12 +5,12 @@
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Social Media / Community |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Shanghai/Assistant-Social-Marketing-Manager_0000033370) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Shanghai/Assistant-Social-Marketing-Manager_0000036617) |
 
 ## About This Role
 
-This social media / community position at LEGO was posted on 2026-04-03.
+This social media / community position at LEGO was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

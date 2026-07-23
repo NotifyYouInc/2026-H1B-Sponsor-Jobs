@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
-| Category | Engineering Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130726071-ingenieur-naval-calcul-et-conception-mecanique-fh) |
+| Location | France |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138061654-ingenieur-naval-calcul-et-conception-mecanique-fh) |
 
 ## About This Role
 
-This engineering manager position at ALTEN was posted on 2026-06-08.
+This electrical / hardware engineer position at ALTEN was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

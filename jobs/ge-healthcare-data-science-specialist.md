@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hino, Tokyo, Japan |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Hino/Data-Science-Specialist_R4040710-6) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Data-Science-Specialist_R4043714-1) |
 
 ## About This Role
 
-This data scientist position at GE HealthCare was posted on 2026-06-01.
+This data scientist position at GE HealthCare was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

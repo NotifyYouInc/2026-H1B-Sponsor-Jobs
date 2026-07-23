@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Industrial Automation |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131829840-ingenieure-methodes-et-amelioration-continue-hf) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138043224-ingenieure-methodes-et-amelioration-continue-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-06-12.
+This industrial automation position at ALTEN was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

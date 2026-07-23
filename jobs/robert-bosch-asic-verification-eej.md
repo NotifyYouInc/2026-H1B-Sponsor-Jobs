@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135437679-asic-verification-eej) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138053536-asic-verification-eej) |
 
 ## About This Role
 
-This semiconductor / chip design position at Robert Bosch was posted on 2026-07-02.
+This semiconductor / chip design position at Robert Bosch was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

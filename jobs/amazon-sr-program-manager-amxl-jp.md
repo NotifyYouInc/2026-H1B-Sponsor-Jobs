@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Tokyo, JP |
 | Category | Program Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3191233/sr-program-manager-amxl-jp) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10476095/sr-program-manager-amxl-jp) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-02-27.
+This program manager position at Amazon was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
