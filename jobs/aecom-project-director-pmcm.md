@@ -1,16 +1,16 @@
-# Project Director- PMCM at AECOM
+# Project Director - PMCM at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Project Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000112081157-project-director-pmcm) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000138263111-project-director-pmcm) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-03-02.
+This project manager position at AECOM was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

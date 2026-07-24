@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Arras, Hauts-de-France, France |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000128656005-controleur-de-gestion-hf) |
+| Location | Labège, Occitanie, France |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138274589-controleur-de-gestion-hf) |
 
 ## About This Role
 
-This corporate finance position at Veolia was posted on 2026-05-27.
+This fp&a / strategic finance position at Veolia was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVQQZD-GIbfnnW2wl-XSKUs9UqTmkZjqZ2-8rI59-HXAEjsACxwdTLhqBWPdV22408HF77T1Bj6ZMs4ZFD6PtxDWXxqLeBNqE1pcwFNO2Gz6EV5ee2ELwgxdIbn1Ig%3D%3D_V2&loc=US&title=Staff+Software+Engineer) |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWNTccKgIqLQpT-4WX9lSEJsDMzV1aeF9j9q5bjiOG0vEjsA1Ny_i5aWqLaX7cDFn6FeATJVd4g-SnYXCntIZEbAM5-uFWEqa8MdMNCsnbzwc4m8tQmjW13sr-7MJA%3D%3D_V2&loc=US&title=Staff+Software+Engineer) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-05-27.
+This software engineer position at Google was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

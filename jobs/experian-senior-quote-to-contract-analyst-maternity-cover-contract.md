@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132996179-senior-quote-to-contract-analyst-maternity-cover-contract) |
+| Category | Legal |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138266789-senior-quote-to-contract-analyst-maternity-cover-contract) |
 
 ## About This Role
 
-This business analyst position at Experian was posted on 2026-06-19.
+This legal position at Experian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

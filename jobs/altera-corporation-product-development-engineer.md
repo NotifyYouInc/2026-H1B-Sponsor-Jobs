@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Product-Development-Engineer_R02703) |
+| Location | Penang, MY |
+| Category | Software Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Product-Development-Engineer_R02818) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-06-26.
+This software engineer position at Altera Corporation was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

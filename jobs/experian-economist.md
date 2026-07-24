@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000125754149-economist) |
+| Category | Data Scientist |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138274864-economist) |
 
 ## About This Role
 
-This business analyst position at Experian was posted on 2026-05-11.
+This data scientist position at Experian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

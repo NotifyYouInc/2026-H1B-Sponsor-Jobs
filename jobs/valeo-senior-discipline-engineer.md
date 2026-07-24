@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Engineering Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Senior-Discipline-Engineer_REQ2026073309) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Senior-Engineer---Electronics_REQ2025057106) |
 
 ## About This Role
 
-This engineering manager position at Valeo was posted on 2026-06-12.
+This embedded / firmware engineer position at Valeo was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

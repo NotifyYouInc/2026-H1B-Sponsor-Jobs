@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Saint-Nazaire, Pays de la Loire, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137060809-ingenieur-genie-electrique-haute-tension-hf) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138269599-ingenieur-genie-electrique-haute-tension-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-10.
+This electrical / hardware engineer position at ALTEN was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

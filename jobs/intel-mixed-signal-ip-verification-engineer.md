@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Mixed-Signal-IP-Verification-Engineer_JR0285218-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Mixed-Signal-IP-Verification-Engineer_JR0285521) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-06-27.
+This semiconductor / chip design position at Intel was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127817299-ingenieur-en-developpement-logiciels-embarques-hf) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138265176-ingenieur-en-developpement-logiciels-embarques-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-05-22.
+This embedded / firmware engineer position at ALTEN was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Saint-Herblain, Pays de la Loire, France |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131388479-charge-de-recrutement-junior-hf) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138276620-charge-de-recrutement-junior-hf) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at ALTEN was posted on 2026-06-10.
+This talent acquisition / recruiting position at ALTEN was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

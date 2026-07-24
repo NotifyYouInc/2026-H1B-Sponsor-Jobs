@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Advisory-Analyst_AIOC-S01652596-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Advisory-Analyst_AIOC-S01620009-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-06-29.
+This technology / it consulting position at Accenture was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

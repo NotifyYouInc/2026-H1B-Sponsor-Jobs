@@ -1,16 +1,16 @@
-# Chef de projet Industriel H/F at ALTEN
+# Chef de projet industriel H/F at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mulhouse, Grand Est, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Project Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137388599-chef-de-projet-industriel-hf) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138266199-chef-de-projet-industriel-hf) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-07-13.
+This project manager position at ALTEN was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

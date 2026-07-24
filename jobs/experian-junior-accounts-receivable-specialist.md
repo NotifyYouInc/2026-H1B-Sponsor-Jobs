@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129654079-junior-accounts-receivable-specialist) |
+| Category | Accounting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138266191-junior-accounts-receivable-specialist) |
 
 ## About This Role
 
-This corporate finance position at Experian was posted on 2026-06-02.
+This accounting position at Experian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

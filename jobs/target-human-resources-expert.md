@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | King of Prussia, Pennsylvania, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/39739-Lyndon-B-Johnson-Fwy-DallasTX-75237-3560/Human-Resources-Expert_R0000445787) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/160-W-Dekalb-Pike-King-of-PrussiaPA-19406-2327/Human-Resources-Expert_R0000446029) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-07-16.
+This human resources / people ops position at Target was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

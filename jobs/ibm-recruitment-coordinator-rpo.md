@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
-| Category | Human Resources / People Ops |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119440) |
+| Category | Talent Acquisition / Recruiting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=125974) |
 
 ## About This Role
 
-This human resources / people ops position at IBM was posted on 2026-06-20.
+This talent acquisition / recruiting position at IBM was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

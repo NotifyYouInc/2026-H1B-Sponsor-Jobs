@@ -1,16 +1,16 @@
-# Chef de projet mécanique H/F at ALTEN
+# Chef de projet Mécanique H/F at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dijon, Bourgogne, France |
-| Category | Industrial Automation |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135689160-chef-de-projet-mecanique-hf) |
+| Location | Saint-Étienne, Rhône-Alpes, France |
+| Category | Project Manager |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138264284-chef-de-projet-mecanique-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-07-03.
+This project manager position at ALTEN was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Industrial Automation |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137058506-ingenieure-performance-industrielle-hf) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138270919-ingenieure-performance-industrielle-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-07-10.
+This industrial automation position at ALTEN was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
