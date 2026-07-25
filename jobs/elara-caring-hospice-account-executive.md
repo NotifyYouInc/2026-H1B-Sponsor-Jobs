@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elara Caring](https://scoutify.ai/companies/elara-caring?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Katy, Texas, United States |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Katy-TX---General-Area/Hospice-Account-Executive_JR-137419) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Dallas---TX-LBJ-FWY/Hospice-Account-Executive_JR-137456) |
 
 ## About This Role
 
-This account executive position at Elara Caring was posted on 2026-07-16.
+This account executive position at Elara Caring was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

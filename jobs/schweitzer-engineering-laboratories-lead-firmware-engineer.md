@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Pullman, Washington, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Firmware-Engineer_2026-19778) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Lead-Firmware-Engineer_2026-21717) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Schweitzer Engineering Laboratories was posted on 2026-02-20.
+This embedded / firmware engineer position at Schweitzer Engineering Laboratories was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

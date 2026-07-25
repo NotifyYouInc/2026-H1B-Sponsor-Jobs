@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avis Budget Group](https://scoutify.ai/companies/avisbudget?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Kansas-City-International-Airport/Operations-Management-Trainee_R0180620) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Multi--Modal-Facility----Chicago-OHare-International-Airport/Operations-Management-Trainee_R0189729) |
 
 ## About This Role
 
-This leadership development program position at Avis Budget Group was posted on 2026-06-19.
+This leadership development program position at Avis Budget Group was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

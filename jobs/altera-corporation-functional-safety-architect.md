@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/Functional-Safety-Architect_R02684) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Functional-Safety-Architect_R02692) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-07-16.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

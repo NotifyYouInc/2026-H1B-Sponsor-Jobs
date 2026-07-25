@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | California, US |
 | Category | Account Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Shanghai-China/Account-Manager-III_R-01344788) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-California-USA/Account-Manager-III_R-01360760) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-03-19.
+This account manager position at Thermo Fisher Scientific was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

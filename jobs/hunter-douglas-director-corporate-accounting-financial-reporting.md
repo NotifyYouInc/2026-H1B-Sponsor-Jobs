@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hunter Douglas](https://scoutify.ai/companies/hunter-douglas?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | New York City, New York, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7746511003?gh_jid=7746511003) |
+| Category | Accounting |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7808711003?gh_jid=7808711003) |
 
 ## About This Role
 
-This corporate finance position at Hunter Douglas was posted on 2026-05-22.
+This accounting position at Hunter Douglas was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
