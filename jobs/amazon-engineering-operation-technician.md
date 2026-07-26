@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lubbock, Texas, United States |
+| Location | Berwick, Pennsylvania, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10405661/engineering-operation-technician) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10478242/engineering-operation-technician) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-05-21.
+This electrical / hardware engineer position at Amazon was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Falls Church, Virginia, United States |
+| Location | Rome, Georgia, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Systems-Administrator_RQ220316) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NY-Rome/Systems-Administrator_RQ224534-1) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-05-16.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Plymouth, Minnesota, United States |
-| Category | Business Development |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/MA-Plymouth/Solar-Appointment-Setter_R64643) |
+| Location | Schaumburg, Illinois, United States |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/IL-Schaumburg/Solar-Appointment-Setter_R70918) |
 
 ## About This Role
 
-This business development position at Sunrun was posted on 2026-05-01.
+This sales development (sdr / bdr) position at Sunrun was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

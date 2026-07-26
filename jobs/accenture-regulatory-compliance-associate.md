@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Subang Jaya, Selangor, Malaysia |
 | Category | Compliance & Risk Management |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Regulatory-Compliance-Associate_AIOC-S01591779-1) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Subang-Jaya-The-Pinnacle/Regulatory-Compliance-Associate_14496879) |
 
 ## About This Role
 
-This compliance & risk management position at Accenture was posted on 2026-06-19.
+This compliance & risk management position at Accenture was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

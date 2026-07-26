@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyannis, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Hyannis/Wealth-Management-Client-Associate_26019745) |
+| Location | Chagrin Falls, Ohio, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chagrin-Falls/Wealth-Management-Client-Associate_26024845) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-06-05.
+This wealth management / private banking position at Bank of America was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boldyn Networks](https://scoutify.ai/companies/baicommunications?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Radford, Virginia, United States |
-| Category | Customer Success |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://baicommunications.wd3.myworkdayjobs.com/external/job/Virginia-Remote/Field-Services-Representative_JR1420) |
+| Location | New Jersey, US |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://baicommunications.wd3.myworkdayjobs.com/external/job/New-Jersey-Remote/Field-Services-Representative_JR1477-1) |
 
 ## About This Role
 
-This customer success position at Boldyn Networks was posted on 2026-05-28.
+This it & systems administration position at Boldyn Networks was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

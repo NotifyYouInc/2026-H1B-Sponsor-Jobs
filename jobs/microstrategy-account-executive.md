@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Account Executive |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000137813040-account-executive) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000138463629-account-executive) |
 
 ## About This Role
 
-This account executive position at MicroStrategy was posted on 2026-07-15.
+This account executive position at MicroStrategy was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

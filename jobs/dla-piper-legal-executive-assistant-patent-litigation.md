@@ -5,12 +5,12 @@
 | Company | [DLA Piper](https://scoutify.ai/companies/dla-piper?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Diego, California, United States |
 | Category | Legal |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/San-Diego-CA/Legal-Executive-Assistant---Patent-Litigation_R2026-1890) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/San-Diego-CA/Legal-Executive-Assistant---Patent-Litigation_R2026-2742) |
 
 ## About This Role
 
-This legal position at DLA Piper was posted on 2026-06-05.
+This legal position at DLA Piper was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

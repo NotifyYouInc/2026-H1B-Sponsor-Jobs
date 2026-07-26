@@ -1,16 +1,16 @@
-# Compliance Manager - Engineering, Quick Commerce at Amazon
+# Compliance Manager- Engineering, Quick Commerce at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3187725/compliance-manager-engineering-quick-commerce) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10478056/compliance-manager-engineering-quick-commerce) |
 
 ## About This Role
 
-This compliance & risk management position at Amazon was posted on 2026-02-24.
+This compliance & risk management position at Amazon was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Changsha, Hunan, China |
 | Category | Accounting |
 | Posted | 2026-07-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138430719-fcm-controller) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138445249-fcm-controller) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Engineer II - Applications at Microchip Technology
+# Engineer II-Applications at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Austin, Texas, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/India---Bangalore/Engineer-II---Applications_R2595-25) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Austin---Park-Centre/Engineer-II-Applications_R2951-26) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Microchip Technology was posted on 2026-02-24.
+This embedded / firmware engineer position at Microchip Technology was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
