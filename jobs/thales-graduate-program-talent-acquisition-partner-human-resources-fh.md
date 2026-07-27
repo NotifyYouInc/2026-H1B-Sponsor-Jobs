@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vélizy-Villacoublay, Île-de-France, France |
 | Category | Leadership Development Program |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Graduate-program---Talent-Acquisition-Partner---Human-Resources---F-H_R0328913-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Graduate-program---Talent-Acquisition-Partner---Human-Resources---F-H_R0335011) |
 
 ## About This Role
 
-This leadership development program position at Thales was posted on 2026-05-27.
+This leadership development program position at Thales was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

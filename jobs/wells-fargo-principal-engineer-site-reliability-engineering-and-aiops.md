@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/principal-Engineer-Site-Reliability-Engineering-and-AIOps_R-540868) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/principal-Engineer-Site-Reliability-Engineering-and-AIOps_R-561045) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-06-18.
+This devops engineer position at Wells Fargo was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

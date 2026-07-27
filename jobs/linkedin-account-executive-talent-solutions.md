@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Singapore, Singapore |
 | Category | Account Executive |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115583197-account-executive-talent-solutions) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000138602229-account-executive-talent-solutions) |
 
 ## About This Role
 
-This account executive position at LinkedIn was posted on 2026-03-19.
+This account executive position at LinkedIn was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

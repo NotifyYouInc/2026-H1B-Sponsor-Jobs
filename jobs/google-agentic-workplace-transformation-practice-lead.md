@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTCcQ28mDXL_182dVPI4IWpgBBxarhtSdfKzF2vf1qvwEjsA1Ny_i_Xa88vNVyujXjEBhgaygDlDALQjt_hbof04rtEwbJZD90pURhdJQkrIin3t12lOB-8BtNvK3Q%3D%3D_V2&loc=SG&title=Agentic+Workplace+Transformation+Practice+Lead) |
+| Category | Strategy & Operations |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcqfQbKSFnJAiWAw013a0FhZ2j9F0jinDHD4ubtkPO9ZEjsA1Ny_i6S9c1u_8CjAiYniIKpEmn39nLfcfOqD0_44TKF5yQ5p9uwNqupk-Ff1fEG9jzYZP9rpwWH5MQ%3D%3D_V2&loc=SG&title=Agentic+Workplace+Transformation+Practice+Lead) |
 
 ## About This Role
 
-This strategy / management consulting position at Google was posted on 2026-06-17.
+This strategy & operations position at Google was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

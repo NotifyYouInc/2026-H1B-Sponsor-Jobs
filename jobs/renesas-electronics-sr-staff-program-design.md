@@ -1,16 +1,16 @@
-# Sr Staff - Program Design at Renesas Electronics
+# Sr Staff, Program Design at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Program Manager |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000116019127-sr-staff-program-design) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000138587224-sr-staff-program-design) |
 
 ## About This Role
 
-This program manager position at Renesas Electronics was posted on 2026-03-21.
+This program manager position at Renesas Electronics was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

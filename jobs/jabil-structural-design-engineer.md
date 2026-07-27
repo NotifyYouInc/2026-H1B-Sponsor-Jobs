@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taiwan |
-| Category | Engineering Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Sanchong/Structural-design-engineer_J2450448-1) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Sanchong/Structural-design-engineer_J2455287-1) |
 
 ## About This Role
 
-This engineering manager position at Jabil was posted on 2026-05-21.
+This electrical / hardware engineer position at Jabil was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

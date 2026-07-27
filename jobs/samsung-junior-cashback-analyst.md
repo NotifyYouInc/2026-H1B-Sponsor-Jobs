@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Metroffice-Bucharest-2-Romania/Junior-Cashback-Analyst_R116048) |
+| Category | Data Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Metroffice-Bucharest-2-Romania/Junior-Cashback-Analyst_R118478) |
 
 ## About This Role
 
-This business analyst position at Samsung was posted on 2026-04-15.
+This data analyst position at Samsung was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

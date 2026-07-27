@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Production-Engineering-Specialist_JR00034319) |
+| Location | Beijing, Beijing, China |
+| Category | Industrial Automation |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Production-Engineering-Specialist_JR00040350) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-05-20.
+This industrial automation position at ABB was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

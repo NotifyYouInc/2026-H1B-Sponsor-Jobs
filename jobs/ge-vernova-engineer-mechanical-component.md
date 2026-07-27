@@ -1,16 +1,16 @@
-# Engineer – Mechanical Component at GE Vernova
+# Engineer - Mechanical Component at GE Vernova
 
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Vadodara/Engineer---Mechanical-Component_R5041100-2) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Padappai/Engineer---Mechanical-Component_R5047569-2) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GE Vernova was posted on 2026-05-22.
+This electrical / hardware engineer position at GE Vernova was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

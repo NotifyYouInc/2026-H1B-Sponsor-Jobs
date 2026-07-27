@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Customer Success |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000114539888-customer-support-analyst) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138588159-customer-support-analyst) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-03-13.
+This data analyst position at NielsenIQ was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Indore, Madhya Pradesh, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Data Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Application-Support-Engineer_ATCI-R1-S1956653-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Data-Platform-Engineer_ATCP-1460584-S426652) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-07-10.
+This data engineer position at Accenture was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

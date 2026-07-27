@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Location | South Africa |
 | Category | Engineering Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000123604549-senior-engineer-geotechnical) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000138582340-senior-engineer-geotechnical) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-04-29.
+This engineering manager position at AECOM was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

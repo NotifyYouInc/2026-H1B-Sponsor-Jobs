@@ -1,16 +1,16 @@
-# Sales specialist at ABB
+# Sales Specialist at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Faridabad, Haryana, India |
 | Category | Account Executive |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Shanghai-Shanghai-China/Sales-specialist_JR00041383-3) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Faridabad-Haryana-India/Sales-Specialist_JR00032977) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-07-16.
+This account executive position at ABB was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

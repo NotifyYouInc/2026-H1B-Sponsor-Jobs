@@ -1,16 +1,16 @@
-# Sr Mgr, Quality Assurance at Renesas Electronics
+# Sr Mgr Quality Assurance at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shah Alam, Selangor, Malaysia |
+| Location | Bayan Lepas, Penang, Malaysia |
 | Category | Engineering Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000131584979-sr-mgr-quality-assurance) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000138582260-sr-mgr-quality-assurance) |
 
 ## About This Role
 
-This engineering manager position at Renesas Electronics was posted on 2026-06-11.
+This engineering manager position at Renesas Electronics was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Auckland/SAP-Supply-Chain-Consultant--Inventory---Warehouse-Management-_14287637) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Auckland/SAP-Supply-Chain-Consultant--Inventory---Warehouse-Management-_14509573) |
 
 ## About This Role
 
-This strategy / management consulting position at Accenture was posted on 2026-04-07.
+This strategy / management consulting position at Accenture was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

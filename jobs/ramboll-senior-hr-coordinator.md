@@ -1,16 +1,16 @@
-# Senior HR Coordinator at Ramboll
+# Senior HR Coordinator  at Ramboll
 
 | Field | Details |
 |-------|---------|
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000126923439-senior-hr-coordinator) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000138599794-senior-hr-coordinator) |
 
 ## About This Role
 
-This human resources / people ops position at Ramboll was posted on 2026-05-18.
+This human resources / people ops position at Ramboll was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

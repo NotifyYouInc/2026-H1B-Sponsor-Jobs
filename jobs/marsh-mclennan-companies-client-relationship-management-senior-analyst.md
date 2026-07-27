@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Account Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Sofia---Tzarigradsko/Client-Relationship-Management---Senior-Analyst_R_344762) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Manila---SixNEO/Client-Relationship-Management---Senior-Analyst_R_358477-1) |
 
 ## About This Role
 
-This account manager position at Marsh & McLennan Companies was posted on 2026-04-27.
+This account manager position at Marsh & McLennan Companies was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

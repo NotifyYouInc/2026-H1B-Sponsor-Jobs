@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bắc Ninh, Bac Ninh, Vietnam |
-| Category | Sales Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bac-Ninh-Bac-Ninh-Vietnam/Service-Sales-Specialist_JR00036544) |
+| Location | 3 locations |
+| Category | Account Executive |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Guangzhou-Guangdong-China/Service-Sales-Specialist_JR00040997-4) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-06-22.
+This account executive position at ABB was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

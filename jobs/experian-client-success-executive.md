@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Customer Success Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136726349-client-success-executive) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138587500-client-success-executive) |
 
 ## About This Role
 
-This customer success manager position at Experian was posted on 2026-07-09.
+This customer success manager position at Experian was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

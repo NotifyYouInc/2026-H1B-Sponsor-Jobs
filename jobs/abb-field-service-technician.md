@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Milton, Ontario, Canada |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milton-Ontario-Canada/Field-Service-Technician_JR00027024) |
+| Location | Zaragoza, Aragon, Spain |
+| Category | Industrial Automation |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Zaragoza-Zaragoza-Spain/Field-Service-Technician_JR00040670) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-03-13.
+This industrial automation position at ABB was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

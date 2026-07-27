@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Makati-City/Underwriter--Casualty_JR2600653-1) |
+| Location | Hong Kong, Hong Kong |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Hong-Kong/Underwriter--Casualty_JR2602699) |
 
 ## About This Role
 
-This corporate finance position at AIG was posted on 2026-04-09.
+This actuary / insurance analytics position at AIG was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-Boulevard-Towers/Product-Manager_R395622-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanghai---Shanghai-Tower-A/Product-Manager_R406474-1) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-04-27.
+This product manager position at Merck was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xiamen, Fujian, China |
-| Category | Marketing |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/EL-Product-Marketing-Specialist_JR00034451) |
+| Location | Taiwan |
+| Category | Product Marketing |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Kaohsiung-City-Kaohsiung-City-TaiwanChinese-Taipei/EL-Product-Marketing-Specialist_JR00041438-1) |
 
 ## About This Role
 
-This marketing position at ABB was posted on 2026-05-09.
+This product marketing position at ABB was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

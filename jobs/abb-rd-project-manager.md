@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mebane, North Carolina, United States |
+| Location | Nanjing, Jiangsu, China |
 | Category | Project Manager |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/R-D-Project-Manager_JR00019593) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nanjing-Jiangsu-China/R-D-Project-Manager_JR00038724) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-05-16.
+This project manager position at ABB was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

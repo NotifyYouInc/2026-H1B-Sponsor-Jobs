@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Engineering Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000120597094-in-rbin-bidp1moe24-front-line-manager-senior-engineer-assistant-manager-heat-treatment) |
+| Location | Karnataka, IN |
+| Category | Industrial Automation |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138592240-in-rbin-bidp1moe24-front-line-manager-senior-engineer-assistant-manager-heat-treatment) |
 
 ## About This Role
 
-This engineering manager position at Robert Bosch was posted on 2026-04-14.
+This industrial automation position at Robert Bosch was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

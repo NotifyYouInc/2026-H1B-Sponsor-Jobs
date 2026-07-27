@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | QA Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Quality-Engineering-Lead_ATCI-5636899-S2055984) |
+| Category | Software Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Quality-Engineering-Lead--Test-Lead-_ATCI-5479040-S2002109-1) |
 
 ## About This Role
 
-This qa engineer position at Accenture was posted on 2026-07-02.
+This software engineer position at Accenture was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Limours, Île-de-France, France |
 | Category | Project Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Limours/PMO-Projet---F-H_R0332931-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Limours/PMO-Projet---F-H_R0335026-2) |
 
 ## About This Role
 
-This project manager position at Thales was posted on 2026-07-07.
+This project manager position at Thales was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Ingénieur Conception Mécanique (F/H) at ALTEN
+# Ingénieur conception mécanique (F/H) at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Boulogne-Billancourt, Île-de-France, France |
+| Location | France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135684939-ingenieur-conception-mecanique-fh) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138579090-ingenieur-conception-mecanique-fh) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-03.
+This electrical / hardware engineer position at ALTEN was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

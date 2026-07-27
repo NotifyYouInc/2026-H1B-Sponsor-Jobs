@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000113638467-urban-advisory) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000138585896-urban-advisory) |
 
 ## About This Role
 
-This strategy / management consulting position at AECOM was posted on 2026-03-10.
+This strategy / management consulting position at AECOM was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

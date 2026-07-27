@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Capital-Markets-Operations-New-Associate_AIOC-S01646654-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Capital-Markets-Operations-New-Associate_AIOC-S01655809-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-05-21.
+This asset management / portfolio management position at Accenture was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

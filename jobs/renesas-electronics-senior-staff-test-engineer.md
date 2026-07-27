@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bayan Lepas, Penang, Malaysia |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000131068270-senior-staff-test-engineer) |
+| Location | Santa Rosa, California, United States |
+| Category | QA Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000138596994-senior-staff-test-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Renesas Electronics was posted on 2026-06-09.
+This qa engineer position at Renesas Electronics was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

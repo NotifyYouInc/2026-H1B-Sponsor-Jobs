@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Goodyear, Arizona, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465582/escalations-specialist-french-worldwide-operations-security-wwos) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10478422/escalations-specialist-french-worldwide-operations-security-wwos) |
 
 ## About This Role
 
-This soc & incident response position at Amazon was posted on 2026-07-03.
+This soc & incident response position at Amazon was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

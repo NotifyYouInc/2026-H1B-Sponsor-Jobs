@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kulim, Kedah, Malaysia |
+| Location | Ipoh, Perak, Malaysia |
 | Category | QA Engineer |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000133228829-principal-quality-assurance-engineer) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000138585240-principal-quality-assurance-engineer) |
 
 ## About This Role
 
-This qa engineer position at Renesas Electronics was posted on 2026-06-21.
+This qa engineer position at Renesas Electronics was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

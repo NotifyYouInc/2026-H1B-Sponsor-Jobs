@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mandaluyong City, National Capital Region, Philippines |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Citynet---Mandaluyong-City/Service-Desk-Analyst_REQ573406) |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Citynet---Mandaluyong-City/Service-Desk-Analyst_REQ574503) |
 
 ## About This Role
 
-This it & systems administration position at Unisys was posted on 2026-06-24.
+This technical support engineer position at Unisys was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

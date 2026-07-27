@@ -1,16 +1,16 @@
-# Engineer, Digital Design at Renesas Electronics
+# Engineer - Digital Design at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000133519509-engineer-digital-design) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000138599049-engineer-digital-design) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-06-23.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
