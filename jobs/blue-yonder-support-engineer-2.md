@@ -5,12 +5,12 @@
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
 | Category | Technical Support Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Support-Engineer-2_262164) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Support-Engineer-2_262165) |
 
 ## About This Role
 
-This technical support engineer position at Blue Yonder was posted on 2026-07-16.
+This technical support engineer position at Blue Yonder was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

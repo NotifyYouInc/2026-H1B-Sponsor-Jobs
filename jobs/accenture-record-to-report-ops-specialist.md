@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Record-to-Report-Ops-Specialist_AIOC-S01643945-1) |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Record-to-Report-Ops-Specialist_AIOC-S01655949-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-08.
+This accounting position at Accenture was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

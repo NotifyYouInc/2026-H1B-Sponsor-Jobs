@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Nottingham, England, United Kingdom |
 | Category | Project Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000133519179-design-construction-project-coordinator-12-month-ftc) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138805931-design-construction-project-coordinator-12-month-ftc) |
 
 ## About This Role
 
-This project manager position at Experian was posted on 2026-06-23.
+This project manager position at Experian was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

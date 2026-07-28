@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Software-Engineer_2018770) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2020337) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-07-14.
+This software engineer position at Cisco was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

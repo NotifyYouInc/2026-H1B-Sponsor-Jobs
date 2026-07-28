@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Operations |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3206277/data-centre-engineering-operations-data-centre-engineering-operations) |
+| Category | Engineering Manager |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10479711/data-centre-engineering-operations-data-centre-engineering-operations) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-03-17.
+This engineering manager position at Amazon was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

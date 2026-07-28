@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Marketing |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000137265779-senior-product-marketing-manager) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138805594-senior-product-marketing-manager) |
 
 ## About This Role
 
-This product marketing position at Experian was posted on 2026-07-11.
+This product marketing position at Experian was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Brand Marketing |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000137826519-global-creative-operations-lead) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000138800809-global-creative-operations-lead) |
 
 ## About This Role
 
-This brand marketing position at Syngenta was posted on 2026-07-15.
+This brand marketing position at Syngenta was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

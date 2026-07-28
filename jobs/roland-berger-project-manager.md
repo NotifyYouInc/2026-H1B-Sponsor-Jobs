@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roland Berger](https://scoutify.ai/companies/rolandberger?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Milan, Lombardy, Italy |
 | Category | Project Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000129384308-project-manager) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000138814640-project-manager) |
 
 ## About This Role
 
-This project manager position at Roland Berger was posted on 2026-06-01.
+This project manager position at Roland Berger was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

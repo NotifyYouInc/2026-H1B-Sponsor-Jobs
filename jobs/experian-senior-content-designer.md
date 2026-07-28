@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nottingham, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | UX Writer & Content Designer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136155335-senior-content-designer) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138807589-senior-content-designer) |
 
 ## About This Role
 
-This ux writer & content designer position at Experian was posted on 2026-07-07.
+This ux writer & content designer position at Experian was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

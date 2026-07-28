@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Singapore, Singapore |
 | Category | Technical Support Engineer |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ShanghaiCHN/Customer-Support-Technician_R2624073) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Support-Technician_R2624469) |
 
 ## About This Role
 
-This technical support engineer position at Applied Materials was posted on 2026-07-18.
+This technical support engineer position at Applied Materials was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

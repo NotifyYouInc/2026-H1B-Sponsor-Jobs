@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Technical Support Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138259360-customer-technical-support-associate-automotive-level-1-urgent-hiring) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138794439-customer-technical-support-associate-automotive-level-1-urgent-hiring) |
 
 ## About This Role
 
-This technical support engineer position at Robert Bosch was posted on 2026-07-17.
+This technical support engineer position at Robert Bosch was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

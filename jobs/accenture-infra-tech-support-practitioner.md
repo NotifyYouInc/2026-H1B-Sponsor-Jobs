@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Infra-Tech-Support-Practitioner_ATCI-5534438-S2025831-1) |
+| Location | Mandaluyong, National Capital Region, Philippines |
+| Category | Data Analyst |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mandaluyong/Infra-Tech-Support-Practitioner_14580100) |
 
 ## About This Role
 
-This it & systems administration position at Accenture was posted on 2026-06-26.
+This data analyst position at Accenture was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

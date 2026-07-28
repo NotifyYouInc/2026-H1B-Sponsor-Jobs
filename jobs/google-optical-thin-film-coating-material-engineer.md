@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | New Taipei City, Taipei, Taiwan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWNqpyuC3uTG-ymgIVOSCyjyGenMH8MHnwAUb8jX78SYEjsACxwdTODBh6DNdT_hYVtPaUbGanStEnm-6bG6asVSBz-l-_Ek-7AzBiFsidItLVxozIatoa19P96JDQ%3D%3D_V2&loc=TW&title=Optical+Thin+Film+Coating+Material+Engineer) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUuoZ-F6wkCZm8xyEmOW8XxIT56yrdQdza2vOp6iGH4JEjsA1Ny_i4kGbk-jkY6OJIfdW_LtpMJ7QugXn5ov6hrLmgw4i68U86_XPracEmF2ECJIAsIObXmsooxUew%3D%3D_V2&loc=TW&title=Optical+Thin+Film+Coating+Material+Engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Google was posted on 2026-06-05.
+This electrical / hardware engineer position at Google was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

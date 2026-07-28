@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Laval, Pays de la Loire, France |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000134749749-ingenieur-validation-banc-de-tests-hf) |
+| Category | QA Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138795675-ingenieur-validation-banc-de-tests-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-06-29.
+This qa engineer position at ALTEN was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

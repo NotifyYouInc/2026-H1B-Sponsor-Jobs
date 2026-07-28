@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Industrial Automation |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126236511-senior-planningproject-controls-engineer) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000138812937-senior-planningproject-controls-engineer) |
 
 ## About This Role
 
-This industrial automation position at AECOM was posted on 2026-05-13.
+This industrial automation position at AECOM was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

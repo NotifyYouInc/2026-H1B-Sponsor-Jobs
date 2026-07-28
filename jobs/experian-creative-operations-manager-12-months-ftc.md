@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Motion / Video Production |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000137389174-creative-operations-manager-12-months-ftc) |
+| Category | Graphic / Brand Design |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138814723-creative-operations-manager-12-months-ftc) |
 
 ## About This Role
 
-This motion / video production position at Experian was posted on 2026-07-13.
+This graphic / brand design position at Experian was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

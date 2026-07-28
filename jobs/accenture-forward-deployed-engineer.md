@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Forward-Deployed-Engineer_ATCP-1428970-S425024-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Forward Deployed Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Forward-Deployed-Engineer_ATCI-5673330-S2059390-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-03.
+This forward deployed engineer position at Accenture was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

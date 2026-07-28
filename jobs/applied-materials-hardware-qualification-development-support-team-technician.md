@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Hardware-Qualification---Development-Support-Team-Technician_R2617821) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Hardware-Support-Technician_R2615852) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Applied Materials was posted on 2026-05-17.
+This semiconductor / chip design position at Applied Materials was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

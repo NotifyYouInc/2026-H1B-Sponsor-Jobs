@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Project Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Delivery-Lead-Manager_AIOC-S01654236-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Delivery-Lead-Manager_AIOC-S01655947-1) |
 
 ## About This Role
 
-This project manager position at Accenture was posted on 2026-07-10.
+This project manager position at Accenture was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

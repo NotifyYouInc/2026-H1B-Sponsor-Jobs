@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Telangana, IN |
-| Category | Security Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Virtual---Telangana-DTA/Development-Engineer-3_R440232) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R439301) |
 
 ## About This Role
 
-This security engineer position at Comcast was posted on 2026-07-06.
+This software engineer position at Comcast was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

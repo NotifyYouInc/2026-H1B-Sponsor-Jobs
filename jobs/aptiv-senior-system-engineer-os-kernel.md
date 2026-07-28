@@ -5,12 +5,12 @@
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Walnut Creek, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Senior-System-Engineer---OS-Kernel_J000698780) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Senior-System-Engineer---OS-Kernel_J000701243) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Aptiv was posted on 2026-05-29.
+This embedded / firmware engineer position at Aptiv was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Noida-Uttar-Pradesh-India/Audit-Senior-Associate_R-50852) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Noida-Uttar-Pradesh-India/Audit-Senior-Associate_R-50857) |
 
 ## About This Role
 
-This corporate finance position at Crowe was posted on 2026-06-25.
+This accounting position at Crowe was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

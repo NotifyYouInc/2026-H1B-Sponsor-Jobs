@@ -1,16 +1,16 @@
-# Electromécanicien (H/F) at Veolia
+# Electromécanicien H/F at Veolia
 
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | France |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130710591-electromecanicien-hf) |
+| Location | Le Petit-Quevilly, Normandy, France |
+| Category | Industrial Automation |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138801519-electromecanicien-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Veolia was posted on 2026-06-08.
+This industrial automation position at Veolia was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

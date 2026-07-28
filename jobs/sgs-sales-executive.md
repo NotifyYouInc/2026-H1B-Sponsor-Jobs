@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Account Executive |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000120864457-sales-executive) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000138813533-sales-executive) |
 
 ## About This Role
 
-This account executive position at SGS was posted on 2026-04-15.
+This account executive position at SGS was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

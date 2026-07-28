@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Nottingham, England, United Kingdom |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000137605054-finance-partner-go-to-market) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138804844-finance-partner-go-to-market) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Experian was posted on 2026-07-14.
+This fp&a / strategic finance position at Experian was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

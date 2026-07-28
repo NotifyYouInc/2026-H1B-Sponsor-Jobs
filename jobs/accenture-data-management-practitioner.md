@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
-| Category | Data Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Data-Management-Practitioner_ATCI-5289444-S1934607-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Management-Practitioner_ATCI-5684679-S2059387-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-05-21.
+This technology / it consulting position at Accenture was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

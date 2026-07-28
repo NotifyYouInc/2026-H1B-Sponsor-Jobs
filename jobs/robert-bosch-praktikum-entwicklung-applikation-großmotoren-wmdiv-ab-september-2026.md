@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hallein, Salzburg, Austria |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138597626-praktikum-entwicklung-applikation-gromotoren-wmdiv-ab-september-2026) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138800719-praktikum-entwicklung-applikation-gromotoren-wmdiv-ab-september-2026) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Robert Bosch was posted on 2026-07-20.
+This embedded / firmware engineer position at Robert Bosch was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

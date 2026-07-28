@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Developer_ATCI-R1-S1891772-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Financial-Planning---Analysis-Representa_ATCI-5617917-S2059344-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-04-27.
+This fp&a / strategic finance position at Accenture was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

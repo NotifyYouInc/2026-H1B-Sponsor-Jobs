@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Germany |
+| Location | Bayreuth, Bavaria, Germany |
 | Category | Industrial Automation |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415666/instandhaltungstechniker-in) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10479740/instandhaltungstechniker-in) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-05-11.
+This industrial automation position at Amazon was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

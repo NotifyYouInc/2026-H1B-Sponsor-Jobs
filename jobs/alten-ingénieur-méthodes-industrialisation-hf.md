@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Saint-Nazaire, Pays de la Loire, France |
+| Location | Caen, Normandy, France |
 | Category | Industrial Automation |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138271831-ingenieur-methodes-industrialisation-hf) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138794939-ingenieur-methodes-industrialisation-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-07-17.
+This industrial automation position at ALTEN was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

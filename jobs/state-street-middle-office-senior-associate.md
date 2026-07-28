@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Middle-Office---Senior-Associate_R-788993) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Accounting |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Mumbai-India/Middle-Office---Senior-Associate_R-794371) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-10.
+This accounting position at State Street was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
