@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | London, England, United Kingdom |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000135450326-finance-business-partner-marketing) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139019559-finance-business-partner-marketing) |
 
 ## About This Role
 
-This fp&a / strategic finance position at WISE was posted on 2026-07-02.
+This fp&a / strategic finance position at WISE was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

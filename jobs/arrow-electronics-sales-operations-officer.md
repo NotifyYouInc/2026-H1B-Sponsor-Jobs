@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shenzhen, Guangdong, China |
-| Category | Operations |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Sales-Operations-Officer_R240437-1) |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Sales-Operations-Officer_R245391) |
 
 ## About This Role
 
-This operations position at Arrow Electronics was posted on 2026-03-18.
+This revenue / sales operations position at Arrow Electronics was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

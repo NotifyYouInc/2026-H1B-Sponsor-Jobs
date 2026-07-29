@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jaipur, Rajasthan, India |
-| Category | Engineering Manager |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133228129-engineer-ii) |
+| Location | Jodhpur, Rajasthan, India |
+| Category | Software Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000139012809-engineer-ii) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-06-21.
+This software engineer position at AECOM was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

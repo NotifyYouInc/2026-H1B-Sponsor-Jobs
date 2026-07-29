@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Business-Development-Intern_R107604) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/Business-Development-Intern_R107839) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Tencent was posted on 2026-06-02.
+This sales development (sdr / bdr) position at Tencent was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

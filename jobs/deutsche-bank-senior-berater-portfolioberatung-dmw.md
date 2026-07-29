@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Aachen, North Rhine-Westphalia, Germany |
-| Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Aachen-Friedrich-W-Platz-15/Senior-Berater-Portfolioberatung--d-m-w-_R0423742) |
+| Location | Germany |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mnchen-Promenadeplatz-15/Senior-Berater-Portfolioberatung--d-m-w-_R0438487-1) |
 
 ## About This Role
 
-This corporate finance position at Deutsche Bank was posted on 2026-03-30.
+This wealth management / private banking position at Deutsche Bank was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

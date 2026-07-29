@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Account Executive |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/New-York-City-New-York/Outside-Sales-Representative_R264793-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Boston-MA/Outside-Sales-Representative_R265752) |
 
 ## About This Role
 
-This account executive position at Uline was posted on 2026-06-19.
+This account executive position at Uline was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

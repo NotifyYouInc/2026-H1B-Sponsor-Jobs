@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Irvine, California, United States |
+| Location | Singapore, Singapore |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Irvine/Global-Talent-Sourcing-Intern_R107113) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Global-Talent-Sourcing-Intern_R107831-1) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Tencent was posted on 2026-03-20.
+This talent acquisition / recruiting position at Tencent was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Customer Success |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445608/infrastructure-support-engineer-ireo) |
+| Location | London, England, United Kingdom |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10481140/infrastructure-support-engineer-ireo) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-06-11.
+This technical support engineer position at Amazon was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

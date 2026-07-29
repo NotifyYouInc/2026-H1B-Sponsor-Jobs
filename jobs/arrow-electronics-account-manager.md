@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Qingdao, Shandong, China |
+| Location | Bavaria, DE |
 | Category | Account Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/CN-Qingdao-China-Remote/Account-Manager_R245507) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Bavaria/Account-Manager_R245876) |
 
 ## About This Role
 
-This account manager position at Arrow Electronics was posted on 2026-07-10.
+This account manager position at Arrow Electronics was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

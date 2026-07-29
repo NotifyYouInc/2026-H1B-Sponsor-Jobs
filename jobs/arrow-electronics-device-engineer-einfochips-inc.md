@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Duluth, Minnesota, United States |
+| Location | Cedar Rapids, Iowa, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-GA-Duluth-Georgia/Device-Engineer--eInfochips-Inc-_R243186) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Cedar-Rapids-Iowa/Device-Engineer--eInfochips-Inc-_R246747) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Arrow Electronics was posted on 2026-05-02.
+This embedded / firmware engineer position at Arrow Electronics was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

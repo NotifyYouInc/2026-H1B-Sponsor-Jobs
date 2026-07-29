@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Senior-Engineer_19039174) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Database Administration |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chennai/Senior-Engineer_19041237) |
 
 ## About This Role
 
-This software engineer position at TransUnion was posted on 2026-04-01.
+This database administration position at TransUnion was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

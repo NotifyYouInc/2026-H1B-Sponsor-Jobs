@@ -1,16 +1,16 @@
-# Systems Administrator Senior – TS/SCI required at General Dynamics Information Technology
+# Systems Administrator Senior – TS/SCI Required at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hawaii, US |
+| Location | Fort Bragg, North Carolina, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Fort-Shafter/Systems-Administrator-Senior---TS-SCI-required_RQ215310-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Systems-Administrator-Senior---TS-SCI-Required_RQ224656-2) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-02-23.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

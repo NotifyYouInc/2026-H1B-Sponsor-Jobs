@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Changsha, Hunan, China |
-| Category | Engineering Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Changsha-Hunan-CN/Assembly-Engineer_R00243188) |
+| Location | Hadley, England, United Kingdom |
+| Category | Industrial Automation |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Queensway-Hadley-Telford-GB/Assembly-Engineer_R00249330) |
 
 ## About This Role
 
-This engineering manager position at Magna was posted on 2026-05-15.
+This industrial automation position at Magna was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

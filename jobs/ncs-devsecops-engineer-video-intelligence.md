@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Security Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001026069-devsecops-engineer-video-intelligence) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001252091-devsecops-engineer-video-intelligence) |
 
 ## About This Role
 
-This security engineer position at NCS was posted on 2026-04-27.
+This devops engineer position at NCS was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

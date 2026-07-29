@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
-| Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000123124989-treasury-operations-specialist) |
+| Location | Singapore, Singapore |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139023843-treasury-operations-specialist) |
 
 ## About This Role
 
-This corporate finance position at WISE was posted on 2026-04-27.
+This treasury & capital markets position at WISE was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Candor-TechSpace-Noida/Business-Manager_JR-0000099302) |
+| Location | Pune, Maharashtra, India |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Business-Manager_JR-0000119609) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-03-13.
+This strategy / management consulting position at Barclays was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

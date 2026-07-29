@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Compliance & Risk Management |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000137823560-senior-risk-manager) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139011631-senior-risk-manager) |
 
 ## About This Role
 
-This compliance & risk management position at WISE was posted on 2026-07-15.
+This compliance & risk management position at WISE was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

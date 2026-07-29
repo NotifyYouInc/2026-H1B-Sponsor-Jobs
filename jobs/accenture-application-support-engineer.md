@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bhubaneswar, Odisha, India |
 | Category | Technical Support Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Application-Support-Engineer_ATCI-5672268-S2059351-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bhubaneswar/Application-Support-Engineer_ATCI-R1-S1956680-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-07-21.
+This technical support engineer position at Accenture was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

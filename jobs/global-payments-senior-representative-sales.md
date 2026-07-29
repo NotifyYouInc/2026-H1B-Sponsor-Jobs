@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
 | Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Monterrey-Nuevo-Leon-Mexico/Senior-Representative--Sales_R0068778-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Monterrey-Nuevo-Leon-Mexico/Senior-Representative--Sales_R0073041) |
 
 ## About This Role
 
-This account executive position at Global Payments was posted on 2026-04-07.
+This account executive position at Global Payments was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
