@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
 | Category | Project Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127583255-projectmanager) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139227545-projectmanager) |
 
 ## About This Role
 
-This project manager position at Veolia was posted on 2026-05-21.
+This project manager position at Veolia was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

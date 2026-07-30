@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000133000909-thesis-intern-financial-risk-management-actuarial) |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000139228909-thesis-intern-financial-risk-management-actuarial) |
 
 ## About This Role
 
-This corporate finance position at FCTB (nu: Deloitte Consulting) was posted on 2026-06-19.
+This actuary / insurance analytics position at FCTB (nu: Deloitte Consulting) was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

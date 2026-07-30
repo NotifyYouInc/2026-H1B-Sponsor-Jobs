@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | College Point, New York, United States |
+| Location | Prattville, Alabama, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/13505-20th-Ave-College-PointNY-11356-2446/Human-Resources-Expert_R0000446213) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/2754-Legends-Pkwy-PrattvilleAL-36066-7748/Human-Resources-Expert_R0000446387) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-07-20.
+This human resources / people ops position at Target was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

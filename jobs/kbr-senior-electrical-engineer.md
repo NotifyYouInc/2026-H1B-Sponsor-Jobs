@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Sydney, New South Wales, Australia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Bangalore-Karnataka-India/Senior-Electrical-Engineer_R2121924) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sydney-New-South-Wales-Australia/Senior-Electrical-Engineer_R2126929) |
 
 ## About This Role
 
-This electrical / hardware engineer position at KBR was posted on 2026-04-14.
+This electrical / hardware engineer position at KBR was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

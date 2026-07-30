@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | Technical Support Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Technical-Support-Engineer_JR350735) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Technical-Support-Engineer_JR345211) |
 
 ## About This Role
 
-This technical support engineer position at Salesforce was posted on 2026-07-07.
+This technical support engineer position at Salesforce was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

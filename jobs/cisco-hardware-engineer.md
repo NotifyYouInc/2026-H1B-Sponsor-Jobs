@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Taipei-Taiwan/Hardware-Engineer_2016660) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Taipei-Taiwan/Hardware-Engineer_2016900) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Cisco was posted on 2026-06-18.
+This electrical / hardware engineer position at Cisco was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

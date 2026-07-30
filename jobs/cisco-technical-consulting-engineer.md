@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Technical-Consulting-Engineer_2006244-1) |
+| Location | North Sydney, New South Wales, Australia |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/North-Sydney-Australia/Technical-Consulting-Engineer_2016176) |
 
 ## About This Role
 
-This customer success position at Cisco was posted on 2026-02-19.
+This technical support engineer position at Cisco was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

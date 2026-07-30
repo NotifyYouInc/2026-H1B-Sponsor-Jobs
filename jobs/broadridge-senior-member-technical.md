@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Senior-Member-Technical_JR1083790) |
+| Location | Hyderabad, Telangana, India |
+| Category | Software Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Senior-Member-Technical_JR1084554) |
 
 ## About This Role
 
-This devops engineer position at Broadridge was posted on 2026-06-23.
+This software engineer position at Broadridge was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

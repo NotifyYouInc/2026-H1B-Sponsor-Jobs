@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Strategy & Operations |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur-Vertical-Corp-Tower-B/Business-Transformation-Specialist_14340055) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Business-Transformation-Specialist_AIOC-S01656940-1) |
 
 ## About This Role
 
-This strategy & operations position at Accenture was posted on 2026-04-27.
+This strategy & operations position at Accenture was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

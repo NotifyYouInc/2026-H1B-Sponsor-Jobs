@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vietnam |
-| Category | Account Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000132342927-market-development-officer-c2) |
+| Location | Cà Mau, Ca Mau, Vietnam |
+| Category | Account Executive |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000139237998-market-development-officer-c2) |
 
 ## About This Role
 
-This account manager position at Syngenta was posted on 2026-06-16.
+This account executive position at Syngenta was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

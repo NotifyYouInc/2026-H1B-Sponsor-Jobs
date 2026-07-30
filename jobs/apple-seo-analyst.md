@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | Singapore, Singapore |
 | Category | Growth Marketing |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671981/seo-analyst) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673546/seo-analyst) |
 
 ## About This Role
 
-This growth marketing position at Apple was posted on 2026-07-10.
+This growth marketing position at Apple was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

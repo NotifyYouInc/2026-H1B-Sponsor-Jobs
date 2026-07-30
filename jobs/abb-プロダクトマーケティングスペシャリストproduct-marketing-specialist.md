@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Product Marketing |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Tokyo-Tokyo-Japan/-Product-Marketing-Specialist_JR00039970) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Tokyo-Tokyo-Japan/-Product-Marketing-Specialist_JR00040620) |
 
 ## About This Role
 
-This product marketing position at ABB was posted on 2026-07-02.
+This product marketing position at ABB was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

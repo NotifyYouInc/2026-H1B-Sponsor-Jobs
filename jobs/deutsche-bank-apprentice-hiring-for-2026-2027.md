@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Financial Crimes & AML |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Apprentice-Hiring-for-2026--2027_R0426791-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Business Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Knowledge-Pk-B1/Apprentice-Hiring-for-2026--2027_R0443102) |
 
 ## About This Role
 
-This financial crimes & aml position at Deutsche Bank was posted on 2026-03-03.
+This business analyst position at Deutsche Bank was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

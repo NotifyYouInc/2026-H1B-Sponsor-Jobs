@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Engineering Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Software-Engineering_R-279064) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Director--Software-Engineering_R-281578) |
 
 ## About This Role
 
-This engineering manager position at Mastercard was posted on 2026-06-02.
+This engineering manager position at Mastercard was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

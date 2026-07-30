@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chon Buri, Chon Buri, Thailand |
-| Category | Implementation / Professional Services |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chon-Buri/Project-Launch-Manager_REQ2026069954) |
+| Location | Giarmata, Timiș County, Romania |
+| Category | Product Marketing |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Giarmata/Project-Launch-Manager_REQ2026077390) |
 
 ## About This Role
 
-This implementation / professional services position at Valeo was posted on 2026-06-01.
+This product marketing position at Valeo was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
