@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Perth, Western Australia, Australia |
-| Category | Sales Leadership |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/AU-WA-PERTH-LEVEL-14-216-ST-GEORGES-TERRACE/Sales-Senior-Specialist---Sales_R164941) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Account Executive |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/AE-DUBAI-JEBEL-ALI-PLOT-MO0531-ROAD-N302/Sales-Senior-Specialist---Sales_R166488) |
 
 ## About This Role
 
-This sales leadership position at Baker Hughes was posted on 2026-06-11.
+This account executive position at Baker Hughes was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

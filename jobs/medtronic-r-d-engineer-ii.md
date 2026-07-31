@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/R-D-Engineer-II_R69805) |
+| Location | Telangana, IN |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/R-D-Engineer-II_R72457) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Medtronic was posted on 2026-06-20.
+This software engineer position at Medtronic was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

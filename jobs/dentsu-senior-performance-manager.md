@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Singapore, Singapore |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Sydney/Senior-Performance-Manager_R1123338) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Singapore/Senior-Performance-Manager_R1125687) |
 
 ## About This Role
 
-This digital / performance marketing position at Dentsu was posted on 2026-06-10.
+This digital / performance marketing position at Dentsu was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

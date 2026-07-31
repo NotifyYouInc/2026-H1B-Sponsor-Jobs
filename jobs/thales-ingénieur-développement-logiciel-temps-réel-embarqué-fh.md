@@ -1,16 +1,16 @@
-# Ingénieur développement logiciel temps réel embarqué F.H at Thales
+# Ingénieur Développement Logiciel Temps-Réel Embarqué F.H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rungis, Île-de-France, France |
+| Location | Limours, Île-de-France, France |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rungis/Ingnieur-dveloppement-logiciel-temps-rel-embarqu-FH_R0331580-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Limours/Ingnieur-Dveloppement-Logiciel-Temps-Rel-Embarqu-FH_R0334105-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Thales was posted on 2026-06-21.
+This embedded / firmware engineer position at Thales was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

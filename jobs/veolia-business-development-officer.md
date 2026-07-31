@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Fanling, North District, Hong Kong |
-| Category | Account Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130155446-business-development-officer) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139534529-business-development-officer) |
 
 ## About This Role
 
-This account manager position at Veolia was posted on 2026-06-04.
+This sales development (sdr / bdr) position at Veolia was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

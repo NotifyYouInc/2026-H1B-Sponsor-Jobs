@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kuala-Lumpur/Senior-Manager---Assurance--PwC-Acceleration-Center-Kuala-Lumpur-_723876WD-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kuala-Lumpur/Senior-Manager---Assurance--PwC-Acceleration-Center-Kuala-Lumpur-_747313WD-1) |
 
 ## About This Role
 
-This financial advisory & consulting position at PwC was posted on 2026-07-13.
+This financial advisory & consulting position at PwC was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

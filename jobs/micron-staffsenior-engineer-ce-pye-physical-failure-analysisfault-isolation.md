@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Staff-Senior-Engineer-CE-PYE--Physical-Failure-Analysis-Fault-Isolation-_JR96433) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Staff-Senior-Engineer-CE-PYE--Physical-Failure-Analysis-Fault-Isolation-_JR79795) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Micron was posted on 2026-04-28.
+This semiconductor / chip design position at Micron was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

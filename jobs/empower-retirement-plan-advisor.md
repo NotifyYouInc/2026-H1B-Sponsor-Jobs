@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fresno, California, United States |
-| Category | Account Executive |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/CA-Fresno---Remote/Retirement-Plan-Advisor_R0057422) |
+| Location | 2 locations |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/UT-Salt-Lake-City---Remote/Retirement-Plan-Advisor_R0059803) |
 
 ## About This Role
 
-This account executive position at Empower was posted on 2026-03-17.
+This wealth management / private banking position at Empower was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

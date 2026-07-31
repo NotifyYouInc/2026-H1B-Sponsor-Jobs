@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Peterborough, England, United Kingdom |
+| Location | Switzerland |
 | Category | PR & External Communications |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peterborough-United-Kingdom/Business---Trade-Media-Relations-Manager---EAME_R0000382080) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Geneva-6-Geneva/Business---Trade-Media-Relations-Manager---EAME_R0000384169) |
 
 ## About This Role
 
-This pr & external communications position at Caterpillar was posted on 2026-07-22.
+This pr & external communications position at Caterpillar was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Account Executive - LinkedIn Talent Solutions at LinkedIn
+#  Account Executive  - LinkedIn Talent Solutions at LinkedIn
 
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Account Executive |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000119526677-account-executive-linkedin-talent-solutions) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000139534344-account-executive-linkedin-talent-solutions) |
 
 ## About This Role
 
-This account executive position at LinkedIn was posted on 2026-04-09.
+This account executive position at LinkedIn was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

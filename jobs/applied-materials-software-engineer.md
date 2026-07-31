@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Software-Engineer_R2620588) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HsinchuTWN/Software-Engineer_R2624474) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-06-24.
+This software engineer position at Applied Materials was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

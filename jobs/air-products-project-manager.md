@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Tainan, Taiwan, Taiwan |
 | Category | Project Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Seoul-Seoul-South-Korea/Project-Manager_JR-2026-20852) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Tainan-Tainan-City/Project-Manager_JR-2026-21441) |
 
 ## About This Role
 
-This project manager position at Air Products was posted on 2026-06-22.
+This project manager position at Air Products was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

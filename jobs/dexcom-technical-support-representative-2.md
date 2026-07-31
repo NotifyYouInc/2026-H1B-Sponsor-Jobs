@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
-| Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Vilnius-Lithuania/Technical-Support-Representative-2_JR116336) |
+| Location | San Diego, California, United States |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Technical-Support-Representative-2_JR120134) |
 
 ## About This Role
 
-This customer success position at Dexcom was posted on 2026-02-09.
+This technical support engineer position at Dexcom was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

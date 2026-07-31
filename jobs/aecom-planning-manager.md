@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Project Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000131063089-planning-manager) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000139536825-planning-manager) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-06-09.
+This project manager position at AECOM was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

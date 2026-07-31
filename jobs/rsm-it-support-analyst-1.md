@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Customer Success |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Hyderabad/IT-Support-Analyst-1_JR118715) |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Hyderabad/IT-Support-Analyst-1_JR120359) |
 
 ## About This Role
 
-This customer success position at RSM was posted on 2026-03-19.
+This it & systems administration position at RSM was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Business Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133860022-senior-program-analyst-it) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000139537743-senior-program-analyst-it) |
 
 ## About This Role
 
-This business analyst position at WNS was posted on 2026-06-24.
+This software engineer position at WNS was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

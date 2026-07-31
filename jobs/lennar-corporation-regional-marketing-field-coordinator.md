@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rochester, New York, United States |
+| Location | 2 locations |
 | Category | Field & Event Marketing |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Rochester-MN-Job-Posting-Location/Regional-Marketing-Field-Coordinator_R26_0000003187) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Morrisville-NC-Job-Posting-Location/Regional-Marketing-Field-Coordinator_R26_0000002298) |
 
 ## About This Role
 
-This field & event marketing position at Lennar Corporation was posted on 2026-07-17.
+This field & event marketing position at Lennar Corporation was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

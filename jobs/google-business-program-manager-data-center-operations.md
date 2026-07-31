@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Richmond, Virginia, United States |
 | Category | Program Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUW2DYCo2VLfJRsfbpNh91V13qh98OZE0KGuoRITpPpXEjsACxwdTEPSWJq8nRMlHIo3qVUhUkWNWVDMZPfhgkUauoBRuk3cAuQk-WCwnLp0s2HUib9dg2hcwJ62EA%3D%3D_V2&loc=IN&title=Business+Program+Manager) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdYWEHGohzqmtKqb74FGw6UUJd41jiHpGBYPvxiZOXxwEjsA1Ny_i3HSOO0QFQb_gT18XxSDYKzt7QrgXH0opMESmzZDjgvb4oIPBnKde_S_db4x1DDmzP6vPVaHRw%3D%3D_V2&loc=US&title=Business+Program+Manager) |
 
 ## About This Role
 
-This program manager position at Google was posted on 2026-06-11.
+This program manager position at Google was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

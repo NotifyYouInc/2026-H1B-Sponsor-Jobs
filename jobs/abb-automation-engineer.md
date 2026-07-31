@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Faridabad, Haryana, India |
-| Category | Industrial Automation |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Faridabad-Haryana-India/Automation-Engineer_JR00036109) |
+| Location | Košice, Košice Region, Slovakia |
+| Category | DevOps Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Kosice-Kosicky-kraj-Slovakia/Automation-Engineer_JR00041461-1) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-07-03.
+This devops engineer position at ABB was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

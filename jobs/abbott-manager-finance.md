@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---Mumbai/Manager-Finance_31149047) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---Mumbai/Manager-Finance_31156770-1) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-04-30.
+This fp&a / strategic finance position at Abbott was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Busan, Busan, South Korea |
+| Location | Scoresby, Victoria, Australia |
 | Category | Project Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Gangseo-gu-Busan-Korea-Republic-of/Project-Manager_WD30265043) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Scoresby-Caribbean-Australia/Project-Manager_WD30274600) |
 
 ## About This Role
 
-This project manager position at Johnson Controls was posted on 2026-03-27.
+This project manager position at Johnson Controls was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Banking---Business-Analytics-Int-Analyst---Officer_26968016) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Banking---Business-Analytics-Int-Analyst---Officer_26979316) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-06-01.
+This business analyst position at Citigroup was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

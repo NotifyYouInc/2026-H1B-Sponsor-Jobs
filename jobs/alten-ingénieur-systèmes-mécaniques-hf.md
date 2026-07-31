@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138270379-ingenieur-systemes-mecaniques-hf) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139529708-ingenieur-systemes-mecaniques-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-17.
+This electrical / hardware engineer position at ALTEN was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Stuttgart-Baden-Wrttemberg-Germany/Werkstudent-HR-Payroll--m-w-d-_R1013051-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Stuttgart-Baden-Wrttemberg-Germany/Werkstudent-HR-Payroll--m-w-d-_R1012904-1) |
 
 ## About This Role
 
-This accounting position at Hitachi was posted on 2026-07-07.
+This accounting position at Hitachi was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

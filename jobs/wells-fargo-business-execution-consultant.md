@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Operations |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-537050-1) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-557079-1) |
 
 ## About This Role
 
-This operations position at Wells Fargo was posted on 2026-04-27.
+This compliance & risk management position at Wells Fargo was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
