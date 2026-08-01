@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Virginia Beach, Virginia, United States |
 | Category | Technical Writer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Virginia-Beach/Technical-Writer-III_RQ220233-2) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Virginia-Beach/Technical-Writer-III_RQ224744-1) |
 
 ## About This Role
 
-This technical writer position at General Dynamics Information Technology was posted on 2026-05-17.
+This technical writer position at General Dynamics Information Technology was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Carson City, Nevada, United States |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CARSON-CITY-NV/Associate-Financial-Advisor_R-537855) |
+| Location | Sequim, Washington, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SEQUIM-WA/Associate-Financial-Advisor_R-562342) |
 
 ## About This Role
 
-This financial advisory & consulting position at Wells Fargo was posted on 2026-04-17.
+This wealth management / private banking position at Wells Fargo was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vialto](https://scoutify.ai/companies/vialto?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Gurgaon/Global-Mobility-Tax---Associate_REQ907430) |
+| Location | Stamford, Connecticut, United States |
+| Category | Human Resources / People Ops |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Stamford/Global-Mobility-Tax---Associate_REQ908551) |
 
 ## About This Role
 
-This financial advisory & consulting position at Vialto was posted on 2026-04-06.
+This human resources / people ops position at Vialto was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

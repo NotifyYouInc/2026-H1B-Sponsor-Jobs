@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MultiCare Health System](https://scoutify.ai/companies/multicare-health-system?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Puyallup, Washington, United States |
+| Location | Auburn, Washington, United States |
 | Category | Program Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://multicare.wd1.myworkdayjobs.com/multicare/job/Puyallup-Washington/Quality-Program-Manager_JR73726) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://multicare.wd1.myworkdayjobs.com/multicare/job/Auburn-Washington/Quality-Program-Manager_JR80620) |
 
 ## About This Role
 
-This program manager position at MultiCare Health System was posted on 2026-04-03.
+This program manager position at MultiCare Health System was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

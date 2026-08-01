@@ -1,0 +1,22 @@
+# Manager, FP&A - Corporate Functions at Invesco
+
+| Field | Details |
+|-------|---------|
+| Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Atlanta, Georgia, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Manager--FP-A---Corporate-Functions_R-14675) |
+
+## About This Role
+
+This fp&a / strategic finance position at Invesco was posted on 2026-07-24.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

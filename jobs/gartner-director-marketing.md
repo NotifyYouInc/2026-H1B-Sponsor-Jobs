@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
-| Category | Marketing |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Director--Marketing_108943) |
+| Location | Arlington, Texas, United States |
+| Category | Product Marketing |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Arlington-VA/Director--Marketing_112187) |
 
 ## About This Role
 
-This marketing position at Gartner was posted on 2026-03-21.
+This product marketing position at Gartner was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

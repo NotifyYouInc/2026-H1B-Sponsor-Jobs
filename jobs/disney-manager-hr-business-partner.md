@@ -1,16 +1,16 @@
-# Manager, HR Business Partner at Disney
+# Manager - HR Business Partner at Disney
 
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Burbank, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Mumbai-India/Manager--HR-Business-Partner_10147194-1) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Manager---HR-Business-Partner_10156348) |
 
 ## About This Role
 
-This human resources / people ops position at Disney was posted on 2026-04-22.
+This human resources / people ops position at Disney was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

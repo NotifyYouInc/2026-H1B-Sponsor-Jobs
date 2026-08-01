@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Puteaux, Île-de-France, France |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Tokyo/Senior-Consultant_R-057683) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Puteaux/Senior-Consultant_R-058130-2) |
 
 ## About This Role
 
-This strategy / management consulting position at Red Hat was posted on 2026-07-24.
+This strategy / management consulting position at Red Hat was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

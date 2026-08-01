@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014188656-financial-associate-ii) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014282376-financial-associate-ii) |
 
 ## About This Role
 
-This accounting position at Harvard University was posted on 2026-07-21.
+This accounting position at Harvard University was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

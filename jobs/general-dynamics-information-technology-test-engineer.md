@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Albany, New York, United States |
 | Category | QA Engineer |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AL-Huntsville/Test-Engineer_RQ223918-2) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NY-Albany/Test-Engineer_RQ224767-1) |
 
 ## About This Role
 
-This qa engineer position at General Dynamics Information Technology was posted on 2026-07-11.
+This qa engineer position at General Dynamics Information Technology was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lynnfield, Massachusetts, United States |
+| Location | Hawthorne, California, United States |
 | Category | Sales Leadership |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Lynnfield-Massachusetts-United-States-of-America/Security-Sales-Manager_WD30271381) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Hawthorne-New-York-United-States-of-America/Security-Sales-Manager_WD30275406) |
 
 ## About This Role
 
-This sales leadership position at Johnson Controls was posted on 2026-06-27.
+This sales leadership position at Johnson Controls was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
