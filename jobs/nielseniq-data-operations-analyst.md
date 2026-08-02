@@ -1,16 +1,16 @@
-# Data Operations Analyst at NielsenIQ
+# Data Operations Analyst  at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Riga, Riga, Latvia |
+| Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000134757254-data-operations-analyst) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139820739-data-operations-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-06-29.
+This data analyst position at NielsenIQ was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

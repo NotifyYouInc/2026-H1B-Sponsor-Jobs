@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
-| Category | Operations |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449085/central-operations-support-executive-in-external-fulfillment) |
+| Location | India |
+| Category | Strategy & Operations |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484129/central-operations-support-executive-in-external-fulfillment) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-06-17.
+This strategy & operations position at Amazon was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

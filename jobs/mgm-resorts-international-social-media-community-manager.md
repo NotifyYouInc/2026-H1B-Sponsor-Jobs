@@ -5,12 +5,12 @@
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Social Media / Community |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Social-Media---Community-Manager_276709) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Office---US-Las-Vegas-NV-3260-Sammy-Davis-Jr/Social-Media---Community-Manager_276752) |
 
 ## About This Role
 
-This social media / community position at MGM Resorts International was posted on 2026-06-26.
+This social media / community position at MGM Resorts International was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115361057-sap-authorization-and-security-specialist) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139823759-sap-authorization-and-security-specialist) |
 
 ## About This Role
 
-This security engineer position at Robert Bosch was posted on 2026-03-18.
+This security engineer position at Robert Bosch was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

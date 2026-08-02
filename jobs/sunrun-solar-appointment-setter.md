@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Schaumburg, Illinois, United States |
+| Location | Mission Viejo, California, United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/IL-Schaumburg/Solar-Appointment-Setter_R70918) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Mission-Viejo/Solar-Appointment-Setter_R71424) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Sunrun was posted on 2026-07-17.
+This sales development (sdr / bdr) position at Sunrun was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

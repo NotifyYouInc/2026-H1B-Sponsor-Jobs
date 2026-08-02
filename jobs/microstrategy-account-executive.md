@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Account Executive |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000138463629-account-executive) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000139831159-account-executive) |
 
 ## About This Role
 
-This account executive position at MicroStrategy was posted on 2026-07-18.
+This account executive position at MicroStrategy was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Florida, US |
-| Category | Corporate Finance |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/Clearwater-Beach-Marriott-Resort-on-Sand-Key/Accounting-Clerk_R0061361-1) |
+| Location | San Antonio, Texas, United States |
+| Category | Accounting |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/San-Antonio-Marriott-Northwest/Accounting-Clerk_R0065085) |
 
 ## About This Role
 
-This corporate finance position at Benchmark was posted on 2026-05-01.
+This accounting position at Benchmark was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

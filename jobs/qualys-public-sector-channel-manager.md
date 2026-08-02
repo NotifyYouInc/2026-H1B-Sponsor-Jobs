@@ -1,0 +1,22 @@
+# Public Sector Channel Manager at Qualys
+
+| Field | Details |
+|-------|---------|
+| Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Washington, District of Columbia, United States |
+| Category | Channel / Partner Sales |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Washington-DC/Public-Sector-Channel-Manager_R0004903) |
+
+## About This Role
+
+This channel / partner sales position at Qualys was posted on 2026-07-25.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

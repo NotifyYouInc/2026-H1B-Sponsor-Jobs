@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cedar Rapids, Iowa, United States |
+| Location | Marlborough, Massachusetts, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Software-Engineer--Onsite-_01852422) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Senior-Software-Engineer--Onsite-_01860619) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-06-17.
+This software engineer position at RTX was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

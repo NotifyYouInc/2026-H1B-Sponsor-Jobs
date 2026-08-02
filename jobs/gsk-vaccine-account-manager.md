@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuwait |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Account Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Field-Worker---KWT/Vaccine-Account-Manager_435164) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Saudi-Arabia---Riyadh/Vaccine-Account-Manager_445472) |
 
 ## About This Role
 
-This account manager position at GSK was posted on 2026-04-27.
+This account manager position at GSK was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

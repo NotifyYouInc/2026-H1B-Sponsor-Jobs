@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bellevue, Washington, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Kalyani-Vista-II/R-D-Software-Engineer_R025067) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-B/R-D-Software-Engineer_R026351) |
 
 ## About This Role
 
-This software engineer position at Broadcom was posted on 2026-02-11.
+This software engineer position at Broadcom was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
