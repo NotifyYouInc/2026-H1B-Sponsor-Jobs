@@ -1,16 +1,16 @@
-# IN_Senior Associate_SAP EWM_SAP_Advisory_Mumbai at PwC
+# IN_Senior Associate_ SAP EWM_SAP_Advisory_Mumbai at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Airoli, Maharashtra, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Airoli/IN-Senior-Associate-SAP-EWM-SAP-Advisory-Mumbai_734759WD-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate--SAP-EWM-SAP-Advisory-Mumbai_747593WD-2) |
 
 ## About This Role
 
-This technology / it consulting position at PwC was posted on 2026-06-08.
+This technology / it consulting position at PwC was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

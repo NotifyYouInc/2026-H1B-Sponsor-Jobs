@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kowloon, Hong Kong |
-| Category | Customer Success |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Kowloon-Kowloon-China-Hong-Kong-SAR/Assistant-Service-Engineer_WD30265790) |
+| Location | Singapore, Singapore |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Assistant-Service-Engineer_WD30275114) |
 
 ## About This Role
 
-This customer success position at Johnson Controls was posted on 2026-04-02.
+This electrical / hardware engineer position at Johnson Controls was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

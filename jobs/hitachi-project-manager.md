@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dammam, Eastern Province, Saudi Arabia |
+| Location | Västerås, Västmanland, Sweden |
 | Category | Project Manager |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dammam-Eastern-Region-Saudi-Arabia/Project-Manager_R0123301) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaesteras-Vastmanland-County-Sweden/Project-Manager_R0125156) |
 
 ## About This Role
 
-This project manager position at Hitachi was posted on 2026-06-14.
+This project manager position at Hitachi was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

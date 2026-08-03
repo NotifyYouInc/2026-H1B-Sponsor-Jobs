@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Elon, North Carolina, United States |
+| Location | 2 locations |
 | Category | Project Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Elon-NC/Project-Administrator---Corporate-Coding-Resources---HYBRID_2614435) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Elon-NC/Project-Administrator---Corporate-Coding-Resources---HYBRID_2625979) |
 
 ## About This Role
 
-This project manager position at Labcorp was posted on 2026-05-22.
+This project manager position at Labcorp was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

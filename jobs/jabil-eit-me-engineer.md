@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wuxi, Jiangsu, China |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Wuxi/EIT-ME-Engineer_J2444493) |
+| Location | Malaysia |
+| Category | Industrial Automation |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/EIT-ME-Engineer_J2459088) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Jabil was posted on 2026-03-26.
+This industrial automation position at Jabil was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

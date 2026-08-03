@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Location | Richmond, Victoria, Australia |
 | Category | Project Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Abu-Dhabi-United-Arab-Emirates/Project-Manager_R2126639) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Richmond-New-South-Wales-Australia/Project-Manager_R2127066) |
 
 ## About This Role
 
-This project manager position at KBR was posted on 2026-07-15.
+This project manager position at KBR was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

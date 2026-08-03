@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Business Development |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Local-Office-Singapore-Singapore/Digital-Sales-Representative_R013283) |
+| Location | South Korea |
+| Category | Account Executive |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-South-Korea/Digital-Sales-Representative_R013541) |
 
 ## About This Role
 
-This business development position at SailPoint Technologies was posted on 2026-04-20.
+This account executive position at SailPoint Technologies was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

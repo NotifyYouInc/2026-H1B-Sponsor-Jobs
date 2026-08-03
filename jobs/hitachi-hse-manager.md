@@ -1,16 +1,16 @@
-# HSE MANAGER at Hitachi
+# HSE Manager at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Ludvika, Dalarna, Sweden |
 | Category | Compliance & Risk Management |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maynila-Philippines/HSE-MANAGER_R1013013-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/HSE-Manager_R0135119) |
 
 ## About This Role
 
-This compliance & risk management position at Hitachi was posted on 2026-07-07.
+This compliance & risk management position at Hitachi was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

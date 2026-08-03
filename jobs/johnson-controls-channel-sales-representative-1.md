@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Account Executive |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Beijing-Beijing-China/Channel-Sales-Representative-1_WD30270487-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Shanghai-Shanghai-China/Channel-Sales-Representative-1_WD30275015-2) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-05-27.
+This account executive position at Johnson Controls was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

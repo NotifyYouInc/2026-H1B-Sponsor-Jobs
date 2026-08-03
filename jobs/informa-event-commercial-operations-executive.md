@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
-| Category | Marketing |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000134424555-event-commercial-operations-executive) |
+| Location | 2 locations |
+| Category | Field & Event Marketing |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000139943486-event-commercial-operations-executive) |
 
 ## About This Role
 
-This marketing position at Informa was posted on 2026-06-26.
+This field & event marketing position at Informa was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

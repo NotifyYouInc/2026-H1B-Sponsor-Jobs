@@ -1,16 +1,16 @@
-# Recruiter at WISE
+# Recruiter  at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000120599287-recruiter) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139969734-recruiter) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at WISE was posted on 2026-04-14.
+This talent acquisition / recruiting position at WISE was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

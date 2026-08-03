@@ -5,12 +5,12 @@
 | Company | [Viavi Solutions](https://scoutify.ai/companies/viavisolutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Engineering Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chennai-IND/Software-Development-Manager_260004907) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chennai-IND/Software-Development-Manager_260004923) |
 
 ## About This Role
 
-This engineering manager position at Viavi Solutions was posted on 2026-07-16.
+This engineering manager position at Viavi Solutions was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

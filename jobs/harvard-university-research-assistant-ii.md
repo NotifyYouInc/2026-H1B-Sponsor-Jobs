@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Bioinformatics / Computational Biology |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014098406-research-assistant-ii) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014288826-research-assistant-ii) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Harvard University was posted on 2026-07-15.
+This bioinformatics / computational biology position at Harvard University was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

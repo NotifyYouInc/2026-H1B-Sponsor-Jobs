@@ -1,16 +1,16 @@
-# Payment Experience Associate I ( Contact Centre)  at Flywire
+# Payment Experience Associate I (contact centre)  at Flywire
 
 | Field | Details |
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000126635521-payment-experience-associate-i-contact-centre) |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000139970240-payment-experience-associate-i-contact-centre) |
 
 ## About This Role
 
-This customer success position at Flywire was posted on 2026-05-15.
+This technical support engineer position at Flywire was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

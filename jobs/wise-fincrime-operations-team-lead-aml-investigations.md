@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Financial Crimes & AML |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000128859218-fincrime-operations-team-lead-aml-investigations) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139943538-fincrime-operations-team-lead-aml-investigations) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-05-28.
+This financial crimes & aml position at WISE was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

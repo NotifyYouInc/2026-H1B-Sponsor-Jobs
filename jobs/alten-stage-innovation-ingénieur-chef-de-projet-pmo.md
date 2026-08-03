@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sèvres, Île-de-France, France |
 | Category | Project Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138053058-stage-innovation-ingenieur-chef-de-projet-pmo) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139958948-stage-innovation-ingenieur-chef-de-projet-pmo) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-07-16.
+This project manager position at ALTEN was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

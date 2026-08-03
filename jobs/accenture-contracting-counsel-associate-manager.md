@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Mandaluyong, National Capital Region, Philippines |
 | Category | Legal |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Beijing/Contracting-Counsel-Associate-Manager_R00343580) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mandaluyong/Contracting-Counsel-Associate-Manager_R00341892) |
 
 ## About This Role
 
-This legal position at Accenture was posted on 2026-07-22.
+This legal position at Accenture was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

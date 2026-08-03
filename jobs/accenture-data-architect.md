@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Data Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Architect_ATCI-5179408-S1906151-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Database Administration |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Architect_ATCI-5347921-S1960878) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-07-22.
+This database administration position at Accenture was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

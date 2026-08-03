@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Robotics Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138584463-stage-innovation-ingenieur-robotique-developpement) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139958691-stage-innovation-ingenieur-robotique-developpement) |
 
 ## About This Role
 
-This robotics engineer position at ALTEN was posted on 2026-07-20.
+This robotics engineer position at ALTEN was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

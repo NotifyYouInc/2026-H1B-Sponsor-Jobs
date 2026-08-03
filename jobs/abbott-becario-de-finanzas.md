@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Corporate Finance |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Mexico---Cuidad-de-Mexico---Cuidad-de-Mexico/Becario-de-Finanzas_31146191) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Mexico---Cuidad-de-Mexico---Cuidad-de-Mexico/Becario-de-Finanzas_31157366) |
 
 ## About This Role
 
-This corporate finance position at Abbott was posted on 2026-03-30.
+This fp&a / strategic finance position at Abbott was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

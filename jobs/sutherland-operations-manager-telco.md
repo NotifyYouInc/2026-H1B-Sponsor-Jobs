@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000108690830-operations-manager-telco) |
+| Category | Program Manager |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000139967627-operations-manager-telco) |
 
 ## About This Role
 
-This operations position at Sutherland was posted on 2026-02-11.
+This program manager position at Sutherland was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

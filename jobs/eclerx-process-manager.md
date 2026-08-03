@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chandigarh, Chandigarh, India |
-| Category | Program Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84197) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#83861) |
 
 ## About This Role
 
-This program manager position at eClerx was posted on 2026-07-15.
+This software engineer position at eClerx was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

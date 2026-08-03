@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5207151-S1912459-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/AI---ML-Engineer_ATCI-5626207-S2030235-1) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-07-22.
+This machine learning engineer position at Accenture was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

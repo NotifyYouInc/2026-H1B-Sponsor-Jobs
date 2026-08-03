@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Malaysia |
+| Location | Guangzhou, Guangdong, China |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Planner-II_J2452396) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guangzhou-Juncheng/Planner-II_J2457461) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-06-25.
+This business analyst position at Jabil was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
