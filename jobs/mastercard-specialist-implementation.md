@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist--Implementation_R-273240) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Specialist--Implementation_R-286423) |
 
 ## About This Role
 
-This customer success position at Mastercard was posted on 2026-03-18.
+This customer success position at Mastercard was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Lithuania---Vilnius/DevOps-Engineer_R0025120) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Lithuania---Vilnius/DevOps-Engineer_R0026588-1) |
 
 ## About This Role
 
-This software engineer position at Nasdaq was posted on 2026-02-05.
+This devops engineer position at Nasdaq was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

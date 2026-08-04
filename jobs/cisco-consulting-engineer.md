@@ -1,16 +1,16 @@
-# Consulting engineer at Cisco
+# Consulting Engineer at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-engineer_2018088) |
+| Category | Deployment Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-Engineer_2021149) |
 
 ## About This Role
 
-This technology / it consulting position at Cisco was posted on 2026-06-26.
+This deployment engineer position at Cisco was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

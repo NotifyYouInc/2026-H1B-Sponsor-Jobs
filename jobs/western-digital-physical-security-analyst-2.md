@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuching, Sarawak, Malaysia |
-| Category | Security Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000129923849-physical-security-analyst-2) |
+| Location | Petaling Jaya, Selangor, Malaysia |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000140168339-physical-security-analyst-2) |
 
 ## About This Role
 
-This security engineer position at Western Digital was posted on 2026-06-03.
+This cybersecurity engineer position at Western Digital was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

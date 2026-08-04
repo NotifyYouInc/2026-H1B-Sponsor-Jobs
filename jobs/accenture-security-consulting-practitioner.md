@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Barcelona, Catalonia, Spain |
-| Category | Security Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Barcelona/Security-Consulting-Practitioner_14434045) |
+| Location | Málaga, Andalusia, Spain |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-ID6---South-Building/Security-Consulting-Practitioner_14602142) |
 
 ## About This Role
 
-This security engineer position at Accenture was posted on 2026-05-29.
+This technology / it consulting position at Accenture was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

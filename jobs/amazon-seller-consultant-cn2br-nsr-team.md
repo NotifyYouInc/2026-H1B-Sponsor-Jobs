@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xiamen, Fujian, China |
-| Category | Account Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454622/seller-consultant-cn2br-nsr-team) |
+| Location | China |
+| Category | Sales |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10485741/seller-consultant-cn2br-nsr-team) |
 
 ## About This Role
 
-This account manager position at Amazon was posted on 2026-06-22.
+This sales position at Amazon was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

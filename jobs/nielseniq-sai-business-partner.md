@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
-| Category | Account Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133000319-sai-business-partner) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Sales |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000140173849-sai-business-partner) |
 
 ## About This Role
 
-This account manager position at NielsenIQ was posted on 2026-06-19.
+This sales position at NielsenIQ was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

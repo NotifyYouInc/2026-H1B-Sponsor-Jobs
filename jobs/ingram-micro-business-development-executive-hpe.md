@@ -1,16 +1,16 @@
-# Business Development Executive - HPE at Ingram Micro
+# Business Development Executive HPE at Ingram Micro
 
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
-| Category | Account Executive |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/stanbul-Trkiye/Business-Development-Executive---HPE_R-115981) |
+| Location | Czechia |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Krlov-Czechia/Business-Development-Executive-HPE_R-115991) |
 
 ## About This Role
 
-This account executive position at Ingram Micro was posted on 2026-06-16.
+This sales development (sdr / bdr) position at Ingram Micro was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

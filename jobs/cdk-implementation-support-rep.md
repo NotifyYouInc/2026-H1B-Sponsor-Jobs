@@ -5,12 +5,12 @@
 | Company | [CDK](https://scoutify.ai/companies/cdk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://cdk.wd1.myworkdayjobs.com/cdk/job/Hyderabad-TG-IND/Implementation-Support-Rep_JR8847) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cdk.wd1.myworkdayjobs.com/cdk/job/Hyderabad-TG-IND/Implementation-Support-Rep_JR9172) |
 
 ## About This Role
 
-This customer success position at CDK was posted on 2026-04-09.
+This customer success position at CDK was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

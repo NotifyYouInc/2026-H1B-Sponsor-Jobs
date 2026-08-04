@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ludvika, Dalarna, Sweden |
-| Category | Engineering Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Project-Technical-Engineering-Experienced-Professional_R0127648-1) |
+| Location | Madrid, Madrid, Spain |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Madrid-Spain/Project-Technical-Engineering-Experienced-Professional_R0130734-1) |
 
 ## About This Role
 
-This engineering manager position at Hitachi was posted on 2026-05-21.
+This electrical / hardware engineer position at Hitachi was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Gurugram, Haryana, India |
 | Category | Account Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Beijing-Beijing-China/Account-Manager_1205259) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Gurgaon-Haryana-India/Account-Manager_1208808) |
 
 ## About This Role
 
-This account manager position at Hewlett Packard Enterprise was posted on 2026-04-22.
+This account manager position at Hewlett Packard Enterprise was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

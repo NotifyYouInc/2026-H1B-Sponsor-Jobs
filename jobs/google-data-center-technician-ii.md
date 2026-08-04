@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sterling, Virginia, United States |
+| Location | 3 locations |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckShOxvrRRAMbxbmx-zuYA6ex6WO9yS3VGqmjg2NppFrHEjsA1Ny_ix2QYc0uTUKA9gfM2AUODSEpx6s6FWrSgtUuo3Uf7w_kms1_YTK2iSGhb4_0Bjn3yyn6nbY8ew%3D%3D_V2&loc=US&title=Data+Center+Technician+II) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ3mSjMF5E-2k_xKxj3r5qouPRAD4yHrhULNwEUNvv6oEjsA1Ny_ixQmthavJBHoDPN2x56UMkvSCz-j0FpkbidBZU0HMSQw0gsSMbHNeqY6-zM5MjnKHKI20s7nTg%3D%3D_V2&loc=US&title=Data+Center+Technician+II) |
 
 ## About This Role
 
-This it & systems administration position at Google was posted on 2026-07-13.
+This it & systems administration position at Google was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

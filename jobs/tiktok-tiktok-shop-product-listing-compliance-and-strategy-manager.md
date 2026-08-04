@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Strategy & Operations |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7665950214164269365/detail) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Compliance & Risk Management |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7667052083008178437/detail) |
 
 ## About This Role
 
-This strategy & operations position at TikTok was posted on 2026-07-24.
+This compliance & risk management position at TikTok was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

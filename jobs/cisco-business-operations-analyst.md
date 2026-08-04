@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dalian, Liaoning, China |
-| Category | Strategy & Operations |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Dalian-Liaoning-China/Business-Operations-Analyst_2007575-1) |
+| Location | Minato, Wakayama, Japan |
+| Category | Business Analyst |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Business-Operations-Analyst_2019993) |
 
 ## About This Role
 
-This strategy & operations position at Cisco was posted on 2026-02-20.
+This business analyst position at Cisco was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

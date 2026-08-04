@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_Cen_Katowice-ul-Chorzowska-50/Senior-IT-Business-Analyst_PB_KK_0257431) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_Cen_Warszawa-ul-Puawska-2/Senior-IT-Business-Analyst_PB_PD_0256606) |
 
 ## About This Role
 
-This business analyst position at ING was posted on 2026-07-20.
+This business analyst position at ING was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

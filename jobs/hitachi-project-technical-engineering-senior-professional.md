@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Madrid, Madrid, Spain |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Technical-Engineering-Senior-Professional_R0092320) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Madrid-Spain/Project-Technical-Engineering-Senior-Professional_R0130735-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-03-27.
+This electrical / hardware engineer position at Hitachi was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

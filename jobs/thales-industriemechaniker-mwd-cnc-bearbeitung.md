@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Ulm, Baden-Wurttemberg, Germany |
 | Category | Industrial Automation |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Ulm/Industriemechaniker--m-w-d--CNC-Bearbeitung_R0325283) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Ulm/Industriemechaniker--m-w-d--CNC-Bearbeitung_R0335865-1) |
 
 ## About This Role
 
-This industrial automation position at Thales was posted on 2026-04-30.
+This industrial automation position at Thales was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

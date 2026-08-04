@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Industrial Automation |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Intern_WD30260015-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Intern_WD30274972-1) |
 
 ## About This Role
 
-This industrial automation position at Johnson Controls was posted on 2026-02-26.
+This industrial automation position at Johnson Controls was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

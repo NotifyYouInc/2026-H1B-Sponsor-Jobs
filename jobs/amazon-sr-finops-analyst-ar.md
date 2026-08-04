@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10433987/sr-finops-analyst-ar) |
+| Location | Hyderabad, Telangana, India |
+| Category | Accounting |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10485734/sr-finops-analyst-ar) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-05-29.
+This accounting position at Amazon was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

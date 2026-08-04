@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Data Scientist |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000137053214-final-year-internship-data-scientist-ai-consultant) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000140167280-final-year-internship-data-scientist-ai-consultant) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-07-10.
+This machine learning engineer position at SIA was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

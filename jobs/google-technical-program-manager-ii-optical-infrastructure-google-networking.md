@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Thornton, Colorado, United States |
 | Category | Program Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckcg-n-8rgZti7OBjimv88cS8ktumJNqEuE8vRgvUAy4gEjsA1Ny_ixiXgWxeQ1t2jzLjQtyJEsEOVj7qx_peHb4HypS-3VVgWb3QhSKdXN5wFgSxfziXVEQiGYauCQ%3D%3D_V2&loc=US&title=Technical+Program+Manager+II) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTedv0NKlSd6efF6sw17qJrrOw8Wg3ZhDilsL9U50R2OEjsA1Ny_i0hqC4JCWhzKiDkvXWy7Fo1NcnbnYTaCBK67BAUQLLkSJNSGCF6-qfCtwPSmnol-P4TFubhCXg%3D%3D_V2&loc=US&title=Technical+Program+Manager+II) |
 
 ## About This Role
 
-This program manager position at Google was posted on 2026-06-17.
+This program manager position at Google was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

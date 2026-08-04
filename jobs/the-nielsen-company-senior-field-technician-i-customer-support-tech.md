@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Customer Success |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013758756-senior-field-technician-i-customer-support-tech) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014309696-senior-field-technician-i-customer-support-tech) |
 
 ## About This Role
 
-This customer success position at The Nielsen Company was posted on 2026-06-24.
+This customer success position at The Nielsen Company was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

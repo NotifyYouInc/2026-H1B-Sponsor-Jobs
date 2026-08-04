@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Account Executive |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114753) |
+| Location | Singapore, Singapore |
+| Category | Sales |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=127214) |
 
 ## About This Role
 
-This account executive position at IBM was posted on 2026-05-15.
+This sales position at IBM was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

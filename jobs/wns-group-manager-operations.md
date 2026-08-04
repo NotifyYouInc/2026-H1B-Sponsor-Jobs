@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000124562099-group-manager-operations) |
+| Location | Visakhapatnam, Andhra Pradesh, India |
+| Category | Program Manager |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000140169328-group-manager-operations) |
 
 ## About This Role
 
-This compliance & risk management position at WNS was posted on 2026-05-05.
+This program manager position at WNS was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

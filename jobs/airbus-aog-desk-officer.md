@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Putrajaya, Putrajaya, Malaysia |
 | Category | Customer Success |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Putrajaya/AOG-Desk-Officer_JR10412725) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Putrajaya/AOG-Desk-Officer_JR10425616) |
 
 ## About This Role
 
-This customer success position at Airbus was posted on 2026-05-18.
+This customer success position at Airbus was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

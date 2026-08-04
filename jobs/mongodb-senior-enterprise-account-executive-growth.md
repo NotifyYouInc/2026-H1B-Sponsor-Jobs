@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
-| Category | Account Executive |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7698317) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Sales |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8081026) |
 
 ## About This Role
 
-This account executive position at MongoDB was posted on 2026-03-12.
+This sales position at MongoDB was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

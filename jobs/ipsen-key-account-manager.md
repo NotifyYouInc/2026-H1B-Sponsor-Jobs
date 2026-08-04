@@ -5,12 +5,12 @@
 | Company | [Ipsen](https://scoutify.ai/companies/ipsen?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Account Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ipsen.wd103.myworkdayjobs.com/ipsen_careers/job/Tokyo/Key-Account-Manager_R-20058) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://ipsen.wd103.myworkdayjobs.com/ipsen_careers/job/Tokyo/Key-Account-Manager_R-21809) |
 
 ## About This Role
 
-This account manager position at Ipsen was posted on 2026-03-02.
+This account manager position at Ipsen was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

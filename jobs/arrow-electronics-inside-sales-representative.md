@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Casablanca, Casablanca-Settat, Morocco |
-| Category | Account Executive |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/MA-Casablanca-Morocco-Boulevard-Al-Quods/Inside-Sales-Representative_R240354) |
+| Location | Singapore, Singapore |
+| Category | Account Manager |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/SG-Singapore-Tai-Seng/Inside-Sales-Representative_R246377) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-07-22.
+This account manager position at Arrow Electronics was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

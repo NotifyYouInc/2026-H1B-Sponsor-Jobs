@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Trust & Safety |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7666082367443290373/detail) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7665798746255313157/detail) |
 
 ## About This Role
 
-This trust & safety position at TikTok was posted on 2026-07-27.
+This trust & safety position at TikTok was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

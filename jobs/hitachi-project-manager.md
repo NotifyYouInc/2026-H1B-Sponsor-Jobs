@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Västerås, Västmanland, Sweden |
+| Location | Crystal Springs, Mississippi, United States |
 | Category | Project Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaesteras-Vastmanland-County-Sweden/Project-Manager_R0125156) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Crystal-Springs-Mississippi-United-States-of-America/Project-Manager_R0139097) |
 
 ## About This Role
 
-This project manager position at Hitachi was posted on 2026-07-27.
+This project manager position at Hitachi was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

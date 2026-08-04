@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Marketing |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3184587/sbs-assistant-brand-manager-india-consumables) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10485769/sbs-assistant-brand-manager-india-consumables) |
 
 ## About This Role
 
-This marketing position at Amazon was posted on 2026-02-19.
+This marketing position at Amazon was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

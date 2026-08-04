@@ -1,16 +1,16 @@
-# Product Security Architect (d/f/m) at Airbus
+# Product Security Architect  (d/f/m) at Airbus
 
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Manching, Bavaria, Germany |
-| Category | Security Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Product-Security-Architect--d-f-m-_JR10427793) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Product-Security-Architect---d-f-m-_JR10420076-1) |
 
 ## About This Role
 
-This security engineer position at Airbus was posted on 2026-07-14.
+This cybersecurity engineer position at Airbus was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
