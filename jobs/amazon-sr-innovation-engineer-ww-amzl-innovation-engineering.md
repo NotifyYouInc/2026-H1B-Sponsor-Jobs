@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Berlin, State of Berlin, Germany |
-| Category | Robotics Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484384/sr-innovation-engineer-ww-amzl-innovation-engineering) |
+| Location | Clichy, Île-de-France, France |
+| Category | Industrial Automation |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10486977/sr-innovation-engineer-ww-amzl-innovation-engineering) |
 
 ## About This Role
 
-This robotics engineer position at Amazon was posted on 2026-07-27.
+This industrial automation position at Amazon was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

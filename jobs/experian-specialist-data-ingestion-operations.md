@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129106353-specialist-data-ingestion-operations) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140393772-specialist-data-ingestion-operations) |
 
 ## About This Role
 
-This data engineer position at Experian was posted on 2026-05-29.
+This data engineer position at Experian was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

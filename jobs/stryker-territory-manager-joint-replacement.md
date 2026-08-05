@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Perth, Western Australia, Australia |
-| Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Perth-Australia/Territory-Manager---Joint-Replacement_R560707) |
+| Location | Gold Coast, Queensland, Australia |
+| Category | Account Manager |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gold-Coast-Australia/Territory-Manager---Joint-Replacement_R569373) |
 
 ## About This Role
 
-This account executive position at Stryker was posted on 2026-03-04.
+This account manager position at Stryker was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

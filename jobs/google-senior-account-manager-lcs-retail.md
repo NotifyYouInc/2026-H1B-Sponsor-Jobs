@@ -1,16 +1,16 @@
-# Senior Account Manager, LCS Retail at Google
+# Senior Account Manager, LCS, Retail at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | New York City, New York, United States |
 | Category | Account Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZDQfAX6u3AS7kR58CfZtl9IH8IWEczHgLpOJNE-3G0AEjoA1Ny_i40adWVRpYkhV_RwUytnYRTuxTEIUYueOD52v14einyUyNFR6EINHCzoj3a9GzRugsMtUIA-_V2&loc=US&title=Senior+Account+Manager) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckT46x4hQn8npxvZr74po5_-zVI-4wkgurmXJtAJzdRngEjsA1Ny_i2ONbP5L3Ee0zFJQcepdICLdgq9QAm10puuOg0IrXkp2Y0cTCax5s3PeckYW75yD1MlwHXdfOw%3D%3D_V2&loc=US&title=Senior+Account+Manager) |
 
 ## About This Role
 
-This account manager position at Google was posted on 2026-07-13.
+This account manager position at Google was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Milpitas, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/AI-Operations-Engineering-Technical-Leader_2018216-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/AI-Operations-Engineering-Technical-Leader_2020817) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-07-01.
+This machine learning engineer position at Cisco was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | QA Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/Quality-Engineer--Saudi-National-_R182363) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/Quality-Engineer--Saudi-National-_R182954) |
 
 ## About This Role
 
-This qa engineer position at Parsons was posted on 2026-06-24.
+This qa engineer position at Parsons was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

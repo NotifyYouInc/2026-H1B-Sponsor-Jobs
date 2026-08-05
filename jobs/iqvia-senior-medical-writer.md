@@ -1,16 +1,16 @@
-# Senior Medical Writer at IQVIA
+# Senior/ Medical Writer at IQVIA
 
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 8 locations |
+| Location | Centurion, Gauteng, South Africa |
 | Category | Technical Writer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Senior-Medical-Writer_R1554306) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Centurion-South-Africa/Senior--Medical-Writer_R1560507-1) |
 
 ## About This Role
 
-This technical writer position at IQVIA was posted on 2026-07-06.
+This technical writer position at IQVIA was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
 | Category | Project Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000135945930-project-manager-healthcare-construction) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000140414499-project-manager-healthcare-construction) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-07-06.
+This project manager position at AECOM was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

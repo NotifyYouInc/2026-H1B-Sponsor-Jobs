@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kon Tum, Quang Ngai, Vietnam |
-| Category | Brand Marketing |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000139533399-trade-marketing-manager) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Marketing |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000140400437-trade-marketing-manager) |
 
 ## About This Role
 
-This brand marketing position at Syngenta was posted on 2026-07-24.
+This marketing position at Syngenta was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

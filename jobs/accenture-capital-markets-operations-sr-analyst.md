@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Capital-Markets-Operations-Sr-Analyst_AIOC-S01654255) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Capital-Markets-Operations-Sr-Analyst_AIOC-S01657962-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-07-10.
+This treasury & capital markets position at Accenture was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

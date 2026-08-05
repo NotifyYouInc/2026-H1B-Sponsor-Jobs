@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Alberta, CA |
+| Location | Canada |
 | Category | Customer Success |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://careers.airbnb.com/positions/6852954?gh_jid=6852954) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7230257?gh_jid=7230257) |
 
 ## About This Role
 
-This customer success position at Airbnb was posted on 2026-03-06.
+This customer success position at Airbnb was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

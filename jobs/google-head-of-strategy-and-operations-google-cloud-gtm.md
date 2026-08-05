@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Operations |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSgKQmXPn6lxpzzBj1HWUWdE2SYjSOMJlT5obFFhLlLuEjsA1Ny_i_3rqWFC4UxtYRtyNp7tkiQtIHnupBArUBOKlZ383l4DWnAv1FUjPqI3MA_EOfoYDzSawiswDA%3D%3D_V2&loc=GB&title=Head+of+Strategy+and+Operations) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYPLDYwYLLIg_cp8Pb0u8q71E1vIQJEqMPubRasRovp3EjsA1Ny_i2l5-vr2IxLS3j1XkGP2PAEiUcB09Gztu1OzWxofn-PxhYpFJ9UyRDnpvocKzxo7p3tiVsdlrA%3D%3D_V2&loc=GB&title=Head+of+Strategy+and+Operations) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-06-26.
+This operations position at Google was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

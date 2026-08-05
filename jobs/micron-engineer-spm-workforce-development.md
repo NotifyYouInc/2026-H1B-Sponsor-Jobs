@@ -1,16 +1,16 @@
-# ENGINEER - SPM WORKFORCE DEVELOPMENT at Micron
+# Engineer, SPM Workforce Development at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Learning & Development |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/ENGINEER---SPM-WORKFORCE-DEVELOPMENT_JR89738) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Engineer--SPM-Workforce-Development_JR107410) |
 
 ## About This Role
 
-This learning & development position at Micron was posted on 2026-02-24.
+This learning & development position at Micron was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

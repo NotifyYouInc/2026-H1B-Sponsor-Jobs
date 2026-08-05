@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Maharashtra, IN |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Mumbai-India/Talent-Coordinator--Contract-Employment-_10156939) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/West-Mumbai-India/Talent-Coordinator--Contract-Employment-_10157123) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Disney was posted on 2026-07-27.
+This talent acquisition / recruiting position at Disney was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

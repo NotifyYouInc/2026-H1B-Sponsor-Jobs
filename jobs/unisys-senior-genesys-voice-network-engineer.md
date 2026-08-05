@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Senior-Genesys-Voice-Network-Engineer_REQ573593) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Senior-Genesys-Voice-Network-Engineer_REQ574560) |
 
 ## About This Role
 
-This it & systems administration position at Unisys was posted on 2026-06-04.
+This devops engineer position at Unisys was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

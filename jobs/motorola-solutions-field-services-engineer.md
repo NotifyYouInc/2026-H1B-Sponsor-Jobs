@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Deployment Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Adelaide-Australia/Field-Services-Engineer_R65868) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Adelaide-Australia/Field-Services-Engineer_R67099) |
 
 ## About This Role
 
-This deployment engineer position at Motorola Solutions was posted on 2026-07-07.
+This deployment engineer position at Motorola Solutions was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

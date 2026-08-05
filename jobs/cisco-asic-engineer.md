@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/ASIC-Engineer_2018145) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hsinchu-Taiwan/ASIC-Engineer_2019799) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cisco was posted on 2026-06-24.
+This semiconductor / chip design position at Cisco was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

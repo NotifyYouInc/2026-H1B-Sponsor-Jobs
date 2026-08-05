@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Deployment Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-Engineer_2021149) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Consulting-Engineer_2021308) |
 
 ## About This Role
 
-This deployment engineer position at Cisco was posted on 2026-07-28.
+This technology / it consulting position at Cisco was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

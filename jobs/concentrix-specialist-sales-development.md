@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Salvador, San Salvador Department, El Salvador |
+| Location | Yokohama, Kanagawa, Japan |
 | Category | Business Development |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/SLV-San-Salvador---Blvr-Sta-Elena/Specialist--Sales-Development_R1703689) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/JPN-Yokohama-MM-Park-Building-11th-Flr-3-6-3-Minatomirai-Nishi-ku/Specialist--Sales-Development_R1744756) |
 
 ## About This Role
 
-This business development position at Concentrix was posted on 2026-02-11.
+This business development position at Concentrix was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

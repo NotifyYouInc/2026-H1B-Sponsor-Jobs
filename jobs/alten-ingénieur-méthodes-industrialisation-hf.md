@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Caen, Normandy, France |
+| Location | France |
 | Category | Industrial Automation |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138794939-ingenieur-methodes-industrialisation-hf) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000140412025-ingenieur-methodes-industrialisation-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-07-21.
+This industrial automation position at ALTEN was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

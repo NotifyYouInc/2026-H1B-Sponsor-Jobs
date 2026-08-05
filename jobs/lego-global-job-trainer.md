@@ -5,12 +5,12 @@
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vietnam |
 | Category | Learning & Development |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Tan-Uyen-Binh-Duong/Global-Job-Trainer_0000033149) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Tan-Uyen-Binh-Duong/Global-Job-Trainer_0000036652-1) |
 
 ## About This Role
 
-This learning & development position at LEGO was posted on 2026-04-01.
+This learning & development position at LEGO was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

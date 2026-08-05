@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Project Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111008066-mechanical-project-manager-ecu) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140415469-mechanical-project-manager-ecu) |
 
 ## About This Role
 
-This project manager position at Robert Bosch was posted on 2026-02-24.
+This project manager position at Robert Bosch was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

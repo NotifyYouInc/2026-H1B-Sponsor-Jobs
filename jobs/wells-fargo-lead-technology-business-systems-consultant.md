@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Project Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Technology-Business-Systems-Consultant_R-553179) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Business Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Technology-Business-Systems-Consultant_R-528870-7) |
 
 ## About This Role
 
-This project manager position at Wells Fargo was posted on 2026-06-17.
+This business analyst position at Wells Fargo was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

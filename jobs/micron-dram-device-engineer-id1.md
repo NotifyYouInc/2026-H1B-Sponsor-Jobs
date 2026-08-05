@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/DRAM-Device-Engineer-ID1_JR94153) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/DRAM-Device-Engineer-ID1_JR106580-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Micron was posted on 2026-03-10.
+This semiconductor / chip design position at Micron was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
