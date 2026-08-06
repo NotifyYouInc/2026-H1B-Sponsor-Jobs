@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Application-Developer_ATCI-R1-S1926324-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Application-Developer_ATCP-1255673-S410766) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-27.
+This software engineer position at Accenture was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

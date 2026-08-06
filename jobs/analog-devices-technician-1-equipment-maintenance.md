@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philippines |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Technician-1--Equipment-Maintenance_R260912) |
+| Location | Chon Buri, Chon Buri, Thailand |
+| Category | Industrial Automation |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Thailand-Chon-Buri/Technician-1--Equipment-Maintenance_R264312) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-03-16.
+This industrial automation position at Analog Devices was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

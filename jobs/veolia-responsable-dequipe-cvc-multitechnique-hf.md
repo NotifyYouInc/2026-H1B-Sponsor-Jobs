@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Nevers, Bourgogne, France |
 | Category | Engineering Manager |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000135776839-responsable-dequipe-cvc-multitechnique-hf) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140622843-responsable-dequipe-cvc-multitechnique-hf) |
 
 ## About This Role
 
-This engineering manager position at Veolia was posted on 2026-07-03.
+This engineering manager position at Veolia was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

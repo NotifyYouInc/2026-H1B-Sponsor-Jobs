@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Penang, MY |
+| Location | Batu Kawan, Penang, Malaysia |
 | Category | Industrial Automation |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000112082747-technician-2-manufacturing-equipment) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000140626989-technician-2-manufacturing-equipment) |
 
 ## About This Role
 
-This industrial automation position at SanDisk was posted on 2026-03-02.
+This industrial automation position at SanDisk was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

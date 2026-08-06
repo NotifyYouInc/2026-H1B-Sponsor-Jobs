@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Milan, Lombardy, Italy |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7182288) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/8095846) |
 
 ## About This Role
 
-This technology / it consulting position at Appian was posted on 2026-03-05.
+This technology / it consulting position at Appian was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

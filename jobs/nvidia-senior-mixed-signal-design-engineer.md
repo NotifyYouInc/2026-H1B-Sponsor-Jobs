@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Mixed-Signal-Design-Engineer_JR2015016) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Design-Engineer_JR2021877-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-05-07.
+This semiconductor / chip design position at Nvidia was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IN_Senior Associate_Oracle fusion Finance_Oracle_Advisory_Kolkata at PwC
+# IN_Senior Associate_-Oracle fusion Finance_Oracle_Advisory_Kolkata at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kolkata, West Bengal, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Senior-Associate-Oracle-fusion-Finance-Oracle-Advisory-Kolkata_705233WD-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Senior-Associate--Oracle-fusion-Finance-Oracle-Advisory-Kolkata_748260WD) |
 
 ## About This Role
 
-This technology / it consulting position at PwC was posted on 2026-04-04.
+This technology / it consulting position at PwC was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

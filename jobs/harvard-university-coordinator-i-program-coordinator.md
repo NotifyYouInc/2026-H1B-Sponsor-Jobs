@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Program Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014052186-coordinator-i-program-coordinator) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014357306-coordinator-i-program-coordinator) |
 
 ## About This Role
 
-This program manager position at Harvard University was posted on 2026-07-13.
+This program manager position at Harvard University was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

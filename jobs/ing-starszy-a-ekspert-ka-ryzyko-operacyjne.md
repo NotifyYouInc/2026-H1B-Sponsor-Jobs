@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Katowice, Silesia, Poland |
 | Category | Compliance & Risk Management |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_Cen_Katowice-ul-Chorzowska-50/Starszy-a-Ekspert-ka---Ryzyko-Operacyjne_PB_AC_0245500) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_Cen_Katowice-ul-Chorzowska-50/Starszy-a-Ekspert-ka---Ryzyko-Operacyjne_REQ-10119185) |
 
 ## About This Role
 
-This compliance & risk management position at ING was posted on 2026-07-16.
+This compliance & risk management position at ING was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

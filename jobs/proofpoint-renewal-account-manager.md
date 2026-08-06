@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | 2 locations |
 | Category | Account Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Sydney-Australia/Renewal-Account-Manager_R14038) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Renewal-Account-Manager_R14539) |
 
 ## About This Role
 
-This account manager position at Proofpoint was posted on 2026-04-28.
+This account manager position at Proofpoint was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

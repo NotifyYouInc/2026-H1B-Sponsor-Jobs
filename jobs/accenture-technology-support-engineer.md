@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Technology-Support-Engineer_ATCI-5680761-S2059809-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Customer Success |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Technology-Support-Engineer_ATCI-5481553-S2002007-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-07-23.
+This customer success position at Accenture was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

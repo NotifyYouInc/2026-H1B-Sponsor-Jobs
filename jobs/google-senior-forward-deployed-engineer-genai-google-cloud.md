@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | AI / ML Research |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckahSvcUaMviAbeahT_G1qoe8-a4E3-wCWN2iOY61G5BPEjsA1Ny_i3aGcY7Yjsu0ZuVnl7F3U7AALY3MGn2e8rqdh5qfp7_frVrFY-f33y6gdOdXKRHy3wMn7zvZtA%3D%3D_V2&loc=PL&title=Senior+Forward+Deployed+Engineer) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUL5NWnbJ5-DRrf9PIsHIIy0Ltys1wnFFpV1ojv6tBsSEjsA1Ny_izoHq7Ze8KU6YqjgYCVtx6023ujFX-DF7FBlmdWTBTXQhg9TvIcIcrVBysQqUDQMaMf1xBUhkg%3D%3D_V2&loc=IE&title=Senior+Forward+Deployed+Engineer) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-06-16.
+This machine learning engineer position at Google was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

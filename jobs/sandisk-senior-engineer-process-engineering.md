@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kitakami, Iwate, Japan |
+| Location | Batu Kawan, Penang, Malaysia |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000125271229-senior-engineer-process-engineering) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000140636349-senior-engineer-process-engineering) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-05-08.
+This semiconductor / chip design position at SanDisk was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

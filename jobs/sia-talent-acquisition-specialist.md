@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000131826509-talent-acquisition-specialist) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000140628809-talent-acquisition-specialist) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at SIA was posted on 2026-06-12.
+This talent acquisition / recruiting position at SIA was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

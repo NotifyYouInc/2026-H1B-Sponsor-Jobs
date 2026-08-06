@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kazan, Tatarstan Republic, Russia |
+| Location | Tula, Tula Oblast, Russia |
 | Category | Account Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Kazan/Account-Manager_REQ-10079676) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Tula/Account-Manager_REQ-10084710) |
 
 ## About This Role
 
-This account manager position at Novartis was posted on 2026-06-01.
+This account manager position at Novartis was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

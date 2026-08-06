@@ -1,16 +1,16 @@
-# Sales Operations Officer at Arrow Electronics
+# Sales operations officer at Arrow Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New Taipei City, Taipei, Taiwan |
+| Location | Shenzhen, Guangdong, China |
 | Category | Operations |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Zhonghe-Dist-New-Taipei-City/Sales-Operations-Officer_R246644) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Sales-operations-officer_R246221-1) |
 
 ## About This Role
 
-This operations position at Arrow Electronics was posted on 2026-07-28.
+This operations position at Arrow Electronics was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

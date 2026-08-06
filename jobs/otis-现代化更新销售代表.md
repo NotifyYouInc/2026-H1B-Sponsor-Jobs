@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Account Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC33479-10F-Building-N1-Fusion-New-Bund-No-8-Lane-131-New-Bund-Avenue-Pudong-Shanghai-China/_20159639-1) |
+| Location | Suzhou, Jiangsu, China |
+| Category | Account Executive |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC3274-Rm-B608112-Su-Tong-Road-GLP-I-Park-Industrial-Park-District-Suzhou/_20142324) |
 
 ## About This Role
 
-This account manager position at Otis was posted on 2026-07-09.
+This account executive position at Otis was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

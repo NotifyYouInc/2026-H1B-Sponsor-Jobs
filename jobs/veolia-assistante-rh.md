@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Saint-Herblain, Pays de la Loire, France |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140405509-assistante-rh) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140617088-assistante-rh) |
 
 ## About This Role
 
-This human resources / people ops position at Veolia was posted on 2026-07-29.
+This human resources / people ops position at Veolia was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

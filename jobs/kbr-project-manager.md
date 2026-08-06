@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Richmond, Victoria, Australia |
+| Location | United Kingdom |
 | Category | Project Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Richmond-New-South-Wales-Australia/Project-Manager_R2127066) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Cheshire/Project-Manager_R2127478) |
 
 ## About This Role
 
-This project manager position at KBR was posted on 2026-07-27.
+This project manager position at KBR was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

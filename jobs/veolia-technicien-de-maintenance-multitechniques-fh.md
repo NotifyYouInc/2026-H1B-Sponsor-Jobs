@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vélizy-Villacoublay, Île-de-France, France |
 | Category | Industrial Automation |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139533159-technicien-de-maintenance-multitechniques-fh) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140619741-technicien-de-maintenance-multitechniques-fh) |
 
 ## About This Role
 
-This industrial automation position at Veolia was posted on 2026-07-24.
+This industrial automation position at Veolia was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

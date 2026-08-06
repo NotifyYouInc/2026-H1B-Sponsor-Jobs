@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Human Resources / People Ops |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127089359-recruiting-coordinator-representative) |
+| Category | Talent Acquisition / Recruiting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000140607949-recruiting-coordinator-representative) |
 
 ## About This Role
 
-This human resources / people ops position at Intuitive Surgical was posted on 2026-05-19.
+This talent acquisition / recruiting position at Intuitive Surgical was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

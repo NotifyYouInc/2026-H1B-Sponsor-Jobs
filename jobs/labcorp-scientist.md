@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Singapore, Singapore |
 | Category | Bioinformatics / Computational Biology |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Shanghai-China/Scientist_2624900) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Singapore/Scientist_2626919) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Labcorp was posted on 2026-07-16.
+This bioinformatics / computational biology position at Labcorp was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

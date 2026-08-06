@@ -5,12 +5,12 @@
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Giarmata, Timiș County, Romania |
 | Category | Engineering Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Giarmata/Production-Supervisor_REQ2026074281) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Giarmata/Production-Supervisor_REQ2026078125) |
 
 ## About This Role
 
-This engineering manager position at Valeo was posted on 2026-06-25.
+This engineering manager position at Valeo was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

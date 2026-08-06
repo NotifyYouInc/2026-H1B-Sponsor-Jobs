@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/PH-GBS-Manila/RTR-Financial-Accountant_JR-40105880) |
+| Category | Accounting |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/PH-GBS-Manila/RTR-Financial-Accountant_JR-40110994) |
 
 ## About This Role
 
-This corporate finance position at Goodyear was posted on 2026-02-20.
+This accounting position at Goodyear was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

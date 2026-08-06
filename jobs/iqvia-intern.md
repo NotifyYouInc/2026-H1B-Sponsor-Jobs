@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kochi, Kerala, India |
-| Category | Customer Success |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Intern_R1536744) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Intern_R1560903) |
 
 ## About This Role
 
-This customer success position at IQVIA was posted on 2026-04-15.
+This data scientist position at IQVIA was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

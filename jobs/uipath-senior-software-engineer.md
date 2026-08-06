@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/e613f49f-8311-439a-9668-b05ec980007a) |
+| Location | Bucharest, București, Romania |
+| Category | Software Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/7577d14f-6985-4b82-9bff-e62611f702c9) |
 
 ## About This Role
 
-This frontend engineer position at UiPath was posted on 2026-03-09.
+This software engineer position at UiPath was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

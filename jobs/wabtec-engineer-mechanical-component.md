@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014121106-engineer-mechanical-component) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014357016-engineer-mechanical-component) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Wabtec was posted on 2026-07-16.
+This electrical / hardware engineer position at Wabtec was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000139827919-business-analystpopm) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000140613882-business-analystpopm) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-25.
+This business analyst position at Mattel was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bodø, Nordland, Norway |
+| Location | Oslo, Oslo, Norway |
 | Category | Engineering Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000135447599-high-voltage-technical-scope-manager) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000140627199-high-voltage-technical-scope-manager) |
 
 ## About This Role
 
-This engineering manager position at Ramboll was posted on 2026-07-02.
+This engineering manager position at Ramboll was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
