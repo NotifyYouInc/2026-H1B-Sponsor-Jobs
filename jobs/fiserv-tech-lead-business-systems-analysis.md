@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Tech-Lead--Business-Systems-Analysis_R-10394505) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Tech-Lead--Business-Systems-Analysis_R-10396000) |
 
 ## About This Role
 
-This business analyst position at Fiserv was posted on 2026-06-25.
+This business analyst position at Fiserv was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

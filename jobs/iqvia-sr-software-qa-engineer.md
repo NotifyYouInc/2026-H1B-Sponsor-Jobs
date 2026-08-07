@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Warsaw, Mazovia, Poland |
 | Category | QA Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Sr-Software-QA-Engineer_R1529770) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Warsaw-Poland/Sr-Software-QA-Engineer_R1558310) |
 
 ## About This Role
 
-This qa engineer position at IQVIA was posted on 2026-07-10.
+This qa engineer position at IQVIA was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

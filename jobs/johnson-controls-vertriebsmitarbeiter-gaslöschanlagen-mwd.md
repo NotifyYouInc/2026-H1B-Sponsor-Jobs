@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 11 locations |
-| Category | Account Executive |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Leinfelden-Echterdingen/Vertriebsmitarbeiter-Gaslschanlagen--m-w-d-_WD30264681-2) |
+| Category | Sales Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Leinfelden-Echterdingen/Vertriebsmitarbeiter-Gaslschanlagen--m-w-d-_WD30275679-1) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-07-06.
+This sales engineer position at Johnson Controls was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

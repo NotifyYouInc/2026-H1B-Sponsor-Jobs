@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013782896-senior-financial-planning-analysis-partner-i) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014378705-senior-financial-planning-analysis-partner-i) |
 
 ## About This Role
 
-This corporate finance position at The Nielsen Company was posted on 2026-06-25.
+This fp&a / strategic finance position at The Nielsen Company was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

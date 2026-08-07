@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Kailua, Hawaii, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/11619-Daryl-Carter-Pkwy-OrlandoFL-32821-4000/Human-Resources-Expert_R0000447011) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/345-Hahani-St-KailuaHI-96734-2838/Human-Resources-Expert_R0000447384) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-07-27.
+This human resources / people ops position at Target was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

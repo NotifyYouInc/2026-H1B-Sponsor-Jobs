@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Brest, Brittany, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138796369-developpeur-devops-c-hf) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000140833549-developpeur-devops-c-hf) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-07-21.
+This devops engineer position at ALTEN was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

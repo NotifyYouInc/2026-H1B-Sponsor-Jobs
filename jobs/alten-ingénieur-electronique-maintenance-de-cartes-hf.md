@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Brest, Brittany, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138795699-ingenieur-electronique-maintenance-de-cartes-hf) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000140830734-ingenieur-electronique-maintenance-de-cartes-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-21.
+This electrical / hardware engineer position at ALTEN was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

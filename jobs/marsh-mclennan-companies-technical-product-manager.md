@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Singapore, Singapore |
 | Category | Technical Product Manager |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Madrid---Castellana/Technical-Product-Manager_R_357748) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Singapore---Marina-View/Technical-Product-Manager_R_355637) |
 
 ## About This Role
 
-This technical product manager position at Marsh & McLennan Companies was posted on 2026-07-08.
+This technical product manager position at Marsh & McLennan Companies was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

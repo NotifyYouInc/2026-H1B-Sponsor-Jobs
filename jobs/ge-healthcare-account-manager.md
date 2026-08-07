@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kunming, Yunnan, China |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Account Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Kunming/Account-Manager_R4037142-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Hangzhou/Account-Manager_R4044466-1) |
 
 ## About This Role
 
-This account manager position at GE HealthCare was posted on 2026-03-03.
+This account manager position at GE HealthCare was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

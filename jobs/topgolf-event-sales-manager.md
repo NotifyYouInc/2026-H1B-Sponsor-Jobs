@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Topgolf](https://scoutify.ai/companies/topgolf?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Orlando, Florida, United States |
-| Category | Account Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://topgolf.wd501.myworkdayjobs.com/topgolfcareers/job/TG---Venue---Orlando/Event-Sales-Manager_JR2023-20823) |
+| Location | Nashville, Tennessee, United States |
+| Category | Field & Event Marketing |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://topgolf.wd501.myworkdayjobs.com/topgolfcareers/job/Nashville-Tennessee/Event-Sales-Manager_JR2023-22016) |
 
 ## About This Role
 
-This account manager position at Topgolf was posted on 2026-05-28.
+This field & event marketing position at Topgolf was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

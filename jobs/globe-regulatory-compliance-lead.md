@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Philippines |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Regulatory-Compliance-Lead_R0000019967) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/17F-W-City-Center/Regulatory-Compliance-Lead_R0000021196) |
 
 ## About This Role
 
-This compliance & risk management position at GLOBE was posted on 2026-03-10.
+This compliance & risk management position at GLOBE was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

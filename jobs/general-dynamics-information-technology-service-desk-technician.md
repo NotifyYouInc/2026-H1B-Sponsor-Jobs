@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Florida, US |
-| Category | Customer Success |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Service-Desk-Technician_RQ216115-2) |
+| Location | Mary Esther, Florida, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Mary-Esther/Service-Desk-Technician_RQ225127-1) |
 
 ## About This Role
 
-This customer success position at General Dynamics Information Technology was posted on 2026-03-07.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

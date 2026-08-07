@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rock Island, Illinois, United States |
+| Location | Etobicoke, Ontario, Canada |
 | Category | Leadership Development Program |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Rock-Island-IL-61201/Operations-Management-Trainee_R176260) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/CAN---Etobicoke-ON-M8Z-5G3/Operations-Management-Trainee_R177938-1) |
 
 ## About This Role
 
-This leadership development program position at Ryder System was posted on 2026-07-13.
+This leadership development program position at Ryder System was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

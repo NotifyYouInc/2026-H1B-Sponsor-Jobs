@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Account Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Seoul-Korea-Republic-of/Strategic-Account-Manager--Korea_R013427) |
+| Category | Strategy & Operations |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Seoul-Korea-Republic-of/Strategic-Account-Manager--Korea_R013707) |
 
 ## About This Role
 
-This account manager position at AVEVA was posted on 2026-03-03.
+This strategy & operations position at AVEVA was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wellington, Wellington Region, New Zealand |
+| Location | Lysaker, Akershus, Norway |
 | Category | Account Executive |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000128860229-sr-enterprise-account-exec) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000140843964-sr-enterprise-account-exec) |
 
 ## About This Role
 
-This account executive position at ServiceNow was posted on 2026-05-28.
+This account executive position at ServiceNow was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

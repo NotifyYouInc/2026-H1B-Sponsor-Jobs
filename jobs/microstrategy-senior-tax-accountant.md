@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Virginia, US |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000138277282-senior-tax-accountant) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000140836849-senior-tax-accountant) |
 
 ## About This Role
 
-This accounting position at MicroStrategy was posted on 2026-07-17.
+This accounting position at MicroStrategy was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

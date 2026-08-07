@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Deerfield Beach, Florida, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/12675-NW-Cornell-Rd-PortlandOR-97229-5886/Human-Resource-Expert_R0000445088) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1200-S-Federal-Hwy-Deerfield-BeachFL-33441-7037/Human-Resource-Expert_R0000447771-1) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-07-09.
+This human resources / people ops position at Target was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Irving, Texas, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Recruiter_111775-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Recruiter_112791) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Gartner was posted on 2026-07-18.
+This talent acquisition / recruiting position at Gartner was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

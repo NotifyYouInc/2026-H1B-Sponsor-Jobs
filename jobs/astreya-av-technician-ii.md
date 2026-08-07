@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/London-United-Kingdom/AV-Technician-II_R0015235) |
+| Location | Chicago, Illinois, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Chicago-IL/AV-Technician-II_R0016590) |
 
 ## About This Role
 
-This customer success position at Astreya was posted on 2026-04-07.
+This it & systems administration position at Astreya was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

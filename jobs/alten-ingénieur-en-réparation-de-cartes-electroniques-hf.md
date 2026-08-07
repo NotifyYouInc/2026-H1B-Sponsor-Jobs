@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Brest, Brittany, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138794149-ingenieur-en-reparation-de-cartes-electroniques-hf) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000140833589-ingenieur-en-reparation-de-cartes-electroniques-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-21.
+This electrical / hardware engineer position at ALTEN was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

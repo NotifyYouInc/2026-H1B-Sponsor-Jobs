@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Brest, Brittany, France |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138794301-ingenieur-logiciel-embarque-hf) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000140830575-ingenieur-logiciel-embarque-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-07-21.
+This embedded / firmware engineer position at ALTEN was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

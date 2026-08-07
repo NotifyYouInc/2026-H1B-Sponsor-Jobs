@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hangzhou, Zhejiang, China |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering---Development--VP_R-789119) |
+| Category | Engineering Manager |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Software-Engineering---Development--VP_R-795380-1) |
 
 ## About This Role
 
-This ai / llm engineer position at State Street was posted on 2026-04-27.
+This engineering manager position at State Street was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

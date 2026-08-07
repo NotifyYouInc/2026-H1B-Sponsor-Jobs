@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hangzhou, Zhejiang, China |
-| Category | Corporate Finance |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Fund-Accounting--Officer_R-787604-1) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Taipei-Taiwan/Fund-Accounting--Officer_R-795391) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-07.
+This venture capital / private equity position at State Street was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

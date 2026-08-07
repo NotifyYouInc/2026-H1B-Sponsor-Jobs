@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Philippines |
 | Category | Project Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/Project-Management-Analyst_R1549099) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Pasig-Philippines/Project-Management-Analyst_R1559943) |
 
 ## About This Role
 
-This project manager position at IQVIA was posted on 2026-06-04.
+This project manager position at IQVIA was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

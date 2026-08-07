@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Samut Prakan, Samut Prakan, Thailand |
-| Category | Engineering Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Samut-Prakan-Samut-Prakan-Thailand/Training---Development-Manager_R0121133) |
+| Category | Learning & Development |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Samut-Prakan-Samut-Prakan-Thailand/Training---Development-Manager_R0137023) |
 
 ## About This Role
 
-This engineering manager position at Hitachi was posted on 2026-03-10.
+This learning & development position at Hitachi was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
