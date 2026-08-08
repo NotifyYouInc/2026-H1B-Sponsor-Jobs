@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Florida, US |
+| Location | Falls Church, Virginia, United States |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Digital-Marketing-Specialist_RQ215404-1) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Digital-Marketing-Specialist_RQ224879-1) |
 
 ## About This Role
 
-This digital / performance marketing position at General Dynamics Information Technology was posted on 2026-02-23.
+This digital / performance marketing position at General Dynamics Information Technology was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

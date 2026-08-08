@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Client-Services-Specialist_26WD95416-1) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Tokyo-JPN/Client-Services-Specialist_26WD99914) |
 
 ## About This Role
 
-This customer success position at Autodesk was posted on 2026-03-06.
+This customer success position at Autodesk was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

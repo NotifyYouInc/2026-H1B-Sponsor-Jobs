@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Diego, California, United States |
 | Category | Learning & Development |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-San-Diego/Satcom-Maintenance-Trainer-at-SCSTC-San-Diego-Annex--CA-_RQ217676-1) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-CA-San-Diego/Satcom-Maintenance-Trainer-at-SCSTC-San-Diego-Annex--CA-_RQ225406-1) |
 
 ## About This Role
 
-This learning & development position at General Dynamics Information Technology was posted on 2026-04-04.
+This learning & development position at General Dynamics Information Technology was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

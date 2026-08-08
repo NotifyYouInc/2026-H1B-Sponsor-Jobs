@@ -1,16 +1,16 @@
-# Account Executive- Large Enterprise at Workday
+# Account Executive - Large Enterprise at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New South Wales, AU |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Australia-NSW-North-Sydney/Account-Executive--Large-Enterprise_JR-0105527) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Account-Executive---Large-Enterprise_JR-0108998) |
 
 ## About This Role
 
-This account executive position at Workday was posted on 2026-03-19.
+This account executive position at Workday was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

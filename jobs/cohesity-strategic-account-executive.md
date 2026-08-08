@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Florida, US |
+| Location | 2 locations |
 | Category | Account Executive |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Florida---Remote/Strategic-Account-Executive_R04203) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Durham--Raleigh-Metro-Area---North-Carolina---USA-Remote/Strategic-Account-Executive_R04376) |
 
 ## About This Role
 
-This account executive position at Cohesity was posted on 2026-07-29.
+This account executive position at Cohesity was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

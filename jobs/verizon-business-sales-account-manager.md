@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
-| Category | Business Development |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Boston-Massachusetts/Business-Sales-Account-Manager_R-1096154) |
+| Location | King of Prussia, Pennsylvania, United States |
+| Category | Account Manager |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/King-Of-Prussia-Pennsylvania/Business-Sales-Account-Manager_R-1098976) |
 
 ## About This Role
 
-This business development position at Verizon was posted on 2026-06-05.
+This account manager position at Verizon was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

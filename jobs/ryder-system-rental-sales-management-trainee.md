@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | London, Ontario, Canada |
+| Location | United States |
 | Category | Leadership Development Program |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/CAN---London-ON-N6N-1E1/Rental-Sales-Management-Trainee_R179058) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Tukwila-WA-98188/Rental-Sales-Management-Trainee_R179638) |
 
 ## About This Role
 
-This leadership development program position at Ryder System was posted on 2026-07-31.
+This leadership development program position at Ryder System was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

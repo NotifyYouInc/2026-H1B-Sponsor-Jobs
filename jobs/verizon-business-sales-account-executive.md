@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lone Tree, Colorado, United States |
+| Location | Sacramento, California, United States |
 | Category | Account Executive |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Lone-Tree-Colorado/Business-Sales-Account-Executive_R-1096899-1) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Sacramento-California/Business-Sales-Account-Executive_R-1098978-1) |
 
 ## About This Role
 
-This account executive position at Verizon was posted on 2026-06-24.
+This account executive position at Verizon was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Account Manager-Business Sales at Verizon
+# Senior Account Manager - Business Sales at Verizon
 
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fort Wayne, Indiana, United States |
+| Location | San Francisco, California, United States |
 | Category | Account Manager |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Fort-Wayne-Indiana/Senior-Account-Manager-Business-Sales_R-1098601) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/San-Francisco-California/Senior-Account-Manager---Business-Sales_R-1098980-1) |
 
 ## About This Role
 
-This account manager position at Verizon was posted on 2026-07-25.
+This account manager position at Verizon was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

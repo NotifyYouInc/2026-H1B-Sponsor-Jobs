@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Red Deer, Alberta, Canada |
+| Location | Little Rock, Arkansas, United States |
 | Category | Account Executive |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Red-Deer-AB-CAN/Account-Representative-I_R26_0000003780) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Little-Rock-AR-USA/Account-Representative-I_R26_0000024358) |
 
 ## About This Role
 
-This account executive position at Genuine Parts Company was posted on 2026-04-10.
+This account executive position at Genuine Parts Company was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

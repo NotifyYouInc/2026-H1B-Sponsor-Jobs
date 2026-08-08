@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Envoy](https://scoutify.ai/companies/envoy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Sales |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/envoy/0fc42bd5-4c76-4037-abf5-ae9f3da6213e) |
+| Category | Account Executive |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/envoy/f3ebc226-d391-41c0-ba2e-231d474cef75) |
 
 ## About This Role
 
-This sales position at Envoy was posted on 2026-02-06.
+This account executive position at Envoy was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

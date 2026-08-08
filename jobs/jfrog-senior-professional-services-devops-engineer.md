@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JFrog](https://scoutify.ai/companies/jfrog?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://join.jfrog.com/job/?job=7630848&gh_jid=7630848) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://join.jfrog.com/job/?job=8096728&gh_jid=8096728) |
 
 ## About This Role
 
-This devops engineer position at JFrog was posted on 2026-02-26.
+This devops engineer position at JFrog was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

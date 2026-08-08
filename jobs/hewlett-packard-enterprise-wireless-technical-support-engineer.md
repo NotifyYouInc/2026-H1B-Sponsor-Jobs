@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Wireless-Technical-Support-Engineer_1208088) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Wireless-Technical-Support-Engineer_1208085) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-07-28.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

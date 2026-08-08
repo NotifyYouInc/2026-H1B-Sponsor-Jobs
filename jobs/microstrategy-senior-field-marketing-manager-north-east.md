@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Virginia, US |
 | Category | Field & Event Marketing |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000140836729-senior-field-marketing-manager-north-east) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000141018815-senior-field-marketing-manager-north-east) |
 
 ## About This Role
 
-This field & event marketing position at MicroStrategy was posted on 2026-07-31.
+This field & event marketing position at MicroStrategy was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

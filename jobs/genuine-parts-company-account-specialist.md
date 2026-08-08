@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Springdale, Arkansas, United States |
-| Category | Account Executive |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Springdale-AR-USA/Account-Specialist_R26_0000011737) |
+| Location | Chesapeake, Virginia, United States |
+| Category | Account Manager |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Chesapeake-VA-USA/Account-Specialist_R26_0000024697) |
 
 ## About This Role
 
-This account executive position at Genuine Parts Company was posted on 2026-04-10.
+This account manager position at Genuine Parts Company was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 
