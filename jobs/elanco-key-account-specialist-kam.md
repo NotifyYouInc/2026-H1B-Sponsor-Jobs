@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elanco](https://scoutify.ai/companies/elanco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Account Manager |
+| Category | Sales |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/TH---Bangkok/Key-account-specialist---KAM_R0026554-1) |
 
 ## About This Role
 
-This account manager position at Elanco was posted on 2026-08-01.
+This sales position at Elanco was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Romeoville, Illinois, United States |
+| Location | United States |
 | Category | Leadership Development Program |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Romeoville-IL-60446/Operations-Manager-Trainee_R165929) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Baton-Rouge-LA-70816/Operations-Manager-Trainee_R178632) |
 
 ## About This Role
 
-This leadership development program position at Ryder System was posted on 2026-03-17.
+This leadership development program position at Ryder System was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Germany |
-| Category | Channel / Partner Sales |
+| Category | Sales |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Germany-Remote-Location/OEM-Territory-Representative--OTR----EMEA_R026680-1) |
 
 ## About This Role
 
-This channel / partner sales position at Broadcom was posted on 2026-08-01.
+This sales position at Broadcom was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

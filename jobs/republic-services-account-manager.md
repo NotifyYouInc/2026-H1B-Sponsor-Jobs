@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Account Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Indianapolis-IN-USA/Account-Manager_R-179571) |
+| Location | Pleasant Grove, Utah, United States |
+| Category | Sales |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Pleasant-Grove-UT-USA/Account-Manager_R-180986) |
 
 ## About This Role
 
-This account manager position at Republic Services was posted on 2026-07-15.
+This sales position at Republic Services was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

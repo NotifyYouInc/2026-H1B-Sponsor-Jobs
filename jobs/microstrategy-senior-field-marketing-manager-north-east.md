@@ -6,7 +6,7 @@
 | Location | Virginia, US |
 | Category | Field & Event Marketing |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000141018815-senior-field-marketing-manager-north-east) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000141047799-senior-field-marketing-manager-north-east) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Account Executive |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Indianapolis-IN-USA/Territory-Executive_R-179516) |
+| Location | Layton, Utah, United States |
+| Category | Sales |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Layton-UT-USA/Territory-Executive_R-180790) |
 
 ## About This Role
 
-This account executive position at Republic Services was posted on 2026-07-15.
+This sales position at Republic Services was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

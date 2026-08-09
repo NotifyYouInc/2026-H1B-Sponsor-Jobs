@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Herlev, Capital Region, Denmark |
-| Category | Account Manager |
+| Category | Sales |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Herlev-Denmark/Inside-Sales-Representative--f-m---_JR-023718) |
 
 ## About This Role
 
-This account manager position at Avnet was posted on 2026-08-01.
+This sales position at Avnet was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

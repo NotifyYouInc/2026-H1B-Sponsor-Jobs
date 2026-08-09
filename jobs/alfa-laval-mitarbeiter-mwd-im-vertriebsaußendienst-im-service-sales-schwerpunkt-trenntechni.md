@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hamburg, Hamburg, Germany |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Hamburg-Hafencity-Watermark-Tower/Mitarbeiter--m-w-d--im-Vertriebsauendienst-im-Service-Sales---Schwerpunkt-Trenntechnik-Region-Sddeutschland_JR0047037) |
 
 ## About This Role
 
-This account executive position at Alfa Laval was posted on 2026-08-01.
+This sales position at Alfa Laval was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

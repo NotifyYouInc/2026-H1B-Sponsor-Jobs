@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Corporate Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Citigold-Client-Advisor--North-Asia-_26954848) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Citigold-Relationship-Banker---C10---SINGAPORE_26982562-1) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-21.
+This wealth management / private banking position at Citigroup was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

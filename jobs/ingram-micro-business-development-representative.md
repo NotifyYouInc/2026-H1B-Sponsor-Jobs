@@ -5,12 +5,12 @@
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Buffalo, New York, United States |
 | Category | Business Development |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Buffalo-NY-United-States-of-America/Business-Development-Representative_R-115388) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Buffalo-NY-United-States-of-America/Business-Development-Representative_R-116572) |
 
 ## About This Role
 
-This business development position at Ingram Micro was posted on 2026-05-15.
+This business development position at Ingram Micro was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

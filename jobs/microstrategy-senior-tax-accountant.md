@@ -6,7 +6,7 @@
 | Location | Virginia, US |
 | Category | Accounting |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000141017024-senior-tax-accountant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000141047809-senior-tax-accountant) |
 
 ## About This Role
 

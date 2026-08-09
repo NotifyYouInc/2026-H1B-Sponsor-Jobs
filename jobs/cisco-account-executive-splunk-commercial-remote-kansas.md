@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Topeka, Kansas, United States |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Topeka-Kansas-US/Account-Executive---Splunk-Commercial--Remote--Kansas-_2020065) |
 
 ## About This Role
 
-This account executive position at Cisco was posted on 2026-08-01.
+This sales position at Cisco was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fairbanks, Alaska, United States |
+| Location | Honolulu, Hawaii, United States |
 | Category | Deployment Engineer |
-| Posted | 2026-07-04 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AK-Eielson-AFB/Junior-DS-Engineer_RQ223587-1) |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Hickam-AFB/Junior-DS-Engineer_RQ225428-1) |
 
 ## About This Role
 
-This deployment engineer position at General Dynamics Information Technology was posted on 2026-07-04.
+This deployment engineer position at General Dynamics Information Technology was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

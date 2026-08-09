@@ -6,7 +6,7 @@
 | Location | Virginia, US |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000141016244-bitcoin-security-director) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000141047299-bitcoin-security-director) |
 
 ## About This Role
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elanco](https://scoutify.ai/companies/elanco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/PT---Lisbon/Sales-Representative_R0026621-1) |
 
 ## About This Role
 
-This account executive position at Elanco was posted on 2026-08-01.
+This sales position at Elanco was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | New York City, New York, United States |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000141015581-account-executive) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000141047229-account-executive) |
 
 ## About This Role
 
-This account executive position at MicroStrategy was posted on 2026-08-01.
+This sales position at MicroStrategy was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Account Manager |
+| Category | Sales |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Off-Site-Employees-Corp-Use---Springdale-Arkansas/Customer-Development-Manager----Winco---Prepared-Foods-Deli_R0476193) |
 
 ## About This Role
 
-This account manager position at Tyson Foods was posted on 2026-08-01.
+This sales position at Tyson Foods was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

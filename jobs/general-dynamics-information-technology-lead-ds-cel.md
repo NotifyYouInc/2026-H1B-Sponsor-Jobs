@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Alaska, US |
-| Category | Engineering Manager |
-| Posted | 2026-07-04 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AK-Eielson-AFB/Lead-DS-CEL_RQ223553) |
+| Location | Honolulu, Hawaii, United States |
+| Category | Deployment Engineer |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Hickam-AFB/Lead-DS-CEL_RQ225426-1) |
 
 ## About This Role
 
-This engineering manager position at General Dynamics Information Technology was posted on 2026-07-04.
+This deployment engineer position at General Dynamics Information Technology was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

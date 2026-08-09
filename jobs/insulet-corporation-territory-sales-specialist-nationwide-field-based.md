@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Insulet Corporation](https://scoutify.ai/companies/insulet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | North Carolina, US |
-| Category | Account Executive |
+| Category | Sales |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts/Territory-Sales-Specialist---Nationwide--Field-Based-_REQ-2026-17540) |
 
 ## About This Role
 
-This account executive position at Insulet Corporation was posted on 2026-08-01.
+This sales position at Insulet Corporation was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

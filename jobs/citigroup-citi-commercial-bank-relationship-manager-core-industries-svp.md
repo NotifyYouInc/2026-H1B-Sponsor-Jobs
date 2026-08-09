@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Account Manager |
+| Category | Sales |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Citi-Commercial-Bank---Relationship-Manager--Core-Industries---SVP_26979110) |
 
 ## About This Role
 
-This account manager position at Citigroup was posted on 2026-08-01.
+This sales position at Citigroup was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

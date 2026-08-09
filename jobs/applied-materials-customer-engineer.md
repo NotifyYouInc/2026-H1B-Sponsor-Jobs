@@ -1,16 +1,16 @@
-# customer engineer at Applied Materials
+# Customer Engineer at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Sales Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/ChengduCHN/customer-engineer_R2622313) |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Customer-Engineer_R2625156) |
 
 ## About This Role
 
-This sales engineer position at Applied Materials was posted on 2026-07-22.
+This sales engineer position at Applied Materials was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

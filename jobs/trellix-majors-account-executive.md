@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Account Executive |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/US-Washington-Seattle/Majors-Account-Executive_JR0037139) |
+| Location | 2 locations |
+| Category | Sales |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/US-Colorado-Denver/Majors-Account-Executive_JR0037767) |
 
 ## About This Role
 
-This account executive position at Trellix was posted on 2026-03-05.
+This sales position at Trellix was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

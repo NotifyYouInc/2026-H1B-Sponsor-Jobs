@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 4 locations |
-| Category | Account Manager |
+| Category | Sales |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MINNEAPOLIS-MN/Lead-Equipment-Finance-Account-Manager_R-564019) |
 
 ## About This Role
 
-This account manager position at Wells Fargo was posted on 2026-08-01.
+This sales position at Wells Fargo was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

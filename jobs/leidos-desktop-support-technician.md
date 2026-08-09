@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Norfolk, Virginia, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Desktop-Support-Technician_R-00187335-1) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Desktop-Support-Technician_R-00188230-1) |
 
 ## About This Role
 
-This it & systems administration position at Leidos was posted on 2026-07-18.
+This it & systems administration position at Leidos was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 
