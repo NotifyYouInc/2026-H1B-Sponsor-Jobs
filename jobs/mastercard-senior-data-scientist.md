@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Data-Scientist_R-274739) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Data-Scientist_R-286931) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-04-06.
+This data scientist position at Mastercard was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

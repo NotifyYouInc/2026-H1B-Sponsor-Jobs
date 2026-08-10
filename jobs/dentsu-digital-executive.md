@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Australia |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Brisbane-City/Digital-Executive_R1122447) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/HoChiMinhCity/Digital-Executive_R1124726) |
 
 ## About This Role
 
-This digital / performance marketing position at Dentsu was posted on 2026-06-16.
+This digital / performance marketing position at Dentsu was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

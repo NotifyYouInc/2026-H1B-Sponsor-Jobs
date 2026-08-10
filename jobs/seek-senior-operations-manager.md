@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | North Sydney, New South Wales, Australia |
 | Category | Operations |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000140167669-senior-operations-manager) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000141170245-senior-operations-manager) |
 
 ## About This Role
 
-This operations position at SEEK was posted on 2026-07-28.
+This operations position at SEEK was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

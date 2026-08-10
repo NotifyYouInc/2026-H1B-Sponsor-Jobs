@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
-| Category | Account Executive |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IDN---Jakarta---Jakarta/Territory-Manager_R00297381) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Sales |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/CHN---Guangdong---Shenzhen/Territory-Manager_R00284594) |
 
 ## About This Role
 
-This account executive position at Ecolab was posted on 2026-07-18.
+This sales position at Ecolab was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

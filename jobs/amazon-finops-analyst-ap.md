@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426225/finops-analyst-ap) |
+| Category | Accounting |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10489966/finops-analyst-ap) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-05-21.
+This accounting position at Amazon was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

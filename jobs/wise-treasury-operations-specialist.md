@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Treasury & Capital Markets |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139023843-treasury-operations-specialist) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000141178058-treasury-operations-specialist) |
 
 ## About This Role
 
-This treasury & capital markets position at WISE was posted on 2026-07-22.
+This treasury & capital markets position at WISE was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

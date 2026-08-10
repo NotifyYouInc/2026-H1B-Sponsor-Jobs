@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanderlande Industries](https://scoutify.ai/companies/vanderlande-industries?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Sydney, New South Wales, Australia |
 | Category | Project Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Taipei/Project-Manager_JR36006) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Sydney-Australia/Project-Manager_JR37730-3) |
 
 ## About This Role
 
-This project manager position at Vanderlande Industries was posted on 2026-03-11.
+This project manager position at Vanderlande Industries was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

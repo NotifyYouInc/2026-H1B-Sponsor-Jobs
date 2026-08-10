@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Auckland, Auckland, New Zealand |
-| Category | Account Executive |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Auckland---Customs/Client-Executive_R_348468) |
+| Location | Brisbane, Queensland, Australia |
+| Category | Sales |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Brisbane---111-Eagle/Client-Executive_R_359299) |
 
 ## About This Role
 
-This account executive position at Marsh & McLennan Companies was posted on 2026-05-01.
+This sales position at Marsh & McLennan Companies was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

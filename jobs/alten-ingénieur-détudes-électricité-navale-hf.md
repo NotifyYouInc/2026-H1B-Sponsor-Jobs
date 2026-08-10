@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lorient, Brittany, France |
+| Location | Rennes, Brittany, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000140833869-ingenieur-detudes-electricite-navale-hf) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141187555-ingenieur-detudes-electricite-navale-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-31.
+This electrical / hardware engineer position at ALTEN was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rotterdam, South Holland, The Netherlands |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000136407459-data-science-consultant) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000141174589-data-science-consultant) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-07-08.
+This data scientist position at SIA was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

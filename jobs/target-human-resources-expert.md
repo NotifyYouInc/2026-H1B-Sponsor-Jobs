@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kailua, Hawaii, United States |
+| Location | West Chester, Pennsylvania, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/345-Hahani-St-KailuaHI-96734-2838/Human-Resources-Expert_R0000447384) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/985-Paoli-Pike-West-ChesterPA-19380-4527/Human-Resources-Expert_R0000447879) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-07-30.
+This human resources / people ops position at Target was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

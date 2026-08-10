@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Account Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458540/ads-account-manager-amazon) |
+| Category | Sales |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10489975/ads-account-manager-amazon) |
 
 ## About This Role
 
-This account manager position at Amazon was posted on 2026-06-25.
+This sales position at Amazon was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

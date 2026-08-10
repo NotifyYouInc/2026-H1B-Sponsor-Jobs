@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Sales Leadership |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Riyadh/Regional-Sales-Manager_R0318785) |
+| Location | Singapore, Singapore |
+| Category | Sales |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Regional-Sales-Manager_R0335955-1) |
 
 ## About This Role
 
-This sales leadership position at Thales was posted on 2026-06-23.
+This sales position at Thales was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

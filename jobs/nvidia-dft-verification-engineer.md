@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/DFT-Verification-Engineer_JR2013449) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/DFT-Verification-Engineer_JR2022621) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-02-25.
+This semiconductor / chip design position at Nvidia was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

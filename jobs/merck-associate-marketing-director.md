@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Marketing |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanghai---Shanghai-Tower-A/Associate-Marketing-Director_R391099-1) |
+| Category | Operations |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanghai---Shanghai-Tower-A/Associate-Marketing-Director_R410457) |
 
 ## About This Role
 
-This marketing position at Merck was posted on 2026-04-03.
+This operations position at Merck was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | North Carolina, US |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-PA-Home-Office-PAHOME/Network-Engineer_RQ217149) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Liberty/Network-Engineer_RQ225441-1) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-03-28.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

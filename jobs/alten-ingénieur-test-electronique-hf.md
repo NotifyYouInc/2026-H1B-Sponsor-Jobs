@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Fougères, Brittany, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139013509-ingenieur-test-electronique-hf) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141187149-ingenieur-test-electronique-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-22.
+This electrical / hardware engineer position at ALTEN was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 3 locations |
 | Category | Customer Success |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/North-Sydney-Australia/Customer-Experience-Customer-Success-Specialist---Security_2020467) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/North-Sydney-Australia/Customer-Experience-Customer-Success-Specialist---Security_2020468) |
 
 ## About This Role
 
-This customer success position at Cisco was posted on 2026-07-28.
+This customer success position at Cisco was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

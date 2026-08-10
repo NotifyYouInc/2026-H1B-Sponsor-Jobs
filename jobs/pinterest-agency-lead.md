@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | New York City, New York, United States |
-| Category | Account Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7983420) |
+| Category | Sales |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=8022863) |
 
 ## About This Role
 
-This account manager position at Pinterest was posted on 2026-06-12.
+This sales position at Pinterest was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taichung, Taiwan, Taiwan |
-| Category | Engineering Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/ENGINEER--OMT-RAM-RDA-PROCESS_JR96890) |
+| Location | 2 locations |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/ENGINEER--OMT-RAM-RDA-PROCESS_JR95821) |
 
 ## About This Role
 
-This engineering manager position at Micron was posted on 2026-05-07.
+This semiconductor / chip design position at Micron was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Industrial Automation |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Application-Engineer_WD30264552) |
+| Location | Gurugram, Haryana, India |
+| Category | Software Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Gurgaon-Sector-44/Application-Engineer_WD30269344-1) |
 
 ## About This Role
 
-This industrial automation position at Johnson Controls was posted on 2026-03-20.
+This software engineer position at Johnson Controls was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

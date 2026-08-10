@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Maynard, Massachusetts, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Taipei-Taiwan/Hardware-Engineering-Technical-Leader_2016898) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Holmdel-New-Jersey-US/Hardware-Engineering-Technical-Leader_2019255) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Cisco was posted on 2026-07-23.
+This electrical / hardware engineer position at Cisco was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

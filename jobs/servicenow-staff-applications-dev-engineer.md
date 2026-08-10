@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138796729-staff-applications-dev-engineer) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000141183854-staff-applications-dev-engineer) |
 
 ## About This Role
 
-This software engineer position at ServiceNow was posted on 2026-07-21.
+This software engineer position at ServiceNow was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
-| Category | Engineering Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Lead-Engineer-Automation-Quality_R0054816-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | QA Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Lead-Engineer-Automation-Quality_R0061352) |
 
 ## About This Role
 
-This engineering manager position at Empower was posted on 2026-03-16.
+This qa engineer position at Empower was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

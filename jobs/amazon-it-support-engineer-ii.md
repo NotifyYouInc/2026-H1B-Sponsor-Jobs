@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10374372/it-support-engineer-ii) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10490001/it-support-engineer-ii) |
 
 ## About This Role
 
-This it & systems administration position at Amazon was posted on 2026-03-24.
+This it & systems administration position at Amazon was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

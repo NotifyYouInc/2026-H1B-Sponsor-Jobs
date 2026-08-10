@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Enterprise-Software-Engineer_R0057899) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Enterprise-Software-Engineer_R0058642) |
 
 ## About This Role
 
-This software engineer position at Wolters Kluwer was posted on 2026-07-22.
+This devops engineer position at Wolters Kluwer was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

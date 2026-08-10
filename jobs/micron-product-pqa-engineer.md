@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
-| Category | QA Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Product-PQA-Engineer_JR88144) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Product-PQA-Engineer_JR106923-1) |
 
 ## About This Role
 
-This qa engineer position at Micron was posted on 2026-04-13.
+This semiconductor / chip design position at Micron was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
