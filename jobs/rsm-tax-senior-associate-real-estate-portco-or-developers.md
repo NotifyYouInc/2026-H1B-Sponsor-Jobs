@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Tax-Senior-Associate---Real-Estate-PortCo-or-Developers_JR119622) |
+| Location | Gurugram, Haryana, India |
+| Category | Accounting |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Tax-Senior-Associate---Real-Estate-PortCo-or-Developers_JR120550) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-06-25.
+This accounting position at RSM was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

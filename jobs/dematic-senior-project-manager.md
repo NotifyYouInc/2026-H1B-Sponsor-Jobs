@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dematic](https://scoutify.ai/companies/kiongroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 5 locations |
+| Location | Antwerpen, Flanders, Belgium |
 | Category | Project Manager |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Senior-Project-Manager_JR-0086875) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Antwerpen-Belgium/Senior-Project-Manager_JR-0093976-1) |
 
 ## About This Role
 
-This project manager position at Dematic was posted on 2026-07-18.
+This project manager position at Dematic was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014704) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014758) |
 
 ## About This Role
 
-This compliance & risk management position at Kroll was posted on 2026-07-29.
+This compliance & risk management position at Kroll was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

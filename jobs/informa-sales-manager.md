@@ -1,16 +1,16 @@
-# Sales Manager at Informa
+# Sales Manager  at Informa
 
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Account Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000136724664-sales-manager) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Category | Sales |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000141416689-sales-manager) |
 
 ## About This Role
 
-This account manager position at Informa was posted on 2026-07-09.
+This sales position at Informa was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

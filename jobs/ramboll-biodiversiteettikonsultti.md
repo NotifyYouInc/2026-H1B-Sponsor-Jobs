@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 4 locations |
+| Location | Espoo, Uusimaa, Finland |
 | Category | ESG / Sustainability |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000136746375-biodiversiteettikonsultti) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000141414420-biodiversiteettikonsultti) |
 
 ## About This Role
 
-This esg / sustainability position at Ramboll was posted on 2026-07-09.
+This esg / sustainability position at Ramboll was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

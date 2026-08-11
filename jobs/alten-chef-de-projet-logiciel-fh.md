@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Project Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139537189-chef-de-projet-logiciel-fh) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141428054-chef-de-projet-logiciel-fh) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-07-24.
+This project manager position at ALTEN was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

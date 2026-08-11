@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141180320-sap-mdmmdg) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141413218-sap-mdmmdg) |
 
 ## About This Role
 
-This technology / it consulting position at Robert Bosch was posted on 2026-08-03.
+This technology / it consulting position at Robert Bosch was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

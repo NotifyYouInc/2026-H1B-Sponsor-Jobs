@@ -1,16 +1,16 @@
-# Senior Manager Biostatistical Programming at Amgen
+# Senior Manager, Biostatistical Programming at Amgen
 
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Hyderabad, Telangana, India |
 | Category | Bioinformatics / Computational Biology |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/Taiwan---Taipei/Senior-Manager-Biostatistical-Programming_R-250035) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Manager--Biostatistical-Programming_R-251034) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Amgen was posted on 2026-07-14.
+This bioinformatics / computational biology position at Amgen was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

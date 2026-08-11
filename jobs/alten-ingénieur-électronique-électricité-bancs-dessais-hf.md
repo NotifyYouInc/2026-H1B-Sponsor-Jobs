@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dieppe, Normandy, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138803037-ingenieur-electronique-electricite-bancs-dessais-hf) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141424873-ingenieur-electronique-electricite-bancs-dessais-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-21.
+This electrical / hardware engineer position at ALTEN was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

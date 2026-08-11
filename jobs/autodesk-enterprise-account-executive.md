@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Account Executive |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Seoul-KOR/Enterprise-Account-Executive_26WD95481-1) |
+| Category | Sales |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Seoul-KOR/Enterprise-Account-Executive_26WD100255-1) |
 
 ## About This Role
 
-This account executive position at Autodesk was posted on 2026-02-18.
+This sales position at Autodesk was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

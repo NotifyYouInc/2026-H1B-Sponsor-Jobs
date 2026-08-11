@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | West Chester, Pennsylvania, United States |
+| Location | Batavia, Illinois, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/985-Paoli-Pike-West-ChesterPA-19380-4527/Human-Resources-Expert_R0000447879) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/115-N-Randall-Rd-BataviaIL-60510-9209/Human-Resources-Expert_R0000448105) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-08-03.
+This human resources / people ops position at Target was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

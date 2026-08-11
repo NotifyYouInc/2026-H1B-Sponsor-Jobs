@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000141188209-talent-operations-lead) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000141419349-talent-operations-lead) |
 
 ## About This Role
 
-This human resources / people ops position at WISE was posted on 2026-08-03.
+This human resources / people ops position at WISE was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

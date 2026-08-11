@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taiwan |
+| Location | Kulim, Kedah, Malaysia |
 | Category | Industrial Automation |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Kaohsiung-City-Taiwan/Engineer-II--Manufacturing-Engineering_REQ-13260) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Kulim-Kedah-Malaysia/Engineer-II--Manufacturing-Engineering_REQ-13683-1) |
 
 ## About This Role
 
-This industrial automation position at Entegris was posted on 2026-07-23.
+This industrial automation position at Entegris was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

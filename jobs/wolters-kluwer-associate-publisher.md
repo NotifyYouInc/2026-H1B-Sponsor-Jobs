@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Content Marketing |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/CHN---Beijing/Associate-Publisher_R0055065) |
+| Location | Pune, Maharashtra, India |
+| Category | Product Marketing |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Associate-Publisher_R0058864) |
 
 ## About This Role
 
-This content marketing position at Wolters Kluwer was posted on 2026-02-24.
+This product marketing position at Wolters Kluwer was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

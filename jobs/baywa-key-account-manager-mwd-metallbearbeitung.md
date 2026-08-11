@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BayWa](https://scoutify.ai/companies/baywa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Würzburg, Bavaria, Germany |
-| Category | Account Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BayWaAG/744000140403257-key-account-manager-mwd-metallbearbeitung) |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Category | Sales |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BayWaAG/744000141425039-key-account-manager-mwd-metallbearbeitung) |
 
 ## About This Role
 
-This account manager position at BayWa was posted on 2026-07-29.
+This sales position at BayWa was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

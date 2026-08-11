@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | La Rochelle, Nouvelle-Aquitaine, France |
+| Location | France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137384327-ingenieur-integration-electrique-train-hf) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141426444-ingenieur-integration-electrique-train-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-13.
+This electrical / hardware engineer position at ALTEN was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

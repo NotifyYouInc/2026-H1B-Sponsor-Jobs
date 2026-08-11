@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 4 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Infrastructure-Architect_R00339279) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/AI-Infrastructure-Architect_ATCI-5705485-S2062440-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-06-29.
+This technical & solutions architect position at Accenture was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

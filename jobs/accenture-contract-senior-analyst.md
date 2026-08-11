@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Contract-Senior-Analyst_R00336519) |
+| Location | Mandaluyong, National Capital Region, Philippines |
+| Category | Legal |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mandaluyong/Contract-Senior-Analyst_R00341323-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-07-06.
+This legal position at Accenture was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000132341779-analyst-it) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000141418708-analyst-it) |
 
 ## About This Role
 
-This it & systems administration position at Mattel was posted on 2026-06-16.
+This it & systems administration position at Mattel was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

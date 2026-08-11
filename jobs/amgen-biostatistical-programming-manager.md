@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
-| Category | General |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Biostatistical-Programming-Manager_R-244135) |
+| Location | Hyderabad, Telangana, India |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Biostatistical-Programming-Manager_R-251035) |
 
 ## About This Role
 
-This general position at Amgen was posted on 2026-05-01.
+This bioinformatics / computational biology position at Amgen was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

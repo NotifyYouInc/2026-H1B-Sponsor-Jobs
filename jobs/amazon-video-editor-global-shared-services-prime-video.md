@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San José, San José, Costa Rica |
 | Category | Motion / Video Production |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10483291/video-editor-global-shared-services-prime-video) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10491299/video-editor-global-shared-services-prime-video) |
 
 ## About This Role
 
-This motion / video production position at Amazon was posted on 2026-07-24.
+This motion / video production position at Amazon was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
