@@ -5,12 +5,12 @@
 | Company | [Elanco](https://scoutify.ai/companies/elanco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/IN---Bangalore/Associate--FP-A_R0025639) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/IN---Bangalore/Associate--FP-A_R0026689) |
 
 ## About This Role
 
-This corporate finance position at Elanco was posted on 2026-05-07.
+This corporate finance position at Elanco was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

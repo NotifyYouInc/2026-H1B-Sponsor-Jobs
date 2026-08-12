@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Batu Kawan, Penang, Malaysia |
-| Category | QA Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138582346-test-engineer) |
+| Location | Bayan Lepas, Penang, Malaysia |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141639409-test-engineer) |
 
 ## About This Role
 
-This qa engineer position at Robert Bosch was posted on 2026-07-20.
+This electrical / hardware engineer position at Robert Bosch was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

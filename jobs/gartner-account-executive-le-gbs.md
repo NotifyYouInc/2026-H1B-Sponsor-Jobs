@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | San Francisco, California, United States |
 | Category | Sales |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Colorado/Account-Executive--LE--GBS_112549-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---San-Francisco-Metro/Account-Executive--LE--GBS_112266-1) |
 
 ## About This Role
 
-This sales position at Gartner was posted on 2026-08-04.
+This sales position at Gartner was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

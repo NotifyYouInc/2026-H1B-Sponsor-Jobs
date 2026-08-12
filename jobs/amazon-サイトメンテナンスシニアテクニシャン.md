@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Japan |
+| Location | Ōta, Tokyo, Japan |
 | Category | Industrial Automation |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10488100/) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10492586/) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-07-30.
+This industrial automation position at Amazon was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

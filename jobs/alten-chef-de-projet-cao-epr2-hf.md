@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Échirolles, Rhône-Alpes, France |
+| Location | Grenoble, Rhône-Alpes, France |
 | Category | Project Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135942829-chef-de-projet-cao-epr2-hf) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141655744-chef-de-projet-cao-epr2-hf) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-07-06.
+This project manager position at ALTEN was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

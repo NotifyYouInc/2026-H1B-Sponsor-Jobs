@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-SAP-PM-SAP-Advisory-Bangalore_710697WD-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-SAP-PM-SAP-Advisory-Bangalore_750162WD) |
 
 ## About This Role
 
-This technology / it consulting position at PwC was posted on 2026-05-23.
+This technology / it consulting position at PwC was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

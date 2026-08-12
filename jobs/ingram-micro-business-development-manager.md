@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cham, Zug, Switzerland |
-| Category | Engineering Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Cham-Switzerland/Business-Development-Manager_R-116082) |
+| Location | Singapore, Singapore |
+| Category | Sales |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Kallang-Bahru-Singapore/Business-Development-Manager_R-116785) |
 
 ## About This Role
 
-This engineering manager position at Ingram Micro was posted on 2026-07-16.
+This sales position at Ingram Micro was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

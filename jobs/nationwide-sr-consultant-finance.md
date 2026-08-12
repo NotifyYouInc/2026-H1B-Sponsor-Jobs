@@ -1,16 +1,16 @@
-# Sr Consultant, Finance at Nationwide
+# Sr. Consultant, Finance at Nationwide
 
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Sr-Consultant--Finance_097243) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Sr-Consultant--Finance_099117) |
 
 ## About This Role
 
-This corporate finance position at Nationwide was posted on 2026-03-20.
+This corporate finance position at Nationwide was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

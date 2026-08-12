@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Senior-Software-Engineer_R4042330-1) |
+| Location | Beijing, Beijing, China |
+| Category | Software Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/BeiJing/Senior-Software-Engineer_R4044652-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at GE HealthCare was posted on 2026-06-18.
+This software engineer position at GE HealthCare was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

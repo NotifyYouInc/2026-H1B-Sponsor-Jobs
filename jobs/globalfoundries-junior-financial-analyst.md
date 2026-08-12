@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dresden, Saxony, Germany |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Corporate Finance |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Dresden/Junior-Financial-Analyst_JR-2603493) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Sofia/Junior-Financial-Analyst_JR-2603529) |
 
 ## About This Role
 
-This corporate finance position at GlobalFoundries was posted on 2026-07-30.
+This corporate finance position at GlobalFoundries was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

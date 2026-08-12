@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Project Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principal-Cybersecurity-Specialist_R60267-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Principal-Cybersecurity-Specialist_R73294-1) |
 
 ## About This Role
 
-This project manager position at Medtronic was posted on 2026-02-26.
+This soc & incident response position at Medtronic was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

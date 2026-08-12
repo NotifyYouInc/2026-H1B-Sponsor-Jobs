@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/ENGINEER--PIE-PI_JR90690) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/ENGINEER--PIE-PI_JR91245) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-07-24.
+This semiconductor / chip design position at Micron was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

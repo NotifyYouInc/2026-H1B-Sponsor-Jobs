@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Account Executive |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/Sales-Specialist_R0137577) |
+| Location | Kolkata, West Bengal, India |
+| Category | Sales |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Kolkata-West-Bengal-India/Sales-Specialist_R0140093-1) |
 
 ## About This Role
 
-This account executive position at Hitachi was posted on 2026-07-13.
+This sales position at Hitachi was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

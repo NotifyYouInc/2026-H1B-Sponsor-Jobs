@@ -1,16 +1,16 @@
-# SENIOR FINANCE SPECIALIST - GENERALACCOU at ABB
+# Senior Finance Specialist - GeneralAccou at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Accounting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/SENIOR-FINANCE-SPECIALIST---GENERALACCOU_JR00040694) |
+| Category | Corporate Finance |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-Finance-Specialist---GeneralAccou_JR00042817-1) |
 
 ## About This Role
 
-This accounting position at ABB was posted on 2026-07-20.
+This corporate finance position at ABB was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

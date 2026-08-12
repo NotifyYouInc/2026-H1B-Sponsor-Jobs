@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/IND---Pune/Manager--Solution-Engineering_JR0129011) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/IND---Pune/Manager--Solution-Engineering_JR0131497) |
 
 ## About This Role
 
-This engineering manager position at Western Union was posted on 2026-02-25.
+This technical & solutions architect position at Western Union was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

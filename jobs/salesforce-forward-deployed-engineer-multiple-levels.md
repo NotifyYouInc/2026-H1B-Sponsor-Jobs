@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Forward Deployed Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Forward-Deployed-Engineer--Multiple-Levels-_JR309010) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Forward-Deployed-Engineer--Multiple-Levels-_JR355047) |
 
 ## About This Role
 
-This forward deployed engineer position at Salesforce was posted on 2026-07-23.
+This forward deployed engineer position at Salesforce was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

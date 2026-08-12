@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kulim, Kedah, Malaysia |
+| Location | Malaysia |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Process-and-Equipment-Engineer_JR0285462) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Process-and-Equipment-Engineer_JR0285995) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-07-09.
+This semiconductor / chip design position at Intel was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior / Engineer, HIG-HBM Product Engineering (Media Health Reliability) at Micron
+# Senior Engineer, HIG-HBM Product Engineering (Media Health Reliability) at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior---Engineer--HIG-HBM-Product-Engineering--Media-Health-Reliability-_JR93137) |
+| Location | Singapore, Singapore |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior-Engineer--HIG-HBM-Product-Engineering--Media-Health-Reliability-_JR106773) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Micron was posted on 2026-03-24.
+This semiconductor / chip design position at Micron was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

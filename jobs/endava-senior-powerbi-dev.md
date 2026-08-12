@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Iaşi, Iași County, Romania |
 | Category | Data Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000132999059-senior-powerbi-dev) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000141652286-senior-powerbi-dev) |
 
 ## About This Role
 
-This data engineer position at Endava was posted on 2026-06-19.
+This data engineer position at Endava was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

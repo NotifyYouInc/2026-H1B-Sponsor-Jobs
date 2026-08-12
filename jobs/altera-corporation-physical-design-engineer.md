@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Telangana, IN |
+| Location | Penang, MY |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Regus-Madhapur/Physical-Design-Engineer_R02579) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Physical-Design-Engineer_R02928) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-06-10.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

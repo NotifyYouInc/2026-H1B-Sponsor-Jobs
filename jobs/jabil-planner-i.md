@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Maharashtra, IN |
-| Category | Operations |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Planner-I_J2414719) |
+| Location | India |
+| Category | Business Analyst |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Planner-I_J2454087) |
 
 ## About This Role
 
-This operations position at Jabil was posted on 2026-02-23.
+This business analyst position at Jabil was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

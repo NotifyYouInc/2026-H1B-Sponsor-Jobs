@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vadodara, Gujarat, India |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123357749-senior-data-operations-analyst-so) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000141640749-senior-data-operations-analyst-so) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-04-28.
+This data analyst position at NielsenIQ was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

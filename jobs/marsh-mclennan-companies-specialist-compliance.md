@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mumbai---Hiranandani/Specialist---Compliance_R_357491-1) |
+| Category | Financial Crimes & AML |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mumbai---Hiranandani/Specialist---Compliance_R_359494) |
 
 ## About This Role
 
-This compliance & risk management position at Marsh & McLennan Companies was posted on 2026-07-22.
+This financial crimes & aml position at Marsh & McLennan Companies was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

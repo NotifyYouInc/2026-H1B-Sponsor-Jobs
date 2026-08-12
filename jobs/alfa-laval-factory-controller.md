@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Qingdao, Shandong, China |
 | Category | Corporate Finance |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Indianapolis-IN/Factory-Controller_JR0043031-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Qingdao/Factory-Controller_JR0044097-1) |
 
 ## About This Role
 
-This corporate finance position at Alfa Laval was posted on 2026-02-17.
+This corporate finance position at Alfa Laval was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

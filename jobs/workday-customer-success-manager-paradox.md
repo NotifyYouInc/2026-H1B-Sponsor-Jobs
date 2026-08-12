@@ -1,16 +1,16 @@
-# Customer Success Manager - Paradox at Workday
+# Customer Success Manager, Paradox at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Customer Success Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-AZ-Scottsdale/Customer-Success-Manager---Paradox_JR-0107605-1) |
+| Category | Customer Success |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-AZ-Scottsdale/Customer-Success-Manager--Paradox_JR-0108919) |
 
 ## About This Role
 
-This customer success manager position at Workday was posted on 2026-07-17.
+This customer success position at Workday was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Reading, England, United Kingdom |
 | Category | Project Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kolkata-India/Manager--Clinical-Data-Management_R1542454) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Manager--Clinical-Data-Management_R1561414) |
 
 ## About This Role
 
-This project manager position at IQVIA was posted on 2026-05-20.
+This project manager position at IQVIA was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

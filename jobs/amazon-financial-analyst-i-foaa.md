@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Accounting |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10489851/financial-analyst-i-foaa) |
+| Category | Corporate Finance |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10492479/financial-analyst-i-foaa) |
 
 ## About This Role
 
-This accounting position at Amazon was posted on 2026-08-01.
+This corporate finance position at Amazon was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

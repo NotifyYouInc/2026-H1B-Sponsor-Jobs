@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taiwan |
-| Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Linkou-Taiwan/Manufacturing---HVM-Tech-Support-Team-Leader---Linkou_J-00336456) |
+| Category | Engineering Manager |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Linkou-Taiwan/Manufacturing---HVM-Tech-Support-Team-Leader---Linkou_J-00347738) |
 
 ## About This Role
 
-This customer success position at ASML was posted on 2026-04-07.
+This engineering manager position at ASML was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mission Viejo, California, United States |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Mission-Viejo/Solar-Appointment-Setter_R71424) |
+| Location | Los Banos, California, United States |
+| Category | Sales |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Los-Banos/Retail-Specialist_R72020) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Sunrun was posted on 2026-07-24.
+This sales position at Sunrun was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

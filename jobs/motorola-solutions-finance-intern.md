@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
-| Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Finance-Intern_R67199) |
+| Category | Corporate Finance |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Finance-Intern_R67100) |
 
 ## About This Role
 
-This accounting position at Motorola Solutions was posted on 2026-07-29.
+This corporate finance position at Motorola Solutions was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

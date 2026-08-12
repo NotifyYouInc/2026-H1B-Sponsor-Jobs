@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Jose, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Senior-Engineer_R116386) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Senior-Engineer_R118549) |
 
 ## About This Role
 
-This software engineer position at Samsung was posted on 2026-05-06.
+This semiconductor / chip design position at Samsung was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
