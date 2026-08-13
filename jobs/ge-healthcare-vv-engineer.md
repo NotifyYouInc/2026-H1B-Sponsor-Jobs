@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Haifa, Haifa, Israel |
 | Category | QA Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/V-V-Engineer_R4037926-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/V-V-Engineer_R4044724-1) |
 
 ## About This Role
 
-This qa engineer position at GE HealthCare was posted on 2026-03-16.
+This qa engineer position at GE HealthCare was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Account Executive |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000128401004-sales-executive) |
+| Category | Sales |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000141844644-sales-executive) |
 
 ## About This Role
 
-This account executive position at Informa was posted on 2026-05-26.
+This sales position at Informa was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

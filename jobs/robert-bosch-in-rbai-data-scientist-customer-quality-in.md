@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000120600407-in-rbai-data-scientist-customer-quality-in) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141850230-in-rbai-data-scientist-customer-quality-in) |
 
 ## About This Role
 
-This data scientist position at Robert Bosch was posted on 2026-04-14.
+This data scientist position at Robert Bosch was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

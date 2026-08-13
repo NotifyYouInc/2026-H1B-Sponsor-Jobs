@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ahmedabad, Gujarat, India |
-| Category | Account Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Ahmedabad-India/Account-Manager---Sales_R-114299) |
+| Location | Kolkata, West Bengal, India |
+| Category | Sales |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Kolkata-India/Account-Manager---Sales_R-113121) |
 
 ## About This Role
 
-This account manager position at Ingram Micro was posted on 2026-04-23.
+This sales position at Ingram Micro was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

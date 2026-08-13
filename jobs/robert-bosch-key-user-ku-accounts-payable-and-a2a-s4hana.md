@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126462761-key-user-ku-accounts-payable-and-a2a-s4hana) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141854379-key-user-ku-accounts-payable-and-a2a-s4hana) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-05-14.
+This corporate finance position at Robert Bosch was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

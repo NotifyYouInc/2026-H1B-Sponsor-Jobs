@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
-| Category | Customer Success Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Customer-Success-Manager_JR352327) |
+| Location | Singapore, Singapore |
+| Category | Customer Success |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Customer-Success-Manager_JR355098) |
 
 ## About This Role
 
-This customer success manager position at Salesforce was posted on 2026-07-23.
+This customer success position at Salesforce was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

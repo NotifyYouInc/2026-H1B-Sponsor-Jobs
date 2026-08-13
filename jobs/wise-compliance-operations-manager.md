@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000118321397-compliance-operations-manager) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000141849465-compliance-operations-manager) |
 
 ## About This Role
 
-This compliance & risk management position at WISE was posted on 2026-04-02.
+This compliance & risk management position at WISE was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Client Solutions Manager (Technology) at Robert Half
+# Client Solutions Manager - Technology at Robert Half
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Half](https://scoutify.ai/companies/robert-half?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Account Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://roberthalf.wd1.myworkdayjobs.com/RobertHalfStaffingCareers/job/CHICAGO/Client-Solutions-Manager--Technology-_JR-260041) |
+| Location | Bloomington, Minnesota, United States |
+| Category | Sales |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://roberthalf.wd1.myworkdayjobs.com/RobertHalfStaffingCareers/job/BLOOMINGTON/Client-Solutions-Manager---Technology_JR-261177) |
 
 ## About This Role
 
-This account manager position at Robert Half was posted on 2026-04-07.
+This sales position at Robert Half was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

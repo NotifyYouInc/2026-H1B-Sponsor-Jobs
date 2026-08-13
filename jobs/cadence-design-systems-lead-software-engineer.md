@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Software-Engineer-II_R51886) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Lead-Software-Engineer_R55817) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-06-02.
+This software engineer position at Cadence Design Systems was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

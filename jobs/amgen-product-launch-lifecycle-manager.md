@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Program Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Product-Launch---Lifecycle-Manager_R-251534) |
+| Category | Product Marketing |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Product-Launch---Lifecycle-Manager_R-251530) |
 
 ## About This Role
 
-This program manager position at Amgen was posted on 2026-08-04.
+This product marketing position at Amgen was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

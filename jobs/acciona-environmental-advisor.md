@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Compliance & Risk Management |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Melbourne/Advisor--Environmental_20091235) |
+| Category | ESG / Sustainability |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Melbourne/Environmental-Advisor_20100126) |
 
 ## About This Role
 
-This compliance & risk management position at Acciona was posted on 2026-02-17.
+This esg / sustainability position at Acciona was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

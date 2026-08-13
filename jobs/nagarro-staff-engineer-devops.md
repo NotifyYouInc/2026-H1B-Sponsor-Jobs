@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121575597-staff-engineer-devops) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000141845530-staff-engineer-devops) |
 
 ## About This Role
 
-This devops engineer position at Nagarro was posted on 2026-04-18.
+This devops engineer position at Nagarro was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

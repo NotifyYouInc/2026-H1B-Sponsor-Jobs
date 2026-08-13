@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Marketing Operations |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000136728369-sales-es-marketing-tamogato-gyakornok) |
+| Category | Marketing |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141857131-sales-es-marketing-tamogato-gyakornok) |
 
 ## About This Role
 
-This marketing operations position at Robert Bosch was posted on 2026-07-09.
+This marketing position at Robert Bosch was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

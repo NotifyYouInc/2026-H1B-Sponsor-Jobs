@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Haryana, IN |
-| Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Gurgaon-Haryana-India/Commercial-Account-Manager_1204762) |
+| Location | Gurugram, Haryana, India |
+| Category | Sales |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Gurgaon-Haryana-India/Commercial-Account-Manager_1210346) |
 
 ## About This Role
 
-This account executive position at Hewlett Packard Enterprise was posted on 2026-03-26.
+This sales position at Hewlett Packard Enterprise was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

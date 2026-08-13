@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Ulsan, Ulsan, South Korea |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10489965/data-center-operation-engineer-dco-data-center-operations) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10493835/data-center-operation-engineer-dco-data-center-operations) |
 
 ## About This Role
 
-This it & systems administration position at Amazon was posted on 2026-08-03.
+This it & systems administration position at Amazon was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

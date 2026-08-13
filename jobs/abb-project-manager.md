@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Henderson, Auckland, New Zealand |
+| Location | Bengaluru, Karnataka, India |
 | Category | Project Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Henderson-Western-Australia-New-Zealand/Project-Manager_JR00040898) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Project-Manager_JR00043246) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-07-15.
+This project manager position at ABB was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 
