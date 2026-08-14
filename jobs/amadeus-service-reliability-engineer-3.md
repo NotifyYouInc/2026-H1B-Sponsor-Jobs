@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Service-Reliability-Engineer-3_R34039-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Service-Reliability-Engineer-3_R35801-1) |
 
 ## About This Role
 
-This devops engineer position at Amadeus was posted on 2026-03-19.
+This devops engineer position at Amadeus was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

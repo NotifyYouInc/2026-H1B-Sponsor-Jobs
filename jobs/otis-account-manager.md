@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Otis](https://scoutify.ai/companies/otis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ottawa, Ontario, Canada |
-| Category | Account Manager |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/LOC13040-2480-Lancaster-RoadOttawaOntarioK1B-4S5Canada/Account-Manager_20161228) |
+| Location | Phoenix, Arizona, United States |
+| Category | Sales |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/OT363-SO---Phoenix-AZ-4405-East-Baseline-Rd-Phoenix-AZ-85042-USA/Account-Manager_20166607) |
 
 ## About This Role
 
-This account manager position at Otis was posted on 2026-06-06.
+This sales position at Otis was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

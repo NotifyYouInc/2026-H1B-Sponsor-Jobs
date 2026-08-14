@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iHeartMedia](https://scoutify.ai/companies/iheartmedia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 7 locations |
+| Location | District of Columbia, US |
 | Category | Sales Leadership |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Medford-MA-Cabot/Vice-President-of-Digital-Sales--Markets_Req38915-2) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Virtual-TN/Vice-President-of-Digital-Sales--Markets_Req38940-4) |
 
 ## About This Role
 
-This sales leadership position at iHeartMedia was posted on 2026-07-16.
+This sales leadership position at iHeartMedia was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

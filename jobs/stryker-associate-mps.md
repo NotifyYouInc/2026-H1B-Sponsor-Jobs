@@ -1,16 +1,16 @@
-# Associate-MPS at Stryker
+# Associate MPS at Stryker
 
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Program Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mumbai-India/Associate-MPS_R561985) |
+| Location | Surat, Gujarat, India |
+| Category | Customer Success |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Surat-India/Associate-MPS_R567018) |
 
 ## About This Role
 
-This program manager position at Stryker was posted on 2026-07-27.
+This customer success position at Stryker was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

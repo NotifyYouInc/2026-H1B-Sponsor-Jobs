@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Brest, Brittany, France |
 | Category | QA Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000140831593-ingenieur-essais-integration-hf) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000142056499-ingenieur-essais-integration-hf) |
 
 ## About This Role
 
-This qa engineer position at ALTEN was posted on 2026-07-31.
+This qa engineer position at ALTEN was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000136725779-manager-people-support-apac-leader) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000142057089-manager-people-support-apac-leader) |
 
 ## About This Role
 
-This human resources / people ops position at SanDisk was posted on 2026-07-09.
+This human resources / people ops position at SanDisk was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

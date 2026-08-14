@@ -5,12 +5,12 @@
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Consultant--Corporate-Compliance_097085) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Consultant--Corporate-Compliance_099547-1) |
 
 ## About This Role
 
-This compliance & risk management position at Nationwide was posted on 2026-03-08.
+This compliance & risk management position at Nationwide was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

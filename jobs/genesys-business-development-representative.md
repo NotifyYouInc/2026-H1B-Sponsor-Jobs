@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Business Development |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Telangana-India/Business-Development-Representative_JR110905) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Sales |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Mexico-City-Mexico/Business-Development-Representative_JR111845-1) |
 
 ## About This Role
 
-This business development position at Genesys was posted on 2026-05-06.
+This sales position at Genesys was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

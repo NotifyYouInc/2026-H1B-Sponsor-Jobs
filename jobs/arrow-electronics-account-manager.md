@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bavaria, DE |
-| Category | Account Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Bavaria/Account-Manager_R245876) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Sales |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/KR-Seoul-Korea-Centerpoint-Seocho/Account-Manager_R246034) |
 
 ## About This Role
 
-This account manager position at Arrow Electronics was posted on 2026-07-22.
+This sales position at Arrow Electronics was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

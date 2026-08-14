@@ -5,12 +5,12 @@
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA-01/Design-Engineering-Architect_R51719) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA-01/Sr-Principal-Design-Engineer_R55559) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-06-20.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

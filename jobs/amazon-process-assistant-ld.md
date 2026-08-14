@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Learning & Development |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440621/process-assistant-l-d) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10495531/process-assistant-l-d) |
 
 ## About This Role
 
-This learning & development position at Amazon was posted on 2026-06-05.
+This learning & development position at Amazon was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

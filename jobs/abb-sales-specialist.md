@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wuxi, Jiangsu, China |
-| Category | Account Executive |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Wuxi-Jiangsu-China/Sales-Specialist_JR00043131-4) |
+| Location | Lanzhou, Gansu, China |
+| Category | Sales |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Lanzhou-Gansu-China/Sales-Specialist_JR00043371) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-08-06.
+This sales position at ABB was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

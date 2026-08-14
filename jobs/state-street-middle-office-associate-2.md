@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | Corporate Finance |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Middle-Office--Associate-2_R-792946) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Middle-Office--Associate-2_R-795719) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-06-25.
+This corporate finance position at State Street was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

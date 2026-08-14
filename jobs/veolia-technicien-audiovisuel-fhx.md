@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Luxembourg |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137061849-technicien-audiovisuel-fhx) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142054559-technicien-audiovisuel-fhx) |
 
 ## About This Role
 
-This it & systems administration position at Veolia was posted on 2026-07-10.
+This it & systems administration position at Veolia was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

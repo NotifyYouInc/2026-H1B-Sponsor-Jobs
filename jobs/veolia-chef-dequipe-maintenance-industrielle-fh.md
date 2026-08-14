@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Villeneuve-Saint-Georges, Île-de-France, France |
 | Category | Industrial Automation |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138808237-chef-dequipe-maintenance-industrielle-fh) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142067139-chef-dequipe-maintenance-industrielle-fh) |
 
 ## About This Role
 
-This industrial automation position at Veolia was posted on 2026-07-21.
+This industrial automation position at Veolia was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

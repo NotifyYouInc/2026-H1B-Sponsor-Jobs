@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Parramatta, New South Wales, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Project Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Parramatta/Planner_20095488) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Sydney/Planner_20100361) |
 
 ## About This Role
 
-This project manager position at Acciona was posted on 2026-04-16.
+This project manager position at Acciona was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

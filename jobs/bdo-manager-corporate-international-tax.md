@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | 2 locations |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Brisbane-Queensland/Manager--Corporate---International-Tax_JR102682) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Sydney-New-South-Wales/Manager--Corporate---International-Tax_JR103630) |
 
 ## About This Role
 
-This financial advisory & consulting position at Bdo was posted on 2026-02-25.
+This financial advisory & consulting position at Bdo was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

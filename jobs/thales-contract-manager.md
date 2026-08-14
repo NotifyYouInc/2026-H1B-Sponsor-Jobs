@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Paço de Arcos, Lisbon, Portugal |
+| Location | Queensland, AU |
 | Category | Legal |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Pao-de-Arcos---Q45/Contract-Manager_R0330150) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Eagle-Farm/Contract-Manager_R0336383) |
 
 ## About This Role
 
-This legal position at Thales was posted on 2026-07-03.
+This legal position at Thales was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
