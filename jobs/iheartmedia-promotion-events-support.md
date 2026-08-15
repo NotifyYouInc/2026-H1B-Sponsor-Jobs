@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iHeartMedia](https://scoutify.ai/companies/iheartmedia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Las Vegas, Nevada, United States |
-| Category | Field & Event Marketing |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Las-Vegas-NV-425-Fremont-Street-Suite-220-89101/Promotion-Events-Support_Req38991) |
+| Location | Franklin, Tennessee, United States |
+| Category | Marketing |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Franklin-NJ/Promotion-Events-Support_Req39065-3) |
 
 ## About This Role
 
-This field & event marketing position at iHeartMedia was posted on 2026-07-24.
+This marketing position at iHeartMedia was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

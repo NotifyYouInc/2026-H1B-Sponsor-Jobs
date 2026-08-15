@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Menlo Park, California, United States |
-| Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1592797415841950) |
+| Location | 2 locations |
+| Category | Strategy & Operations |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2851019931950200) |
 
 ## About This Role
 
-This accounting position at Meta was posted on 2026-07-24.
+This strategy & operations position at Meta was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Content Marketing |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Senior-Copywriter--Customer---Brand-Partnerships-Creative_JR343770) |
+| Location | 2 locations |
+| Category | Marketing |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Senior-Copywriter--Customer---Brand-Partnerships-Creative_JR355137) |
 
 ## About This Role
 
-This content marketing position at Salesforce was posted on 2026-05-29.
+This marketing position at Salesforce was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Daly City, California, United States |
-| Category | Account Executive |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Daly-City-CA-USA/Construction-Account-Manager_R-171341) |
+| Location | Houston, Texas, United States |
+| Category | Sales |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Houston-TX-USA/Construction-Account-Manager_R-181587) |
 
 ## About This Role
 
-This account executive position at Republic Services was posted on 2026-03-21.
+This sales position at Republic Services was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

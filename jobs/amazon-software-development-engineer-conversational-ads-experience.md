@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10437313/software-development-engineer-conversational-ads-experience) |
+| Location | Seattle, Washington, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10496449/software-development-engineer-conversational-ads-experience) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-06-02.
+This ai / llm engineer position at Amazon was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

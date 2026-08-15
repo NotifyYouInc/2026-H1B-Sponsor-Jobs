@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Redwood City, California, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Software Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Redwood-City/Software-Engineering-SMTS_JR340228) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR353515) |
 
 ## About This Role
 
-This software engineer position at Salesforce was posted on 2026-05-01.
+This software engineer position at Salesforce was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

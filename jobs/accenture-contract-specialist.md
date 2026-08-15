@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Legal |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Contract-Specialist_R00338533) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bogota-Carrera-7/Contract-Specialist_R00336717) |
 
 ## About This Role
 
-This legal position at Accenture was posted on 2026-07-06.
+This legal position at Accenture was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

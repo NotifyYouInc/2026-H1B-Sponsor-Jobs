@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Las Vegas, Nevada, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Office---US-Las-Vegas-NV-975-Kelly-Johnson-Dr/Global-Security-Center-Operator---Corporate_274645) |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Office---US-Las-Vegas-NV-975-Kelly-Johnson-Dr/Global-Security-Center-Operator---Corporate_278198) |
 
 ## About This Role
 
-This security engineer position at MGM Resorts International was posted on 2026-04-25.
+This soc & incident response position at MGM Resorts International was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

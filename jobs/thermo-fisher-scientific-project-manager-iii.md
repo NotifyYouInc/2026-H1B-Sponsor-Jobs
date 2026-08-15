@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Morrisville, North Carolina, United States |
 | Category | Project Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Project-Manager-III_R-01357170) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Project-Manager-III_R-01363166) |
 
 ## About This Role
 
-This project manager position at Thermo Fisher Scientific was posted on 2026-06-24.
+This project manager position at Thermo Fisher Scientific was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Gurgaon/Senior-Director--Product---Operations-Lead_R-144470) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Program Manager |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Mexico---Mexico-City/Senior-Director--Product---Operations-Lead_R-144472) |
 
 ## About This Role
 
-This product manager position at Coca-Cola was posted on 2026-08-07.
+This program manager position at Coca-Cola was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

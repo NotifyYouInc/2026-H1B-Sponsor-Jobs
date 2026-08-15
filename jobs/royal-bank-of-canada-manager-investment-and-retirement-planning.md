@@ -1,16 +1,16 @@
-# Manager, Investment and Retirement Planning at Royal Bank of Canada
+# Manager Investment and Retirement Planning at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Coquitlam, British Columbia, Canada |
-| Category | Sales Leadership |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/COQUITLAM-British-Columbia-Canada/Manager--Investment-and-Retirement-Planning_R-0000171878) |
+| Location | Kamloops, British Columbia, Canada |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/KAMLOOPS-British-Columbia-Canada/Manager-Investment-and-Retirement-Planning_R-0000183593) |
 
 ## About This Role
 
-This sales leadership position at Royal Bank of Canada was posted on 2026-05-09.
+This asset management / portfolio management position at Royal Bank of Canada was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

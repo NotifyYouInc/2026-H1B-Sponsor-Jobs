@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pleasant Grove, Utah, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Sales |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Pleasant-Grove-UT-USA/Account-Manager_R-180986) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Columbus-OH-USA/Account-Manager_R-181365) |
 
 ## About This Role
 
-This sales position at Republic Services was posted on 2026-07-31.
+This sales position at Republic Services was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

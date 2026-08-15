@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Malaysia |
+| Location | San Diego, California, United States |
 | Category | QA Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Penang-Malaysia/Sr-Software-QA-Engineer_JR117815) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Sr-Software-QA-Engineer_JR120405) |
 
 ## About This Role
 
-This qa engineer position at Dexcom was posted on 2026-04-10.
+This qa engineer position at Dexcom was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

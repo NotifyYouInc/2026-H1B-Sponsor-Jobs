@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Account Executive |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Territory-Account-Executive_JR343748) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Sales |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Territory-Account-Executive-3_JR354755-1) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-06-02.
+This sales position at Salesforce was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Springdale, Arkansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-on-Thompson---Springdale-Arkansas/Senior-Supervisor-Accounting_R0449871-2) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-on-Thompson---Springdale-Arkansas/Senior-Supervisor-Accounting_R0476918) |
 
 ## About This Role
 
-This corporate finance position at Tyson Foods was posted on 2026-03-13.
+This corporate finance position at Tyson Foods was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mountain View, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556944431) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556945477) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-07-27.
+This software engineer position at Microsoft was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

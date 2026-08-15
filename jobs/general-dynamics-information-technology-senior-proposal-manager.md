@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Herndon, Virginia, United States |
-| Category | Project Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Senior-Proposal-Manager_RQ216077-1) |
+| Category | Program Manager |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Senior-Proposal-Manager_RQ225753-1) |
 
 ## About This Role
 
-This project manager position at General Dynamics Information Technology was posted on 2026-03-12.
+This program manager position at General Dynamics Information Technology was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dematic](https://scoutify.ai/companies/kiongroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Memphis, Tennessee, United States |
 | Category | Industrial Automation |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Dallas-TX-United-States/Electro-Mechanical-Technician-4_JR-0087428) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Memphis-TN-United-States/Electro-Mechanical-Technician-4_JR-0094587) |
 
 ## About This Role
 
-This industrial automation position at Dematic was posted on 2026-06-19.
+This industrial automation position at Dematic was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

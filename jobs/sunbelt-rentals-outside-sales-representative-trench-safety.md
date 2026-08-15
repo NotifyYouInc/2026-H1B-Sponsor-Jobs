@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunbelt Rentals](https://scoutify.ai/companies/sunbelt-rentals?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Glendale, Arizona, United States |
-| Category | Account Executive |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Glendale-AZ-85301/Outside-Sales-Representative---Trench-Safety_2026-8780) |
+| Location | Irving, Texas, United States |
+| Category | Sales |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://sunbeltrentals.wd1.myworkdayjobs.com/sbcareers/job/Irving-TX-75062/Outside-Sales-Representative---Trench-Safety_2026-13500) |
 
 ## About This Role
 
-This account executive position at Sunbelt Rentals was posted on 2026-05-22.
+This sales position at Sunbelt Rentals was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

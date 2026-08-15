@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ann Arbor, Michigan, United States |
-| Category | Account Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Remote-United-States-of-America/Senior-Account-Manager_JREQ136146-1) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Sales |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Brazil---Sao-Paolo/Senior-Account-Manager_JREQ136201-1) |
 
 ## About This Role
 
-This account manager position at Clarivate was posted on 2026-07-31.
+This sales position at Clarivate was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 
