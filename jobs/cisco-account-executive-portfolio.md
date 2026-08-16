@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Espoo, Uusimaa, Finland |
-| Category | Account Executive |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Espoo-Finland/Account-Executive---Portfolio_2011081-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Sales |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Mumbai-India/Account-Executive---Portfolio_2018781) |
 
 ## About This Role
 
-This account executive position at Cisco was posted on 2026-05-09.
+This sales position at Cisco was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

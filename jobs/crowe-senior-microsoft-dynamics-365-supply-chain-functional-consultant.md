@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 18 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Senior-Microsoft-Dynamics-365-Supply-Chain-Functional-Consultant_R-51513) |
+| Location | 26 locations |
+| Category | Business Analyst |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Senior-Microsoft-Dynamics-365-Supply-Chain-Functional-Consultant_R-51512) |
 
 ## About This Role
 
-This technology / it consulting position at Crowe was posted on 2026-06-26.
+This business analyst position at Crowe was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

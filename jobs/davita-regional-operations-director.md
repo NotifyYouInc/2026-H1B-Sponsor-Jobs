@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Oakland, California, United States |
+| Location | Sun Prairie, Wisconsin, United States |
 | Category | Operations |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05748---Frontier-Acutes-Division-Office/Regional-Operations-Director_R0454903) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/02874---Wisconsin-Badgerland-Region-02-Office/Regional-Operations-Director_R0472531) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-04-17.
+This operations position at DaVita was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

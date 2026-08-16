@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Learning & Development |
+| Category | Sales Leadership |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Sales-Capability_R-144686-1) |
 
 ## About This Role
 
-This learning & development position at Coca-Cola was posted on 2026-08-08.
+This sales leadership position at Coca-Cola was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

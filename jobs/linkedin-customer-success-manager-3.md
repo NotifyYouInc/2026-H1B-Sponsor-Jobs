@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000129090985-customer-success-manager-3) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000142379989-customer-success-manager-3) |
 
 ## About This Role
 
-This customer success position at LinkedIn was posted on 2026-05-29.
+This customer success position at LinkedIn was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Penang, MY |
+| Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Physical-Design-Engineer_R02928) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Physical-Design-Engineer_R02909) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-08-05.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Austin, Texas, United States |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0286300) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0286301) |
 
 ## About This Role
 

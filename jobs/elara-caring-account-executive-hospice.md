@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elara Caring](https://scoutify.ai/companies/elara-caring?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Decatur-IN---General-Area/Account-Executive---Hospice_JR-134431) |
+| Location | 3 locations |
+| Category | Sales |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Fort-Wayne---IN/Hospice-Account-Executive_JR-136930) |
 
 ## About This Role
 
-This account executive position at Elara Caring was posted on 2026-04-09.
+This sales position at Elara Caring was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

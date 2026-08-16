@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Business-Interlock-Senior-Analyst_AIOC-S01601749-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Learning & Development |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Business-Interlock-Senior-Analyst_AIOC-S01625539-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-05-18.
+This learning & development position at Accenture was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Cambridge, Massachusetts, United States |
 | Category | Marketing |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Shanghai/Marketing-Manager_R2855716-1) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Marketing-Manager_R2867041) |
 
 ## About This Role
 
-This marketing position at Sanofi was posted on 2026-04-29.
+This marketing position at Sanofi was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

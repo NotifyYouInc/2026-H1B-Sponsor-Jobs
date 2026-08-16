@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Rancho Cordova, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000109145385-software-engineer) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000142377230-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Solidigm was posted on 2026-02-13.
+This software engineer position at Solidigm was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

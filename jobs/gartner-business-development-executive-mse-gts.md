@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | Sales |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Business-Development-Executive--MSE--GTS_111589-1) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Business-Development-Executive--MSE--GTS_113152-1) |
 
 ## About This Role
 
-This sales position at Gartner was posted on 2026-08-07.
+This sales position at Gartner was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

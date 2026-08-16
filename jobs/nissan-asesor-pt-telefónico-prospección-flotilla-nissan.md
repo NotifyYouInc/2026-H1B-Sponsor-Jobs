@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nissan](https://scoutify.ai/companies/alliance?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Aguascalientes, Aguascalientes, Mexico |
-| Category | Business Development |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Aguascalientes-Aguascalientes---Mexico/Asesor-PT-telefnico---Prospeccin-flotilla-Nissan_R00209279) |
+| Category | Sales |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Aguascalientes-Aguascalientes---Mexico/Asesor-PT-telefnico---Prospeccin-flotilla-Nissan_R00212720) |
 
 ## About This Role
 
-This business development position at Nissan was posted on 2026-05-01.
+This sales position at Nissan was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

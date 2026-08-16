@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Sales |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000141047229-account-executive) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000142383759-account-executive) |
 
 ## About This Role
 
-This sales position at MicroStrategy was posted on 2026-08-01.
+This sales position at MicroStrategy was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 
