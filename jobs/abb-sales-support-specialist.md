@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Industrial Automation |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Sales-Support-Specialist_JR00041585) |
+| Category | Sales Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Sales-Support-Specialist_JR00038823) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-07-29.
+This sales engineer position at ABB was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-287384) |
+| Category | Software Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-281852) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-08-05.
+This software engineer position at Mastercard was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Goleta, California, United States |
+| Location | 2 locations |
 | Category | Program Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-B02--75-Coromar-Dr--BLDG-B02/Material-Program-Manager-Capital-Projects_01855952) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Material-Program-Manager-Capital-Projects_01855953) |
 
 ## About This Role
 
-This program manager position at RTX was posted on 2026-08-06.
+This program manager position at RTX was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454660/accounting-assistant-amazon-freight) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10496646/accounting-assistant-amazon-freight) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-06-22.
+This corporate finance position at Amazon was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

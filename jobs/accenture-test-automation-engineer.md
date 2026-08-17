@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | QA Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Test-Automation-Engineer_ATCI-5691183-S2062850) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Test-Automation-Engineer_ATCI-5710070-S2063223-1) |
 
 ## About This Role
 
-This qa engineer position at Accenture was posted on 2026-08-06.
+This qa engineer position at Accenture was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

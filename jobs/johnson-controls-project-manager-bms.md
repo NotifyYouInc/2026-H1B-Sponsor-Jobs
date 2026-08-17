@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Scoresby, Victoria, Australia |
 | Category | Project Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Sydney-New-South-Wales-Australia/Project-Manager---BMS_WD30269983) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Scoresby-Caribbean-Australia/Project-Manager---BMS_WD30276259) |
 
 ## About This Role
 
-This project manager position at Johnson Controls was posted on 2026-05-27.
+This project manager position at Johnson Controls was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

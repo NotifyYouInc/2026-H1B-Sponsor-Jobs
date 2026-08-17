@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Managing-Consultant--Advisors---Consulting-Services--Strategy---Transformation_R-278897) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Tokyo-Japan/Managing-Consultant--Advisors---Consulting-Services--Strategy---Transformation_R-287499) |
 
 ## About This Role
 
-This strategy / management consulting position at Mastercard was posted on 2026-05-26.
+This strategy / management consulting position at Mastercard was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

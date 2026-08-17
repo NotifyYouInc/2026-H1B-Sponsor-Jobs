@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Account Executive |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7182169?gh_jid=7182169) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8104751?gh_jid=8104751) |
 
 ## About This Role
 
-This account executive position at Okta was posted on 2026-05-25.
+This account executive position at Okta was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

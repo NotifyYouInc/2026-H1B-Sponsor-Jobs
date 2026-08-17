@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Germany |
 | Category | Operations |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142058903-executive-assistant-fachreferent-des-bereichsvorstands-wmdiv) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142561739-executive-assistant-fachreferent-des-bereichsvorstands-wmdiv) |
 
 ## About This Role
 
-This operations position at Robert Bosch was posted on 2026-08-07.
+This operations position at Robert Bosch was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Software-Development-Engineer_ATCI-R1-S1922750-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Integration-Engineer_ATCI-5709914-S2063220-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-22.
+This software engineer position at Accenture was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

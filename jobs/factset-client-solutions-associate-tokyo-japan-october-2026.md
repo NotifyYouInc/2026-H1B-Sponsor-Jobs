@@ -5,12 +5,12 @@
 | Company | [FactSet](https://scoutify.ai/companies/factset?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Tokyo-JP/Client-Solutions-Associate--Tokyo--Japan---October-2026-_R32456) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Tokyo-JP/Client-Solutions-Associate--Tokyo--Japan---October-2026-_R32933) |
 
 ## About This Role
 
-This customer success position at FactSet was posted on 2026-06-08.
+This customer success position at FactSet was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | South Korea |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Icheon-GodamKOR/PDC-VeritySEM--Process-Support-Engineer_R2619854) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Icheon-GodamKOR/PDC-VeritySEM--Process-Support-Engineer_R2625812) |
 
 ## About This Role
 
-This semiconductor / chip design position at Applied Materials was posted on 2026-05-19.
+This semiconductor / chip design position at Applied Materials was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

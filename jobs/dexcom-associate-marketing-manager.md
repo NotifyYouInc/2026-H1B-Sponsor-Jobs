@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Content Marketing |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Manila-Philippines/Associate-Marketing-Manager_JR117278) |
+| Location | Auckland, Auckland, New Zealand |
+| Category | Marketing |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Auckland-New-Zealand/Associate-Marketing-Manager_JR120079) |
 
 ## About This Role
 
-This content marketing position at Dexcom was posted on 2026-03-13.
+This marketing position at Dexcom was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

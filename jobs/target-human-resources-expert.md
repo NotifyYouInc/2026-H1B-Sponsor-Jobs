@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Batavia, Illinois, United States |
+| Location | San Jose, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/115-N-Randall-Rd-BataviaIL-60510-9209/Human-Resources-Expert_R0000448105) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1811-Hillsdale-Ave-San-JoseCA-95124-3027/Human-Resources-Expert_R0000448759) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-08-04.
+This human resources / people ops position at Target was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

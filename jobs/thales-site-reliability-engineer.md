@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Khobar, Eastern Province, Saudi Arabia |
-| Category | Security Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Khobar/Site-Reliability-Engineer_R0330235) |
+| Location | Austin, Texas, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Austin/Site-Reliability-Engineer_R0336474-1) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-06-23.
+This devops engineer position at Thales was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

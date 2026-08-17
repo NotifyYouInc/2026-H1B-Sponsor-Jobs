@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Fort Bragg, North Carolina, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Operations-Analyst-Technician_RQ222701-1) |
+| Category | Data Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Operations-Analyst-Technician_RQ225819-2) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-06-21.
+This data analyst position at General Dynamics Information Technology was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

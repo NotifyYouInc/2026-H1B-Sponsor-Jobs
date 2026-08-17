@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Falls Church, Virginia, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Cybersecurity-Engineer_RQ220296) |
+| Location | Bossier City, Louisiana, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/Cybersecurity-Engineer_RQ225768-1) |
 
 ## About This Role
 
-This security engineer position at General Dynamics Information Technology was posted on 2026-05-16.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

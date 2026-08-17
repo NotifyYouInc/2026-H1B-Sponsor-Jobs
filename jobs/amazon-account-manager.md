@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Account Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438325/account-manager) |
+| Location | Hanoi, Hanoi, Vietnam |
+| Category | Sales |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10496568/account-manager) |
 
 ## About This Role
 
-This account manager position at Amazon was posted on 2026-06-03.
+This sales position at Amazon was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

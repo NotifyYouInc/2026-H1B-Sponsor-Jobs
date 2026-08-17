@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Architect_ATCI-5698504-S2062856-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Technology-Architect_ATCI-5674514-S2063216-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-08-06.
+This technology / it consulting position at Accenture was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

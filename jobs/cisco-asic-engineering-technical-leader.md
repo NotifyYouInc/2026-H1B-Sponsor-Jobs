@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Zhubei-Taiwan/ASIC-Engineering-Technical-Leader_2020880-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/ASIC-Engineering-Technical-Leader_2020145-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cisco was posted on 2026-07-29.
+This semiconductor / chip design position at Cisco was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

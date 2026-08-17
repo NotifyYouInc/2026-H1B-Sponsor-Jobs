@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
 | Category | Industrial Automation |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Associate-IE_J2453662) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Associate-IE_J2453674) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-07-07.
+This industrial automation position at Jabil was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Israel |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Firmware-Engineer_JR2014861) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Firmware-Engineer_JR2022705) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Nvidia was posted on 2026-03-23.
+This embedded / firmware engineer position at Nvidia was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

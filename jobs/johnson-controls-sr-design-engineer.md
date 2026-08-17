@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Sr-Design-Engineer_WD30276376) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Sr-Design-Engineer_WD30276669) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Johnson Controls was posted on 2026-08-07.
+This electrical / hardware engineer position at Johnson Controls was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138796130-senior-emc-validation-engineer) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142570048-senior-emc-validation-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Robert Bosch was posted on 2026-07-21.
+This electrical / hardware engineer position at Robert Bosch was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

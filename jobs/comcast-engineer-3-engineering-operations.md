@@ -1,16 +1,16 @@
-# Engineer 3 -  Engineering Operations at Comcast
+# Engineer 3 - Engineering Operations at Comcast
 
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3----Engineering-Operations_R441656) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3--DevOps--SKY-GERMANY-N196-DE-281-_R439836) |
 
 ## About This Role
 
-This devops engineer position at Comcast was posted on 2026-07-22.
+This devops engineer position at Comcast was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

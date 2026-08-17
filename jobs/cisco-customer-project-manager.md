@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Minato, Wakayama, Japan |
+| Location | 2 locations |
 | Category | Project Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Customer-Project-Manager_2015256) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Customer-Project-Manager_2020885-1) |
 
 ## About This Role
 
-This project manager position at Cisco was posted on 2026-05-28.
+This project manager position at Cisco was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | Bursa, Bursa Province, Turkey |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126228090-human-resources-smart-start) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142559915-human-resources-smart-start) |
 
 ## About This Role
 
-This human resources / people ops position at Robert Bosch was posted on 2026-05-13.
+This human resources / people ops position at Robert Bosch was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
