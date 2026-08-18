@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Pricing-Analyst_WD30270068) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Pricing-Analyst_WD30275415) |
 
 ## About This Role
 
-This business analyst position at Johnson Controls was posted on 2026-05-27.
+This business analyst position at Johnson Controls was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

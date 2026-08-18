@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Argentina |
 | Category | Data Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/ARG---Buenos-Aires---Munro/Associate-Director--Data-Architect--GDMS-Data-Integration---Automation_R409664-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/ARG---Buenos-Aires---Munro/Associate-Director--Data-Architect--GDMS-Data-Integration---Automation_R412097) |
 
 ## About This Role
 
-This data engineer position at Merck was posted on 2026-07-24.
+This data engineer position at Merck was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

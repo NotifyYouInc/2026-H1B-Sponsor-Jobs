@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | O'Fallon, Missouri, United States |
-| Category | Corporate Finance |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Manager--Finance-Business-Partner_R-272020-1) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Manager--Finance-Business-Partner_R-288217) |
 
 ## About This Role
 
-This corporate finance position at Mastercard was posted on 2026-03-07.
+This fp&a / strategic finance position at Mastercard was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

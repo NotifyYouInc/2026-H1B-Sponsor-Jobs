@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
-| Category | Corporate Finance |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000142560170-accounting-agent-istanbul) |
+| Category | Accounting |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000142788549-accounting-agent-istanbul) |
 
 ## About This Role
 
-This corporate finance position at Expeditors International of Washington was posted on 2026-08-10.
+This accounting position at Expeditors International of Washington was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

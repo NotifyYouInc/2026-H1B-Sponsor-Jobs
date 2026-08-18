@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Principal-Product-Engineer_R53512) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Principal-Product-Engineer_R55719) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-03-27.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

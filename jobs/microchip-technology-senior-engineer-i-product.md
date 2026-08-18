@@ -1,16 +1,16 @@
-# Senior Engineer I - Product at Microchip Technology
+# Senior Engineer I- Product at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
+| Location | Philippines |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CA---San-Jose---3850-N-First-St/Senior-Engineer-I---Product_R2554-26) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Philippines---PTC/Senior-Engineer-I--Product_R3489-26-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Microchip Technology was posted on 2026-07-01.
+This semiconductor / chip design position at Microchip Technology was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

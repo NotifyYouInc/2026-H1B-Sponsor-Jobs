@@ -1,16 +1,16 @@
-# TECHNICIAN - GEL at Micron
+# Technician - GEL at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Customer Success |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/TECHNICIAN---GEL_JR99112) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10W-Singapore/Technician---GEL_JR106337) |
 
 ## About This Role
 
-This customer success position at Micron was posted on 2026-04-22.
+This electrical / hardware engineer position at Micron was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

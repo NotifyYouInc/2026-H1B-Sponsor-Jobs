@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer---Apache-Spark---Kafka---Flink---Trino---Iceberg---Big-Data---Streaming---Data-Platform-4-8-Years_2018747) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Engineer---Apache-Spark---Kafka---Flink---Trino---Iceberg---Big-Data---Streaming---Data-Platform-4-8-Years_2020955-1) |
 
 ## About This Role
 
-This data engineer position at Cisco was posted on 2026-07-03.
+This data engineer position at Cisco was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

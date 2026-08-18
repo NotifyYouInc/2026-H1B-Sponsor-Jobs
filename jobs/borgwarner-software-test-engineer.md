@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Shanghai, Shanghai, China |
 | Category | QA Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bengaluru-Primeco-Unioncity---India/Software-Test-Engineer_R2026-1767) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Shanghai---China/Software-Test-Engineer_R2026-2693) |
 
 ## About This Role
 
-This qa engineer position at BorgWarner was posted on 2026-05-12.
+This qa engineer position at BorgWarner was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

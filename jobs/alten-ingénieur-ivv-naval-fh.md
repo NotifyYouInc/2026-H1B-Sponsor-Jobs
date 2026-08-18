@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Lorient, Brittany, France |
 | Category | QA Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000140832955-ingenieur-ivv-naval-fh) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000142799449-ingenieur-ivv-naval-fh) |
 
 ## About This Role
 
-This qa engineer position at ALTEN was posted on 2026-07-31.
+This qa engineer position at ALTEN was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

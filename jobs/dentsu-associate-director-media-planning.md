@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Taipei---No-77-Songgao-Rd-Xinyi-Dist/Associate-Director--Media-Planning_R1124816) |
+| Category | Marketing |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Taipei---No-77-Songgao-Rd-Xinyi-Dist/Associate-Director--Media-Planning_R1126342) |
 
 ## About This Role
 
-This digital / performance marketing position at Dentsu was posted on 2026-06-26.
+This marketing position at Dentsu was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

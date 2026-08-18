@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rheinberg, North Rhine-Westphalia, Germany |
+| Location | Contwig, Rheinland-Pfalz, Germany |
 | Category | Leadership Development Program |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10495540/duales-studium-bwl) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10498202/duales-studium-bwl) |
 
 ## About This Role
 
-This leadership development program position at Amazon was posted on 2026-08-07.
+This leadership development program position at Amazon was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

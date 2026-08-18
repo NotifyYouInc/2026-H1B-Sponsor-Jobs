@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Taipei-Taiwan/Fund-Accounting--Assc2_R-786101) |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Taipei-Taiwan/Fund-Accounting--Assc2_R-786109-1) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-05-18.
+This venture capital / private equity position at State Street was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

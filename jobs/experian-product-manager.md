@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Cyberjaya, Selangor, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000111539120-product-manager) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142787455-product-manager) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-02-26.
+This product manager position at Experian was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

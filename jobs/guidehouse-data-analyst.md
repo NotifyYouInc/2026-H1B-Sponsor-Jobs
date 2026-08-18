@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | United States |
 | Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---FL-Tampa/Data-Analyst_36896) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Data-Analyst_42461) |
 
 ## About This Role
 
-This data analyst position at Guidehouse was posted on 2026-03-06.
+This data analyst position at Guidehouse was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

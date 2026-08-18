@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129653851-global-people-services-manager-team-lead) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142794830-global-people-services-manager-team-lead) |
 
 ## About This Role
 
-This human resources / people ops position at Experian was posted on 2026-06-02.
+This human resources / people ops position at Experian was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

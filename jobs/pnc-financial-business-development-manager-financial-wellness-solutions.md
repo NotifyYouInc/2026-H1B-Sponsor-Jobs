@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Financial-Wellness-Consultant_R207691) |
+| Location | Walnut Creek, California, United States |
+| Category | Account Executive |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CA---Walnut-Creek/Business-Development-Manager---Financial-Wellness-Solutions_R231117-1) |
 
 ## About This Role
 
-This engineering manager position at PNC Financial was posted on 2026-06-04.
+This account executive position at PNC Financial was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Étrelles, Brittany, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000142054375-ingenieur-conception-de-bancs-de-tests-software-hardware-hf) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000142798609-ingenieur-conception-de-bancs-de-tests-software-hardware-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-08-07.
+This electrical / hardware engineer position at ALTEN was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

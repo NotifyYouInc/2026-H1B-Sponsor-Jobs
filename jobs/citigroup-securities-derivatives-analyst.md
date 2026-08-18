@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Analyst_26963267) |
+| Location | Pune, Maharashtra, India |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst_26982250) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-05-18.
+This treasury & capital markets position at Citigroup was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

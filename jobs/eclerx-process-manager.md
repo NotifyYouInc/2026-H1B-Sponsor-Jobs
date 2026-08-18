@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#83861) |
+| Category | Financial Crimes & AML |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84541) |
 
 ## About This Role
 
-This software engineer position at eClerx was posted on 2026-07-27.
+This financial crimes & aml position at eClerx was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

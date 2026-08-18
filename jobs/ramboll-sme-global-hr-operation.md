@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000142562059-sme-global-hr-operation) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000142793930-sme-global-hr-operation) |
 
 ## About This Role
 
-This human resources / people ops position at Ramboll was posted on 2026-08-10.
+This human resources / people ops position at Ramboll was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

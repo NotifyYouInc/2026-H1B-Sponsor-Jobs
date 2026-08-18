@@ -1,16 +1,16 @@
-# Engineer, GQ OPS -REL Process at Micron
+# Engineer, GQ OPS-REL PROCESS at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sānand, Gujarat, India |
+| Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Engineer--GQ-OPS--REL-Process_JR105601) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Engineer--GQ-OPS-REL-PROCESS_JR104842) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-07-10.
+This semiconductor / chip design position at Micron was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Customer Success |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142561674-executive-client-success) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142789666-executive-client-success) |
 
 ## About This Role
 
-This customer success position at NielsenIQ was posted on 2026-08-10.
+This customer success position at NielsenIQ was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
