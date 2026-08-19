@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | Chattanooga, Tennessee, United States |
 | Category | Project Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Madison-WI-US/Project-Manager_R22152) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Chattanooga-TN-US/Project-Manager_R22622) |
 
 ## About This Role
 
-This project manager position at nVent was posted on 2026-06-26.
+This project manager position at nVent was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

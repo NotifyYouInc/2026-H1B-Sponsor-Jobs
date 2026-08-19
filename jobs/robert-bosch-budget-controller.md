@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Long Thành, Dong Nai, Vietnam |
 | Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127363709-budget-controller) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143033714-budget-controller) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-05-20.
+This corporate finance position at Robert Bosch was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

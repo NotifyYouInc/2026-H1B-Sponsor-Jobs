@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Ohio, US |
-| Category | Financial Analyst |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Grandview-Heights-1000-Yard-Street-H-Building/Financial-Services-Analyst_099224) |
+| Category | Corporate Finance |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Grandview-Heights-1000-Yard-Street-H-Building/Financial-Services-Analyst_099683) |
 
 ## About This Role
 
-This financial analyst position at Nationwide was posted on 2026-07-18.
+This corporate finance position at Nationwide was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

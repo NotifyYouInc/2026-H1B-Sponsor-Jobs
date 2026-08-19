@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Reẖovot, Central District, Israel |
+| Location | Tainan, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Software-Engineer_R2624839) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/TainanTWN/Software-Engineer_R2625261) |
 
 ## About This Role
 
-This software engineer position at Applied Materials was posted on 2026-08-05.
+This software engineer position at Applied Materials was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Institutional-Investment-Operations-Specialist_R-561184-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Institutional-Investment-Operations-Specialist_R-561064) |
 
 ## About This Role
 
-This compliance & risk management position at Wells Fargo was posted on 2026-08-04.
+This asset management / portfolio management position at Wells Fargo was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

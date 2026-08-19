@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Seoul, Seoul, South Korea |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3182266/senior-manager-trade-compliance-apac-global-trade-and-product-compliance) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10499435/senior-manager-trade-compliance-apac-global-trade-and-product-compliance) |
 
 ## About This Role
 
-This compliance & risk management position at Amazon was posted on 2026-02-17.
+This compliance & risk management position at Amazon was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

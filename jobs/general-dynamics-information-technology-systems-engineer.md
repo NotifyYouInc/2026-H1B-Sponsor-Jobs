@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fort Bragg, North Carolina, United States |
+| Location | Not specified |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Systems-Engineer_RQ218529) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/International/Systems-Engineer_RQ226085-1) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-04-18.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

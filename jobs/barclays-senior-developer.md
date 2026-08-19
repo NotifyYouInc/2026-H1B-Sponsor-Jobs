@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Senior-Developer_JR-0000086127) |
+| Category | Software Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Developer_JR-0000117334-1) |
 
 ## About This Role
 
-This frontend engineer position at Barclays was posted on 2026-02-27.
+This software engineer position at Barclays was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

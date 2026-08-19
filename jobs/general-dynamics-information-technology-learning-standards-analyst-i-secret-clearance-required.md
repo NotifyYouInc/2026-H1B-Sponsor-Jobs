@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Virginia Beach, Virginia, United States |
+| Location | Dahlgren, Virginia, United States |
 | Category | Learning & Development |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Dam-Neck/Learning-Standards-Analyst-I-Secret-Clearance-required_RQ225996-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Dahlgren/Learning-Standards-Analyst-I-Secret-Clearance-required_RQ226142-1) |
 
 ## About This Role
 
-This learning & development position at General Dynamics Information Technology was posted on 2026-08-10.
+This learning & development position at General Dynamics Information Technology was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

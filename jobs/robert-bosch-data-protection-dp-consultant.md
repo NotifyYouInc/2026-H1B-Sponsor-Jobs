@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Privacy & Data Protection |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118321481-data-protection-dp-consultant) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143023898-data-protection-dp-consultant) |
 
 ## About This Role
 
-This privacy & data protection position at Robert Bosch was posted on 2026-04-02.
+This privacy & data protection position at Robert Bosch was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

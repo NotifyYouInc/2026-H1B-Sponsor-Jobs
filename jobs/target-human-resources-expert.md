@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
+| Location | Burbank, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1811-Hillsdale-Ave-San-JoseCA-95124-3027/Human-Resources-Expert_R0000448759) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1800-W-Empire-Ave-BurbankCA-91504-3403/Human-Resources-Expert_R0000449168) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-08-10.
+This human resources / people ops position at Target was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

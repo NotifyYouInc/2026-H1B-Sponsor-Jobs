@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111010130-sr-mgr-software-engrg-mgmt-moveworks) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143029419-sr-mgr-software-engrg-mgmt-moveworks) |
 
 ## About This Role
 
-This engineering manager position at ServiceNow was posted on 2026-02-24.
+This engineering manager position at ServiceNow was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

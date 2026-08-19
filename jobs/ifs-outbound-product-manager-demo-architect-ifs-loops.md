@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000135945289-outbound-product-manager-demo-architect-ifs-loops) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000143030109-outbound-product-manager-demo-architect-ifs-loops) |
 
 ## About This Role
 
-This devops engineer position at IFS was posted on 2026-07-06.
+This devops engineer position at IFS was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

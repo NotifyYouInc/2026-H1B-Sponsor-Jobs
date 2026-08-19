@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vialto](https://scoutify.ai/companies/vialto?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Stamford, Connecticut, United States |
+| Location | Indiana, US |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Stamford/Global-Mobility-Tax---Associate_REQ908551) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/IN---Remote/Global-Mobility-Tax---Associate_REQ908595-1) |
 
 ## About This Role
 
-This human resources / people ops position at Vialto was posted on 2026-07-25.
+This human resources / people ops position at Vialto was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

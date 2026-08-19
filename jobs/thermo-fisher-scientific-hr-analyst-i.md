@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/HR-Analyst-I_R-01361840) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/HR-Analyst-I_R-01361844) |
 
 ## About This Role
 
-This human resources / people ops position at Thermo Fisher Scientific was posted on 2026-08-03.
+This human resources / people ops position at Thermo Fisher Scientific was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beavercreek, Ohio, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Systems-Engineer_R0245960) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Systems-Engineer_R0246705) |
 
 ## About This Role
 
-This software engineer position at Booz Allen was posted on 2026-08-01.
+This software engineer position at Booz Allen was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

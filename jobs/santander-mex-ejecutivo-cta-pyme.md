@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Zapopan, Jalisco, Mexico |
 | Category | Sales |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/MEX-Ejecutivo-Cta-Pyme_Req1599796) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Zapopan/MEX-Ejecutivo-Cta-Pyme_Req1600364) |
 
 ## About This Role
 
-This sales position at Santander was posted on 2026-08-08.
+This sales position at Santander was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

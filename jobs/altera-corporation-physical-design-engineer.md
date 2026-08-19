@@ -5,12 +5,12 @@
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Physical-Design-Engineer_R02909) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Physical-Design-Engineer_R02972) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-08-08.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

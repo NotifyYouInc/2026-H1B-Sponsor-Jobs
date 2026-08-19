@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Fort Shafter, Hawaii, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Fort-Shafter/Systems-Administrator--MECM----TS-SCI-required_RQ220898-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Fort-Shafter/Systems-Administrator--MECM----TS-SCI-required_RQ226089-2) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-05-31.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

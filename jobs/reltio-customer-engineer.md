@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reltio](https://scoutify.ai/companies/reltio?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/5778091004) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Sales Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reltio/jobs/6139717004) |
 
 ## About This Role
 
-This operations position at Reltio was posted on 2026-02-06.
+This sales engineer position at Reltio was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

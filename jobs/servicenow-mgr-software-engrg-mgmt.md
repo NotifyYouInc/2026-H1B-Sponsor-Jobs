@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000127578808-mgr-software-engrg-mgmt) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143028899-mgr-software-engrg-mgmt) |
 
 ## About This Role
 
-This engineering manager position at ServiceNow was posted on 2026-05-21.
+This engineering manager position at ServiceNow was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

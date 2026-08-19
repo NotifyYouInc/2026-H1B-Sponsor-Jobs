@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8407188002) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8625656002) |
 
 ## About This Role
 
-This technical & solutions architect position at Databricks was posted on 2026-02-19.
+This technical & solutions architect position at Databricks was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

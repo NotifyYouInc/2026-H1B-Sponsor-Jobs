@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Accounting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/Project-Controller_R0130649) |
+| Location | Bucharest, București, Romania |
+| Category | Project Manager |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bucharest-Ilfov-Romania/Project-Controller_R0140286) |
 
 ## About This Role
 
-This accounting position at Hitachi was posted on 2026-08-04.
+This project manager position at Hitachi was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Madison, Wisconsin, United States |
 | Category | Industrial Automation |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Instrumentation-Automation-Service-Engineer-I---OS_35000257) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Instrumentation-Automation-Service-Engineer-I---OS_35000254-1) |
 
 ## About This Role
 
-This industrial automation position at Abbott was posted on 2026-08-07.
+This industrial automation position at Abbott was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

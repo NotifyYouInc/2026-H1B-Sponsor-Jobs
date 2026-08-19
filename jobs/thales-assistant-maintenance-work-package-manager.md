@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Project Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Sydney/Assistant-Maintenance-Work-Package-Manager_R0324738-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Sydney/Assistant-Maintenance-Work-Package-Manager_R0320063-1) |
 
 ## About This Role
 
-This project manager position at Thales was posted on 2026-04-24.
+This project manager position at Thales was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

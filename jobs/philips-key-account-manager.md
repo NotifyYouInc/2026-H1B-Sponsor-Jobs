@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Account Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Kuala-Lumpur--Co-labs/Key-Account-Manager_579180) |
+| Category | Sales |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Kuala-Lumpur--Co-labs/Key-Account-Manager_589280-1) |
 
 ## About This Role
 
-This account manager position at Philips was posted on 2026-03-12.
+This sales position at Philips was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

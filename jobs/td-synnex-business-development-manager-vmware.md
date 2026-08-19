@@ -1,16 +1,16 @@
-# Business Development Manager- Vmware at TD Synnex
+# Business Development Manager - Vmware at TD Synnex
 
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New Delhi, Delhi, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/New-Delhi-India/Business-Development-Manager--Vmware_R47955) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Sales |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mumbai-India/Business-Development-Manager---Vmware_R54810) |
 
 ## About This Role
 
-This engineering manager position at TD Synnex was posted on 2026-03-24.
+This sales position at TD Synnex was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

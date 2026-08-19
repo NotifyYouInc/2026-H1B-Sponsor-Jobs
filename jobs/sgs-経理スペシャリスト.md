@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Japan |
-| Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000140418313-) |
+| Location | Yokohama, Kanagawa, Japan |
+| Category | Corporate Finance |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000143027428-) |
 
 ## About This Role
 
-This accounting position at SGS was posted on 2026-07-29.
+This corporate finance position at SGS was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Business Development |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5160614007) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Account Executive |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5210080007) |
 
 ## About This Role
 
-This business development position at The Trade Desk was posted on 2026-06-20.
+This account executive position at The Trade Desk was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ho-Chi-Minh-City/IT-Application-Admin-II_J2457688) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ho-Chi-Minh-City/IT-Application-Admin-II_J2460871) |
 
 ## About This Role
 
-This it & systems administration position at Jabil was posted on 2026-07-23.
+This it & systems administration position at Jabil was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
