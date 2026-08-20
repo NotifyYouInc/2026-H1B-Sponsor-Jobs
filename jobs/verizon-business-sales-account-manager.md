@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | King of Prussia, Pennsylvania, United States |
-| Category | Account Manager |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/King-Of-Prussia-Pennsylvania/Business-Sales-Account-Manager_R-1098976) |
+| Location | 4 locations |
+| Category | Sales |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Syracuse-New-York/Business-Sales-Account-Manager_R-1099453) |
 
 ## About This Role
 
-This account manager position at Verizon was posted on 2026-08-01.
+This sales position at Verizon was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Project Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Project-Manager_1204851-3) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Change-Manager_1201136) |
 
 ## About This Role
 
-This project manager position at Hewlett Packard Enterprise was posted on 2026-06-16.
+This project manager position at Hewlett Packard Enterprise was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sacramento, California, United States |
+| Location | West Valley City, Utah, United States |
 | Category | Account Executive |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Sacramento-California/Business-Sales-Account-Executive_R-1098978-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/West-Valley-City-Utah/Business-Sales-Account-Executive_R-1099468) |
 
 ## About This Role
 
-This account executive position at Verizon was posted on 2026-08-01.
+This account executive position at Verizon was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

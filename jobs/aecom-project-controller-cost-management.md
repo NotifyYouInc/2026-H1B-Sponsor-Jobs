@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Project Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143027924-project-controller-cost-management) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143237860-project-controller-cost-management) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-08-12.
+This project manager position at AECOM was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

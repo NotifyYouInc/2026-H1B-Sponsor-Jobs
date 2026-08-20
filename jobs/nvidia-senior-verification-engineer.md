@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Verification-Engineer_JR2021700-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Verification-Engineer_JR2023223) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-07-23.
+This semiconductor / chip design position at Nvidia was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

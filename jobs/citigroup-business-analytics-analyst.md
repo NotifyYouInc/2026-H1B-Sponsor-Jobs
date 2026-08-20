@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Haryana, IN |
-| Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Business-Analytics-Analyst_26936410-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Business-Analytics-Analyst_26978625-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-16.
+This data analyst position at Citigroup was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

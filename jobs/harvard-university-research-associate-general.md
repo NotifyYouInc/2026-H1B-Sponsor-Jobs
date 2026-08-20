@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Data Scientist |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013888786-research-associate-general) |
+| Category | AI / ML Research |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014576866-research-associate-general) |
 
 ## About This Role
 
-This data scientist position at Harvard University was posted on 2026-07-01.
+This ai / ml research position at Harvard University was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

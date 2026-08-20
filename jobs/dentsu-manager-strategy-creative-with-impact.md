@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Program Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/HoChiMinhCity/Manager--Strategy---Creative-with-Impact_R1113435) |
+| Category | Strategy & Operations |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/HoChiMinhCity/Manager--Strategy---Creative-with-Impact_R1126769) |
 
 ## About This Role
 
-This program manager position at Dentsu was posted on 2026-02-10.
+This strategy & operations position at Dentsu was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

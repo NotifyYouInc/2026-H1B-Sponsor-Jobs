@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Customer Success |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7672122) |
+| Location | Bengaluru, Karnataka, India |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8121156) |
 
 ## About This Role
 
-This customer success position at Pure Storage was posted on 2026-03-06.
+This it & systems administration position at Pure Storage was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

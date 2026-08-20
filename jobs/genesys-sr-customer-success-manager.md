@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | California, US |
 | Category | Customer Success |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Tokyo-Japan/Sr-Customer-Success-Manager_JR110450) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Utah-USA/Sr-Customer-Success-Manager_JR112022-2) |
 
 ## About This Role
 
-This customer success position at Genesys was posted on 2026-03-23.
+This customer success position at Genesys was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

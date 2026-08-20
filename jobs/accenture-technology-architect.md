@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Technology-Architect_ATCI-5445293-S1996511-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Technology-Architect_ATCI-5710618-S2064036-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-08-12.
+This technology / it consulting position at Accenture was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

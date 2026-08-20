@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Burbank, California, United States |
+| Location | Morgan Hill, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1800-W-Empire-Ave-BurbankCA-91504-3403/Human-Resources-Expert_R0000449168) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1061-Cochrane-Rd-Morgan-HillCA-95037-9305/Human-Resources-Expert_R0000449344-1) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-08-12.
+This human resources / people ops position at Target was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

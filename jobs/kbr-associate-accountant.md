@@ -1,16 +1,16 @@
-# Associate accountant at KBR
+# Associate Accountant at KBR
 
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Accounting |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chennai-Tamil-Nadu-India/Associate-accountant_R2127563) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chennai-Tamil-Nadu-India/Associate-Accountant_R2128195-1) |
 
 ## About This Role
 
-This accounting position at KBR was posted on 2026-08-03.
+This accounting position at KBR was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

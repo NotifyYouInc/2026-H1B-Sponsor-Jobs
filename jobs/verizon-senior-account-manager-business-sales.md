@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Account Manager |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/San-Francisco-California/Senior-Account-Manager---Business-Sales_R-1098980-1) |
+| Location | Savannah, Georgia, United States |
+| Category | Sales |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Savannah-Georgia/Senior-Account-Manager---Business-Sales_R-1099537) |
 
 ## About This Role
 
-This account manager position at Verizon was posted on 2026-08-01.
+This sales position at Verizon was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

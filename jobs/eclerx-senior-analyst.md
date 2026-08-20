@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84517) |
+| Category | Customer Success |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84528) |
 
 ## About This Role
 
-This business analyst position at eClerx was posted on 2026-08-10.
+This customer success position at eClerx was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

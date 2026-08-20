@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Indore, Madhya Pradesh, India |
-| Category | DevOps Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Performance-Engineer_ATCI-5714050-S2063529-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Performance-Engineer_ATCI-5670651-S2064052-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-08-11.
+This technology / it consulting position at Accenture was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sales Support Specialist at ABB
+# sales support specialist at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Sales Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Sales-Support-Specialist_JR00038823) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/sales-support-specialist_JR00015203) |
 
 ## About This Role
 
-This sales engineer position at ABB was posted on 2026-08-10.
+This sales engineer position at ABB was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

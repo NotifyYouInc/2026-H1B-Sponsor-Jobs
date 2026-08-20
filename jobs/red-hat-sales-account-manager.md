@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Texas, US |
-| Category | Account Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-TX/Sales-Account-Manager_R-055650) |
+| Location | Santiago, Santiago Metropolitan, Chile |
+| Category | Sales |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Santiago/Sales-Account-Manager_R-058454-1) |
 
 ## About This Role
 
-This account manager position at Red Hat was posted on 2026-03-25.
+This sales position at Red Hat was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
