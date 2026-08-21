@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84528) |
+| Location | Pune, Maharashtra, India |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#82789) |
 
 ## About This Role
 
-This customer success position at eClerx was posted on 2026-08-13.
+This human resources / people ops position at eClerx was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

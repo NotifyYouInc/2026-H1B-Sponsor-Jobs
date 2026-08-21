@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Program Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84529) |
+| Location | Pune, Maharashtra, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84590) |
 
 ## About This Role
 
-This program manager position at eClerx was posted on 2026-08-13.
+This ai / llm engineer position at eClerx was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

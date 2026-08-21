@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Data Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#83999) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84343) |
 
 ## About This Role
 
-This data analyst position at eClerx was posted on 2026-07-15.
+This human resources / people ops position at eClerx was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

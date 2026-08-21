@@ -1,16 +1,16 @@
-# Ops Sup Analyst 1 - C09 - CHENNAI at Citigroup
+# Ops Sup Analyst 1 - C09 - Chennai at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Ops-Sup-Analyst-1---C09---CHENNAI_26982169) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Ops-Sup-Analyst-1---C09---Chennai_26986689) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-07-31.
+This business analyst position at Citigroup was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

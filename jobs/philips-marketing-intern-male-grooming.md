@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Growth Marketing |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Marketing-Intern--Male-Grooming_584905) |
+| Category | Marketing |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Marketing-Intern--Male-Grooming_589722) |
 
 ## About This Role
 
-This growth marketing position at Philips was posted on 2026-06-01.
+This marketing position at Philips was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

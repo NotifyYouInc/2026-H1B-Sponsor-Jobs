@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Étrelles, Brittany, France |
 | Category | Industrial Automation |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000142796470-ingenieur-methodes-process-hf) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000143447130-ingenieur-methodes-process-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-08-11.
+This industrial automation position at ALTEN was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

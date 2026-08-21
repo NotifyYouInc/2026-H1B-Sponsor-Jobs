@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200644392-0953/senior-network-engineer?team=SFTWR) |
+| Location | Shanghai, Shanghai, China |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200677853/senior-network-engineer) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-02-13.
+This it & systems administration position at Apple was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

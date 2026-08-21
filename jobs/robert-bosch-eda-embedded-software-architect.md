@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Location | Vietnam |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137065739-eda-embedded-software-architect) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143448280-eda-embedded-software-architect) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Robert Bosch was posted on 2026-07-10.
+This embedded / firmware engineer position at Robert Bosch was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

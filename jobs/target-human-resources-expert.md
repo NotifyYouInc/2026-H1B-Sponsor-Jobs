@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Morgan Hill, California, United States |
+| Location | Snellville, Georgia, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1061-Cochrane-Rd-Morgan-HillCA-95037-9305/Human-Resources-Expert_R0000449344-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1905-Scenic-Hwy-N-SnellvilleGA-30078-5633/Human-Resources-Expert_R0000449519) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-08-13.
+This human resources / people ops position at Target was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

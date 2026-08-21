@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Mumbai-Maharashtra-India/Account-Support-Manager_1199980) |
+| Location | Dalian, Liaoning, China |
+| Category | Sales |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Dalian-Liaoning-China/Account-Support-Manager_1203438) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-03-03.
+This sales position at Hewlett Packard Enterprise was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

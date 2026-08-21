@@ -1,16 +1,16 @@
-# Manager, Product Software Engineering at Wolters Kluwer
+# Manager Product Software Engineering at Wolters Kluwer
 
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Engineering Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Manager--Product-Software-Engineering_R0058143) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Manager-Product-Software-Engineering_R0059032) |
 
 ## About This Role
 
-This engineering manager position at Wolters Kluwer was posted on 2026-07-14.
+This engineering manager position at Wolters Kluwer was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

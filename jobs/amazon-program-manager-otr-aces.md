@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Program Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457377/program-manager-otr-aces) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10502008/program-manager-otr-aces) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-06-24.
+This program manager position at Amazon was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

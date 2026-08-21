@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Gurugram, Haryana, India |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Managers-Control-Self-Assessment--MCA--Intermediate-Analyst_26949096-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Managers-Control-Self-Assessment--MCA--Intermediate-Analyst_26987336) |
 
 ## About This Role
 
-This compliance & risk management position at Citigroup was posted on 2026-03-26.
+This compliance & risk management position at Citigroup was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

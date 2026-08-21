@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Account Executive |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Sales-Professional_51586582) |
+| Location | Beijing, Beijing, China |
+| Category | Sales |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---BEIJING/Sales-Professional_51586988) |
 
 ## About This Role
 
-This account executive position at DXC Technology was posted on 2026-08-11.
+This sales position at DXC Technology was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/API-Support-Specialist-I_JR107914) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/API-Support-Specialist-I_JR108476) |
 
 ## About This Role
 
-This customer success position at Sabre was posted on 2026-05-08.
+This customer success position at Sabre was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

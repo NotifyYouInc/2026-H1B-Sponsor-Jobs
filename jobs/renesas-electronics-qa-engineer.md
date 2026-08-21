@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | QA Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000130151449-qa-engineer) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143442489-qa-engineer) |
 
 ## About This Role
 
-This qa engineer position at Renesas Electronics was posted on 2026-06-04.
+This qa engineer position at Renesas Electronics was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

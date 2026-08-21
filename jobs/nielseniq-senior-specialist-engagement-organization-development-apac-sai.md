@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Learning & Development |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143025879-senior-specialist-engagement-organization-development-apac-sai) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143449950-senior-specialist-engagement-organization-development-apac-sai) |
 
 ## About This Role
 
-This learning & development position at NielsenIQ was posted on 2026-08-12.
+This learning & development position at NielsenIQ was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Customer Success |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Monterrey/Support-Engineer-2_262404) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Support-Engineer-2_262081) |
 
 ## About This Role
 
-This customer success position at Blue Yonder was posted on 2026-08-06.
+This customer success position at Blue Yonder was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

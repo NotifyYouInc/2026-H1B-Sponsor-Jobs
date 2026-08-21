@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xi’an, Shaanxi, China |
+| Location | Vaasa, Ostrobothnia, Finland |
 | Category | Compliance & Risk Management |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/XiAn-Shaanxi-China/HSE-Specialist_R0137896) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaasa-Ostrobothnia-Finland/HSE-Specialist_R0132529) |
 
 ## About This Role
 
-This compliance & risk management position at Hitachi was posted on 2026-07-15.
+This compliance & risk management position at Hitachi was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

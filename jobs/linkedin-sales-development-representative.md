@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000139225631-sales-development-representative) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Sales |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000143452225-sales-development-representative) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at LinkedIn was posted on 2026-07-23.
+This sales position at LinkedIn was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

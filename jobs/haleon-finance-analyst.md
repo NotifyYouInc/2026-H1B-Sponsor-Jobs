@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Almaty, Almaty, Kazakhstan |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Malaysia---Petaling-Jaya/Finance-Analyst_544367) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Kazakhstan---Almaty-Region----Almaty/Finance-Analyst_546939) |
 
 ## About This Role
 
-This corporate finance position at Haleon was posted on 2026-06-02.
+This corporate finance position at Haleon was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

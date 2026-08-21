@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Account Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Account-Manager_R-01362092) |
+| Location | China |
+| Category | Sales |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-China/Account-Manager_R-01364938) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-07-27.
+This sales position at Thermo Fisher Scientific was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

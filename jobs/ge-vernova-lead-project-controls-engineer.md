@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Stafford, England, United Kingdom |
-| Category | Industrial Automation |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Stafford/Lead-Project-Controls-Engineer_R5046596-2) |
+| Location | United States |
+| Category | Project Manager |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Lead-Project-Controls-Engineer_R5049558-1) |
 
 ## About This Role
 
-This industrial automation position at GE Vernova was posted on 2026-07-25.
+This project manager position at GE Vernova was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

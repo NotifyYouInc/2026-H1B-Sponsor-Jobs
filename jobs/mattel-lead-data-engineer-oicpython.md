@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000136387510-lead-data-engineer-oicpython) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000143439309-lead-data-engineer-oicpython) |
 
 ## About This Role
 
-This data engineer position at Mattel was posted on 2026-07-08.
+This data engineer position at Mattel was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

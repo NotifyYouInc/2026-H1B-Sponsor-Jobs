@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taichung, Taiwan, Taiwan |
+| Location | Tainan, Taiwan, Taiwan |
 | Category | Software Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/SOFTWARE-ENGINEER_JR93682-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Tainan-Taiwan/SOFTWARE-ENGINEER_JR108402) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-03-18.
+This software engineer position at Micron was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

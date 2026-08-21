@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New South Wales, AU |
-| Category | Customer Success |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bungendore-New-South-Wales-Australia/IT-Service-Desk-Technician_R-00180625) |
+| Location | United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/IT-Service-Desk-Technician_R-00189530) |
 
 ## About This Role
 
-This customer success position at Leidos was posted on 2026-04-13.
+This it & systems administration position at Leidos was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Senior-Software-Engineer_JR-02515544-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/IND-LBT/Senior-Software-Engineer_JR-02614077) |
 
 ## About This Role
 
-This software engineer position at Lowe's was posted on 2026-05-20.
+This software engineer position at Lowe's was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

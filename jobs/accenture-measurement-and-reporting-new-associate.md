@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Measurement-and-Reporting-New-Associate_AIOC-S01655487-1) |
+| Category | Business Analyst |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Measurement-and-Reporting-New-Associate_AIOC-S01661071-1) |
 
 ## About This Role
 
-This revenue / sales operations position at Accenture was posted on 2026-07-16.
+This business analyst position at Accenture was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
