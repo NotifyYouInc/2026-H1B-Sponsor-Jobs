@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Jose, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7670288355678177589/detail) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7673672141010815237/detail) |
 
 ## About This Role
 
-This data scientist position at TikTok was posted on 2026-08-13.
+This data scientist position at TikTok was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

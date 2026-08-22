@@ -1,16 +1,16 @@
-# Sr. Software Engineer at Medtronic
+# Sr Software Engineer at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Minnesota, US |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Software-Engineer_R64345-2) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-Software-Engineer_R74516-1) |
 
 ## About This Role
 
-This software engineer position at Medtronic was posted on 2026-04-20.
+This software engineer position at Medtronic was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

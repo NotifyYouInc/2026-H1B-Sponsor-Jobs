@@ -1,16 +1,16 @@
-# Back-end Developer at IBM
+# Back-End Developer at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Poughkeepsie, New York, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95394) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129110) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-24.
+This software engineer position at IBM was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

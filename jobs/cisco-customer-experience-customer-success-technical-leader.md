@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Durham, North Carolina, United States |
 | Category | Customer Success |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Melbourne-Australia/Customer-Experience-Customer-Success-Technical-Leader_2015348) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Durham-North-Carolina-US/Customer-Experience-Customer-Success-Technical-Leader_2020609) |
 
 ## About This Role
 
-This customer success position at Cisco was posted on 2026-05-25.
+This customer success position at Cisco was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

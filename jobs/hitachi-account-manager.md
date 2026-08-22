@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brisbane, Queensland, Australia |
-| Category | Account Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Brisbane-Queensland-Australia/Account-Manager_R0130952) |
+| Location | Guarulhos, São Paulo, Brazil |
+| Category | Sales |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Guarulhos-So-Paulo-Brazil/Account-Manager_R0141171) |
 
 ## About This Role
 
-This account manager position at Hitachi was posted on 2026-05-21.
+This sales position at Hitachi was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

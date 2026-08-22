@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Engineering Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Delivery-Manager_51581175) |
+| Category | Project Manager |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Delivery-Manager_51587157) |
 
 ## About This Role
 
-This engineering manager position at DXC Technology was posted on 2026-05-25.
+This project manager position at DXC Technology was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

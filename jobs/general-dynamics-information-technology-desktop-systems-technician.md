@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Desktop-Systems-Technician_RQ224591-1) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Desktop-Systems-Technician_RQ226428) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-07-19.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

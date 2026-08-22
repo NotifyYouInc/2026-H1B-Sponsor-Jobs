@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Los Banos, California, United States |
+| Location | Aurora, Colorado, United States |
 | Category | Sales |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Los-Banos/Retail-Specialist_R72020) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/IL-Aurora/Solar-Appointment-Setter_R72993) |
 
 ## About This Role
 
-This sales position at Sunrun was posted on 2026-08-04.
+This sales position at Sunrun was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

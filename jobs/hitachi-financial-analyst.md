@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brno, South Moravian, Czechia |
-| Category | Financial Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Brno-Jihomoravsk-kraj-Czechia/Financial-Analyst_R0135842-1) |
+| Location | South Boston, Massachusetts, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/South-Boston-Virginia-United-States-of-America/Financial-Analyst_R0141460-1) |
 
 ## About This Role
 
-This financial analyst position at Hitachi was posted on 2026-07-02.
+This corporate finance position at Hitachi was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

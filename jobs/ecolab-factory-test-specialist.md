@@ -5,12 +5,12 @@
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Calgary, Alberta, Canada |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/CAN---Alberta---Calgary/Factory-Test-Specialist_R00301522) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/CAN---Alberta---Calgary/Factory-Test-Specialist_R00302631) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Ecolab was posted on 2026-08-01.
+This electrical / hardware engineer position at Ecolab was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

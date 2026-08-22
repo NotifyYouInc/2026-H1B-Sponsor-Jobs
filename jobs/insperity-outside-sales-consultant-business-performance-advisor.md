@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Insperity](https://scoutify.ai/companies/insperity?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Account Executive |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Norfolk-VA/Outside-Sales-Consultant---Business-Performance-Advisor_JR102673) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Charlotte-NC/Outside-Sales-Consultant---Business-Performance-Advisor_JR102843) |
 
 ## About This Role
 
-This account executive position at Insperity was posted on 2026-05-29.
+This account executive position at Insperity was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

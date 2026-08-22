@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manassas, Virginia, United States |
+| Location | Hamlet, North Carolina, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427800/data-center-technician-dcc-communities) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10502973/data-center-technician-dcc-communities) |
 
 ## About This Role
 
-This it & systems administration position at Amazon was posted on 2026-05-22.
+This it & systems administration position at Amazon was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

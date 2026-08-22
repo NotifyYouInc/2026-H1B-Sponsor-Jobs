@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bethesda, Maryland, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer_R-00175556) |
+| Location | Gaithersburg, Maryland, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Developer_R-00189680) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-02-09.
+This devops engineer position at Leidos was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 
