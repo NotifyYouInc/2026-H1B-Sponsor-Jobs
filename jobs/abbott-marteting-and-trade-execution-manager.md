@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Guatemala |
-| Category | Marketing |
+| Category | Product Marketing |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Guatemala---Guatemala/Marteting-and-Trade-Execution-Manager_31158067) |
 
 ## About This Role
 
-This marketing position at Abbott was posted on 2026-08-15.
+This product marketing position at Abbott was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

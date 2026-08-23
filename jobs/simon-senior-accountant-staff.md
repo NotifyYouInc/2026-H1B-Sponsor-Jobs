@@ -5,12 +5,12 @@
 | Company | [Simon](https://scoutify.ai/companies/simon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Accounting |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Senior-Accountant--Staff_R13811) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Senior-Accountant--Staff_R13869) |
 
 ## About This Role
 
-This accounting position at Simon was posted on 2026-07-29.
+This accounting position at Simon was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sony](https://scoutify.ai/companies/sony?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Weybridge, England, United Kingdom |
-| Category | Marketing |
+| Category | Brand Marketing |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Weybridge/Marketing---Communications-Specialist---Home-Entertainment--FTC-_JR-119442-1) |
 
 ## About This Role
 
-This marketing position at Sony was posted on 2026-08-15.
+This brand marketing position at Sony was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

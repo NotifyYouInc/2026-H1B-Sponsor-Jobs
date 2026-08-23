@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bayan Lepas, Penang, Malaysia |
+| Location | Costa Rica |
 | Category | Operations |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000141844339-district-sales-operations) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000143651849-district-sales-operations) |
 
 ## About This Role
 
-This operations position at Expeditors International of Washington was posted on 2026-08-06.
+This operations position at Expeditors International of Washington was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

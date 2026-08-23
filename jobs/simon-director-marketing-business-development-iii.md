@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Simon](https://scoutify.ai/companies/simon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Michigan, US |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://simon.wd1.myworkdayjobs.com/Simon/job/Birch-Run-MI/Director--Marketing---Business-Development-III_R13406) |
+| Location | St. Petersburg, Florida, United States |
+| Category | Brand Marketing |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://simon.wd1.myworkdayjobs.com/Simon/job/St-Petersburg-FL/Director--Marketing---Business-Development-III_R13861) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Simon was posted on 2026-04-18.
+This brand marketing position at Simon was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

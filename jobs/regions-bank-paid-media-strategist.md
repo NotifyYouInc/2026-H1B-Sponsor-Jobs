@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Birmingham, Alabama, United States |
-| Category | Marketing |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Paid-Media-Strategist_R104903) |
 
 ## About This Role
 
-This marketing position at Regions Bank was posted on 2026-08-15.
+This digital / performance marketing position at Regions Bank was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

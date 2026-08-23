@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Thāne, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Quality-Assurance--Reporting---Operations-Analyst_R-10399139-1) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Quality-Assurance--Reporting---Operations-Analyst_R-10399140) |
 
 ## About This Role
 
-This data analyst position at Fiserv was posted on 2026-07-21.
+This data analyst position at Fiserv was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Leader--Solutions-Engineer_2016618) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Dubai-United-Arab-Emirates/Leader--Solutions-Engineer_2021891) |
 
 ## About This Role
 
-This sales engineer position at Cisco was posted on 2026-07-03.
+This sales engineer position at Cisco was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Rosemont, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Rosemont-IL/Senior-HR-Business-Partner_261286) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Rosemont-IL/Senior-HR-Business-Partner_261588) |
 
 ## About This Role
 
-This human resources / people ops position at Wintrust was posted on 2026-07-09.
+This human resources / people ops position at Wintrust was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

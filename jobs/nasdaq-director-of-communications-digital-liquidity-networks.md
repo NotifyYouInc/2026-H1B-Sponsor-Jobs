@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | New York City, New York, United States |
-| Category | Marketing |
+| Category | PR & External Communications |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Director-of-Communications--Digital-Liquidity-Networks_R0026739) |
 
 ## About This Role
 
-This marketing position at Nasdaq was posted on 2026-08-15.
+This pr & external communications position at Nasdaq was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

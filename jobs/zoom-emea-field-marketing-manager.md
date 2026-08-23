@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Marketing |
+| Category | Field & Event Marketing |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Dublin-IRL/EMEA-Field-Marketing-Manager_R19545-1) |
 
 ## About This Role
 
-This marketing position at Zoom was posted on 2026-08-15.
+This field & event marketing position at Zoom was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

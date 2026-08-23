@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sharjah, Sharjah, United Arab Emirates |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Sharjah/ITS-Engineer_R176791-1) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/ITS-Engineer_R184533) |
 
 ## About This Role
 
-This it & systems administration position at Parsons was posted on 2026-07-29.
+This it & systems administration position at Parsons was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

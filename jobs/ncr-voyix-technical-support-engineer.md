@@ -5,12 +5,12 @@
 | Company | [NCR Voyix](https://scoutify.ai/companies/ncr-voyix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Cebu City, Central Visayas, Philippines |
 | Category | Customer Success |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CEBU-CITY-PHL/Technical-Support-Engineer_JR2607318) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CEBU-CITY-PHL/Technical-Support-Engineer_JR2607336) |
 
 ## About This Role
 
-This customer success position at NCR Voyix was posted on 2026-08-08.
+This customer success position at NCR Voyix was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

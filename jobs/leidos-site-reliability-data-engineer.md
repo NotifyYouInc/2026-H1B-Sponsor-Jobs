@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 3 locations |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Site-Reliability-Data-Engineer_R-00189182-1) |
 
 ## About This Role
 
-This data engineer position at Leidos was posted on 2026-08-15.
+This devops engineer position at Leidos was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

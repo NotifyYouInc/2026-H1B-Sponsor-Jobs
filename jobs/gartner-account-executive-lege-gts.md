@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Arizona, US |
-| Category | Sales |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---Arizona/Account-Executive--LE-GE--GTS_113037) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Account Executive |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Dubai/Account-Executive--LE-GE--GTS_112647-1) |
 
 ## About This Role
 
-This sales position at Gartner was posted on 2026-08-08.
+This account executive position at Gartner was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

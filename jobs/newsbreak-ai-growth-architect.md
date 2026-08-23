@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NewsBreak](https://scoutify.ai/companies/newsbreak?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Marketing |
+| Category | Growth Marketing |
 | Posted | 2026-08-15 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/newsbreak/jobs/4705686006) |
 
 ## About This Role
 
-This marketing position at NewsBreak was posted on 2026-08-15.
+This growth marketing position at NewsBreak was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

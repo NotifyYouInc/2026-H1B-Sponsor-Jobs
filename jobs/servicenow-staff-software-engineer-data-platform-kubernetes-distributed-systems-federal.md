@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Diego, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143616759-staff-software-engineer-data-platform-kubernetes-distributed-systems-federal) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143617076-staff-software-engineer-data-platform-kubernetes-distributed-systems-federal) |
 
 ## About This Role
 
-This devops engineer position at ServiceNow was posted on 2026-08-14.
+This devops engineer position at ServiceNow was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 
