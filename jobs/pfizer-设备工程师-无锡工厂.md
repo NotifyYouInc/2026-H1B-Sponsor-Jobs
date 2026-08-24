@@ -5,12 +5,12 @@
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Wuxi, Jiangsu, China |
 | Category | Industrial Automation |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Jiangsu---Wuxi/-_4953212) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Jiangsu---Wuxi/-_4962008) |
 
 ## About This Role
 
-This industrial automation position at Pfizer was posted on 2026-03-11.
+This industrial automation position at Pfizer was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

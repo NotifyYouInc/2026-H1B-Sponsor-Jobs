@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Signify](https://scoutify.ai/companies/lighting?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Account Executive |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Tokyo/Sales-Specialist_364725-1) |
+| Category | Sales |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Tokyo/Sales-Specialist_365386) |
 
 ## About This Role
 
-This account executive position at Signify was posted on 2026-05-26.
+This sales position at Signify was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
-| Category | Financial Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Finance-Analyst_2019164) |
+| Location | Atlanta, Georgia, United States |
+| Category | Corporate Finance |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Finance-Analyst_2020801-1) |
 
 ## About This Role
 
-This financial analyst position at Cisco was posted on 2026-07-08.
+This corporate finance position at Cisco was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

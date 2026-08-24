@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Account Executive |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Inside-Sales-Representative-II_R243125) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Sales |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/JP-Tokyo-Japan-Atago-Green-Hills-Mori/Inside-Sales-Representative-II_R246770) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-05-15.
+This sales position at Arrow Electronics was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

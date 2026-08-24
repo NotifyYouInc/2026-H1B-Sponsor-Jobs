@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Alexandria, New South Wales, Australia |
-| Category | Operations |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000132992979-national-operations-manager-audit-certifications) |
+| Category | Strategy & Operations |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000143750353-national-operations-manager-audit-certifications) |
 
 ## About This Role
 
-This operations position at SGS was posted on 2026-06-19.
+This strategy & operations position at SGS was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

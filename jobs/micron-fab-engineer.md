@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manassas, Virginia, United States |
+| Location | Hiroshima, Hiroshima, Japan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/FAB-Engineer_JR99271-2) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/FAB-Engineer_JR106730) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-25.
+This semiconductor / chip design position at Micron was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

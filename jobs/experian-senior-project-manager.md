@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Hyderabad, Telangana, India |
 | Category | Project Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000143037769-senior-project-manager) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000143746810-senior-project-manager) |
 
 ## About This Role
 
-This project manager position at Experian was posted on 2026-08-12.
+This project manager position at Experian was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

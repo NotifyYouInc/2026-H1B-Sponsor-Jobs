@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Alabang-Muntinlupa-City/Recruitment-Coordinator_R238723) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Alabang-Muntinlupa-City/Recruiting-Coordinator_R248119) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Capital One was posted on 2026-03-26.
+This talent acquisition / recruiting position at Capital One was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

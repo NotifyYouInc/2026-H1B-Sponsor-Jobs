@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Project Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Kuala-Lumpur-MYS/Regional-Study-Coordinator_2614846) |
+| Location | 4 locations |
+| Category | Program Manager |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Suzhou-China/Regional-Study-Coordinator_2629197) |
 
 ## About This Role
 
-This project manager position at Labcorp was posted on 2026-04-30.
+This program manager position at Labcorp was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

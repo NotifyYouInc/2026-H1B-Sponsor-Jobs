@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Quincy, Massachusetts, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alternative-Ops-Fund-Accounting--Officer_R-788596) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Accounting |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Philippines-Manila/Alternative-Ops-Fund-Accounting--Officer_R-791313-3) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-04-17.
+This accounting position at State Street was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

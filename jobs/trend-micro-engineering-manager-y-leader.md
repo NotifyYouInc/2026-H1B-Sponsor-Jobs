@@ -5,12 +5,12 @@
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Engineering Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/Engineering-Manager--Y-Leader-_R0010031) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/Engineering-Manager--Y-Leader-_R0010099) |
 
 ## About This Role
 
-This engineering manager position at Trend Micro was posted on 2026-07-31.
+This engineering manager position at Trend Micro was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

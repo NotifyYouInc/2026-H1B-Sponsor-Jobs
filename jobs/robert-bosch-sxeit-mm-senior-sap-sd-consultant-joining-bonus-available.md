@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Vietnam |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138578071-sxeit-mm-senior-sap-sd-consultant-joining-bonus-available) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143740199-sxeit-mm-senior-sap-sd-consultant-joining-bonus-available) |
 
 ## About This Role
 
-This technology / it consulting position at Robert Bosch was posted on 2026-07-20.
+This technology / it consulting position at Robert Bosch was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

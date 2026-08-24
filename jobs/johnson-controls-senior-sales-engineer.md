@@ -1,16 +1,16 @@
-# senior sales engineer at Johnson Controls
+# Senior Sales Engineer at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Sales Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Suzhou-Jiangsu-China/senior-sales-engineer_WD30273023) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Petaling-Jaya-Selangor-Malaysia/Senior-Sales-Engineer_WD30277144-1) |
 
 ## About This Role
 
-This sales engineer position at Johnson Controls was posted on 2026-06-24.
+This sales engineer position at Johnson Controls was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

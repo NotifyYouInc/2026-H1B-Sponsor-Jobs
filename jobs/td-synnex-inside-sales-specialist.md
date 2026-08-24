@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Account Executive |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Ho-Chi-Minh-City-Vietnam/Inside-Sales-Specialist_R54908) |
+| Location | Petaling Jaya, Selangor, Malaysia |
+| Category | Sales |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Petaling-Jaya-Malaysia/Inside-Sales-Specialist_R55179-1) |
 
 ## About This Role
 
-This account executive position at TD Synnex was posted on 2026-08-10.
+This sales position at TD Synnex was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

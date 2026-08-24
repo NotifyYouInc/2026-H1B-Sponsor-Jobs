@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Daikin Comfort](https://scoutify.ai/companies/daikin-comfort?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shreveport, Louisiana, United States |
-| Category | Account Manager |
-| Posted | 2026-07-12 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=1696106f-3018-451f-ae76-b1869dbcefdf) |
+| Location | St. Louis, Missouri, United States |
+| Category | Sales |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=24da91c6-0a11-4fa6-8aaf-998fda2ac7bf) |
 
 ## About This Role
 
-This account manager position at Daikin Comfort was posted on 2026-07-12.
+This sales position at Daikin Comfort was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

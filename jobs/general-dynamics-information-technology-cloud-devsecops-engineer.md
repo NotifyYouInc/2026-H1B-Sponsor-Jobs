@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Cloud-DevSecOps-Engineer_RQ220996-1) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Cloud-DevSecOps-Engineer_RQ226459-1) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-05-31.
+This devops engineer position at General Dynamics Information Technology was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

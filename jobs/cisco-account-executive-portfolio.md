@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Kita, Tokyo, Japan |
 | Category | Sales |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Mumbai-India/Account-Executive---Portfolio_2018781) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Kita-Japan/Account-Executive---Portfolio_2021927-1) |
 
 ## About This Role
 
-This sales position at Cisco was posted on 2026-08-08.
+This sales position at Cisco was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

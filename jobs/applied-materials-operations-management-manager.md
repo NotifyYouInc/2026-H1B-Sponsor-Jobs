@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Engineering Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Operations-Management--Manager_R2625872) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Operations-Management--Manager_R2625832) |
 
 ## About This Role
 
-This engineering manager position at Applied Materials was posted on 2026-08-11.
+This engineering manager position at Applied Materials was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139232459-senior-specialist-data-production-mm-fresh-graduates-welcome) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143745019-senior-specialist-data-production-mm-fresh-graduates-welcome) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-07-23.
+This data analyst position at NielsenIQ was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

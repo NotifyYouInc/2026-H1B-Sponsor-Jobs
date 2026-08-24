@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Accounting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000138267959-analyst-tac) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000143756869-analyst-tac) |
 
 ## About This Role
 
-This accounting position at Louis Dreyfus was posted on 2026-07-17.
+This accounting position at Louis Dreyfus was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

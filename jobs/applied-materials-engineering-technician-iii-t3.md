@@ -1,16 +1,16 @@
-# Engineering Technician III - (T3) at Applied Materials
+# Engineering Technician III (T3) at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Santa Clara, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/PhoenixAZ/Engineering-Technician-III----T3-_R2615993) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Engineering-Technician-III--T3-_R2625474) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Applied Materials was posted on 2026-04-01.
+This electrical / hardware engineer position at Applied Materials was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

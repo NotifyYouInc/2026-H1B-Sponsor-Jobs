@@ -1,16 +1,16 @@
-# Principal Software Engineer at Okta
+# Principal Software Engineer  at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7741588?gh_jid=7741588) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8071508?gh_jid=8071508) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-03-23.
+This software engineer position at Okta was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

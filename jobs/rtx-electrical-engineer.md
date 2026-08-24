@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Exmouth, Western Australia, Australia |
+| Location | 2 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/AU-WA-EXMOUTH-HEH-CUST--HEH-Murat-Rd--NAVAL-COMMS-External-Site/Electrical-Engineer_01846206) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/AU-WA-EXMOUTH-HEH-CUST--HEH-Murat-Rd--NAVAL-COMMS-External-Site/Electrical-Engineer_01866822) |
 
 ## About This Role
 
-This electrical / hardware engineer position at RTX was posted on 2026-05-27.
+This electrical / hardware engineer position at RTX was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

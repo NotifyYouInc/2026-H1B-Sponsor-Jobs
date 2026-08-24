@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000126633940-senior-business-analyst) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000143744799-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Endava was posted on 2026-05-15.
+This business analyst position at Endava was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

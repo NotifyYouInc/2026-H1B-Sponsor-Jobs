@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556953091) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556971509) |
 
 ## About This Role
 
-This it & systems administration position at Microsoft was posted on 2026-08-03.
+This it & systems administration position at Microsoft was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

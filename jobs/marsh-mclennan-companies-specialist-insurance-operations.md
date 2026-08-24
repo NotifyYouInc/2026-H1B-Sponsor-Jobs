@@ -1,16 +1,16 @@
-# Specialist – Insurance Operations at Marsh & McLennan Companies
+# Specialist - Insurance Operations at Marsh & McLennan Companies
 
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | QA Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Pune---Business-Bay/Specialist---Insurance-Operations_R_338028) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Actuary / Insurance Analytics |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mumbai---Hiranandani/Specialist---Insurance-Operations_R_361886-1) |
 
 ## About This Role
 
-This qa engineer position at Marsh & McLennan Companies was posted on 2026-04-24.
+This actuary / insurance analytics position at Marsh & McLennan Companies was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

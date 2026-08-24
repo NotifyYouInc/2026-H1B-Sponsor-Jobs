@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Compliance & Risk Management |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000131387674-auditor-ii-finance-compliance-sox) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143759569-auditor-ii-finance-compliance-sox) |
 
 ## About This Role
 
-This compliance & risk management position at AECOM was posted on 2026-06-10.
+This compliance & risk management position at AECOM was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

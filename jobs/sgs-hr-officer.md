@@ -1,16 +1,16 @@
-# HR Officer at SGS
+# HR Officer  at SGS
 
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ndola, Copperbelt, Zambia |
+| Location | Hyderabad, Telangana, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000113637247-hr-officer) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000143751288-hr-officer) |
 
 ## About This Role
 
-This human resources / people ops position at SGS was posted on 2026-03-10.
+This human resources / people ops position at SGS was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

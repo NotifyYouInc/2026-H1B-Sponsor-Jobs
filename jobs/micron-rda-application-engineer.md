@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taoyuan, Taiwan, Taiwan |
-| Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/RDA-Application-Engineer_JR93737) |
+| Location | Hiroshima, Hiroshima, Japan |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/RDA-Application-Engineer_JR105769) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-07-15.
+This semiconductor / chip design position at Micron was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

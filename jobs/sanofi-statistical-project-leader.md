@@ -1,16 +1,16 @@
-# Statistical Project Leader at Sanofi
+# Statistical Project Leader  at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Statistical-Project-Leader_R2862255-1) |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Statistical-Project-Leader-_R2867272) |
 
 ## About This Role
 
-This data scientist position at Sanofi was posted on 2026-07-03.
+This bioinformatics / computational biology position at Sanofi was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

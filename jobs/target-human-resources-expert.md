@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Snellville, Georgia, United States |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1905-Scenic-Hwy-N-SnellvilleGA-30078-5633/Human-Resources-Expert_R0000449519) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/900-Nicollet-Mall-MinneapolisMN-55403-2530/Human-Resources-Expert_R0000449622) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-08-14.
+This human resources / people ops position at Target was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

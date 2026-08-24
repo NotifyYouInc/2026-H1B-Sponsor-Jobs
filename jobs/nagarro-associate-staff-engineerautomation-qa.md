@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | QA Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000132785892-associate-staff-engineerautomation-qa) |
+| Location | Xi’an, Shaanxi, China |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000143743669-associate-staff-engineerautomation-qa) |
 
 ## About This Role
 
-This qa engineer position at Nagarro was posted on 2026-06-18.
+This software engineer position at Nagarro was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

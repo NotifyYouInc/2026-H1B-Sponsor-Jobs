@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vaasa, Ostrobothnia, Finland |
+| Location | Tangerang, Banten, Indonesia |
 | Category | Compliance & Risk Management |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaasa-Ostrobothnia-Finland/HSE-Specialist_R0132529) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Tangerang-Banten-Indonesia/HSE-Specialist_R0139877) |
 
 ## About This Role
 
-This compliance & risk management position at Hitachi was posted on 2026-08-14.
+This compliance & risk management position at Hitachi was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

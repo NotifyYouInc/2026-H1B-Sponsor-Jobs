@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ahmedabad, Gujarat, India |
-| Category | Program Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10483288/team-lead-sort-center) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Strategy & Operations |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10503333/team-lead-sort-center) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-07-24.
+This strategy & operations position at Amazon was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

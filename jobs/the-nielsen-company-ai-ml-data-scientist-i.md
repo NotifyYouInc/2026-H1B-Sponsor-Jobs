@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014419705-ai-ml-data-scientist-i) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014617255-ai-ml-data-scientist-i) |
 
 ## About This Role
 
-This data scientist position at The Nielsen Company was posted on 2026-08-04.
+This data scientist position at The Nielsen Company was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

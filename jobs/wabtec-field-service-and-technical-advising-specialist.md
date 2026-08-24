@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shalkar, Atyrau Oblisi, Kazakhstan |
-| Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013593456-field-service-and-technical-advising-specialist) |
+| Location | Kazakhstan |
+| Category | Field & Event Marketing |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014617166-field-service-and-technical-advising-specialist) |
 
 ## About This Role
 
-This customer success position at Wabtec was posted on 2026-06-12.
+This field & event marketing position at Wabtec was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

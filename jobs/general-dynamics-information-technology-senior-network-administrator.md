@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | Sierra Vista, Arizona, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Network-Administrator_RQ225689-2) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AZ-Sierra-Vista/Senior-Network-Administrator_RQ226484-1) |
 
 ## About This Role
 
-This it & systems administration position at General Dynamics Information Technology was posted on 2026-08-09.
+This it & systems administration position at General Dynamics Information Technology was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

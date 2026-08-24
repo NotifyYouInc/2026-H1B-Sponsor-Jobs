@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Supervisor--Accounting_R-01344343-1) |
+| Category | Accounting |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Quezon-City-Philippines/Supervisor--Accounting_R-01364599) |
 
 ## About This Role
 
-This corporate finance position at Thermo Fisher Scientific was posted on 2026-03-13.
+This accounting position at Thermo Fisher Scientific was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

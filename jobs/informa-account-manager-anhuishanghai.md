@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Account Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000138790956-account-manager-anhuishanghai) |
+| Category | Sales |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000143733539-account-manager-anhuishanghai) |
 
 ## About This Role
 
-This account manager position at Informa was posted on 2026-07-21.
+This sales position at Informa was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

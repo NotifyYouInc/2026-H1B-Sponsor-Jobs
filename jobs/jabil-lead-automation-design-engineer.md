@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Wuxi, Jiangsu, China |
 | Category | Industrial Automation |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Wuxi/Lead-Automation-Design-Engineer_J2445337) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Wuxi/Lead-Automation-Design-Engineer_J2447196-1) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-07-14.
+This industrial automation position at Jabil was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

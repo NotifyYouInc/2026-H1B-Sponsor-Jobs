@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Account Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473458/marketplace-consultant-spanish-speaker-es-3p-strategic-account-services) |
+| Category | Sales |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10503328/marketplace-consultant-spanish-speaker-es-3p-strategic-account-services) |
 
 ## About This Role
 
-This account manager position at Amazon was posted on 2026-07-14.
+This sales position at Amazon was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
