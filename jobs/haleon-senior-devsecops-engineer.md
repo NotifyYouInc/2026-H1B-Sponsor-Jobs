@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Security Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Senior-DevSecOps-Engineer_544920-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Senior-DevSecOps-Engineer_547082) |
 
 ## About This Role
 
-This security engineer position at Haleon was posted on 2026-06-16.
+This devops engineer position at Haleon was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Network-Engineer_R-00178979) |
+| Location | Shiloh, Illinois, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineer_R-00189830) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-20.
+This soc & incident response position at Leidos was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

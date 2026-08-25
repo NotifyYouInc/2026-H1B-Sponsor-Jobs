@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Roseville, California, United States |
+| Location | United States |
 | Category | Account Manager |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Roseville-MN-55113/Rental-Account-Manager_R171954) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---San-Antonio-TX-78219/Rental-Account-Manager_R181307) |
 
 ## About This Role
 
-This account manager position at Ryder System was posted on 2026-05-09.
+This account manager position at Ryder System was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

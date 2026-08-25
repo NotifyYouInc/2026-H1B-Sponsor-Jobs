@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Malaysia |
 | Category | Corporate Finance |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Finance-Analyst-II_R65237) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Finance-Analyst-II_R67648) |
 
 ## About This Role
 
-This corporate finance position at Motorola Solutions was posted on 2026-06-04.
+This corporate finance position at Motorola Solutions was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

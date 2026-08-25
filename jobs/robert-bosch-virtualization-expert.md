@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141175430-virtualization-expert) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143994198-virtualization-expert) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-08-03.
+This embedded / firmware engineer position at Robert Bosch was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deloitte](https://scoutify.ai/companies/deloitteat?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Graz, Styria, Austria |
+| Location | 2 locations |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteAT/744000139547069-berufsanwarterin-all-genders-steuerberatung-mit-erster-berufserfahrung) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteAT/744000143985129-berufsanwarterin-all-genders-steuerberatung-mit-erster-berufserfahrung) |
 
 ## About This Role
 
-This financial advisory & consulting position at Deloitte was posted on 2026-07-24.
+This financial advisory & consulting position at Deloitte was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

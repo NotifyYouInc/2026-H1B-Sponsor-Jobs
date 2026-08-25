@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Luxembourg |
+| Location | Belgium |
 | Category | Data Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000136408789-senior-data-engineer-consultant) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000143999642-senior-data-engineer-consultant) |
 
 ## About This Role
 
-This data engineer position at SIA was posted on 2026-07-08.
+This data engineer position at SIA was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Denmark |
-| Category | Sales |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108879263-senior-services-account-executive) |
+| Location | Osaka, Osaka, Japan |
+| Category | Account Executive |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143984539-senior-services-account-executive) |
 
 ## About This Role
 
-This sales position at ServiceNow was posted on 2026-02-12.
+This account executive position at ServiceNow was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

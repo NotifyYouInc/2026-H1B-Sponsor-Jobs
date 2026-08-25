@@ -5,12 +5,12 @@
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Enterprise-technology-engineer_RQ098245) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Enterprise-technology-engineer_RQ114675) |
 
 ## About This Role
 
-This devops engineer position at BP was posted on 2026-02-26.
+This devops engineer position at BP was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

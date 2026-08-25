@@ -1,16 +1,16 @@
-# Global Installation Engineer-Display - CVD/PVD at Applied Materials
+# Global Installation Engineer-Display CVD/PVD at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Deployment Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HefeiCHN/Global-Installation-Engineer-Display---CVD-PVD_R2619491) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/XiamenCHN/Global-Installation-Engineer-Display-CVD-PVD_R2624611) |
 
 ## About This Role
 
-This deployment engineer position at Applied Materials was posted on 2026-07-23.
+This deployment engineer position at Applied Materials was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

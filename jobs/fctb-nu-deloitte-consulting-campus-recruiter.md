@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Eindhoven, North Brabant, The Netherlands |
+| Location | Utrecht, Utrecht, The Netherlands |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000138586209-campus-recruiter) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000143987509-campus-recruiter) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at FCTB (nu: Deloitte Consulting) was posted on 2026-07-20.
+This talent acquisition / recruiting position at FCTB (nu: Deloitte Consulting) was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Malaysia |
 | Category | Program Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Supply-Chain-Program-Manager_J2449096) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Supply-Chain-Program-Manager_J2461477) |
 
 ## About This Role
 
-This program manager position at Jabil was posted on 2026-05-11.
+This program manager position at Jabil was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

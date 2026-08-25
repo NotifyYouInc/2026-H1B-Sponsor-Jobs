@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bengaluru-India/Technology-Consultant_R26-4338) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Industrial Automation |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Taipei-Taiwan/Technology-Consultant_R26-6224) |
 
 ## About This Role
 
-This technology / it consulting position at Rockwell Automation was posted on 2026-07-09.
+This industrial automation position at Rockwell Automation was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | QA Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Quality-Engineering-Architect--Test-Arch_ATCI-5416143-S1969749) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Quality-Engineering-Architect_ATCI-5723026-S2064683-1) |
 
 ## About This Role
 
-This qa engineer position at Accenture was posted on 2026-06-29.
+This qa engineer position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

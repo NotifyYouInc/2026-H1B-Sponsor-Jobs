@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Operations |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429150/team-lead-amzl) |
+| Location | Pune, Maharashtra, India |
+| Category | Program Manager |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10504588/team-lead-amzl) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-05-25.
+This program manager position at Amazon was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Layton, Utah, United States |
+| Location | Boynton Beach, Florida, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/815-W-2000-N-LaytonUT-84041-1632/Executive-Team-Leader-Human-Resources--Assistant-Manager-HR-_R0000435737) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/650-N-Congress-Ave-Boynton-Beach-FL-33426-3445/Executive-Team-Leader-Human-Resources--Assistant-Manager-HR-_R0000449868) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-04-18.
+This human resources / people ops position at Target was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Ingénieur Méthodes / Industrialisation (H/F) at ALTEN
+# Ingénieur Méthodes Industrialisation (H/F) at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | France |
+| Location | Caen, Normandy, France |
 | Category | Industrial Automation |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141427618-ingenieur-methodes-industrialisation-hf) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000143991079-ingenieur-methodes-industrialisation-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-08-04.
+This industrial automation position at ALTEN was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

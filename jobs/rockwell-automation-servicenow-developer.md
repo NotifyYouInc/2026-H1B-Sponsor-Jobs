@@ -5,12 +5,12 @@
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/ServiceNow-Developer_R25-9126) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/ServiceNow-Developer_R26-6414) |
 
 ## About This Role
 
-This software engineer position at Rockwell Automation was posted on 2026-03-05.
+This software engineer position at Rockwell Automation was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Pune, Maharashtra, India |
 | Category | Corporate Development & M&A |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Trade-and-or-Transaction-Analyst--AS_R0412623) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Trade-and-or-Transaction-Analyst--AS_R0439333-1) |
 
 ## About This Role
 
-This corporate development & m&a position at Deutsche Bank was posted on 2026-04-06.
+This corporate development & m&a position at Deutsche Bank was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Hyderabad, Telangana, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Technology-Consultant_1193131-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Hyderabad-Telangana-India/Technology-Consultant_1203657) |
 
 ## About This Role
 
-This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-04-13.
+This technology / it consulting position at Hewlett Packard Enterprise was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

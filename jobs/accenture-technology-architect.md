@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Technology-Architect_ATCI-5710618-S2064036-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Architect_ATCI-5714497-S2064678-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-08-13.
+This technology / it consulting position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

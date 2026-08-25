@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cambridge, England, United Kingdom |
+| Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CAMBRIDGE/Software-Engineer-II_R55345) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI-07/Software-Engineer-II_R55985) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-07-06.
+This software engineer position at Cadence Design Systems was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Hyderabad-Telangana-India/Audit-Associate_R-50889) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Noida-Uttar-Pradesh-India/Audit-Associate_R-50888-1) |
 
 ## About This Role
 
-This corporate finance position at Crowe was posted on 2026-05-07.
+This accounting position at Crowe was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

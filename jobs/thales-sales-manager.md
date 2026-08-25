@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 5 locations |
-| Category | Sales Leadership |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Reading/Sales-Manager_R0316741-1) |
+| Location | Singapore, Singapore |
+| Category | Account Manager |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Sales-Manager_R0337668) |
 
 ## About This Role
 
-This sales leadership position at Thales was posted on 2026-05-13.
+This account manager position at Thales was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

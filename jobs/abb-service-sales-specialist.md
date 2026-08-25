@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | Singapore, Singapore |
 | Category | Account Executive |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Guangzhou-Guangdong-China/Service-Sales-Specialist_JR00040997-4) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Singapore-Central-Singapore-Singapore/Service-Sales-Specialist_JR00044498-1) |
 
 ## About This Role
 
-This account executive position at ABB was posted on 2026-07-20.
+This account executive position at ABB was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

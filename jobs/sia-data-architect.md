@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Belgium |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000136409679-data-architect) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Data Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000143998830-data-architect) |
 
 ## About This Role
 
-This technology / it consulting position at SIA was posted on 2026-07-08.
+This data engineer position at SIA was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

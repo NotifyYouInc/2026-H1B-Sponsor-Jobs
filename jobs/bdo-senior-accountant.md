@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bdo](https://scoutify.ai/companies/bdo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Sydney-New-South-Wales/Senior-Accountant_JR103008) |
+| Location | Adelaide, South Australia, Australia |
+| Category | Accounting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://bdoau.wd105.myworkdayjobs.com/bdocareers/job/Adelaide-South-Australia/Senior-Accountant_JR103653) |
 
 ## About This Role
 
-This corporate finance position at Bdo was posted on 2026-04-14.
+This accounting position at Bdo was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

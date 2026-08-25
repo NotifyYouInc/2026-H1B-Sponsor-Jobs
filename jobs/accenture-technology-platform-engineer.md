@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Platform-Engineer_ATCI-5445117-S1995687) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Platform-Engineer_ATCI-5710735-S2064687-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-05.
+This technology / it consulting position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

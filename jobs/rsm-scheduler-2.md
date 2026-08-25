@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Operations |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Scheduler-2_JR118408) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Business Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Scheduler-2_JR120597) |
 
 ## About This Role
 
-This operations position at RSM was posted on 2026-03-12.
+This business analyst position at RSM was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
