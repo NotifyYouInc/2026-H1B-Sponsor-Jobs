@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/FR-Courbevoie-France-Rue-du-Gnral-Audran/Apprenti-e--Sales_R245208) |
+| Category | Sales |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/FR-Courbevoie-France-Rue-du-Gnral-Audran/Apprenti-e--Sales_R245217) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Arrow Electronics was posted on 2026-07-11.
+This sales position at Arrow Electronics was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

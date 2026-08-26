@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Offensive Security & Pentesting |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Pune---Panchshil---India-Office/Software-Engineer_R02728) |
+| Location | Santa Clara, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R04460-1) |
 
 ## About This Role
 
-This offensive security & pentesting position at Cohesity was posted on 2026-03-05.
+This software engineer position at Cohesity was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

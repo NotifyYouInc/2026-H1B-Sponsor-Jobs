@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sānand, Gujarat, India |
-| Category | Industrial Automation |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/IN-GJ-Sanand-IRIPL/Automation-Engineer_R-136412) |
+| Location | Pune, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Pune/Automation-Engineer_R-144968) |
 
 ## About This Role
 
-This industrial automation position at Coca-Cola was posted on 2026-02-20.
+This devops engineer position at Coca-Cola was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111769535-staff-software-engineer) |
+| Location | Hyderabad, Telangana, India |
+| Category | Software Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144238540-staff-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at ServiceNow was posted on 2026-02-27.
+This software engineer position at ServiceNow was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ahmedabad, Gujarat, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Ahmedabad-India/Business-Development-Manager_R47341-1) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Channel / Partner Sales |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Ho-Chi-Minh-City-Vietnam/Business-Development-Manager_R55314) |
 
 ## About This Role
 
-This engineering manager position at TD Synnex was posted on 2026-03-11.
+This channel / partner sales position at TD Synnex was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

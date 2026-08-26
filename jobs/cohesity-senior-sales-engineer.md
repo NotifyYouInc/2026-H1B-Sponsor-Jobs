@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ohio, US |
+| Location | California, US |
 | Category | Sales Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---Ohio---Remote/Senior-Sales-Engineer_R02585-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/USA---California---Remote/Senior-Sales-Engineer_R04423) |
 
 ## About This Role
 
-This sales engineer position at Cohesity was posted on 2026-02-06.
+This sales engineer position at Cohesity was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Operations |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127354704-order-management-specialist) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000144231624-order-management-specialist) |
 
 ## About This Role
 
-This operations position at NielsenIQ was posted on 2026-05-20.
+This operations position at NielsenIQ was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

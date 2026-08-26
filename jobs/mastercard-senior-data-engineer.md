@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Senior-Data-Engineer_R-270418) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Data-Engineer_R-288441-1) |
 
 ## About This Role
 
-This data engineer position at Mastercard was posted on 2026-02-13.
+This data engineer position at Mastercard was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

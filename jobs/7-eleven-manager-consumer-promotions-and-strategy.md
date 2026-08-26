@@ -1,0 +1,22 @@
+# Manager, Consumer Promotions and Strategy at 7-Eleven
+
+| Field | Details |
+|-------|---------|
+| Company | [7-Eleven](https://scoutify.ai/companies/my7elevenhr?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | 2 locations |
+| Category | Strategy & Operations |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Manager--Consumer-Promotions-and-Strategy_R26_5111) |
+
+## About This Role
+
+This strategy & operations position at 7-Eleven was posted on 2026-08-18.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

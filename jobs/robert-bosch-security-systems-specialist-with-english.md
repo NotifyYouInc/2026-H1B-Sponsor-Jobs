@@ -1,16 +1,16 @@
-# Security Systems Specialist with English at Robert Bosch
+# Security Systems Specialist  with English at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Timişoara, Timiș County, Romania |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137068396-security-systems-specialist-with-english) |
+| Category | Customer Success |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144236602-security-systems-specialist-with-english) |
 
 ## About This Role
 
-This technical support engineer position at Robert Bosch was posted on 2026-07-10.
+This customer success position at Robert Bosch was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

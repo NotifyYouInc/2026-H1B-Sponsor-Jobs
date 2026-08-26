@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Perth, Western Australia, Australia |
-| Category | Account Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Perth---225-St-Georges-Terrac/Principal-Broker_R_353902) |
+| Location | 2 locations |
+| Category | Account Executive |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Cairns---Lake/Principal-Broker_R_362679-2) |
 
 ## About This Role
 
-This account manager position at Marsh & McLennan Companies was posted on 2026-06-04.
+This account executive position at Marsh & McLennan Companies was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

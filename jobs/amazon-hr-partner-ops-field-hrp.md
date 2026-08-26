@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439374/hr-partner-ops-field-hrp) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10506463/hr-partner-ops-field-hrp) |
 
 ## About This Role
 
-This human resources / people ops position at Amazon was posted on 2026-06-03.
+This human resources / people ops position at Amazon was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100159) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129791) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-03-09.
+This technology / it consulting position at IBM was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

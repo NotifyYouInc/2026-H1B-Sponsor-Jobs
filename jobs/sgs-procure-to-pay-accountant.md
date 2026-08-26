@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Muntinlupa, Calabarzon, Philippines |
-| Category | Corporate Finance |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000133866559-procure-to-pay-accountant) |
+| Category | Accounting |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000144230549-procure-to-pay-accountant) |
 
 ## About This Role
 
-This corporate finance position at SGS was posted on 2026-06-24.
+This accounting position at SGS was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

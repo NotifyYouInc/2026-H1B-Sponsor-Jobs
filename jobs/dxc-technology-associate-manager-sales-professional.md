@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Account Manager |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Associate-Manager-Sales-Professional_51584016) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/JPN---TOKYO/Associate-Manager-Sales-Professional_51587332) |
 
 ## About This Role
 
-This account manager position at DXC Technology was posted on 2026-06-27.
+This account manager position at DXC Technology was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

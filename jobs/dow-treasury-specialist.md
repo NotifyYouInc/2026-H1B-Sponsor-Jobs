@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Treasury-Specialist_R2063934) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Accounting |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Sao-Paulo-BRA/Treasury-Specialist_R2067461) |
 
 ## About This Role
 
-This corporate finance position at Dow was posted on 2026-02-05.
+This accounting position at Dow was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

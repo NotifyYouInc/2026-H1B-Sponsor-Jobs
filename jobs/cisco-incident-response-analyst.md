@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | SOC & Incident Response |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Incident-Response-Analyst_2018874-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Incident-Response-Analyst_2021883-1) |
 
 ## About This Role
 
-This soc & incident response position at Cisco was posted on 2026-08-03.
+This soc & incident response position at Cisco was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

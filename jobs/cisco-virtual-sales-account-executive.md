@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Account Executive |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Vancouver-British-Columbia-Canada/Virtual-Sales-Account-Executive_2013439) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Stockholm-Sweden/Virtual-Sales-Account-Executive_2018962-1) |
 
 ## About This Role
 
-This account executive position at Cisco was posted on 2026-05-10.
+This account executive position at Cisco was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

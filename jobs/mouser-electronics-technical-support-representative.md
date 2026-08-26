@@ -5,12 +5,12 @@
 | Company | [Mouser Electronics](https://scoutify.ai/companies/us2-cx-oj71627?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://eabw.fa.us2.oraclecloud.com/jobs/#31195) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://eabw.fa.us2.oraclecloud.com/jobs/#31196) |
 
 ## About This Role
 
-This customer success position at Mouser Electronics was posted on 2026-08-17.
+This customer success position at Mouser Electronics was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

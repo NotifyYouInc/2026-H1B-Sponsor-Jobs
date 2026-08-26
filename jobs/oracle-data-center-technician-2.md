@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Abilene, Texas, United States |
+| Location | Osaka, Osaka, Japan |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#304776) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#343153) |
 
 ## About This Role
 
-This it & systems administration position at Oracle was posted on 2026-04-07.
+This it & systems administration position at Oracle was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 
