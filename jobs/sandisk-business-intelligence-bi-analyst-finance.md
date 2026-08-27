@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Milpitas, California, United States |
 | Category | Data Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000124195146-business-intelligence-bi-analyst-finance) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000144601699-business-intelligence-bi-analyst-finance) |
 
 ## About This Role
 
-This data analyst position at SanDisk was posted on 2026-05-01.
+This data analyst position at SanDisk was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

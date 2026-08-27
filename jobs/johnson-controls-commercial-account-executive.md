@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nashua, New Hampshire, United States |
+| Location | Bothell, Washington, United States |
 | Category | Account Executive |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Nashua-New-Hampshire-United-States-of-America/Commercial-Account-Executive_WD30272963) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bothell-Washington-United-States-of-America/Commercial-Account-Executive_WD30277339) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-06-27.
+This account executive position at Johnson Controls was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

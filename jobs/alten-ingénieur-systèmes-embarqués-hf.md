@@ -1,16 +1,16 @@
-# Ingénieur Systèmes Embarqués (H/F) at ALTEN
+# Ingénieur systèmes embarqués (H/F) at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137836704-ingenieur-systemes-embarques-hf) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000144591769-ingenieur-systemes-embarques-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-07-15.
+This embedded / firmware engineer position at ALTEN was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chapecó, Santa Catarina, Brazil |
+| Location | Ipiaú, Bahia, Brazil |
 | Category | Account Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CHAPECO/Espec-Clientes-B1-I_Req1537659) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/IPIAU/Espec-Clientes-B1-I_Req1601679) |
 
 ## About This Role
 
-This account manager position at Santander was posted on 2026-04-06.
+This account manager position at Santander was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

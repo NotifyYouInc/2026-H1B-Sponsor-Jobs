@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8347393002) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8720906002) |
 
 ## About This Role
 
-This sales position at Databricks was posted on 2026-02-11.
+This sales position at Databricks was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

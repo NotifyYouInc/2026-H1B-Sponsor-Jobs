@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Notion](https://scoutify.ai/companies/notion?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Growth Marketing |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/notion/fef0c5d0-6744-40e6-aeae-0c5644f6af5e) |
+| Location | Munich, Bavaria, Germany |
+| Category | Sales |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/notion/951a7b72-4cb3-4726-be5e-5359269d4929) |
 
 ## About This Role
 
-This growth marketing position at Notion was posted on 2026-06-11.
+This sales position at Notion was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

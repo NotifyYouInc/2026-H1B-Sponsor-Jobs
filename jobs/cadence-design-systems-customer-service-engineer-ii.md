@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Toulouse, Occitanie, France |
 | Category | Customer Success |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PUNE-05/Customer-Service-Engineer-II_R54093-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/TOULOUSE-02/Customer-Service-Engineer-I_R53786) |
 
 ## About This Role
 
-This customer success position at Cadence Design Systems was posted on 2026-04-07.
+This customer success position at Cadence Design Systems was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

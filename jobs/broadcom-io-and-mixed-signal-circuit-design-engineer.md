@@ -5,12 +5,12 @@
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Electronic-City---S1/IO-and-Mixed-Signal-Circuit-Design-Engineer_R026568) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Electronic-City---S1/IO-and-Mixed-Signal-Circuit-Design-Engineer_R026863) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Broadcom was posted on 2026-07-23.
+This electrical / hardware engineer position at Broadcom was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

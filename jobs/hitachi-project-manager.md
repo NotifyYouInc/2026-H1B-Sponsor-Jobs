@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | Project Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Oslo-Oslo-Norway/Project-Manager_R0136863) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dublin-County-Dublin-Ireland/Project-Manager_R0141136-1) |
 
 ## About This Role
 
-This project manager position at Hitachi was posted on 2026-08-14.
+This project manager position at Hitachi was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

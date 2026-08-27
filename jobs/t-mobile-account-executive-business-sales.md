@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Account Executive |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Oregon/Account-Executive--Business-Sales_REQ350801) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Account-Executive--Business-Sales_REQ368245) |
 
 ## About This Role
 
-This account executive position at T-Mobile was posted on 2026-04-07.
+This account executive position at T-Mobile was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chon Buri, Chon Buri, Thailand |
-| Category | Industrial Automation |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Thailand-Chon-Buri/Technician-1--Equipment-Maintenance_R264312) |
+| Location | Limerick, Munster, Ireland |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Technician-1--Equipment-Maintenance_R260770) |
 
 ## About This Role
 
-This industrial automation position at Analog Devices was posted on 2026-07-30.
+This electrical / hardware engineer position at Analog Devices was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

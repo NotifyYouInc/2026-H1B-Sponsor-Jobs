@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verkada](https://scoutify.ai/companies/verkada?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Salt Lake City, Utah, United States |
-| Category | Operations |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/4613974007) |
+| Location | San Mateo, California, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5216322007) |
 
 ## About This Role
 
-This operations position at Verkada was posted on 2026-02-24.
+This strategy & operations position at Verkada was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

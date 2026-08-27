@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | South Burlington, Vermont, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/900-Nicollet-Mall-MinneapolisMN-55403-2530/Human-Resources-Expert_R0000449622) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/155-Dorset-St-South-BurlingtonVT-05403-6346/Human-Resources-Expert_R0000450336) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-08-17.
+This human resources / people ops position at Target was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

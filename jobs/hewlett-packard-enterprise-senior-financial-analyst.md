@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Senior-Financial-Analyst_1206964) |
+| Location | Leixlip, Leinster, Ireland |
+| Category | Financial Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Leixlip-Kildare-Ireland/Senior-Financial-Analyst_1211953) |
 
 ## About This Role
 
-This corporate finance position at Hewlett Packard Enterprise was posted on 2026-06-03.
+This financial analyst position at Hewlett Packard Enterprise was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

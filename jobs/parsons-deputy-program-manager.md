@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Maryland, US |
 | Category | Program Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/Deputy-Program-Manager_R180396) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/Deputy-Program-Manager_R185139) |
 
 ## About This Role
 
-This program manager position at Parsons was posted on 2026-05-01.
+This program manager position at Parsons was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

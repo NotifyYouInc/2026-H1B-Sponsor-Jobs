@@ -1,16 +1,16 @@
-# Ingénieur pilote industrialisation (H/F) at ALTEN
+# Ingénieur Pilote industrialisation (H/F) at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Châteaudun, Centre-Val de Loire, France |
+| Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Industrial Automation |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135950935-ingenieur-pilote-industrialisation-hf) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000144589451-ingenieur-pilote-industrialisation-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-07-06.
+This industrial automation position at ALTEN was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Oxford, England, United Kingdom |
 | Category | Project Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Project-Manager_JR10425894) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Oxford/Project-Manager_JR10436382) |
 
 ## About This Role
 
-This project manager position at Airbus was posted on 2026-07-07.
+This project manager position at Airbus was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

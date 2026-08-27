@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lviv, Lviv, Ukraine |
+| Location | Austin, Texas, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000127595731-product-engineer) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000144599384-product-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Renesas Electronics was posted on 2026-05-21.
+This electrical / hardware engineer position at Renesas Electronics was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

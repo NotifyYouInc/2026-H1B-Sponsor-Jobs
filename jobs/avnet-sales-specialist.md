@@ -5,12 +5,12 @@
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taiwan |
 | Category | Account Executive |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Sales-Specialist_JR-022702-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Sales-Specialist_JR-024074) |
 
 ## About This Role
 
-This account executive position at Avnet was posted on 2026-05-05.
+This account executive position at Avnet was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

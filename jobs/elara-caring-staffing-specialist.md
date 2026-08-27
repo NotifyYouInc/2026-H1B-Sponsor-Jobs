@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elara Caring](https://scoutify.ai/companies/elara-caring?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mount Vernon, New York, United States |
+| Location | 2 locations |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Mount-Vernon--TX/Staffing-Specialist_JR-137496-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Brentwood---MO/Staffing-Specialist_JR-138079-1) |
 
 ## About This Role
 
-This human resources / people ops position at Elara Caring was posted on 2026-08-07.
+This human resources / people ops position at Elara Caring was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
