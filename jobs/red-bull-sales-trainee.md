@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | South Bend, Indiana, United States |
-| Category | Business Development |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000131997469-sales-trainee) |
+| Location | Owatonna, Minnesota, United States |
+| Category | Account Manager |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000144808851-sales-trainee) |
 
 ## About This Role
 
-This business development position at Red Bull was posted on 2026-06-12.
+This account manager position at Red Bull was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

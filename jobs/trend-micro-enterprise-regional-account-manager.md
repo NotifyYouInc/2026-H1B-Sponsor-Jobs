@@ -1,16 +1,16 @@
-# Enterprise Regional Account Manager at Trend Micro
+# Enterprise Regional  Account Manager at Trend Micro
 
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Panama |
-| Category | Customer Success |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Panama-City/Enterprise-Regional-Account-Manager_R0009072) |
+| Category | Account Executive |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Panama-Off-Site/Enterprise-Regional--Account-Manager_R0010122) |
 
 ## About This Role
 
-This customer success position at Trend Micro was posted on 2026-02-05.
+This account executive position at Trend Micro was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

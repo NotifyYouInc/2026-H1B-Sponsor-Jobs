@@ -5,12 +5,12 @@
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Thāne, Maharashtra, India |
 | Category | Sales Leadership |
-| Posted | 2026-04-28 |
+| Posted | 2026-08-21 |
 | Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Thane/Sr-Manager---Sales_R48043) |
 
 ## About This Role
 
-This sales leadership position at Xylem was posted on 2026-04-28.
+This sales leadership position at Xylem was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

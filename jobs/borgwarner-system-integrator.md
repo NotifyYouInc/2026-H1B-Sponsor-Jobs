@@ -5,12 +5,12 @@
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bengaluru-Primeco-Unioncity---India/System-Integrator_R2026-1557) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bengaluru-Primeco-Unioncity---India/System-Integrator_R2026-1558) |
 
 ## About This Role
 
-This electrical / hardware engineer position at BorgWarner was posted on 2026-04-27.
+This electrical / hardware engineer position at BorgWarner was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Program Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Technical-Project-Program-Management-III_R2621772) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Technical-Project-Program-Management-III_R2626420) |
 
 ## About This Role
 
-This program manager position at Applied Materials was posted on 2026-07-10.
+This program manager position at Applied Materials was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

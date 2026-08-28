@@ -1,16 +1,16 @@
-# Manager - Sales professional at DXC Technology
+# Manager Sales Professional at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Michigan, US |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Sales Leadership |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---MI---ANY-CITY/Manager---Sales-professional_51584497) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---NLE---MONTERREY/Manager-Sales-Professional_51587042) |
 
 ## About This Role
 
-This sales leadership position at DXC Technology was posted on 2026-07-03.
+This sales leadership position at DXC Technology was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

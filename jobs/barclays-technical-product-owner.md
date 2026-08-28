@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-IB--9th-floor/Technical-Product-Owner_JR-0000091397-8) |
+| Location | Bournemouth, England, United Kingdom |
+| Category | Technical Product Manager |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bournemouth-The-Helm-Holdenhurst-Road/Technical-Product-Owner_JR-0000114393-1) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-03-11.
+This technical product manager position at Barclays was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

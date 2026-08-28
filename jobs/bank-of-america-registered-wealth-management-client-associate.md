@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York, US |
-| Category | Corporate Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/NEW-YORK/Registered-Wealth-Management-Client-Associate_26013107) |
+| Location | Aventura, Florida, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Aventura/Registered-Wealth-Management-Client-Associate_26030607) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-04-09.
+This wealth management / private banking position at Bank of America was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

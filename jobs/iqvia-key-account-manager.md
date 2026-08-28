@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Key-Account-Manager_R1528995) |
+| Location | 2 locations |
+| Category | Account Manager |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Hampshire-United-Kingdom/Key-Account-Manager_R1564978) |
 
 ## About This Role
 
-This customer success position at IQVIA was posted on 2026-02-14.
+This account manager position at IQVIA was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

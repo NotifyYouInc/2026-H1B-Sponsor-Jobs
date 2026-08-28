@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Marketing |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Mumbai-Maharashtra/Conference-Producer_JREQ198488) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Field & Event Marketing |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Conference-Producer_JREQ202886) |
 
 ## About This Role
 
-This marketing position at Thomson Reuters was posted on 2026-02-27.
+This field & event marketing position at Thomson Reuters was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

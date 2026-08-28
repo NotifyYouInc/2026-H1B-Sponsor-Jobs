@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tainan, Taiwan, Taiwan |
+| Location | Dublin, Leinster, Ireland |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/TainanTWN/Electrical-Engineer_R2625506) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/DublinIRL/Electrical-Engineer_R2626678) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Applied Materials was posted on 2026-08-19.
+This electrical / hardware engineer position at Applied Materials was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

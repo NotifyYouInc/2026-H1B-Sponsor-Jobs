@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | Arlington, Texas, United States |
 | Category | Channel / Partner Sales |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200670040/community-specialist-channel-retail) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200679374/community-specialist-channel-retail) |
 
 ## About This Role
 
-This channel / partner sales position at Apple was posted on 2026-06-27.
+This channel / partner sales position at Apple was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

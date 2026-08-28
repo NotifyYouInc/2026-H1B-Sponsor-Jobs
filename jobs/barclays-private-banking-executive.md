@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | 4 locations |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Leeds-Park-Row/Private-Banking-Executive_JR-0000122004) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Reading-Apex-Plaza/Private-Banking-Executive_JR-0000127771) |
 
 ## About This Role
 
-This wealth management / private banking position at Barclays was posted on 2026-07-24.
+This wealth management / private banking position at Barclays was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
