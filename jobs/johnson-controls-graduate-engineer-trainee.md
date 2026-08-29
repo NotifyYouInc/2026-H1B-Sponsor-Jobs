@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Industrial Automation |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Graduate-Engineer-Trainee_WD30276139) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Graduate-Engineer-Trainee_WD30277730) |
 
 ## About This Role
 
-This industrial automation position at Johnson Controls was posted on 2026-08-07.
+This cybersecurity engineer position at Johnson Controls was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Half](https://scoutify.ai/companies/robert-half?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Fayetteville, North Carolina, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://roberthalf.wd1.myworkdayjobs.com/RobertHalfStaffingCareers/job/LAX/Talent-Manager--Administrative---Customer-Support-_JR-260535) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://roberthalf.wd1.myworkdayjobs.com/RobertHalfStaffingCareers/job/FAYETTEVILLE/Talent-Manager--Administrative---Customer-Support-_JR-261320) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Robert Half was posted on 2026-06-04.
+This talent acquisition / recruiting position at Robert Half was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

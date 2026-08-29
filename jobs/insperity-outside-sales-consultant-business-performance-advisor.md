@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Insperity](https://scoutify.ai/companies/insperity?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Account Executive |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Charlotte-NC/Outside-Sales-Consultant---Business-Performance-Advisor_JR102843) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Indianapolis-IN/Outside-Sales-Consultant---Business-Performance-Advisor_JR103111) |
 
 ## About This Role
 
-This account executive position at Insperity was posted on 2026-08-15.
+This account executive position at Insperity was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

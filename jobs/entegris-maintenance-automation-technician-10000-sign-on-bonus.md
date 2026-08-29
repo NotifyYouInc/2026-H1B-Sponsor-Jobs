@@ -1,0 +1,22 @@
+# Maintenance Automation Technician-$10,000 SIGN ON BONUS at Entegris
+
+| Field | Details |
+|-------|---------|
+| Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Chaska, Minnesota, United States |
+| Category | Industrial Automation |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Maintenance-Automation-Technician--10-000-SIGN-ON-BONUS_REQ-13884) |
+
+## About This Role
+
+This industrial automation position at Entegris was posted on 2026-08-22.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

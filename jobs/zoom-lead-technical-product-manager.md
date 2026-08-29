@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | San Jose, California, United States |
 | Category | Technical Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Lead-Technical-Product-Manager_R19514) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Product-Architect-Lead-Product-Manager_R19566-1) |
 
 ## About This Role
 
-This technical product manager position at Zoom was posted on 2026-08-11.
+This technical product manager position at Zoom was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

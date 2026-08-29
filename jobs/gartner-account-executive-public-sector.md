@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taiwan |
+| Location | London, England, United Kingdom |
 | Category | Account Executive |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Taipei-City/Account-Executive---Public-Sector_109224) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/London/Account-Executive---Public-Sector_108797) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-04-18.
+This account executive position at Gartner was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

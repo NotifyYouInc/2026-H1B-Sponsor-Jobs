@@ -1,16 +1,16 @@
-# Talent Manager (Contract Finance & Accounting)) at Robert Half
+# Talent Manager (Contract Finance & Accounting) at Robert Half
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Half](https://scoutify.ai/companies/robert-half?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
+| Location | San Francisco, California, United States |
 | Category | Accounting |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://roberthalf.wd1.myworkdayjobs.com/RobertHalfStaffingCareers/job/SAN-JOSE/Talent-Manager--Contract-Finance---Accounting--_JR-261210) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://roberthalf.wd1.myworkdayjobs.com/RobertHalfStaffingCareers/job/SAN-FRANCISCO/Talent-Manager--Contract-Finance---Accounting-_JR-261357-1) |
 
 ## About This Role
 
-This accounting position at Robert Half was posted on 2026-08-07.
+This accounting position at Robert Half was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

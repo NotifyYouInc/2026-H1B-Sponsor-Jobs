@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/IT-Analyst_WD30277141) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/IT-Analyst_WD30277731) |
 
 ## About This Role
 
-This cybersecurity engineer position at Johnson Controls was posted on 2026-08-20.
+This cybersecurity engineer position at Johnson Controls was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

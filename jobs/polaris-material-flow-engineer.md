@@ -5,12 +5,12 @@
 | Company | [Polaris](https://scoutify.ai/companies/polaris?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
 | Category | Industrial Automation |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Monterrey-Nuevo-Len-Mexico/Material-Flow-Engineer_R29850) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Monterrey-Nuevo-Len-Mexico/Material-Flow-Engineer_R30983) |
 
 ## About This Role
 
-This industrial automation position at Polaris was posted on 2026-05-22.
+This industrial automation position at Polaris was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

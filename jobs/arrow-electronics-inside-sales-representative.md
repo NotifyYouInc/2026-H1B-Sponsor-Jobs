@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bloomington, Minnesota, United States |
 | Category | Account Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/SG-Singapore-Tai-Seng/Inside-Sales-Representative_R246377) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MN-Bloomington-Minnesota-Hampshire-Ave/Inside-Sales-Representative_R247005) |
 
 ## About This Role
 
-This account manager position at Arrow Electronics was posted on 2026-07-28.
+This account manager position at Arrow Electronics was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

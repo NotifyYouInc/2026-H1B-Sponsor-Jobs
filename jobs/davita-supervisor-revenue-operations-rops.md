@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Location | Federal Way, Washington, United States |
 | Category | Operations |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/00760---Team-Liberty-Malvern-Business-Office/Supervisor--Revenue-Operations--ROPS-_R0473562) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Supervisor--Revenue-Operations--ROPS-_R0474474) |
 
 ## About This Role
 
-This operations position at DaVita was posted on 2026-08-15.
+This operations position at DaVita was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

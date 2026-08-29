@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Florida, US |
+| Location | Arlington, Texas, United States |
 | Category | Customer Success |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Eglin-AFB/F-35-Help-Desk-Specialist---Active-Secret-clearance_RQ217455-1) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/F-35-Help-Desk-Specialist---Active-Secret-clearance_RQ226947-1) |
 
 ## About This Role
 
-This customer success position at General Dynamics Information Technology was posted on 2026-03-29.
+This customer success position at General Dynamics Information Technology was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

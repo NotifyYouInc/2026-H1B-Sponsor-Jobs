@@ -5,12 +5,12 @@
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Aliso Viejo, California, United States |
 | Category | Customer Success |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5980021004) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6150986004) |
 
 ## About This Role
 
-This customer success position at Sony Interactive Entertainment was posted on 2026-05-01.
+This customer success position at Sony Interactive Entertainment was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

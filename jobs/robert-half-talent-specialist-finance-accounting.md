@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Half](https://scoutify.ai/companies/robert-half?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Saddle Brook, New Jersey, United States |
+| Location | New York City, New York, United States |
 | Category | Accounting |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://roberthalf.wd1.myworkdayjobs.com/RobertHalfStaffingCareers/job/SADDLE-BROOK/Talent-Specialist--Finance---Accounting-_JR-261206) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://roberthalf.wd1.myworkdayjobs.com/RobertHalfStaffingCareers/job/WALL-STREET/Talent-Specialist--Finance---Accounting-_JR-261360) |
 
 ## About This Role
 
-This accounting position at Robert Half was posted on 2026-08-07.
+This accounting position at Robert Half was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

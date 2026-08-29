@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Corewell Health](https://scoutify.ai/companies/spectrumhealth?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Grand Rapids, Michigan, United States |
-| Category | Operations |
-| Posted | 2026-02-15 |
-| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Coding-Quality-Analyst_R203924) |
+| Category | QA Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Coding-Quality-Analyst_R224246) |
 
 ## About This Role
 
-This operations position at Corewell Health was posted on 2026-02-15.
+This qa engineer position at Corewell Health was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

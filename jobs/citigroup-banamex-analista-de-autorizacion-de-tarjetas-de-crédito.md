@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Financial Crimes & AML |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Analista-de-Autorizacion-de-Tarjetas-de-Crdito_26957373-1) |
+| Category | Financial Analyst |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-de-Autorizacion-de-Tarjetas-de-Crdito_26970198) |
 
 ## About This Role
 
-This financial crimes & aml position at Citigroup was posted on 2026-05-16.
+This financial analyst position at Citigroup was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

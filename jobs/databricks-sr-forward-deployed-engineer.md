@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
-| Category | Forward Deployed Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8645054002) |
+| Location | United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002) |
 
 ## About This Role
 
-This forward deployed engineer position at Databricks was posted on 2026-07-28.
+This technical & solutions architect position at Databricks was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

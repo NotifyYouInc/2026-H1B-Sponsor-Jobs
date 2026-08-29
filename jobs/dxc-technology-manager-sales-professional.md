@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Sales Leadership |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---NLE---MONTERREY/Manager-Sales-Professional_51587042) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/JPN---TOKYO/Manager-Sales-Professional_51587591) |
 
 ## About This Role
 
-This sales leadership position at DXC Technology was posted on 2026-08-21.
+This sales leadership position at DXC Technology was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

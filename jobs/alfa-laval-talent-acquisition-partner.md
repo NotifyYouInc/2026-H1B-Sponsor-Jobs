@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Pune/Talent-Acquisition-Partner_JR0047306) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Richmond-VA/Talent-Acquisition-Partner_JR0047635) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Alfa Laval was posted on 2026-08-04.
+This talent acquisition / recruiting position at Alfa Laval was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

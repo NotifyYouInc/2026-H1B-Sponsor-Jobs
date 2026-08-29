@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Kansas, US |
 | Category | Account Executive |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-MN-Bloomington-Minnesota-Hampshire-Ave/Field-Sales-Representatitve_R243115) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-KS-Kansas-Remote-Employees/Field-Sales-Representative_R247016) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-07-25.
+This account executive position at Arrow Electronics was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 
