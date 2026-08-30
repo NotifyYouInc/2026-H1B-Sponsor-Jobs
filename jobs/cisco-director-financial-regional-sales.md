@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Minato, Wakayama, Japan |
+| Location | San Jose, California, United States |
 | Category | Sales Leadership |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Director--Financial-Regional-Sales_2002689) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Director--Financial-Regional-Sales_2022000) |
 
 ## About This Role
 
-This sales leadership position at Cisco was posted on 2026-03-18.
+This sales leadership position at Cisco was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2022408-1) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR1985475) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-08-03.
+This semiconductor / chip design position at Nvidia was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

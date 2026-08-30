@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hiroshima, Hiroshima, Japan |
+| Location | Kaohsiung, Takao, Taiwan |
 | Category | Deployment Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hiroshima-Japan/Upgrade-Install-and-Relocation-Engineer_J-00349267-4) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Kaosiung-Taiwan/Upgrade-Install-and-Relocation-Engineer_J-00350661-1) |
 
 ## About This Role
 
-This deployment engineer position at ASML was posted on 2026-08-06.
+This deployment engineer position at ASML was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

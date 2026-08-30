@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135683645-chef-de-projet-electronique-hf) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000144890379-chef-de-projet-electronique-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-07-03.
+This electrical / hardware engineer position at ALTEN was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

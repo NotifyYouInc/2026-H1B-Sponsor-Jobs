@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | Account Manager |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-08-22 |
 | Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Czech-Republic-Europe/Business-Development-Manager--Vchodn-echy---Krlovhradeck-kraj_JR-2026-21762-2) |
 
 ## About This Role
 
-This account manager position at Air Products was posted on 2026-08-22.
+This sales development (sdr / bdr) position at Air Products was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

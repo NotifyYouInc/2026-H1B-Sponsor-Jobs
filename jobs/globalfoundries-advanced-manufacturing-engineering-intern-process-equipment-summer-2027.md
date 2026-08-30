@@ -5,12 +5,12 @@
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Malta, Montana, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604585) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604593) |
 
 ## About This Role
 
-This semiconductor / chip design position at GlobalFoundries was posted on 2026-08-14.
+This semiconductor / chip design position at GlobalFoundries was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

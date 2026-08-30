@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Portsmouth, Virginia, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Portsmouth/Program-Analyst_RQ218873-1) |
+| Location | Not specified |
+| Category | Program Manager |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Program-Analyst_RQ226661-1) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-04-26.
+This program manager position at General Dynamics Information Technology was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

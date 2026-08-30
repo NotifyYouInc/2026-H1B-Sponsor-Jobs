@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | Allentown, Pennsylvania, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Holmdel-New-Jersey-US/Component-Engineer_2011606) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Allentown-Pennsylvania-US/Component-Engineer_2022350) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Cisco was posted on 2026-05-02.
+This electrical / hardware engineer position at Cisco was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

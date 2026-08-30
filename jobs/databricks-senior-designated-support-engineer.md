@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Sydney, New South Wales, Australia |
 | Category | Customer Success |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8564166002) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8740680002) |
 
 ## About This Role
 
-This customer success position at Databricks was posted on 2026-05-26.
+This customer success position at Databricks was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

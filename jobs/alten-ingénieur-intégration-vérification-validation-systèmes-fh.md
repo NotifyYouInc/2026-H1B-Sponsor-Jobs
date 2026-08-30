@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139227891-ingenieur-integration-verification-validation-systemes-fh) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000144889889-ingenieur-integration-verification-validation-systemes-fh) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-07-23.
+This embedded / firmware engineer position at ALTEN was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

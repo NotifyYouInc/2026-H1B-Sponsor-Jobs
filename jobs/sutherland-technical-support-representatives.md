@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Windsor, Ontario, Canada |
+| Location | Cairo, Cairo, Egypt |
 | Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000108239849-technical-support-representatives) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000145030588-technical-support-representatives) |
 
 ## About This Role
 
-This customer success position at Sutherland was posted on 2026-02-09.
+This customer success position at Sutherland was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

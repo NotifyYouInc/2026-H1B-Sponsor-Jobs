@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Project Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000138800073-project-manager) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000145029829-project-manager) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-07-21.
+This project manager position at AECOM was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

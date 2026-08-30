@@ -5,12 +5,12 @@
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
 | Category | Customer Success |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Support-Engineer-2--WMS-Warehouse-Management--_262580) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Support-Engineer-2--WMS-Warehouse-Management--_262411-1) |
 
 ## About This Role
 
-This customer success position at Blue Yonder was posted on 2026-08-11.
+This customer success position at Blue Yonder was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

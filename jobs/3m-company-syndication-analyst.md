@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Investment Banking |
+| Category | Data Analyst |
 | Posted | 2026-08-22 |
 | Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/BR-So-Paulo-Sumare/Syndication-Analyst_R01169905) |
 
 ## About This Role
 
-This investment banking position at 3M Company was posted on 2026-08-22.
+This data analyst position at 3M Company was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

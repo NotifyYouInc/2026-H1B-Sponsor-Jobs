@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heidelberg Materials](https://scoutify.ai/companies/heidelbergmaterials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Business Analyst |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-22 |
 | Apply | [View on company site](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/IT-Intern_JR10018243) |
 
 ## About This Role
 
-This business analyst position at Heidelberg Materials was posted on 2026-08-22.
+This it & systems administration position at Heidelberg Materials was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

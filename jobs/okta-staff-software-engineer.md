@@ -5,12 +5,12 @@
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7831208?gh_jid=7831208) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-04-29.
+This software engineer position at Okta was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

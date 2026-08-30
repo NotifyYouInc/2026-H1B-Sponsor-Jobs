@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Lake Oswego, Oregon, United States |
 | Category | Customer Success |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Application-Customer-Support_R55698) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Application-Customer-Support_R57071) |
 
 ## About This Role
 
-This customer success position at Trimble was posted on 2026-06-19.
+This customer success position at Trimble was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 
