@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Hyderabad, Telangana, India |
 | Category | Trust & Safety |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/Trust---Safety-New-Associate_14507666) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Trust---Safety-New-Associate_AIOC-S01662074-1) |
 
 ## About This Role
 
-This trust & safety position at Accenture was posted on 2026-07-02.
+This trust & safety position at Accenture was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

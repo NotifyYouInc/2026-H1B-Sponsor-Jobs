@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Security Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Senior-Security-Engineer_R-00183997) |
+| Location | 5 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Senior-Security-Engineer_R-00190283) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-05-26.
+This cybersecurity engineer position at Leidos was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

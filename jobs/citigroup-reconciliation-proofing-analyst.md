@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Corporate Finance |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Shanghai-Shanghai-China/Reconciliation---Proofing-Analyst_26951486) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Reconciliation---Proofing-Analyst_26986227) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-03.
+This accounting position at Citigroup was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

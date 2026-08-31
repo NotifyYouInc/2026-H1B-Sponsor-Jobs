@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | London, England, United Kingdom |
 | Category | Engineering Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Director--Software-Engineering_R-281578) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Director--Software-Engineering_R-288796) |
 
 ## About This Role
 
-This engineering manager position at Mastercard was posted on 2026-07-23.
+This engineering manager position at Mastercard was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

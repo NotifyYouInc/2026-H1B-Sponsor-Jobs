@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Naples, Florida, United States |
-| Category | Corporate Finance |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Naples/Portfolio-Manager-III_26029326) |
+| Location | West Hartford, Connecticut, United States |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/West-Hartford/Portfolio-Manager-III_26030782-1) |
 
 ## About This Role
 
-This corporate finance position at Bank of America was posted on 2026-08-15.
+This wealth management / private banking position at Bank of America was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

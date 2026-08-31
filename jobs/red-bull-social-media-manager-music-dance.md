@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Austria |
-| Category | Social Media / Community |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000138790477-social-media-manager-music-dance) |
+| Location | Vienna, Vienna, Austria |
+| Category | Marketing |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000145272009-social-media-manager-music-dance) |
 
 ## About This Role
 
-This social media / community position at Red Bull was posted on 2026-07-21.
+This marketing position at Red Bull was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

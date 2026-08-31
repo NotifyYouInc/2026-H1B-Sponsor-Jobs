@@ -1,16 +1,16 @@
-# Business Development Manager- Networking at TD Synnex
+# Business Development Manager Networking at TD Synnex
 
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Kolkata-India/Business-Development-Manager--Networking_R48581-1) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Ho-Chi-Minh-City-Vietnam/Business-Development-Manager-Networking_R55491) |
 
 ## About This Role
 
-This engineering manager position at TD Synnex was posted on 2026-03-12.
+This sales development (sdr / bdr) position at TD Synnex was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Pune---Kharadi-EON-II/Java-Developer_JR1040323-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Pune---Kharadi-EON-II/Java-Developer_JR1043170-1) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-06-10.
+This software engineer position at Synechron was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Account Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Milan-Italy/Manager--Account-Management_R-282231) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Tokyo-Japan/Manager--Account-Management_R-289081) |
 
 ## About This Role
 
-This account manager position at Mastercard was posted on 2026-07-14.
+This account manager position at Mastercard was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

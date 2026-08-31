@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Database Administration |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Sr-Analyst-I-Infrastructure-Services_51564856) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/POL---MZ---WARSAW/Sr-Analyst-I-Infrastructure-Services_51587481-1) |
 
 ## About This Role
 
-This database administration position at DXC Technology was posted on 2026-05-23.
+This it & systems administration position at DXC Technology was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Data-Engineer_ATCI-5627297-S2063846-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Data-Engineer_ATCI-5725047-S2065994-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-08-13.
+This data engineer position at Accenture was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

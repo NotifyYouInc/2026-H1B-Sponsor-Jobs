@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Finance-Manager_R-565126) |
+| Location | Bengaluru, Karnataka, India |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Finance-Manager_R-569994) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-08-05.
+This fp&a / strategic finance position at Wells Fargo was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

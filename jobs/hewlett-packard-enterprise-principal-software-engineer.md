@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Juan, San Juan, Puerto Rico |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Juan-Puerto-Rico-Puerto-Rico/Principal-Software-Engineer_1200150) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Principal-Software-Engineer_1210034-3) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-02-09.
+This software engineer position at Hewlett Packard Enterprise was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

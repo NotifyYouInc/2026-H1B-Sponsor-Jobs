@@ -1,16 +1,16 @@
-# Senior Engineer, Embedded Software at Analog Devices
+# Senior Engineer - Embedded software at Analog Devices
 
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Limerick, Munster, Ireland |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Senior-Engineer--Embedded-Software_R262724) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Senior-Engineer---Embedded-software_R262281-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Analog Devices was posted on 2026-05-22.
+This embedded / firmware engineer position at Analog Devices was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

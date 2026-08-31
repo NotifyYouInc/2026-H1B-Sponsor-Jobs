@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Financial Advisory & Consulting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Financial-Consulting-Supervisor---Finance-as-a-Service_JR114254) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Financial-Consulting-Supervisor---Finance-as-a-Service_JR120844) |
 
 ## About This Role
 
-This financial advisory & consulting position at RSM was posted on 2026-02-18.
+This technology / it consulting position at RSM was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

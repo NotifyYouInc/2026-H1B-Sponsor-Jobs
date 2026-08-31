@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Fort Worth, Texas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Sr-Accountant--Accounting---Reporting_R-2026-46411-1) |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Sr-Associate--Accounting---Reporting_R-2026-45062-2) |
 
 ## About This Role
 
-This corporate finance position at Alcon was posted on 2026-04-29.
+This accounting position at Alcon was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

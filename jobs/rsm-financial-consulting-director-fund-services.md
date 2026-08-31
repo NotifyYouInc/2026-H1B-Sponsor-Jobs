@@ -1,16 +1,16 @@
-# Financial Consulting Director  - Fund Services+ at RSM
+# Financial Consulting Director - Fund Services+ at RSM
 
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Hyderabad/Financial-Consulting-Director----Fund-Services-_JR114080) |
+| Location | Gurugram, Haryana, India |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Financial-Consulting-Director---Fund-Services-_JR120806) |
 
 ## About This Role
 
-This asset management / portfolio management position at RSM was posted on 2026-05-20.
+This accounting position at RSM was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

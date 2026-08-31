@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | King of Prussia, Pennsylvania, United States |
+| Location | Bethesda, Maryland, United States |
 | Category | Account Manager |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/King-Of-Prussia-Pennsylvania/Account-Manager-SMB-Sales_R-1098412-2) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Bethesda-Maryland/Account-Manager-SMB-Sales_R-1099941-2) |
 
 ## About This Role
 
-This account manager position at Verizon was posted on 2026-07-25.
+This account manager position at Verizon was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
