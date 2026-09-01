@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Technical-Support-Analyst_26002975) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Technical-Support-Analyst_26010513) |
 
 ## About This Role
 
-This customer success position at Cigna was posted on 2026-04-09.
+This customer success position at Cigna was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

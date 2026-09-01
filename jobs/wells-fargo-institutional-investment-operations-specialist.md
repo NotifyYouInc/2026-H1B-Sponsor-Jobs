@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Institutional-Investment-Operations-Specialist_R-561064) |
+| Location | Hyderabad, Telangana, India |
+| Category | Financial Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Institutional-Investment-Operations-Specialist_R-538580) |
 
 ## About This Role
 
-This asset management / portfolio management position at Wells Fargo was posted on 2026-08-12.
+This financial analyst position at Wells Fargo was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

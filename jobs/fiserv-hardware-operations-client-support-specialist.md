@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Thāne, Maharashtra, India |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Hardware-Operations---Client-Support-Specialist_R-10399124) |
+| Category | Customer Success |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Hardware-Operations---Client-Support-Specialist_R-10399131) |
 
 ## About This Role
 
-This technical support engineer position at Fiserv was posted on 2026-07-21.
+This customer success position at Fiserv was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

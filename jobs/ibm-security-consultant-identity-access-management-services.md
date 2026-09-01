@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129368) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130308) |
 
 ## About This Role
 
-This cybersecurity engineer position at IBM was posted on 2026-08-22.
+This technology / it consulting position at IBM was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

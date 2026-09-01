@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Japan |
 | Category | Strategy & Operations |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014336815-associate-manager-strategyprogram-development) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014830546-associate-manager-strategyprogram-development) |
 
 ## About This Role
 
-This strategy & operations position at AbbVie was posted on 2026-07-29.
+This strategy & operations position at AbbVie was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
-| Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000143444116-assistant-manager-operations) |
+| Location | Pune, Maharashtra, India |
+| Category | Financial Crimes & AML |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000145487572-assistant-manager-operations) |
 
 ## About This Role
 
-This business analyst position at WNS was posted on 2026-08-14.
+This financial crimes & aml position at WNS was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

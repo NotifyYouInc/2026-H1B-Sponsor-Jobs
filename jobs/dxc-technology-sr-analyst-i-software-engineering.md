@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Indiana, US |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---IN---ANY-CITY/Sr-Analyst-I-Software-Engineering_51581564) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---HR---NOIDA/Sr-Analyst-I-Software-Engineering_51587195) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-05-30.
+This software engineer position at DXC Technology was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

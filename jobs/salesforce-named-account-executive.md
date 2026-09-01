@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Account Executive |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Mumbai/Named-Account-Executive_JR331735-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Netherlands---Amsterdam/Named-Account-Executive_JR355910) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-03-04.
+This account executive position at Salesforce was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pyeongtaek, Gyeonggi-do, South Korea |
+| Location | Bengaluru, Karnataka, India |
 | Category | Program Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Pyeongtaek-NF-SummitKOR/Non-Technical-Project-Program-Management_R2621585-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Non-Technical-Project-Program-Management_R2627138) |
 
 ## About This Role
 
-This program manager position at Applied Materials was posted on 2026-06-12.
+This program manager position at Applied Materials was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

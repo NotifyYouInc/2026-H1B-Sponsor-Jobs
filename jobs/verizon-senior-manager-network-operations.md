@@ -1,16 +1,16 @@
-# Senior Manager - Network Operations at Verizon
+# Senior Manager-Network Operations at Verizon
 
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Basking Ridge, New Jersey, United States |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Senior-Manager---Network-Operations_R-1090870) |
+| Location | Hyderabad, Telangana, India |
+| Category | Engineering Manager |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Senior-Manager-Network-Operations_R-1099410) |
 
 ## About This Role
 
-This operations position at Verizon was posted on 2026-02-06.
+This engineering manager position at Verizon was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

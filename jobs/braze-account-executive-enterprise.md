@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Paris, Île-de-France, France |
 | Category | Account Executive |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7825952?gh_jid=7825952) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/braze/jobs/8147280) |
 
 ## About This Role
 
-This account executive position at Braze was posted on 2026-04-22.
+This account executive position at Braze was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

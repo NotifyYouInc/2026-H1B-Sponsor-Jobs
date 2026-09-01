@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | France |
+| Location | Bezannes, Grand Est, France |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/BEZANNES/Planificateur--H-F--STAGE_JR127754-1) |
 
 ## About This Role
 
-This business analyst position at Richemont was posted on 2026-04-15.
+This business analyst position at Richemont was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Implementation / Professional Services |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4923218101?gh_jid=4923218101) |
+| Category | Customer Success |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4959082101?gh_jid=4959082101) |
 
 ## About This Role
 
-This implementation / professional services position at NiCE was posted on 2026-07-09.
+This customer success position at NiCE was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

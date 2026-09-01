@@ -1,16 +1,16 @@
-# Repair specialist at FLSMIDTH
+# Repair Specialist at FLSMIDTH
 
 | Field | Details |
 |-------|---------|
 | Company | [FLSMIDTH](https://scoutify.ai/companies/flsmidth?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kazakhstan |
-| Category | Account Manager |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://flsmidth.wd3.myworkdayjobs.com/fls_global/job/Karaganda/Repair-specialist_R30249) |
+| Location | Gauteng, ZA |
+| Category | Sales Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://flsmidth.wd3.myworkdayjobs.com/fls_global/job/Kempton-Park-Gauteng/Repair-Specialist_R30866) |
 
 ## About This Role
 
-This account manager position at FLSMIDTH was posted on 2026-06-21.
+This sales engineer position at FLSMIDTH was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

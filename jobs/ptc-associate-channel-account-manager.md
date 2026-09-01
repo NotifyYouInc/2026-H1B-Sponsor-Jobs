@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Sales |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Tokyo-Japan/Associate-Channel-Account-Manager_JR112491-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Channel / Partner Sales |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/IND-Bangalore-KA/Associate-Channel-Account-Manager_JR112641) |
 
 ## About This Role
 
-This sales position at PTC was posted on 2026-08-06.
+This channel / partner sales position at PTC was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

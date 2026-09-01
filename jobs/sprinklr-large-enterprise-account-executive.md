@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Switzerland |
-| Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/Switzerland---Zurich/Large-Enterprise-Account-Executive_112724-JOB) |
+| Location | Lausanne, Vaud, Switzerland |
+| Category | Account Executive |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/Switzerland---Lausanne/Large-Enterprise-Account-Executive_113445-JOB) |
 
 ## About This Role
 
-This sales position at Sprinklr was posted on 2026-02-09.
+This account executive position at Sprinklr was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

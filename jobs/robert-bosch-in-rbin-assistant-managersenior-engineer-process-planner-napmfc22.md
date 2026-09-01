@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Nashik, Maharashtra, India |
-| Category | Project Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112079888-in-rbin-assistant-managersenior-engineer-process-planner-napmfc22) |
+| Category | Industrial Automation |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145474689-in-rbin-assistant-managersenior-engineer-process-planner-napmfc22) |
 
 ## About This Role
 
-This project manager position at Robert Bosch was posted on 2026-03-02.
+This industrial automation position at Robert Bosch was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

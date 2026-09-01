@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | QA Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Vice-President_PT-JR033110) |
+| Category | Software Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Vice-President_PT-JR042399-2) |
 
 ## About This Role
 
-This qa engineer position at Morgan Stanley was posted on 2026-04-06.
+This software engineer position at Morgan Stanley was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

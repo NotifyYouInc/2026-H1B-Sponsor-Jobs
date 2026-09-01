@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Web-Developer-Associate_AIOC-S01652011-1) |
+| Category | Software Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Web-Developer-Associate_AIOC-S01662661) |
 
 ## About This Role
 
-This frontend engineer position at Accenture was posted on 2026-06-24.
+This software engineer position at Accenture was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

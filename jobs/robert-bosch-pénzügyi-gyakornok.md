@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hatvan, Heves County, Hungary |
+| Location | Budapest, Budapest, Hungary |
 | Category | Accounting |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141187036-penzugyi-gyakornok) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145489022-penzugyi-gyakornok) |
 
 ## About This Role
 
-This accounting position at Robert Bosch was posted on 2026-08-03.
+This accounting position at Robert Bosch was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

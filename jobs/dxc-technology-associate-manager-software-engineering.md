@@ -1,16 +1,16 @@
-# Associate Manager Software Engineering at DXC Technology
+# Associate Manager - Software Engineering at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Software Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---HR---NOIDA/Associate-Manager-Software-Engineering_51580158) |
+| Category | Engineering Manager |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---HR---NOIDA/Associate-Manager---Software-Engineering_51586031) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-06-18.
+This engineering manager position at DXC Technology was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

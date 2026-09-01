@@ -1,16 +1,16 @@
-# Senior Consultant CFO Programma at FCTB (nu: Deloitte Consulting)
+# (Senior) Consultant CFO Programma at FCTB (nu: Deloitte Consulting)
 
 | Field | Details |
 |-------|---------|
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000145287539-senior-consultant-cfo-programma) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000145470234-senior-consultant-cfo-programma) |
 
 ## About This Role
 
-This strategy / management consulting position at FCTB (nu: Deloitte Consulting) was posted on 2026-08-24.
+This strategy / management consulting position at FCTB (nu: Deloitte Consulting) was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

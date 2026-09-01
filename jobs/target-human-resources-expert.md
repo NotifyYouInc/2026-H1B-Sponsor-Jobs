@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | South Burlington, Vermont, United States |
+| Location | San Ramon, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/155-Dorset-St-South-BurlingtonVT-05403-6346/Human-Resources-Expert_R0000450336) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/2610-Bishop-Dr-San-RamonCA-94583-2338/Human-Resources-Expert_R0000450881-1) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-08-20.
+This human resources / people ops position at Target was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

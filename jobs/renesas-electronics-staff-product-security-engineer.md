@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wrocław, Lower Silesia, Poland |
-| Category | Security Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000135765309-staff-product-security-engineer) |
+| Location | Belgrade, Central Serbia, Serbia |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000145480005-staff-product-security-engineer) |
 
 ## About This Role
 
-This security engineer position at Renesas Electronics was posted on 2026-07-03.
+This cybersecurity engineer position at Renesas Electronics was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Xiamen, Fujian, China |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Xiamen-Fujian-China/Project-Engineering-Experienced-Professional_R0118669) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Experienced-Professional_R0141021) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-03-09.
+This electrical / hardware engineer position at Hitachi was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Financial Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Investment-Performance-Analysis---Team-Lead_R-793961) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Investment-Performance-Analysis---Team-Lead_R-796610) |
 
 ## About This Role
 
-This financial analyst position at State Street was posted on 2026-07-10.
+This financial analyst position at State Street was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

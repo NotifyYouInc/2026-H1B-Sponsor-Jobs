@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000113289429-manager-quality-engineering) |
+| Category | QA Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000145481169-manager-quality-engineering) |
 
 ## About This Role
 
-This engineering manager position at MicroStrategy was posted on 2026-03-07.
+This qa engineer position at MicroStrategy was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
