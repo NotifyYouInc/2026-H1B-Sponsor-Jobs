@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Ramon, California, United States |
+| Location | Houston, Texas, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/2610-Bishop-Dr-San-RamonCA-94583-2338/Human-Resources-Expert_R0000450881-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/8503-S-Sam-Houston-Pkwy-E-Houston-TX-77075-4857/Human-Resources-Expert_R0000450942) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-08-25.
+This human resources / people ops position at Target was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

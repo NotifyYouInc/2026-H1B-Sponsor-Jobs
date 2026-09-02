@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Colmar, Grand Est, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135687869-ingenieur-genie-electrique-hf) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000145700389-ingenieur-genie-electrique-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-03.
+This electrical / hardware engineer position at ALTEN was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

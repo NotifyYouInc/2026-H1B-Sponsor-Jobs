@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-27 |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Intern_JR0279777) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Intel was posted on 2026-02-27.
+This embedded / firmware engineer position at Intel was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

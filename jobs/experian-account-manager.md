@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Account Executive |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000118320827-account-manager) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000145692299-account-manager) |
 
 ## About This Role
 
-This account executive position at Experian was posted on 2026-04-02.
+This sales position at Experian was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

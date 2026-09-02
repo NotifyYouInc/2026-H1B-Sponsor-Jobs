@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Les Mureaux, Île-de-France, France |
 | Category | Project Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000142791679-it-project-manager-france) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000145695909-it-project-manager-france) |
 
 ## About This Role
 
-This project manager position at Avery Dennison Corporation was posted on 2026-08-11.
+This project manager position at Avery Dennison Corporation was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

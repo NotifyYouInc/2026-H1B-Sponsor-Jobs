@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lowell, Massachusetts, United States |
+| Location | Philippines |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/MA---Lowell/Senior-Engineer-I-Process_R3088-26) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Philippines---Mphil-3/Senior-Engineer-I-Process_R908-26-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Microchip Technology was posted on 2026-07-17.
+This semiconductor / chip design position at Microchip Technology was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

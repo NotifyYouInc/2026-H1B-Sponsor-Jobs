@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Karachi, Sindh, Pakistan |
-| Category | Account Executive |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTqIuQ2SyXIC4LyGpt08QvEGigdASCFQN-FDV0gv27GhEjsA1Ny_ixpJAu3Yhx0u2QqjDBr9NGHZh9anlNYVbTL3UEELaYvxzILBDVro3Vi6krxaOx7zzBVoZS3-Hw%3D%3D_V2&loc=PK&title=Google+for+Education+Lead) |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSZZ27dv7007XqWL0UlUN50Ebi4U7Dk7cLle0ti4qqLKEjsA1Ny_ixJpJlrifrs_I3kx7KhdMCafsjDJKK7xeO7JvAi9OJRezP15Wiryx9bzK9lYXuVT8xsuFvopaQ%3D%3D_V2&loc=PK&title=Google+for+Education+Lead) |
 
 ## About This Role
 
-This account executive position at Google was posted on 2026-07-17.
+This sales position at Google was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

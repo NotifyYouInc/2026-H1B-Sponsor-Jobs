@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kansas, US |
-| Category | Account Executive |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-KS-Kansas-Remote-Employees/Field-Sales-Representative_R247016) |
+| Location | Istanbul, Istanbul, Turkey |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/TR-Istanbul-Turkey-Merdivenkoy-Mah/Field-Sales-Representative_R246196) |
 
 ## About This Role
 
-This account executive position at Arrow Electronics was posted on 2026-08-22.
+This sales position at Arrow Electronics was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

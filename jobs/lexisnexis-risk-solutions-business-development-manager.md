@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Auckland/Business-Development-Manager_R110789) |
+| Location | Johannesburg, Gauteng, South Africa |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Johannesburg/Business-Development-Manager_R117369) |
 
 ## About This Role
 
-This engineering manager position at LexisNexis Risk Solutions was posted on 2026-03-30.
+This sales position at LexisNexis Risk Solutions was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

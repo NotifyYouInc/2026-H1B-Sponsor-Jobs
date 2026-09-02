@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Reutlingen, Baden-Wurttemberg, Germany |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143033662-senior-analogmixed-signal-ic-designer-automotive-fmdiv) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145695059-senior-analogmixed-signal-ic-designer-automotive-fmdiv) |
 
 ## About This Role
 
-This semiconductor / chip design position at Robert Bosch was posted on 2026-08-12.
+This semiconductor / chip design position at Robert Bosch was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

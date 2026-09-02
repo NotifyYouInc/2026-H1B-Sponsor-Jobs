@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Custom-Software-Engineer_ATCI-5450420-S2011662-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5742169-S2066396-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-08-25.
+This software engineer position at Accenture was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

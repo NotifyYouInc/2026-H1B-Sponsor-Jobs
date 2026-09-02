@@ -1,16 +1,16 @@
-# Intern, Human Resources at ING
+# Intern Human Resources at ING
 
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Singapore/Intern--HR-Risk_REQ-10072440) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/Intern-Human-Resources_REQ-10120117) |
 
 ## About This Role
 
-This human resources / people ops position at ING was posted on 2026-03-24.
+This human resources / people ops position at ING was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

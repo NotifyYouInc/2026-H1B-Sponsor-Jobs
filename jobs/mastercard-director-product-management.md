@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Director--Product-Management_R-282359) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Lisbon-Portugal/Director--Product-Management_R-289052) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-07-20.
+This product manager position at Mastercard was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

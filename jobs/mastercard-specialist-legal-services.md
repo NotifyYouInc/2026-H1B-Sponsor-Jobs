@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Legal |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Specialist--Legal-Services_R-271993-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Privacy & Data Protection |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist--Legal-Services_R-289232) |
 
 ## About This Role
 
-This legal position at Mastercard was posted on 2026-02-27.
+This privacy & data protection position at Mastercard was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

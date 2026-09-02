@@ -1,16 +1,16 @@
-# Accounting - Professional I at Fiserv
+# Accounting Professional I at Fiserv
 
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Thāne, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Accounting---Professional-I_R-10391348) |
+| Category | Accounting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Accounting-Professional-I_R-10400899) |
 
 ## About This Role
 
-This corporate finance position at Fiserv was posted on 2026-04-06.
+This accounting position at Fiserv was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

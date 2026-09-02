@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5196907007) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5215322007) |
 
 ## About This Role
 
-This customer success position at Zscaler was posted on 2026-07-30.
+This customer success position at Zscaler was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

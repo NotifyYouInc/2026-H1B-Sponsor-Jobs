@@ -1,16 +1,16 @@
-# Director - Account Management at Dentsu
+# Director Account Management at Dentsu
 
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Account Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Mumbai/Director---Account-Management_R1119666) |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Mumbai/Director-Account-Management_R1130228) |
 
 ## About This Role
 
-This account manager position at Dentsu was posted on 2026-05-06.
+This sales position at Dentsu was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

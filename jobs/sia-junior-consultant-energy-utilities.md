@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000135452496-junior-consultant-energy-utilities) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000145700423-junior-consultant-energy-utilities) |
 
 ## About This Role
 
-This strategy / management consulting position at SIA was posted on 2026-07-02.
+This strategy / management consulting position at SIA was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

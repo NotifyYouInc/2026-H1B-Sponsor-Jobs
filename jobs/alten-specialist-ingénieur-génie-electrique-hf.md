@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Strasbourg, Grand Est, France |
+| Location | Belfort, Bourgogne, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137389874-specialist-ingenieur-genie-electrique-hf) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000145700819-specialist-ingenieur-genie-electrique-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-13.
+This electrical / hardware engineer position at ALTEN was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

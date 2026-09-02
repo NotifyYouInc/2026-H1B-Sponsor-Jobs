@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/AI---ML-Engineer_ATCI-5667783-S2059487) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5670658-S2059484) |
 
 ## About This Role
 
-This ai / llm engineer position at Accenture was posted on 2026-08-24.
+This ai / llm engineer position at Accenture was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jd](https://scoutify.ai/companies/jd?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Account Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/AUS-Victoria-Melbourne/Account-Manager_JR103265) |
+| Location | Urayasu, Chiba, Japan |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/JPN-Chiba-Prefecture-Urayasu-City/Account-Manager_JR103267) |
 
 ## About This Role
 
-This account manager position at Jd was posted on 2026-07-22.
+This sales position at Jd was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

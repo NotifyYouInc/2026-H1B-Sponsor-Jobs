@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Germany |
-| Category | Channel / Partner Sales |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8688832002) |
+| Location | London, England, United Kingdom |
+| Category | Sales |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8688840002) |
 
 ## About This Role
 
-This channel / partner sales position at Databricks was posted on 2026-08-24.
+This sales position at Databricks was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

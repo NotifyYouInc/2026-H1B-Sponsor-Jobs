@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Germany |
 | Category | Data Scientist |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138064729-principal-data-scientist-media-measurement-mm) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000145698739-principal-data-scientist-media-measurement-mm) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-16.
+This data scientist position at NielsenIQ was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

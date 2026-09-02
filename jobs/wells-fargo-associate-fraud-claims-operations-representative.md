@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Associate-Fraud---Claims-Operations-Representative_R-528932) |
+| Location | Hyderabad, Telangana, India |
+| Category | Financial Crimes & AML |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Associate-Fraud---Claims-Operations-Representative_R-567538) |
 
 ## About This Role
 
-This compliance & risk management position at Wells Fargo was posted on 2026-03-17.
+This financial crimes & aml position at Wells Fargo was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

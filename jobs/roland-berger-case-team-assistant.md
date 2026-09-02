@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roland Berger](https://scoutify.ai/companies/rolandberger?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Business Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000141641085-case-team-assistant) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000145701709-case-team-assistant) |
 
 ## About This Role
 
-This business analyst position at Roland Berger was posted on 2026-08-05.
+This strategy / management consulting position at Roland Berger was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

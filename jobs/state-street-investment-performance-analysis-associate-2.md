@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Financial Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/Investment-Performance-Analysis--Associate-2_R-794358) |
+| Location | Hangzhou, Zhejiang, China |
+| Category | Compliance & Risk Management |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Investment-Performance-Analysis--Associate-2_R-796568) |
 
 ## About This Role
 
-This financial analyst position at State Street was posted on 2026-07-17.
+This compliance & risk management position at State Street was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

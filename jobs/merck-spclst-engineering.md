@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Carlow, Leinster, Ireland |
+| Location | Singapore, Singapore |
 | Category | Industrial Automation |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IRL---Carlow---Carlow/Spclst--Engineering_R413473-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-70-Tuas-West-Dr/Spclst--Engineering_R413391) |
 
 ## About This Role
 
-This industrial automation position at Merck was posted on 2026-08-21.
+This industrial automation position at Merck was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

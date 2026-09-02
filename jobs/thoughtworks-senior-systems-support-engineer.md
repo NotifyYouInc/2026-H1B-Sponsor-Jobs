@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8045790?gh_jid=8045790) |
+| Location | 2 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8155922?gh_jid=8155922) |
 
 ## About This Role
 
-This technical support engineer position at Thoughtworks was posted on 2026-07-10.
+This devops engineer position at Thoughtworks was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

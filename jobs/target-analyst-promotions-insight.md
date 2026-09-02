@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Analyst-Promotions-Insight_R0000430083) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Analyst-Promotions-Insight_R0000451039) |
 
 ## About This Role
 
-This business analyst position at Target was posted on 2026-02-27.
+This data analyst position at Target was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
