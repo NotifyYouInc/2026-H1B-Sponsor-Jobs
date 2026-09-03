@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Costa Rica |
-| Category | Account Executive |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CR-Asuncion-De-Belen/Inside-Sales-Representative_R01162503) |
+| Location | Taguig, National Capital Region, Philippines |
+| Category | Sales |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/PH-Taguig/Inside-Sales-Representative_R01169380-1) |
 
 ## About This Role
 
-This account executive position at 3M Company was posted on 2026-03-19.
+This sales position at 3M Company was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

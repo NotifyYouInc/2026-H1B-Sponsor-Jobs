@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Reutlingen, Baden-Wurttemberg, Germany |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145696729-senior-asic-digital-lead-atpg-methodology-fmdiv) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145959868-senior-asic-digital-lead-atpg-methodology-fmdiv) |
 
 ## About This Role
 
-This semiconductor / chip design position at Robert Bosch was posted on 2026-08-26.
+This semiconductor / chip design position at Robert Bosch was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

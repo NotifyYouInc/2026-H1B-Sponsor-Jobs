@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | Abstatt, Baden-Wurttemberg, Germany |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133512420-werkstudent-im-bereich-human-resources-wmdiv) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145957499-werkstudent-im-bereich-human-resources-wmdiv) |
 
 ## About This Role
 
-This human resources / people ops position at Robert Bosch was posted on 2026-06-23.
+This human resources / people ops position at Robert Bosch was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

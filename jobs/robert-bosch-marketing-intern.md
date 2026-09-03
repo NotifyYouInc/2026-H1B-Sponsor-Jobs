@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Indonesia |
 | Category | Marketing |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115121907-marketing-intern) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145934911-marketing-intern) |
 
 ## About This Role
 
-This marketing position at Robert Bosch was posted on 2026-03-17.
+This marketing position at Robert Bosch was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

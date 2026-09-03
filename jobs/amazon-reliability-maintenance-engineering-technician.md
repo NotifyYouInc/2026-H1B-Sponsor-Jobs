@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Crawley, England, United Kingdom |
+| Location | Croydon, England, United Kingdom |
 | Category | Industrial Automation |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10498206/reliability-maintenance-engineering-technician) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10516607/reliability-maintenance-engineering-technician) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-08-11.
+This industrial automation position at Amazon was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

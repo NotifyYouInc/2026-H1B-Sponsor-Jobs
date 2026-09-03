@@ -5,12 +5,12 @@
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Electronic-City---S1/Sr-Memory-Layout-Design-Engineer_R026710) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Electronic-City---S1/Sr-Memory-Layout-Design-Engineer_R026703-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Broadcom was posted on 2026-07-31.
+This semiconductor / chip design position at Broadcom was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

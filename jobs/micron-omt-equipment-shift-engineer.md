@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tainan, Taiwan, Taiwan |
-| Category | Industrial Automation |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Tainan-Taiwan/OMT-Equipment--SHIFT--Engineer_JR107072) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Tainan-Taiwan/OMT-Equipment--SHIFT--Engineer_JR107095) |
 
 ## About This Role
 
-This industrial automation position at Micron was posted on 2026-08-26.
+This semiconductor / chip design position at Micron was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

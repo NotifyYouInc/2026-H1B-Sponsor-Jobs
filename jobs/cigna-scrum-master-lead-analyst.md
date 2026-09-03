@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
+| Location | Bengaluru, Karnataka, India |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Scrum-Master-Lead-Analyst_25017001) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Scrum-Master-Lead-Analyst_26010519) |
 
 ## About This Role
 
-This scrum master & agile coach position at Cigna was posted on 2026-03-05.
+This scrum master & agile coach position at Cigna was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

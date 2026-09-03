@@ -1,0 +1,22 @@
+# Executive Assistant/Strategic Advisor to the CIO at Airbus
+
+| Field | Details |
+|-------|---------|
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Copenhagen, Capital Region, Denmark |
+| Category | Strategy & Operations |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/CPO---Copenhagen-Office/Executive-Assistant-Strategic-Advisor-to-the-CIO_JR10437432-1) |
+
+## About This Role
+
+This strategy & operations position at Airbus was posted on 2026-08-27.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

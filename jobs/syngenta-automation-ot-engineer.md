@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Porriño, Galicia, Spain |
 | Category | Industrial Automation |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000137826719-automation-ot-engineer) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000145944809-automation-ot-engineer) |
 
 ## About This Role
 
-This industrial automation position at Syngenta was posted on 2026-07-15.
+This industrial automation position at Syngenta was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

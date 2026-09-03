@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Nürnberg, Bavaria, Germany |
-| Category | Business Analyst |
-| Posted | 2026-06-11 |
+| Category | Product Manager |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Frankfurt/Praktikant-Produktstrategie-Wertpapiere--w-m-d--in-Frankfurt---Nrnberg_REQ-10105832) |
 
 ## About This Role
 
-This business analyst position at ING was posted on 2026-06-11.
+This product manager position at ING was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

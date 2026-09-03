@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-01 |
+| Category | Financial Analyst |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/AVP---Credit-Analysis-Manager_JR-0000112847) |
 
 ## About This Role
 
-This corporate finance position at Barclays was posted on 2026-06-01.
+This financial analyst position at Barclays was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

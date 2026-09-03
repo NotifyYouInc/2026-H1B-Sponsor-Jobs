@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Prague, Prague, Czechia |
 | Category | Software Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Software-Engineer--C--Net_R25-5685) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Prague-Czech-Republic/Software-Engineer_R26-5780) |
 
 ## About This Role
 
-This software engineer position at Rockwell Automation was posted on 2026-02-17.
+This software engineer position at Rockwell Automation was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vecsés, Pest County, Hungary |
-| Category | Account Executive |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000145285799-district-sales-executive) |
+| Location | Johor Bahru, Johor, Malaysia |
+| Category | Sales |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000145944709-district-sales-executive) |
 
 ## About This Role
 
-This account executive position at Expeditors International of Washington was posted on 2026-08-24.
+This sales position at Expeditors International of Washington was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

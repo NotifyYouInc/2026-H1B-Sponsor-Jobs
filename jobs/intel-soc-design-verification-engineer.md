@@ -1,16 +1,16 @@
-# SOC Design Verification Engineer at Intel
+# SoC Design Verification Engineer at Intel
 
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/SOC-Design-Verification-Engineer_JR0284077) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/SoC-Design-Verification-Engineer_JR0286653) |
 
 ## About This Role
 
-This soc & incident response position at Intel was posted on 2026-06-01.
+This semiconductor / chip design position at Intel was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

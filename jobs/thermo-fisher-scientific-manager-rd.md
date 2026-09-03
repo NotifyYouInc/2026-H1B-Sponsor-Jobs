@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Manager-R-D_R-01351778) |
+| Category | Engineering Manager |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Manager-R-D_R-01364897) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-08-25.
+This engineering manager position at Thermo Fisher Scientific was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

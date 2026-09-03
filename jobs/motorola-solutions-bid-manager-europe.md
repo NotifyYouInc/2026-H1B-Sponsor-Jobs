@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | United Kingdom |
 | Category | Program Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Berlin-Germany-ZWG172/Bid-Manager-Europe_R67208) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Bid-Manager-Europe_R68190) |
 
 ## About This Role
 
-This program manager position at Motorola Solutions was posted on 2026-07-29.
+This program manager position at Motorola Solutions was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

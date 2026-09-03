@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
-| Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jakarta-Jakarta-Raya-Indonesia/Business-Controller_R0126976) |
+| Location | Ludvika, Dalarna, Sweden |
+| Category | Accounting |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Business-Controller_R0142818) |
 
 ## About This Role
 
-This corporate finance position at Hitachi was posted on 2026-04-17.
+This accounting position at Hitachi was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

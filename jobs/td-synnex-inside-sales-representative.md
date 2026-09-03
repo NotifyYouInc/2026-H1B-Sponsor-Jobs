@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Sales |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/New-Delhi-India/Inside-Sales-Representative_R55105) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/Inside-Sales-Representative_R55490) |
 
 ## About This Role
 
-This sales position at TD Synnex was posted on 2026-08-26.
+This sales position at TD Synnex was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

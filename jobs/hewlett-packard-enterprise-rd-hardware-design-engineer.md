@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Singapore-Central-Singapore-Singapore/R-D-Hardware-Design-Engineer_1206446) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/R-D-Hardware-Design-Engineer_1208545-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hewlett Packard Enterprise was posted on 2026-05-13.
+This electrical / hardware engineer position at Hewlett Packard Enterprise was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000116537157-airflow-python-developer) |
+| Category | Data Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000145952419-airflow-python-developer) |
 
 ## About This Role
 
-This software engineer position at Sutherland was posted on 2026-03-25.
+This data engineer position at Sutherland was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

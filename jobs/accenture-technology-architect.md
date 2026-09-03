@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Architect_ATCI-5726134-S2066054-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Technology-Architect_ATCI-5392535-S1960129-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-08-24.
+This technology / it consulting position at Accenture was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

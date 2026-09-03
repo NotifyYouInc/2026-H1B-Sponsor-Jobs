@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Associate-Fraud---Claims-Operations-Representative_R-567538) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Associate-Fraud---Claims-Operations-Representative_R-565581) |
 
 ## About This Role
 
-This financial crimes & aml position at Wells Fargo was posted on 2026-08-26.
+This financial crimes & aml position at Wells Fargo was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

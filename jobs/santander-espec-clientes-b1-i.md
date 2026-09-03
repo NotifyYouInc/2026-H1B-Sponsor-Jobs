@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ipiaú, Bahia, Brazil |
-| Category | Account Manager |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/IPIAU/Espec-Clientes-B1-I_Req1601679) |
+| Location | Goiânia, Goiás, Brazil |
+| Category | Sales |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/GOIANIA/Espec-Clientes-B1-I_Req1607118) |
 
 ## About This Role
 
-This account manager position at Santander was posted on 2026-08-20.
+This sales position at Santander was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

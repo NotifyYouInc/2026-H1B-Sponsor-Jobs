@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Algeria |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Sales |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000108202073-technical-sales-representative) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000145929650-technical-sales-representative) |
 
 ## About This Role
 
-This sales position at Syngenta was posted on 2026-02-09.
+This sales position at Syngenta was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

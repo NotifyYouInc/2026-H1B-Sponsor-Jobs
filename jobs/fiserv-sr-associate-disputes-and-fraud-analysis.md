@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Customer Success |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Noida-India/Sr-Associate--Disputes-and-Fraud-Analysis_R-10400795) |
+| Location | Pune, Maharashtra, India |
+| Category | Financial Crimes & AML |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Sr-Associate--Disputes-and-Fraud-Analysis_R-10401766) |
 
 ## About This Role
 
-This customer success position at Fiserv was posted on 2026-08-17.
+This financial crimes & aml position at Fiserv was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

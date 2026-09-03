@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Associate-Analyst_JR-02517281) |
+| Category | Data Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Associate-Analyst_JR-02627206) |
 
 ## About This Role
 
-This business analyst position at Lowe's was posted on 2026-05-13.
+This data analyst position at Lowe's was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

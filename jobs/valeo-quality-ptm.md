@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chon Buri, Chon Buri, Thailand |
+| Location | Pune, Maharashtra, India |
 | Category | Project Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chon-Buri/Quality-PTM_REQ2026070789) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Pune/Quality-PTM_REQ2026079859) |
 
 ## About This Role
 
-This project manager position at Valeo was posted on 2026-03-02.
+This project manager position at Valeo was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

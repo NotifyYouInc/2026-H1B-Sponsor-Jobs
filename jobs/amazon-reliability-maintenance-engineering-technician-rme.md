@@ -1,16 +1,16 @@
-# Reliability Maintenance Engineering Technician, RME at Amazon
+# Reliability Maintenance Engineering Technician ,  RME at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | United Kingdom |
 | Category | Industrial Automation |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10469673/reliability-maintenance-engineering-technician-rme) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10516605/reliability-maintenance-engineering-technician-rme) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-07-09.
+This industrial automation position at Amazon was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

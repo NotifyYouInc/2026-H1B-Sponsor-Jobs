@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Marketing |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117479) |
+| Category | Marketing Operations |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=123224) |
 
 ## About This Role
 
-This marketing position at IBM was posted on 2026-06-02.
+This marketing operations position at IBM was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
