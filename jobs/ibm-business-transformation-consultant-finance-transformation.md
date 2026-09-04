@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=106598) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130512) |
 
 ## About This Role
 
-This fp&a / strategic finance position at IBM was posted on 2026-04-25.
+This fp&a / strategic finance position at IBM was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

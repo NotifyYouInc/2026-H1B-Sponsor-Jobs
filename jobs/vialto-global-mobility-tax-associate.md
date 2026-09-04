@@ -1,16 +1,16 @@
-# Global Mobility Tax - Associate at Vialto
+# Global Mobility Tax Associate at Vialto
 
 | Field | Details |
 |-------|---------|
 | Company | [Vialto](https://scoutify.ai/companies/vialto?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Indiana, US |
+| Location | Malmö, Skåne, Sweden |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/IN---Remote/Global-Mobility-Tax---Associate_REQ908595-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Malm/Associate_REQ908675) |
 
 ## About This Role
 
-This human resources / people ops position at Vialto was posted on 2026-08-12.
+This human resources / people ops position at Vialto was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Security Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000135444659-sr-security-dap) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000146146151-sr-security-dap) |
 
 ## About This Role
 
-This security engineer position at Mattel was posted on 2026-07-02.
+This cybersecurity engineer position at Mattel was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

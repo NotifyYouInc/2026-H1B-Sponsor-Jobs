@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Verona, Veneto, Italy |
 | Category | QA Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Senior-Software-Test-Engineer_R26-5086) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Verona-Italy/Senior-Software-Test-Engineer_R26-4768) |
 
 ## About This Role
 
-This qa engineer position at Rockwell Automation was posted on 2026-07-07.
+This qa engineer position at Rockwell Automation was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

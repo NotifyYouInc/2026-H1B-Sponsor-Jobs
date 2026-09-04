@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-20 |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Onboarding-Experience-Lead_JR-0000110078) |
 
 ## About This Role
 
-This human resources / people ops position at Barclays was posted on 2026-05-20.
+This human resources / people ops position at Barclays was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Program Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRHmf_UCYuzXGvhsPvjtdLr6pQaE0FUn5iVL-phr5qLEEjsA1Ny_i3Mv7fqHrhFEd1MJUWpDAkJrpf3sFkedXiTg6JvxVHHApMUPeaqLemsBXkqv9Mi9UaOyodSB1Q%3D%3D_V2&loc=SG&title=Regional+Program+Manager) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbNAk00TTlK5k2jvu7CCxoFbLoEOOoky9WXiTPAEUMzeEjsA1Ny_i0QztwzfT31TCda_Qw0Hm09aYsFyijdkB-LKa41xAo5YyYLw9_V5hz8_Y38--XCadmbZwIKpIw%3D%3D_V2&loc=SG&title=Regional+Program+Manager) |
 
 ## About This Role
 
-This program manager position at Google was posted on 2026-07-28.
+This program manager position at Google was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

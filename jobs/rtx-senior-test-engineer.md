@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | 2 locations |
 | Category | QA Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Senior-Test-Engineer_01841131) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Gloucester-South-Gloucestershire/Senior-Test-Engineer_01870828) |
 
 ## About This Role
 
-This qa engineer position at RTX was posted on 2026-04-25.
+This qa engineer position at RTX was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

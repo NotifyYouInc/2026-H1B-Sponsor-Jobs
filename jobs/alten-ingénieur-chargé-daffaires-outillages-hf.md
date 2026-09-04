@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | La Rochelle, Nouvelle-Aquitaine, France |
-| Category | Engineering Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131599170-ingenieur-charge-daffaires-outillages-hf) |
+| Category | Project Manager |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000146143554-ingenieur-charge-daffaires-outillages-hf) |
 
 ## About This Role
 
-This engineering manager position at ALTEN was posted on 2026-06-11.
+This project manager position at ALTEN was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

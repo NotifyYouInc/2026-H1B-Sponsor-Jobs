@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Mumbai, Maharashtra, India |
 | Category | Marketing |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Sydney/Brand-Manager_0000032210) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Mumbai/Brand-Manager_0000037212) |
 
 ## About This Role
 
-This marketing position at LEGO was posted on 2026-02-27.
+This marketing position at LEGO was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

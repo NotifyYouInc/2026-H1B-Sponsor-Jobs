@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Olsztyn, Warmia-Masuria, Poland |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Customer Success |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Olsztyn--Poland/Client-Onboarding-Analyst_26965156) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangkok-Thailand/Client-Onboarding-Analyst_26982720) |
 
 ## About This Role
 
-This customer success position at Citigroup was posted on 2026-05-25.
+This customer success position at Citigroup was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

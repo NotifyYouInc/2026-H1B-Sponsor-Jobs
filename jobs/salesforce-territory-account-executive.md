@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vienna, Vienna, Austria |
-| Category | Account Executive |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Austria---Vienna/Territory-Account-Executive_JR357175) |
+| Location | Gurugram, Haryana, India |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Gurgaon/Territory-Account-Executive_JR357356) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-08-24.
+This sales position at Salesforce was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

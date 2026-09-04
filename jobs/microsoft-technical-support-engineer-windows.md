@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taiwan |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556943131) |
+| Category | Customer Success |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556982307) |
 
 ## About This Role
 
-This technical support engineer position at Microsoft was posted on 2026-07-24.
+This customer success position at Microsoft was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

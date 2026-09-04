@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Location | Gurugram, Haryana, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Technology-Architect_ATCI-5392535-S1960129-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Technology-Architect_ATCI-5154531-S1918245) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-08-27.
+This technology / it consulting position at Accenture was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

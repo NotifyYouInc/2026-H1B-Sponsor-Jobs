@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Accounting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Record-to-Report-Ops-Specialist_AIOC-S01655949-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Noida/Record-to-Report-Ops-Specialist_AIOC-S01663168-1) |
 
 ## About This Role
 
-This accounting position at Accenture was posted on 2026-07-21.
+This accounting position at Accenture was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

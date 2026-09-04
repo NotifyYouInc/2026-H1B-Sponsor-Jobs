@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5617191-S2066609-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5721765-S2066827) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-08-27.
+This software engineer position at Accenture was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

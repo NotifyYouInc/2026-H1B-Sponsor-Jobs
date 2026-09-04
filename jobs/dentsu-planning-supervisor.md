@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Business Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Shanghai---Haisu-Plaza/Planning-Supervisor_R1119938) |
+| Location | Beijing, Beijing, China |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Beijing/Planning-Supervisor_R1128946) |
 
 ## About This Role
 
-This business analyst position at Dentsu was posted on 2026-06-18.
+This digital / performance marketing position at Dentsu was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

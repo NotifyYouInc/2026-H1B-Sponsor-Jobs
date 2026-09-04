@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New South Wales, AU |
+| Location | Singapore, Singapore |
 | Category | Customer Success |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/North-Sydney/Customer-Success-Technical-Advisor_R0009410) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Singapore/Customer-Success-Technical-Advisor_R0010158-1) |
 
 ## About This Role
 
-This customer success position at Trend Micro was posted on 2026-03-30.
+This customer success position at Trend Micro was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

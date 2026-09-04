@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Brisbane, Queensland, Australia |
 | Category | Project Manager |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/JRATN---Elm-Hill-Pike/Senior-Project-Manager_R0141160) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/STS-Brisbane---Office/Senior-Project-Manager_R0137253-1) |
 
 ## About This Role
 
-This project manager position at Hitachi was posted on 2026-08-21.
+This project manager position at Hitachi was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

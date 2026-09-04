@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guangzhou, Guangdong, China |
-| Category | Account Executive |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/CHN---Guangzhou-Office/Sales-Representative_JR264576) |
+| Location | Changsha, Hunan, China |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/CHN---Changsha/Sales-Representative_JR267638) |
 
 ## About This Role
 
-This account executive position at PPG Industries was posted on 2026-05-06.
+This sales position at PPG Industries was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

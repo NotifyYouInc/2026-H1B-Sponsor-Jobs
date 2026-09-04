@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Ulm, Baden-Wurttemberg, Germany |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134423300-praktikum-agile-transformation) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146161040-praktikum-agile-transformation) |
 
 ## About This Role
 
-This scrum master & agile coach position at Robert Bosch was posted on 2026-06-26.
+This scrum master & agile coach position at Robert Bosch was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

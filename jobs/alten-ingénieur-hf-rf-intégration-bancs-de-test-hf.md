@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131599610-ingenieur-hf-rf-integration-bancs-de-test-hf) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000146144019-ingenieur-hf-rf-integration-bancs-de-test-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-06-11.
+This electrical / hardware engineer position at ALTEN was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

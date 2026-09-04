@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143443829-senior-cybersecurity-incident-response-expert) |
+| Category | SOC & Incident Response |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146161909-senior-cybersecurity-incident-response-expert) |
 
 ## About This Role
 
-This cybersecurity engineer position at Robert Bosch was posted on 2026-08-14.
+This soc & incident response position at Robert Bosch was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

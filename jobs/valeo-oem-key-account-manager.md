@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Tokyo/OEM-Key-Account-Manager_REQ2026069861) |
+| Location | Chon Buri, Chon Buri, Thailand |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chon-Buri/OEM-Key-Account-Manager_REQ2026080068) |
 
 ## About This Role
 
-This customer success position at Valeo was posted on 2026-02-09.
+This sales position at Valeo was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

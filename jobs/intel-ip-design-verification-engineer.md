@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Malaysia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/IP-Design-Verification-Engineer_JR0286532) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/IP-Design-Verification-Engineer_JR0286694) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-08-19.
+This semiconductor / chip design position at Intel was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

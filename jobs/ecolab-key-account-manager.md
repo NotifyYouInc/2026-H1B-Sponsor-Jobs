@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Account Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/SGP---Singapore---Singapore/Key-Account-Manager_R00285482-1) |
+| Location | 9 locations |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/GBR---England---London/Key-Account-Manager_R00302461) |
 
 ## About This Role
 
-This account manager position at Ecolab was posted on 2026-03-17.
+This sales position at Ecolab was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
