@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Ohio, US |
 | Category | Project Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Reston-VA/Project-Coordinator-II_R0015593) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-OH/Project-Coordinator-II_R0017132) |
 
 ## About This Role
 
-This project manager position at Astreya was posted on 2026-05-20.
+This project manager position at Astreya was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

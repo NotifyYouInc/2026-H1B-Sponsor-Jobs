@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of Southern California](https://scoutify.ai/companies/university-of-southern-california?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Alhambra, Arizona, United States |
+| Location | Los Angeles, California, United States |
 | Category | Accounting |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://usc.wd5.myworkdayjobs.com/externalusccareers/job/Alhambra-CA/Accounting-Technician_REQ20177948) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://usc.wd5.myworkdayjobs.com/externalusccareers/job/Los-Angeles-CA---University-Park-Campus/Accounting-Technician_REQ20179851) |
 
 ## About This Role
 
-This accounting position at University of Southern California was posted on 2026-07-25.
+This accounting position at University of Southern California was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

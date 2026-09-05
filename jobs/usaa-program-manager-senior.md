@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | 6 locations |
 | Category | Program Manager |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Program-Manager-Senior_R0115471) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Program-Manager-Senior_R0119716) |
 
 ## About This Role
 
-This program manager position at USAA was posted on 2026-08-15.
+This program manager position at USAA was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Sales Leadership |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/SG-Singapore-Tai-Seng/Field-Sales-Manager_R243427) |
+| Location | Denver, Colorado, United States |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Field-Sales-Manager_R244974) |
 
 ## About This Role
 
-This sales leadership position at Arrow Electronics was posted on 2026-06-13.
+This sales position at Arrow Electronics was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

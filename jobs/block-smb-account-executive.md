@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5128618008?gh_jid=5128618008) |
+| Location | New York City, New York, United States |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5409847008?gh_jid=5409847008) |
 
 ## About This Role
 
-This account executive position at Block was posted on 2026-02-22.
+This sales position at Block was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lexington, Kentucky, United States |
-| Category | Account Executive |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Lexington-KY-USA/Account-Executive_R-182106) |
+| Location | Chicopee, Massachusetts, United States |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Chicopee-MA-USA/Account-Executive--Sales-Rep-_R-183184) |
 
 ## About This Role
 
-This account executive position at Republic Services was posted on 2026-08-18.
+This sales position at Republic Services was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

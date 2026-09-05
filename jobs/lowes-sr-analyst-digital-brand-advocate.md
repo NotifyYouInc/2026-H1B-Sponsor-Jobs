@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mooresville, North Carolina, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Sr-Analyst-Digital-Brand-Advocate_JR-02569920) |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Sr-Analyst-Digital-Brand-Advocate_JR-02612468) |
 
 ## About This Role
 
-This business analyst position at Lowe's was posted on 2026-07-03.
+This digital / performance marketing position at Lowe's was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

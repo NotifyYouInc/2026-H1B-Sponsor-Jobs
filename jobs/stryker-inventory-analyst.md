@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kalamazoo, Michigan, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Kalamazoo-Michigan/Inventory-Analyst_R564533) |
+| Category | Data Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Kalamazoo-Michigan/Inventory-Analyst_R570666) |
 
 ## About This Role
 
-This business analyst position at Stryker was posted on 2026-05-01.
+This data analyst position at Stryker was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Francisco, California, United States |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---San-Francisco-CA-Grove-St/Senior-Product-Designer_R173256) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---San-Francisco-CA-94102/Senior-Product-Designer_R182611) |
 
 ## About This Role
 
-This product designer position at Ryder System was posted on 2026-05-22.
+This product designer position at Ryder System was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

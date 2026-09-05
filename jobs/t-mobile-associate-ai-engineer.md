@@ -5,12 +5,12 @@
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ368120) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ354088) |
 
 ## About This Role
 
-This ai / llm engineer position at T-Mobile was posted on 2026-08-12.
+This ai / llm engineer position at T-Mobile was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

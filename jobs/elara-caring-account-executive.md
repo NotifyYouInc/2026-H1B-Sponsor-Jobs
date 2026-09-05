@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elara Caring](https://scoutify.ai/companies/elara-caring?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Blue Ash, Ohio, United States |
 | Category | Sales |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/San-Antonio---TX/Account-Executive_JR-137895) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Blue-Ash---OH/Account-Executive_JR-138008) |
 
 ## About This Role
 
-This sales position at Elara Caring was posted on 2026-08-07.
+This sales position at Elara Caring was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

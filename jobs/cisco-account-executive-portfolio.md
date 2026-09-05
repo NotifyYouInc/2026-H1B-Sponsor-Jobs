@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kita, Tokyo, Japan |
+| Location | Minato, Wakayama, Japan |
 | Category | Sales |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Kita-Japan/Account-Executive---Portfolio_2021927-1) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Account-Executive---Portfolio_2022388) |
 
 ## About This Role
 
-This sales position at Cisco was posted on 2026-08-17.
+This sales position at Cisco was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

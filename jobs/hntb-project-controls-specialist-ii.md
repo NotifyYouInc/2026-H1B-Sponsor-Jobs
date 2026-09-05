@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Project Manager |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tampa-FL/Project-Controls-Specialist-II_R-30958) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/Project-Controls-Specialist-II_R-31379) |
 
 ## About This Role
 
-This project manager position at HNTB was posted on 2026-08-01.
+This project manager position at HNTB was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

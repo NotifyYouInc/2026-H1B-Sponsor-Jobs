@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elara Caring](https://scoutify.ai/companies/elara-caring?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Dallas---TX-LBJ-FWY/Hospice-Account-Executive_JR-137456) |
+| Location | Toledo, Ohio, United States |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Toledo---OH/Hospice-Account-Executive_JR-138469) |
 
 ## About This Role
 
-This account executive position at Elara Caring was posted on 2026-07-18.
+This sales position at Elara Caring was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

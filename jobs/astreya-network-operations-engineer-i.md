@@ -1,16 +1,16 @@
-# Network Operations Engineer I  at Astreya
+# Network Operations Engineer I at Astreya
 
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Singapore, Singapore |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-I-_R0016152) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Singapore-Singapore/Network-Operations-Engineer-I_R0017198) |
 
 ## About This Role
 
-This it & systems administration position at Astreya was posted on 2026-07-01.
+This it & systems administration position at Astreya was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

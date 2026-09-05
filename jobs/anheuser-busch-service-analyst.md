@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anheuser-Busch](https://scoutify.ai/companies/abinbev?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Eugene, Oregon, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://abinbev.wd1.myworkdayjobs.com/USA/job/Eugene-Oregon/Service-Analyst_30095188) |
+| Location | Tulsa, Oklahoma, United States |
+| Category | Accounting |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://abinbev.wd1.myworkdayjobs.com/USA/job/Tulsa-Oklahoma/Service-Analyst_30103105) |
 
 ## About This Role
 
-This business analyst position at Anheuser-Busch was posted on 2026-03-13.
+This accounting position at Anheuser-Busch was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

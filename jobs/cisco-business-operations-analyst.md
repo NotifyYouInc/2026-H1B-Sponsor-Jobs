@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Minato, Wakayama, Japan |
-| Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Business-Operations-Analyst_2019993) |
+| Location | San Jose, California, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Business-Operations-Analyst_2022958) |
 
 ## About This Role
 
-This business analyst position at Cisco was posted on 2026-07-28.
+This strategy & operations position at Cisco was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

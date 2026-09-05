@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benchling](https://scoutify.ai/companies/benchling?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | San Francisco, California, United States |
 | Category | Customer Success |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/740b3fb1-3d91-4bfd-847b-7552eda32e2e) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/benchling/6a18cd23-4c31-4df5-b321-442037b48b3a) |
 
 ## About This Role
 
-This customer success position at Benchling was posted on 2026-06-12.
+This customer success position at Benchling was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

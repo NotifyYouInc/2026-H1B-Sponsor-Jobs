@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Draper, Utah, United States |
-| Category | Business Development |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Business-Development-Representative_R14040) |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Draper-UT/Business-Development-Representative_R14646) |
 
 ## About This Role
 
-This business development position at Proofpoint was posted on 2026-04-11.
+This sales position at Proofpoint was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

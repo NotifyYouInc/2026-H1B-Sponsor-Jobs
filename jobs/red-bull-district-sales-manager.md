@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | St. Louis, Missouri, United States |
-| Category | Sales Leadership |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000134557780-district-sales-manager) |
+| Location | McKinney, Texas, United States |
+| Category | Sales |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000146267404-district-sales-manager) |
 
 ## About This Role
 
-This sales leadership position at Red Bull was posted on 2026-06-26.
+This sales position at Red Bull was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
