@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | United States |
-| Category | Strategy & Operations |
+| Category | Program Manager |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/United-States-Virtual/Strategic-Program-Director--Global-Housing_R-115208-3) |
 
 ## About This Role
 
-This strategy & operations position at Assurant was posted on 2026-08-28.
+This program manager position at Assurant was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

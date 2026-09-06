@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Cavite, Central Luzon, Philippines |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Associate-Engineer--Product-Engineering--Mfg-_R263876) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Associate-Engineer--Product-Engineering--Mfg-_R265147) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-08-11.
+This semiconductor / chip design position at Analog Devices was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

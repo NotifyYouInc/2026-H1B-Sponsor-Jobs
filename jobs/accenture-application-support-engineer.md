@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bhubaneswar, Odisha, India |
 | Category | Customer Success |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Application-Tech-Support-Practitioner_ATCI-5108457-S1902759-1) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bhubaneswar/Infra-Tech-Support-Practitioner_ATCI-4790422-S1899844-1) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-08-27.
+This customer success position at Accenture was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

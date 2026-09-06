@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | Technical & Solutions Architect |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556950611) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556950622) |
 
 ## About This Role
 

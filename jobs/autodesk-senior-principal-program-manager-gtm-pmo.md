@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Go To Market Engineer |
+| Category | Program Manager |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Denver-CO-USA/Senior-Principal-Program-Manager--GTM-PMO_26WD100753-1) |
 
 ## About This Role
 
-This go to market engineer position at Autodesk was posted on 2026-08-28.
+This program manager position at Autodesk was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

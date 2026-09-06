@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Jersey City, New Jersey, United States |
-| Category | FP&A / Strategic Finance |
+| Category | Program Manager |
 | Posted | 2026-08-29 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Jersey-City-New-Jersey-United-States-of-America/Director--Finance-Transformation_R-0000184929-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Royal Bank of Canada was posted on 2026-08-29.
+This program manager position at Royal Bank of Canada was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

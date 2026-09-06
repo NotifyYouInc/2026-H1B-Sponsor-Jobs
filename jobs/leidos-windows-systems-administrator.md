@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Suitland, Maryland, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Windows-Systems-Administrator_R-00189142) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Windows-Systems-Administrator_R-00190947) |
 
 ## About This Role
 
-This it & systems administration position at Leidos was posted on 2026-08-09.
+This it & systems administration position at Leidos was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

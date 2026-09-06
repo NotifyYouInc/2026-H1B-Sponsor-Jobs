@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Jose, California, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-29 |
 | Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-2) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Cadence Design Systems was posted on 2026-08-29.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

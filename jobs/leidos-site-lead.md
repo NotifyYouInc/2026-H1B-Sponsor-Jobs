@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | United States |
 | Category | Project Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Site-Lead_R-00186247) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Site-Lead_R-00190945) |
 
 ## About This Role
 
-This project manager position at Leidos was posted on 2026-06-26.
+This project manager position at Leidos was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

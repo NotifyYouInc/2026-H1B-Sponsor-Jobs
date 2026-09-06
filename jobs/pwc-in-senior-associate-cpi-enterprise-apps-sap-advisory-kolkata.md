@@ -1,16 +1,16 @@
-# IN_Senior Associate _CPI _Enterprise Apps SAP_Advisory_ Kolkata at PwC
+# IN_Senior Associate _CPI _Enterprise Apps SAP_Advisory_Kolkata at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kolkata, West Bengal, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Senior-Associate--CPI--Enterprise-Apps-SAP-Advisory--Kolkata_717311WD-1) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Senior-Associate--CPI--Enterprise-Apps-SAP-Advisory-Kolkata_755803WD-1) |
 
 ## About This Role
 
-This technology / it consulting position at PwC was posted on 2026-05-08.
+This technology / it consulting position at PwC was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

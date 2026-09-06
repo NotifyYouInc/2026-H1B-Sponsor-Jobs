@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Jose, California, United States |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000146269139-senior-director-core-ecosystem-strategy) |
 
 ## About This Role
 
-This strategy & operations position at Western Digital was posted on 2026-08-28.
+This operations position at Western Digital was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
