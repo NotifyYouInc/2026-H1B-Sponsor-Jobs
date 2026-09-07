@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Program Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbwiwQp4YQz9_zbft4yu1sfJILmNDtV3YWFkCHsaUDSuEjsACxwdTMQjgesdyGrGmofBGXtj6FRKZbt6Nz9nNz5q5NX2KnkmG-ui4qbvDEonsI2i1Rfgs6-7mPc-WQ%3D%3D_V2&loc=PL&title=Technical+Program+Manager) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTLjIhhE4rk97Mh6Cpgk4jnmd7CS7h2kZNkUreK3C1taEjsA1Ny_i1RIyTjayne9qZ4CBnXEFG9zFnskwelzYWwBO8E7QWuQFFQQtjXo94QcT_YsYMYu9ZZaq0WLcg%3D%3D_V2&loc=PL&title=Technical+Program+Manager) |
 
 ## About This Role
 
-This program manager position at Google was posted on 2026-05-28.
+This program manager position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

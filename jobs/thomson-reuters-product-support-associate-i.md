@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Spain-Madrid-Madrid/Product-Support-Associate-I_JREQ201857) |
+| Location | Sweden |
+| Category | Customer Success |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sweden-Gothenburg/Product-Support-Associate-I_JREQ203122) |
 
 ## About This Role
 
-This technical support engineer position at Thomson Reuters was posted on 2026-07-08.
+This customer success position at Thomson Reuters was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Scrum-Master_ATCI-5724465-S2064670-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Scrum-Master_ATCI-5668210-S2066980-1) |
 
 ## About This Role
 
-This scrum master & agile coach position at Accenture was posted on 2026-08-18.
+This scrum master & agile coach position at Accenture was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

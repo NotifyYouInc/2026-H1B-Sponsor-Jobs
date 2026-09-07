@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Project Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/PPSM-Analyst_AIOC-S01647788-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/PPSM-Analyst_AIOC-S01663273-1) |
 
 ## About This Role
 
-This project manager position at Accenture was posted on 2026-05-27.
+This technology / it consulting position at Accenture was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

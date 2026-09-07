@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Salzburg, Salzburg, Austria |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000146155459-hr-business-partner) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000146448449-hr-business-partner) |
 
 ## About This Role
 
-This human resources / people ops position at Red Bull was posted on 2026-08-28.
+This human resources / people ops position at Red Bull was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

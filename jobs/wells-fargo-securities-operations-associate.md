@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Financial Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Securities-Operations-Associate_R-545771) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Securities-Operations-Associate_R-565340) |
 
 ## About This Role
 
-This financial analyst position at Wells Fargo was posted on 2026-07-02.
+This financial analyst position at Wells Fargo was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

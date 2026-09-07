@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Richardson, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Richardson-Texas-US/Software-Engineering-Technical-Leader_2015102-1) |
+| Location | San Jose, California, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2024062-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-01.
+This frontend engineer position at Cisco was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

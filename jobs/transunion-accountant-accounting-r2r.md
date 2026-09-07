@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Accountant---Accounting---R2R_19040417) |
+| Category | Accounting |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Accountant---Accounting---R2R_19041794) |
 
 ## About This Role
 
-This corporate finance position at TransUnion was posted on 2026-05-06.
+This accounting position at TransUnion was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

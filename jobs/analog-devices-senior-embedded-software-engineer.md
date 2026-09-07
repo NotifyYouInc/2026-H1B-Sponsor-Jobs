@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Senior-Embedded-Software-Engineer_R261689) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Senior-Embedded-Software-Engineer_R265610-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Analog Devices was posted on 2026-04-09.
+This embedded / firmware engineer position at Analog Devices was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

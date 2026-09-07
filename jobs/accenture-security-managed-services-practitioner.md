@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Security-Managed-Services-Practitioner_ATCI-5711423-S2064721-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Business Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Security-Managed-Services-Practitioner_ATCI-5547822-S2066959-1) |
 
 ## About This Role
 
-This cybersecurity engineer position at Accenture was posted on 2026-08-18.
+This business analyst position at Accenture was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

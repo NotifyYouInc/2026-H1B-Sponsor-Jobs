@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Indore, Madhya Pradesh, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Packaged-SaaS-App-Engineering-Lead_ATCI-5730190-S2066035-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Indore/Business-Process-Architect_ATCI-5102547-S1889403-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-08-24.
+This technology / it consulting position at Accenture was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

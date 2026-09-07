@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Operations |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ8HwTuCEvOaJ3cJpitSnDor6rJiYjDbEJLqUcHJ3lJeEjsA1Ny_i_pWf6Gj11IeJuuinUF4QFdux7KWgikf-7yIRWwPDeHBP02xYb0Y3KpOLKecIjIJH2XKW8vVyA%3D%3D_V2&loc=US&title=Global+Strategy+and+Operations+Manager) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckc80lAGy9CT7EOGve_7eF5f2vPHXab7D-XCm5Cw9z1PbEjsA1Ny_iyYk8bahf9rcEvDDPVWYnJrdOBjkmE0X9ko3U4Hditrpdtg9bFanaLNGqviweh_FSjbalsn6eA%3D%3D_V2&loc=US&title=Global+Strategy+and+Operations+Manager) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-07-28.
+This operations position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

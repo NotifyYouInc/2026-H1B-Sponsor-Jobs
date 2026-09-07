@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bhubaneswar, Odisha, India |
-| Category | Customer Success |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bhubaneswar/Infra-Tech-Support-Practitioner_ATCI-4790422-S1899844-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Technical Support Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Application-Support-Engineer_ATCI-5697403-S2066946-1) |
 
 ## About This Role
 
-This customer success position at Accenture was posted on 2026-08-29.
+This technical support engineer position at Accenture was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

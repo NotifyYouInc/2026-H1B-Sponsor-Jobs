@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/India/Public-Affairs-Manager_R107114) |
+| Location | Singapore, Singapore |
+| Category | PR & External Communications |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Public-Affairs-Manager_R108084) |
 
 ## About This Role
 
-This compliance & risk management position at Tencent was posted on 2026-03-18.
+This pr & external communications position at Tencent was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

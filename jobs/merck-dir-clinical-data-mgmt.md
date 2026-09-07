@@ -1,16 +1,16 @@
-# Dir., Clinical Data Mgmt at Merck
+# Dir, Clinical Data Mgmt at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Program Manager |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Beijing---Beijing-Wangjing-Park/Dir--Clinical-Data-Mgmt_R410372-1) |
+| Category | Business Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Beijing---Beijing-Wangjing-Park/Dir--Clinical-Data-Mgmt_R415322-1) |
 
 ## About This Role
 
-This program manager position at Merck was posted on 2026-08-01.
+This business analyst position at Merck was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

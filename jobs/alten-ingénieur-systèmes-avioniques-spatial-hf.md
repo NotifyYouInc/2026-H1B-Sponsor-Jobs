@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141425952-ingenieur-systemes-avioniques-spatial-hf) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000146453749-ingenieur-systemes-avioniques-spatial-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-08-04.
+This embedded / firmware engineer position at ALTEN was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

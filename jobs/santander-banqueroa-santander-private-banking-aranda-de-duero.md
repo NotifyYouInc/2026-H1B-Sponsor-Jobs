@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Aranda de Duero, Castille and León, Spain |
 | Category | Corporate Finance |
-| Posted | 2026-06-03 |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Condestable/Banquero-a-Santander-Private-Banking-Aranda-de-Duero_Req1515384) |
 
 ## About This Role
 
-This corporate finance position at Santander was posted on 2026-06-03.
+This corporate finance position at Santander was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

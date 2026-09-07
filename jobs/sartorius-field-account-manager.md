@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sartorius](https://scoutify.ai/companies/sartorius?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Delhi, Delhi, India |
-| Category | Account Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Delhi/Field-Account-Manager_R40012-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Sales |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Mumbai/Field-Account-Manager_R41608) |
 
 ## About This Role
 
-This account manager position at Sartorius was posted on 2026-04-17.
+This sales position at Sartorius was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

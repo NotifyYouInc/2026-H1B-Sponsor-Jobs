@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vaasa, Ostrobothnia, Finland |
-| Category | Engineering Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaasa-Ostrobothnia-Finland/Project-Management-Engineering_R0125776) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Project Manager |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Management-Engineering_R0139131) |
 
 ## About This Role
 
-This engineering manager position at Hitachi was posted on 2026-05-21.
+This project manager position at Hitachi was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

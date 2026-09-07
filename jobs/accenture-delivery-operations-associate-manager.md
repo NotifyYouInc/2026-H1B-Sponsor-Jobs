@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Noida/Delivery-Operations-Associate-Manager_AIOC-S01663167-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Compliance & Risk Management |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Delivery-Operations-Associate-Manager_AIOC-S01663274-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-08-28.
+This compliance & risk management position at Accenture was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

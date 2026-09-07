@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical Product Manager |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556962532) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Product Manager |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556979496) |
 
 ## About This Role
 
-This technical product manager position at Microsoft was posted on 2026-08-17.
+This product manager position at Microsoft was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Sales Leadership |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7621542) |
+| Location | London, England, United Kingdom |
+| Category | Sales |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8148001) |
 
 ## About This Role
 
-This sales leadership position at MongoDB was posted on 2026-02-18.
+This sales position at MongoDB was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

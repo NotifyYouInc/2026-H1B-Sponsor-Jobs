@@ -5,12 +5,12 @@
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | DeKalb, Illinois, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000145949999-utilization-reviewer-full-time-on-site) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000146441449-utilization-reviewer-full-time-on-site) |
 
 ## About This Role
 
-This compliance & risk management position at Northwestern Medicine was posted on 2026-08-27.
+This compliance & risk management position at Northwestern Medicine was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

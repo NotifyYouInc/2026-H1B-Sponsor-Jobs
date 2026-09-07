@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Pune, Maharashtra, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Budapest-Hungary/Lead-AI-Engineer_R-282262) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-AI-Engineer_R-287524-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Mastercard was posted on 2026-07-22.
+This ai / llm engineer position at Mastercard was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

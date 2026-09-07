@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/DevOps-Engineer_ATCI-5742837-S2066023-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/DevOps-Engineer_ATCI-5727489-S2066950-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-08-24.
+This devops engineer position at Accenture was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

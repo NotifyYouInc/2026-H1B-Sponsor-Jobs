@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Sales |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Kuala-Lumpur--Co-labs/Key-Account-Manager_589280-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Istanbul/Key-Account-Manager_590659) |
 
 ## About This Role
 
-This sales position at Philips was posted on 2026-08-12.
+This sales position at Philips was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

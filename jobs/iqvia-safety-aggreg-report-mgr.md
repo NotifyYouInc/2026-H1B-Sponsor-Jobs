@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Program Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Safety-Aggreg-Report-Mgr_R1545244) |
+| Category | Data Scientist |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Safety-Aggreg-Report-Mgr_R1566163) |
 
 ## About This Role
 
-This program manager position at IQVIA was posted on 2026-07-09.
+This data scientist position at IQVIA was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

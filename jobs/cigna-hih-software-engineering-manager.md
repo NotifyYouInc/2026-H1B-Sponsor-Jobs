@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Software-Engineering-Manager_26001865) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Software-Engineering-Manager_26010749) |
 
 ## About This Role
 
-This engineering manager position at Cigna was posted on 2026-04-02.
+This engineering manager position at Cigna was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
