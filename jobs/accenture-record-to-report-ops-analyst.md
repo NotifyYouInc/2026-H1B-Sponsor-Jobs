@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Record-to-Report-Ops-Analyst_AIOC-S01663268-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Record-to-Report-Ops-Analyst_AIOC-S01663434-1) |
 
 ## About This Role
 
-This accounting position at Accenture was posted on 2026-08-31.
+This accounting position at Accenture was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/P-C-Insurance--Personal---Commercial--Transformation-Associate-Director_R00348839) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/P-C-Insurance--Personal---Commercial--Transformation-Associate-Director_R00353494) |
 
 ## About This Role
 
-This strategy & operations position at Accenture was posted on 2026-08-04.
+This strategy & operations position at Accenture was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

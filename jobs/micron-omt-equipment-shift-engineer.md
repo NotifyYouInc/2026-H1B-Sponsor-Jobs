@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tainan, Taiwan, Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Tainan-Taiwan/OMT-Equipment--SHIFT--Engineer_JR107095) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Tainan-Taiwan/OMT-Equipment--SHIFT--Engineer_JR107076) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-08-27.
+This semiconductor / chip design position at Micron was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

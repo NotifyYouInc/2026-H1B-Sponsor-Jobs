@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Manama, Manama, Bahrain |
 | Category | Project Manager |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000145706529-senior-project-manager) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000146688569-senior-project-manager) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-08-26.
+This project manager position at AECOM was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

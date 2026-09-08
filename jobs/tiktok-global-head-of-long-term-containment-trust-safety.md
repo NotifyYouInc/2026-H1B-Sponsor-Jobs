@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | San Jose, California, United States |
 | Category | Trust & Safety |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7679074046370138421/detail) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7680304507903658293/detail) |
 
 ## About This Role
 
-This trust & safety position at TikTok was posted on 2026-08-28.
+This trust & safety position at TikTok was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

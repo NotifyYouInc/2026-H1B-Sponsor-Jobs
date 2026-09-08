@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Accounting-Analyst-III_R31229) |
+| Category | Accounting |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Accounting-Analyst-III_R31013-2) |
 
 ## About This Role
 
-This corporate finance position at Allstate was posted on 2026-06-10.
+This accounting position at Allstate was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

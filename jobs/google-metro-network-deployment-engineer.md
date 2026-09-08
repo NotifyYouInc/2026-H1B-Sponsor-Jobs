@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckfoy02W8wkzWR_kVMrySvrdo9oh2dncxsqI2d2kbgPmoEjsACxwdTJC6PyvqWlHsyYp52S3XTNPoOgJLFDKQOF55W8RKzyTiX7SkfiCAt5hjvyy5IeqW77vJikrwcw%3D%3D_V2&loc=IN&title=Metro+Network+Deployment+Engineer) |
+| Category | Deployment Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdnSzJNJJ8Jk06GDfVZGuhaainYrM5VIPRsb74WPzBKEEjsA1Ny_i3_MODVipuMB2ywAj9t_g23B4sF_K1SvCvN7e_fQmMheeBoofCuoeRPtWaiNMdyqoOK6IwzkVw%3D%3D_V2&loc=IN&title=Metro+Network+Deployment+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-05-27.
+This deployment engineer position at Google was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

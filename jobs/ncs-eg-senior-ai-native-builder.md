@@ -1,16 +1,16 @@
-# #EG Senior AI Native Builder at NCS
+# #EG Senior / AI Native Builder at NCS
 
 | Field | Details |
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001275888-eg-senior-ai-native-builder) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001367279-eg-senior-ai-native-builder) |
 
 ## About This Role
 
-This machine learning engineer position at NCS was posted on 2026-07-31.
+This ai / llm engineer position at NCS was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

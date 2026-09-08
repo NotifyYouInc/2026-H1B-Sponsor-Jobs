@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Peterborough, England, United Kingdom |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000121112422-electrical-technician-ftc-12-months) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000146663949-electrical-technician-ftc-12-months) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Veolia was posted on 2026-04-16.
+This electrical / hardware engineer position at Veolia was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

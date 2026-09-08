@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Data-Architect_ATCI-5637031-S2062542-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Data-Architect_ATCI-5046196-S1918295) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-08-04.
+This technology / it consulting position at Accenture was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

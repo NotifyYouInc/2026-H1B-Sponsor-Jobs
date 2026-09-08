@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Reading, England, United Kingdom |
-| Category | Data Scientist |
-| Posted | 2026-04-28 |
+| Location | 12 locations |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Reading-Berkshire-United-Kingdom/Associate-Director-Biostatistics--Rare-Disease--FSP_R1503450) |
 
 ## About This Role
 
-This data scientist position at IQVIA was posted on 2026-04-28.
+This bioinformatics / computational biology position at IQVIA was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Salvador, Bahia, Brazil |
-| Category | Customer Success |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SALVADOR/Espec-Clientes-Select-High_Req1601684) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Corporate Finance |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Clientes-Select-High_Req1578736) |
 
 ## About This Role
 
-This customer success position at Santander was posted on 2026-08-20.
+This corporate finance position at Santander was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

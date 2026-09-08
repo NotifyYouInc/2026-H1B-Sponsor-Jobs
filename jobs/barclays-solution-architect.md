@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Solution-Architect_JR-0000088355-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Solution-Architect_JR-0000087685) |
 
 ## About This Role
 
-This technical & solutions architect position at Barclays was posted on 2026-06-09.
+This technical & solutions architect position at Barclays was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

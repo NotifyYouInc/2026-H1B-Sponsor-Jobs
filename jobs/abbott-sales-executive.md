@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Makkah, Mecca Region, Saudi Arabia |
-| Category | Account Executive |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Saudi-Arabia--Makkah-Remote/Sales-Executive_31150043) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Category | Sales |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Saudi-Arabia-----Riyadh/Sales-Executive_31160773) |
 
 ## About This Role
 
-This account executive position at Abbott was posted on 2026-05-17.
+This sales position at Abbott was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Riga, Riga, Latvia |
 | Category | QA Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Test-Automation-Engineer_ATCI-5683449-S2066621-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riga/Test-Automation-Engineer_R00352648) |
 
 ## About This Role
 
-This qa engineer position at Accenture was posted on 2026-08-27.
+This qa engineer position at Accenture was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

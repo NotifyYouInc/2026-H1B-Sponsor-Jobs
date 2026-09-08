@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000121348238-ref94898f-deputy-manager-actuarial-uk-pension-ggn-immediate-joiners-preferred) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000146689058-ref94898f-deputy-manager-actuarial-uk-pension-ggn-immediate-joiners-preferred) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-04-17.
+This corporate finance position at WNS was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

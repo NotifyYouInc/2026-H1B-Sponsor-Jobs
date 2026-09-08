@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Financial-Plan---Analysis-Senior-Analyst_AIOC-S01626826-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Financial-Plan---Analysis-Senior-Analyst_AIOC-S01663428-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-06-19.
+This corporate finance position at Accenture was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Financial Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Italy---Milan/Senior-Financial-Analyst-CRM_31156299) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/South-Africa---Johannesburg/Senior-Financial-Analyst_31160799) |
 
 ## About This Role
 
-This financial analyst position at Abbott was posted on 2026-07-15.
+This financial analyst position at Abbott was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Deloitte](https://scoutify.ai/companies/deloitteat?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vienna, Vienna, Austria |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteAT/744000146439261-studentin-all-genders-fur-die-audit-academy-2027) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteAT/744000146667025-studentin-all-genders-fur-die-audit-academy-2027) |
 
 ## About This Role
 
-This financial advisory & consulting position at Deloitte was posted on 2026-08-31.
+This financial advisory & consulting position at Deloitte was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

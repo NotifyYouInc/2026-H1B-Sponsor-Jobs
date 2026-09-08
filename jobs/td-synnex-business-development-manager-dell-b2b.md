@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Pune, Maharashtra, India |
 | Category | Sales |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Kolkata-India/Business-Development-Manager--Dell-B2B_R53612) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Pune-India/Business-Development-Manager--Dell-B2B_R54811) |
 
 ## About This Role
 
-This sales position at TD Synnex was posted on 2026-08-03.
+This sales position at TD Synnex was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

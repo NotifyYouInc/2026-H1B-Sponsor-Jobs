@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | QA Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135953119-nextstep-ingenieur-ivvq-reseaux-hf) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000146668029-nextstep-ingenieur-ivvq-reseaux-hf) |
 
 ## About This Role
 
-This qa engineer position at ALTEN was posted on 2026-07-06.
+This qa engineer position at ALTEN was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

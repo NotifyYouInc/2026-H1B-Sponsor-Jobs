@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Digital Health](https://scoutify.ai/companies/alteradigitalhealth?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Database Administration |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Remote-Pune-Baroda-India/Database-Administrator_R0045737) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Office---Pune---Panchshil-Business-Park-India/Database-Administrator_R0046419) |
 
 ## About This Role
 
-This database administration position at Altera Digital Health was posted on 2026-08-22.
+This database administration position at Altera Digital Health was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

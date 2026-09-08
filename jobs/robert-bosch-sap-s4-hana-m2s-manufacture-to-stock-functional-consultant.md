@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145713229-sap-s4-hana-m2s-manufacture-to-stock-functional-consultant) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146664409-sap-s4-hana-m2s-manufacture-to-stock-functional-consultant) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-08-26.
+This business analyst position at Robert Bosch was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

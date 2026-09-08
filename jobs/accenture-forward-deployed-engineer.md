@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Forward Deployed Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Forward-Deployed-Engineer_ATCI-5673330-S2059390-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Forward-Deployed-Engineer_ATCI-5717090-S2067319-1) |
 
 ## About This Role
 
-This forward deployed engineer position at Accenture was posted on 2026-07-21.
+This forward deployed engineer position at Accenture was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
