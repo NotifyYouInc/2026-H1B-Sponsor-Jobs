@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | New Taipei City, Taipei, Taiwan |
 | Category | Sales Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Suzhou-Jiangsu/Field-Sales-Engineer_R246064) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Zhonghe-Dist-New-Taipei-City/Field-Sales-Engineer_R246676) |
 
 ## About This Role
 
-This sales engineer position at Arrow Electronics was posted on 2026-08-19.
+This sales engineer position at Arrow Electronics was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

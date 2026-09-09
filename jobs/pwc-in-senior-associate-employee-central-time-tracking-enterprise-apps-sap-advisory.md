@@ -1,16 +1,16 @@
-# IN-Senior Associate_Employee Central – Time -tracking_Enterprise Apps SAP_Advisory_ Mumbai at PwC
+# IN-Senior Associate _ Employee Central – Time -tracking_Enterprise Apps SAP_ Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate-Employee-Central---Time--tracking-Enterprise-Apps-SAP-Advisory--Mumbai_738735WD-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate---Employee-Central---Time--tracking-Enterprise-Apps-SAP--Advisory-Bangalore_758737WD-1) |
 
 ## About This Role
 
-This technology / it consulting position at PwC was posted on 2026-06-21.
+This technology / it consulting position at PwC was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

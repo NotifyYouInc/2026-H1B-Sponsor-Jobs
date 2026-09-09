@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Germany |
-| Category | Strategy & Operations |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000145936049-commercial-operations-manager-mwd) |
+| Category | Operations |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000146948554-commercial-operations-manager-mwd) |
 
 ## About This Role
 
-This strategy & operations position at StepStone was posted on 2026-08-27.
+This operations position at StepStone was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

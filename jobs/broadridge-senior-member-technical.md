@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Senior-Member-Technical_JR1084596) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Senior-Member-Technical_JR1085373) |
 
 ## About This Role
 
-This devops engineer position at Broadridge was posted on 2026-07-29.
+This cybersecurity engineer position at Broadridge was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wichita Falls, Texas, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckX9Mhh6wM8olUdUsm8mfx7RDtNDoOQEYqMzQvLe6rEIWEjsA1Ny_izIsYUDgwy0StlwyyOmd52lXKe_GXYT5xMefcpQYeqS8X-ci38KVB6IwyI2x7__wEdyZdq4BIA%3D%3D_V2&loc=US&title=Data+Center+Technician) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYcIBvWmJtlvG6HMH3GKNWgQu3wwY7mfdVOmC0TyLjyqEjsA1Ny_i5HXmEmJZgwu6HJ9mJ1v8hewZ-b2ZLrSpmQla_-6W-Ou7UfEUefmGpCh9Zj3cX21K1pfkrTwQQ%3D%3D_V2&loc=IN&title=Data+Center+Technician) |
 
 ## About This Role
 
-This it & systems administration position at Google was posted on 2026-08-27.
+This it & systems administration position at Google was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

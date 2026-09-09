@@ -5,12 +5,12 @@
 | Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Project Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Salesforce-Project-Manager_R-105582) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/Pune-Maharashtra/Salesforce-Project-Manager_R-106025) |
 
 ## About This Role
 
-This project manager position at Jade Global was posted on 2026-06-18.
+This project manager position at Jade Global was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

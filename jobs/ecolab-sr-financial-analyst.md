@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Financial Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Sr-Financial-Analyst_R00299924) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Sr-Financial-Analyst_R00301446) |
 
 ## About This Role
 
-This financial analyst position at Ecolab was posted on 2026-07-23.
+This fp&a / strategic finance position at Ecolab was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

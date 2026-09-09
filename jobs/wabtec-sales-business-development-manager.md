@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Derio, Basque Country, Spain |
 | Category | Sales |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014967696-sales-business-development-manager) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015009076-sales-business-development-manager) |
 
 ## About This Role
 
-This sales position at Wabtec was posted on 2026-09-01.
+This sales position at Wabtec was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

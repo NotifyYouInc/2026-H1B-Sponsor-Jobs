@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ZoomInfo Technologies LLC](https://scoutify.ai/companies/zoominfo-technologies-llc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8577355002) |
+| Category | Accounting |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8758619002) |
 
 ## About This Role
 
-This corporate finance position at ZoomInfo Technologies LLC was posted on 2026-06-13.
+This accounting position at ZoomInfo Technologies LLC was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

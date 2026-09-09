@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/NC-CHARLOTTE-BALLANTYNE/Transaction-Manager_26966308) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Transaction-Manager_26990459) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-29.
+This business analyst position at Citigroup was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

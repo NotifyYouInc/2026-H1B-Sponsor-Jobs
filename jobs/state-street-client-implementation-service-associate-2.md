@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
-| Category | Customer Success Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Luxembourg-Luxembourg/Client-Implementation---Service--Associate-2_R-793922) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Customer Success |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Chennai-India/Client-Implementation---Service--Associate-2_R-796807) |
 
 ## About This Role
 
-This customer success manager position at State Street was posted on 2026-07-13.
+This customer success position at State Street was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

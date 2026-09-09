@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5595099-S2031318-1) |
+| Location | Athens, Attica, Greece |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Athens/AI---ML-Engineer_14501305) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-08-28.
+This ai / llm engineer position at Accenture was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

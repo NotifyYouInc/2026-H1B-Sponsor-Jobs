@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Reims, Grand Est, France |
 | Category | Industrial Automation |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137390419-technicien-de-maintenance-industrielle-automatisme-fh) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000146940594-technicien-de-maintenance-industrielle-automatisme-fh) |
 
 ## About This Role
 
-This industrial automation position at Veolia was posted on 2026-07-13.
+This industrial automation position at Veolia was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

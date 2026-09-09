@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Marketing |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-China-Shanghai-Shanghai/Brand-Manager_2607043259W) |
+| Location | Chiyoda, Tokyo, Japan |
+| Category | Brand Marketing |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-Japan-Tokyo-To-Chiyoda/Brand-Manager_2607048203W-1) |
 
 ## About This Role
 
-This marketing position at Kenvue was posted on 2026-03-16.
+This brand marketing position at Kenvue was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

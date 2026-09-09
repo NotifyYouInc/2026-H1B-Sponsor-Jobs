@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gujarat, IN |
-| Category | Project Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Project-Lead--IT-Prog-Proj-Mgmt_20175665) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Program Manager |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Project-Lead--IT-Prog-Proj-Mgmt_20186474) |
 
 ## About This Role
 
-This project manager position at Cardinal Health was posted on 2026-03-17.
+This program manager position at Cardinal Health was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
