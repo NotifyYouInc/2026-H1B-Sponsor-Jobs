@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Web-Developer_ATCI-5714782-S2064669-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Web-Developer_ATCI-5723698-S2067784-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-08-18.
+This technology / it consulting position at Accenture was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

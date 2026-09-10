@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Workforce-Services-Analyst_AIOC-S01662048-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Workforce-Services-Analyst_AIOC-S01664203-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-08-24.
+This business analyst position at Accenture was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

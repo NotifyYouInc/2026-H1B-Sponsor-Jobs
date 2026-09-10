@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gaziantep, Gaziantep, Turkey |
-| Category | Channel / Partner Sales |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142793959-field-support-responsible-gaziantep) |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000147225849-field-support-responsible-gaziantep) |
 
 ## About This Role
 
-This channel / partner sales position at Robert Bosch was posted on 2026-08-11.
+This sales position at Robert Bosch was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

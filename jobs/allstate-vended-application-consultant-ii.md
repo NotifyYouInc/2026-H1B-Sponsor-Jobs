@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Pune-Sez-2-9Th-And-10Th-Floor/Vended-Application-Consultant-II_R26473) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Vended-Application-Consultant-II_R33997) |
 
 ## About This Role
 
-This technology / it consulting position at Allstate was posted on 2026-02-25.
+This software engineer position at Allstate was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

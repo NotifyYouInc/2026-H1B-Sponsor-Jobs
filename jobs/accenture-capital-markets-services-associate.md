@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Capital-Markets-Services-Associate_AIOC-S01663303-1) |
+| Category | Wealth Management / Private Banking |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Capital-Markets-Services-Associate_AIOC-S01664079-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-08-31.
+This wealth management / private banking position at Accenture was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

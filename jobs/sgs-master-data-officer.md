@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nairobi, Nairobi County, Kenya |
-| Category | Business Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000142059360-master-data-officer) |
+| Location | Telangana, IN |
+| Category | Database Administration |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000147218789-master-data-officer) |
 
 ## About This Role
 
-This business analyst position at SGS was posted on 2026-08-07.
+This database administration position at SGS was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

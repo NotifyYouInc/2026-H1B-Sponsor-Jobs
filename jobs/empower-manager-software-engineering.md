@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Manager-Software-Engineering_R0056686) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Manager-Software-Engineering_R0062047) |
 
 ## About This Role
 
-This engineering manager position at Empower was posted on 2026-04-16.
+This engineering manager position at Empower was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

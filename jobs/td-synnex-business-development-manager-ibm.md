@@ -1,16 +1,16 @@
-# Business Development Manager - IBM at TD Synnex
+# Business Development Manager IBM at TD Synnex
 
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Engineering Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Sofia-Bulgaria/Business-Development-Manager---IBM_R53618) |
+| Location | Oslo, Oslo, Norway |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Oslo-Norway/Business-Development-Manager-IBM_R55533) |
 
 ## About This Role
 
-This engineering manager position at TD Synnex was posted on 2026-07-13.
+This sales position at TD Synnex was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

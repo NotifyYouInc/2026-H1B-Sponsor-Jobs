@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000137059129-kyc-operations-team-lead-business) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000147215795-kyc-operations-team-lead-business) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-07-10.
+This financial crimes & aml position at WISE was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

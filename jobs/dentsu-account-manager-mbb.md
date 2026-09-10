@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Account Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Chennai---Anna-Nagar-Tyche-Towers/Account-Manager---MBB_R1122845-4) |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Chennai---Anna-Nagar-Tyche-Towers/Account-Manager---MBB_R1126473-1) |
 
 ## About This Role
 
-This account manager position at Dentsu was posted on 2026-05-18.
+This sales position at Dentsu was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

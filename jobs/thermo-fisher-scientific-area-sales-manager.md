@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Account Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pune-India/Area-Sales-Manager_R-01354220) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bengaluru-India/Area-Sales-Manager_R-01366875) |
 
 ## About This Role
 
-This account manager position at Thermo Fisher Scientific was posted on 2026-06-19.
+This sales position at Thermo Fisher Scientific was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

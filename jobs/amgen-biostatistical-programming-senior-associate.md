@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Bioinformatics / Computational Biology |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Biostatistical-Programming-Senior-Associate_R-245760) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Biostatistical-Programming-Senior-Associate_R-254853-1) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Amgen was posted on 2026-07-22.
+This bioinformatics / computational biology position at Amgen was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

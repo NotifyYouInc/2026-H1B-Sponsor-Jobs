@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Sales Leadership |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/THA---Bangkok-Sales-Office/Sales-Manager_JR263067) |
+| Location | Makati City, National Capital Region, Philippines |
+| Category | Sales |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/PHL---Makati-City-Office/Sales-Manager_JR2610972) |
 
 ## About This Role
 
-This sales leadership position at PPG Industries was posted on 2026-05-21.
+This sales position at PPG Industries was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

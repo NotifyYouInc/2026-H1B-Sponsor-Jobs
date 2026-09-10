@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gujarat, IN |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Electrical-Design-Engineer_R0123385) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Electrical-Design-Engineer_R0143888) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-07-02.
+This electrical / hardware engineer position at Hitachi was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

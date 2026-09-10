@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
 | Category | Compliance & Risk Management |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000145697764-high-risk-assessment-senior-lead) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000147209819-high-risk-assessment-senior-lead) |
 
 ## About This Role
 
-This compliance & risk management position at WISE was posted on 2026-08-26.
+This compliance & risk management position at WISE was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

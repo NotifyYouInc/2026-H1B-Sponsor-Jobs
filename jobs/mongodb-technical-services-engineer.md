@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Customer Success |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7957794) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8170628) |
 
 ## About This Role
 
-This customer success position at MongoDB was posted on 2026-06-03.
+This customer success position at MongoDB was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

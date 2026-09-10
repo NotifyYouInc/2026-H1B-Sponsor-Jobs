@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Boulogne-Billancourt, Île-de-France, France |
+| Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000119183509-charge-de-recrutement-hf) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000147227319-charge-de-recrutement-hf) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at ALTEN was posted on 2026-04-07.
+This talent acquisition / recruiting position at ALTEN was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

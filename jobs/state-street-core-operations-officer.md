@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Corporate Finance |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Tokyo-Japan/Core-Operations--Officer_R-796235) |
+| Location | China |
+| Category | Compliance & Risk Management |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hong-Kong-China/Core-Operations--Officer_R-797243) |
 
 ## About This Role
 
-This corporate finance position at State Street was posted on 2026-08-19.
+This compliance & risk management position at State Street was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

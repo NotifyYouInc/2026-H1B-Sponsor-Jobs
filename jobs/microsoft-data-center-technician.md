@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Osaka, Osaka, Japan |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556971509) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556861275) |
 
 ## About This Role
 
-This it & systems administration position at Microsoft was posted on 2026-08-17.
+This it & systems administration position at Microsoft was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

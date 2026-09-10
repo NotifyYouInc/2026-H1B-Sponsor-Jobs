@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | The Hague, South Holland, The Netherlands |
-| Category | Project Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000140836758-project-controller) |
+| Location | Bucharest, București, Romania |
+| Category | Accounting |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000147224780-project-controller) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-07-31.
+This accounting position at AECOM was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

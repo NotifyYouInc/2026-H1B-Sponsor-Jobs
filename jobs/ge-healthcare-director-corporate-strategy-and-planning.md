@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Director--Corporate-Strategy-and-Planning_R4042044-1) |
+| Category | Strategy & Operations |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Director--Corporate-Strategy-and-Planning_R4045929-1) |
 
 ## About This Role
 
-This strategy / management consulting position at GE HealthCare was posted on 2026-06-05.
+This strategy & operations position at GE HealthCare was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

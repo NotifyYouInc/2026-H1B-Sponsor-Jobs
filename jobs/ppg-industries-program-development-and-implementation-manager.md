@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Customer Success |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/SGP---Seletar-Plant/Program-Development-and-Implementation-Manager_JR2611523) |
+| Category | Program Manager |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/SGP---Seletar-Plant/Program-Development-and-Implementation-Manager_JR2610390) |
 
 ## About This Role
 
-This customer success position at PPG Industries was posted on 2026-08-21.
+This program manager position at PPG Industries was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

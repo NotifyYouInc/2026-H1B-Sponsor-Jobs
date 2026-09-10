@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Lead-Business-Functional-Analyst--VP_R0425859) |
+| Category | Business Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Lead-Business-Functional-Analyst--AVP_R0427248) |
 
 ## About This Role
 
-This product manager position at Deutsche Bank was posted on 2026-02-19.
+This business analyst position at Deutsche Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
