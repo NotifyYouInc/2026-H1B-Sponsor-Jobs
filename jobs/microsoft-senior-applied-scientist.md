@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556825881) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Scientist |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556985536) |
 
 ## About This Role
 
-This machine learning engineer position at Microsoft was posted on 2026-03-10.
+This data scientist position at Microsoft was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

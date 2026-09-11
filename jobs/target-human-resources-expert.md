@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chesterfield, Missouri, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/40-THF-Blvd-ChesterfieldMO-63005-1150/Human-Resources-Expert_R0000452121) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/4711-New-Centre-Dr-WilmingtonNC-28405-3442/Human-Resources-Expert_R0000452248) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-09-03.
+This human resources / people ops position at Target was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

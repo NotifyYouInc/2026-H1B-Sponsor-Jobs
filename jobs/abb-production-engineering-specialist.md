@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Västerås, Västmanland, Sweden |
 | Category | Industrial Automation |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Production-Engineering-Specialist_JR00040350) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vaesteras-Vastmanland-County-Sweden/Production-Engineering-Specialist_JR00045120) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-07-20.
+This industrial automation position at ABB was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

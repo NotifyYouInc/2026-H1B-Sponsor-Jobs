@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Creatio](https://scoutify.ai/companies/creatio?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Poland |
 | Category | Customer Success |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.eu.lever.co/creatio/37cac95c-2ec9-46ec-92ff-f10cdd3eb4d4) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.eu.lever.co/creatio/49f9efc5-ba45-4bd8-b125-b5d5edb29acd) |
 
 ## About This Role
 
-This customer success position at Creatio was posted on 2026-06-22.
+This customer success position at Creatio was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

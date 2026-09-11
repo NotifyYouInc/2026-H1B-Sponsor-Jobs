@@ -1,16 +1,16 @@
-# HIH - Financial Analysis Senior Analyst at Cigna
+# HIH- Financial Analysis Senior Analyst at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Corporate Finance |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Financial-Analysis-Senior-Analyst_26009285) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH--Financial-Analysis-Senior-Analyst_26004753) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-08-06.
+This corporate finance position at Cigna was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

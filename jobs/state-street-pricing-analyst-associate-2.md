@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
-| Category | Financial Analyst |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Coimbatore-India/Pricing-Analyst--Associate-2_R-794746-1) |
+| Location | India |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/OSLPUN-CWTOP456-9/Pricing-Analyst--Associate-2_R-794708-1) |
 
 ## About This Role
 
-This financial analyst position at State Street was posted on 2026-09-02.
+This corporate finance position at State Street was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

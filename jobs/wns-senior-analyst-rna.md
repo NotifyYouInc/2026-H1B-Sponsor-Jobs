@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000143985628-senior-analyst-rna) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000147489878-senior-analyst-rna) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-08-18.
+This corporate finance position at WNS was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Partner Manager, Channels (Security) at Datadog
+# Senior Partner Manager - Channels (Security) at Datadog
 
 | Field | Details |
 |-------|---------|
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Business Development |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/7574882/?gh_jid=7574882) |
+| Location | Singapore, Singapore |
+| Category | Sales |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588) |
 
 ## About This Role
 
-This business development position at Datadog was posted on 2026-02-10.
+This sales position at Datadog was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

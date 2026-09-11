@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chon Buri, Chon Buri, Thailand |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Thailand-Chon-Buri/Engineer-I--Manufacturing-Test-Engineering_R256731) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Thailand-Chon-Buri/Engineer-I--Manufacturing-Test-Engineering_R256732) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analog Devices was posted on 2026-08-15.
+This semiconductor / chip design position at Analog Devices was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Financial-Consulting-Associate-2---Finance-as-a-Service_JR118655) |
+| Location | Gurugram, Haryana, India |
+| Category | Financial Advisory & Consulting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Financial-Consulting-Associate-2---Finance-as-a-Service_JR119842) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-05-07.
+This financial advisory & consulting position at RSM was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

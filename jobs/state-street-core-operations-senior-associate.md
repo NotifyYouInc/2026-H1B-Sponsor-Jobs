@@ -1,16 +1,16 @@
-# Core Operations, Senior Associate at State Street
+# Core Operations - Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | China |
-| Category | Compliance & Risk Management |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hong-Kong-China/Core-Operations--Senior-Associate_R-797242) |
+| Location | Hyderabad, Telangana, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Core-Operations---Senior-Associate_R-797178) |
 
 ## About This Role
 
-This compliance & risk management position at State Street was posted on 2026-09-03.
+This corporate finance position at State Street was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

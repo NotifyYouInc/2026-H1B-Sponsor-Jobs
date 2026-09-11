@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Budapest, Budapest, Hungary |
 | Category | Financial Crimes & AML |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000137612018-fincrime-investigator-aml-investigations) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000147483738-fincrime-investigator-aml-investigations) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-07-14.
+This financial crimes & aml position at WISE was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

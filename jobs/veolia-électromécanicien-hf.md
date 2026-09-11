@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Arnouville, Île-de-France, France |
-| Category | Industrial Automation |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137824849-electromecanicien-hf) |
+| Location | Fréjus, Provence-Alpes-Côte d'Azur, France |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000147473889-electromecanicien-hf) |
 
 ## About This Role
 
-This industrial automation position at Veolia was posted on 2026-07-15.
+This electrical / hardware engineer position at Veolia was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

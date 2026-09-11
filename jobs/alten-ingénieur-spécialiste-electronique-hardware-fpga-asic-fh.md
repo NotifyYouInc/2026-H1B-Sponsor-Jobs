@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130723619-ingenieur-specialiste-electronique-hardware-fpga-asic-fh) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000147467819-ingenieur-specialiste-electronique-hardware-fpga-asic-fh) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-06-08.
+This electrical / hardware engineer position at ALTEN was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

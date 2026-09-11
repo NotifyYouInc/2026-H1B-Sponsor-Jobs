@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Toronto, Ohio, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYcIBvWmJtlvG6HMH3GKNWgQu3wwY7mfdVOmC0TyLjyqEjsA1Ny_i5HXmEmJZgwu6HJ9mJ1v8hewZ-b2ZLrSpmQla_-6W-Ou7UfEUefmGpCh9Zj3cX21K1pfkrTwQQ%3D%3D_V2&loc=IN&title=Data+Center+Technician) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSH3dDDKfWKPQYObskIRfs2lxMz8c6V69MXYBv54OGeBEjsA1Ny_i4RTWDdWsbKNeN61FICwlO-TiEMUaZmpFEN9gzQ49UOkrkMb2X0yOPWgSb21iKnVBag--TfB6w%3D%3D_V2&loc=CA&title=Data+Center+Technician) |
 
 ## About This Role
 
-This it & systems administration position at Google was posted on 2026-09-02.
+This it & systems administration position at Google was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

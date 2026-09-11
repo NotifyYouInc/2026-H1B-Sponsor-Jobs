@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Kochi, Kerala, India |
 | Category | Customer Success |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Senior-Managed-Services-Analyst_R1511324-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Senior-Managed-Services-Analyst_R1562705) |
 
 ## About This Role
 
-This customer success position at IQVIA was posted on 2026-04-20.
+This customer success position at IQVIA was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

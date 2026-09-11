@@ -1,16 +1,16 @@
-# Named Account Executive - Public Sector, Singapore at Salesforce
+# Named Account Executive - Public Sector (Singapore) at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Named-Account-Executive---Public-Sector--Singapore_JR331752) |
+| Category | Sales |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Named-Account-Executive---Public-Sector--Singapore-_JR358691-1) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-03-09.
+This sales position at Salesforce was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

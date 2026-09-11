@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000111759125-associate-decision-science) |
+| Category | Data Scientist |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000147467789-associate-decision-science) |
 
 ## About This Role
 
-This machine learning engineer position at LinkedIn was posted on 2026-02-27.
+This data scientist position at LinkedIn was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

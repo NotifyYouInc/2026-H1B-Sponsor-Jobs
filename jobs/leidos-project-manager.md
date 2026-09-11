@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | United Kingdom |
 | Category | Project Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-Victoria-Australia/Project-Manager_R-00182243) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-United-Kingdom/Project-Manager_R-00191510) |
 
 ## About This Role
 
-This project manager position at Leidos was posted on 2026-05-01.
+This project manager position at Leidos was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

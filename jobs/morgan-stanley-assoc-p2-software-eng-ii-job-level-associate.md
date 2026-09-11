@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Software Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Assoc--P2--Software-Eng-II---Job-Level---Associate_PT-JR029557-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/Assoc--P2--Software-Eng-II---Job-Level---Associate_PT-JR043305) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-03-02.
+This software engineer position at Morgan Stanley was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

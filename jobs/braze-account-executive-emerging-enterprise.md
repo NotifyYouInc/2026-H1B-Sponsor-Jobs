@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7760056?gh_jid=7760056) |
+| Location | London, England, United Kingdom |
+| Category | Sales |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/braze/jobs/8170786) |
 
 ## About This Role
 
-This account executive position at Braze was posted on 2026-03-27.
+This sales position at Braze was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Thāne, Maharashtra, India |
 | Category | Customer Success |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Client-Operations-Support_R-10399166) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Client-Operations-Support_R-10401329) |
 
 ## About This Role
 
-This customer success position at Fiserv was posted on 2026-08-25.
+This customer success position at Fiserv was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
