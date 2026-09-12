@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Fort Meade, Maryland, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0242207) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0248785) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-06-12.
+This data scientist position at Booz Allen was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

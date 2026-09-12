@@ -1,16 +1,16 @@
-# Infra Delivery Install Technician, Infrastructure Delivery at Amazon
+# Infra Delivery Install Technician,  Infrastructure Delivery at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Canton, Michigan, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454624/infra-delivery-install-technician-infrastructure-delivery) |
+| Location | Frederick, Maryland, United States |
+| Category | Deployment Engineer |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10530598/infra-delivery-install-technician-infrastructure-delivery) |
 
 ## About This Role
 
-This it & systems administration position at Amazon was posted on 2026-06-22.
+This deployment engineer position at Amazon was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

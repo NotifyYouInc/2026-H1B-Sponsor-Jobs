@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 4 locations |
-| Category | Software Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Senior-Data-Engineer_JR-202605861-1) |
+| Location | Austin, Texas, United States |
+| Category | Data Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Senior-Data-Engineer_JR-202615958) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-03-27.
+This data engineer position at General Motors was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Rancho Cordova, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000125258319-process-td-engineer) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000147633419-process-td-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Solidigm was posted on 2026-05-08.
+This electrical / hardware engineer position at Solidigm was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

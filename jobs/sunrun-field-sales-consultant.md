@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sunrun](https://scoutify.ai/companies/sunrun?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-Apple-Valley/Field-Sales-Consultant_R68412) |
+| Location | San Diego, California, United States |
+| Category | Sales |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://sunrun.wd5.myworkdayjobs.com/sunrun_careers/job/CA-San-Diego/Field-Sales-Consultant_R74335-1) |
 
 ## About This Role
 
-This account executive position at Sunrun was posted on 2026-06-12.
+This sales position at Sunrun was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist--Transaction-Services_R-274925) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Accounting |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia-Bldg-978/Specialist--Transaction-Services_R-289146) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-04-09.
+This accounting position at Mastercard was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

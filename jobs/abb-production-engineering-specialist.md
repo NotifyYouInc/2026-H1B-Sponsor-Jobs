@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Västerås, Västmanland, Sweden |
+| Location | Guadalupe, Nuevo León, Mexico |
 | Category | Industrial Automation |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vaesteras-Vastmanland-County-Sweden/Production-Engineering-Specialist_JR00045120) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Guadalupe-Nuevo-Len-Mexico/Production-Engineering-Specialist_JR00046286-1) |
 
 ## About This Role
 

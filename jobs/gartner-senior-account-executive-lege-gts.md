@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Account Executive |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Prague/Senior-Account-Executive--LE-GE--GTS_107562) |
+| Location | San Francisco, California, United States |
+| Category | Sales |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/San-Francisco-CA/Senior-Account-Executive--LE-GE--GTS_113295) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-06-05.
+This sales position at Gartner was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

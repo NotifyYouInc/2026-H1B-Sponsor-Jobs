@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Colliers](https://scoutify.ai/companies/colliers?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Content Marketing |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Toronto-Ontario-Canada/Marketing-Coordinator_JR18439-1) |
+| Category | Brand Marketing |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Toronto-Ontario-Canada/Marketing-Coordinator_JR18491-1) |
 
 ## About This Role
 
-This content marketing position at Colliers was posted on 2026-08-28.
+This brand marketing position at Colliers was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

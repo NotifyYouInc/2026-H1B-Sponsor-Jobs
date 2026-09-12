@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Virginia, US |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-DULLES-23031-CUST--23031-Ladbrook-Dr--LADBROOK-External-Site/Senior-Systems-Engineer_01856265) |
+| Location | West Valley City, Utah, United States |
+| Category | Software Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Senior-Systems-Engineer_01872188) |
 
 ## About This Role
 
-This electrical / hardware engineer position at RTX was posted on 2026-07-15.
+This software engineer position at RTX was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

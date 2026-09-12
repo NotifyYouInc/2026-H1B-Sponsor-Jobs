@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Test-Engineer-III_J2452591) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Test-Engineer-III_J2462263) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Jabil was posted on 2026-06-03.
+This electrical / hardware engineer position at Jabil was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428971/data-centre-operation-technician-dco-tech) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10530691/data-centre-operation-technician-dco-tech) |
 
 ## About This Role
 
-This it & systems administration position at Amazon was posted on 2026-05-24.
+This it & systems administration position at Amazon was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 
