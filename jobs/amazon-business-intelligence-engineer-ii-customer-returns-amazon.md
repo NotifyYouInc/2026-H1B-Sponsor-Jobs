@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445592/business-intelligence-engineer-ii-customer-returns-amazon) |
+| Category | Data Analyst |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10530730/business-intelligence-engineer-ii-customer-returns-amazon) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-06-11.
+This data analyst position at Amazon was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

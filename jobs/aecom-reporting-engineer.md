@@ -1,16 +1,16 @@
-# Reporting Engineer at AECOM
+# Reporting Engineer  at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Data Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000131064229-reporting-engineer) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Category | Project Manager |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000147686019-reporting-engineer) |
 
 ## About This Role
 
-This data analyst position at AECOM was posted on 2026-06-09.
+This project manager position at AECOM was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

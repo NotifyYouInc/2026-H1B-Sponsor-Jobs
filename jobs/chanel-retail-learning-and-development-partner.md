@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chanel](https://scoutify.ai/companies/cc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Singapore, Singapore |
 | Category | Learning & Development |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Hong-Kong-SAR/Retail-Learning-and-Development-Partner_JOBREQ00116527) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Singapore/Retail-Learning-and-Development-Partner_JOBREQ00116208) |
 
 ## About This Role
 
-This learning & development position at Chanel was posted on 2026-09-02.
+This learning & development position at Chanel was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

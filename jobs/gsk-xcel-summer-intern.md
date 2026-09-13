@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Maharashtra, IN |
 | Category | Leadership Development Program |
-| Posted | 2026-08-30 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/India---Maharashtra---Worli-Mumbai/xCEL-Summer-Intern_446774) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/India---Maharashtra---Worli-Mumbai/xCEL-Summer-Intern_446785) |
 
 ## About This Role
 
-This leadership development program position at GSK was posted on 2026-08-30.
+This leadership development program position at GSK was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

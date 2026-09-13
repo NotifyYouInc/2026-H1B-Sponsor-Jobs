@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Goiânia, Goiás, Brazil |
+| Location | Jaraguá, São Paulo, Brazil |
 | Category | Sales |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/GOIANIA/Espec-Clientes-B1-I_Req1607118) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/REGIAO-E1---JARAGUA/Espec-Clientes-B1-I_Req1610300) |
 
 ## About This Role
 
-This sales position at Santander was posted on 2026-08-27.
+This sales position at Santander was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

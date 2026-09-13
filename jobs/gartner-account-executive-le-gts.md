@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | California, US |
-| Category | Account Executive |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---California/Account-Executive--LE--GTS_110371) |
+| Location | Switzerland |
+| Category | Sales |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Geneva/Account-Executive--LE--GTS_112651) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-05-23.
+This sales position at Gartner was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

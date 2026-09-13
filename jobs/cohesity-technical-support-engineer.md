@@ -5,12 +5,12 @@
 | Company | [Cohesity](https://scoutify.ai/companies/cohesity?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/XMLNAME--Senior--Technical-Support-Engineer_R01760) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Heathrow-FL---USA-Office/Technical-Support-Engineer_R04630) |
 
 ## About This Role
 
-This customer success position at Cohesity was posted on 2026-02-12.
+This customer success position at Cohesity was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

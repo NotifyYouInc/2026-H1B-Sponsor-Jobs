@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Brand Marketing |
+| Category | Marketing |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Bogota/Brand-Specilist_31160933-1) |
 
 ## About This Role
 
-This brand marketing position at Abbott was posted on 2026-09-04.
+This marketing position at Abbott was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

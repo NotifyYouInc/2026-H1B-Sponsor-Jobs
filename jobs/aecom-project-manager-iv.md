@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Project Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126922139-project-manager-iv) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000147685759-project-manager-iv) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-05-18.
+This project manager position at AECOM was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

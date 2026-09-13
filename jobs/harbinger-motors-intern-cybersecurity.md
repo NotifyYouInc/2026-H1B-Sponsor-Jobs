@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harbinger Motors](https://scoutify.ai/companies/harbingermotors?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Garden Grove, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/harbingermotors/jobs/5164361007) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007) |
 
 ## About This Role
 
-This security engineer position at Harbinger Motors was posted on 2026-06-13.
+This cybersecurity engineer position at Harbinger Motors was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

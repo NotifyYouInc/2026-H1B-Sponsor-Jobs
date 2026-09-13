@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Account Manager |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000145272893-commercial-operations-specialist-csm-ksa) |
+| Category | Operations |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000147684799-commercial-operations-specialist-csm-ksa) |
 
 ## About This Role
 
-This account manager position at Veolia was posted on 2026-08-24.
+This operations position at Veolia was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

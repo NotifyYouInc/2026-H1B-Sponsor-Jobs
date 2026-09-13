@@ -5,12 +5,12 @@
 | Company | [Harbinger Motors](https://scoutify.ai/companies/harbingermotors?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Garden Grove, California, United States |
 | Category | Corporate Finance |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/harbingermotors/jobs/5164356007) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/harbingermotors/jobs/5231841007) |
 
 ## About This Role
 
-This corporate finance position at Harbinger Motors was posted on 2026-06-13.
+This corporate finance position at Harbinger Motors was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

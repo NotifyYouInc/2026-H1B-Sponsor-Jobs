@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Digital / Performance Marketing |
+| Category | Marketing |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000147612430-manager-digital-marketing) |
 
 ## About This Role
 
-This digital / performance marketing position at The Wonderful Company was posted on 2026-09-04.
+This marketing position at The Wonderful Company was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/India---Chennai/Engineer-II---Software_R3351-26-4) |
+| Location | Philippines |
+| Category | Software Engineer |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Philippines---Mphil-3/Engineer-II---Software_R3540-26) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Microchip Technology was posted on 2026-08-18.
+This software engineer position at Microchip Technology was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

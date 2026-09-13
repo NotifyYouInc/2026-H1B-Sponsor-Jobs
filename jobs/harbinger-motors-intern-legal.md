@@ -5,12 +5,12 @@
 | Company | [Harbinger Motors](https://scoutify.ai/companies/harbingermotors?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Garden Grove, California, United States |
 | Category | Legal |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/harbingermotors/jobs/5164378007) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/harbingermotors/jobs/5231867007) |
 
 ## About This Role
 
-This legal position at Harbinger Motors was posted on 2026-06-13.
+This legal position at Harbinger Motors was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

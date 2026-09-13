@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanderlande Industries](https://scoutify.ai/companies/vanderlande-industries?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Marietta, Georgia, United States |
+| Location | Bahrain |
 | Category | Industrial Automation |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Mobile-Controls-Engineer_JR36310-1) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Manamah-Bahrain/Controls-Support-Engineer_JR38034-1) |
 
 ## About This Role
 
-This industrial automation position at Vanderlande Industries was posted on 2026-04-17.
+This industrial automation position at Vanderlande Industries was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

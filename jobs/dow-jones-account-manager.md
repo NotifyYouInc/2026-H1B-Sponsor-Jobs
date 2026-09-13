@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dow Jones](https://scoutify.ai/companies/dowjones?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York City, New York, United States |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Sales |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Account-Manager_Job_Req_54468) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Dubai/Account-Manager_Job_Req_54938) |
 
 ## About This Role
 
-This sales position at Dow Jones was posted on 2026-08-05.
+This sales position at Dow Jones was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

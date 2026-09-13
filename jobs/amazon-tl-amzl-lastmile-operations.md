@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Maharashtra, IN |
+| Location | Mumbai, Maharashtra, India |
 | Category | Program Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464560/tl-amzl-lastmile-operations) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10530736/tl-amzl-lastmile-operations) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-07-02.
+This program manager position at Amazon was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

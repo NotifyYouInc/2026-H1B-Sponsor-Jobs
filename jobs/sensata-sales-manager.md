@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sensata](https://scoutify.ai/companies/sensata?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | India |
-| Category | Account Manager |
-| Posted | 2026-06-10 |
+| Category | Sales |
+| Posted | 2026-09-05 |
 | Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/India-Home-Office/Sales-Manager_IRC97598) |
 
 ## About This Role
 
-This account manager position at Sensata was posted on 2026-06-10.
+This sales position at Sensata was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

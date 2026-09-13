@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
+| Category | Strategy & Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8180970&gh_jid=8180970) |
 
 ## About This Role
 
-This corporate finance position at Elastic was posted on 2026-09-04.
+This strategy & operations position at Elastic was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

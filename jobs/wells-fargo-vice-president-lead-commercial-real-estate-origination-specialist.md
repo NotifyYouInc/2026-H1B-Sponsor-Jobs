@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
+| Category | Investment Banking |
 | Posted | 2026-09-05 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAN-FRANCISCO-CA/Vice-President--Lead-Commercial-Real-Estate-Origination-Specialist_R-571177) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-09-05.
+This investment banking position at Wells Fargo was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

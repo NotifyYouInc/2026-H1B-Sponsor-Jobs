@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FMC Corporation](https://scoutify.ai/companies/fmc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Brand Marketing |
+| Category | Marketing |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://fmc.wd12.myworkdayjobs.com/FMC/job/Guadalajara-Mexico/Gerente-Regional-de-Marketing_R-2221-1) |
 
 ## About This Role
 
-This brand marketing position at FMC Corporation was posted on 2026-09-04.
+This marketing position at FMC Corporation was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
