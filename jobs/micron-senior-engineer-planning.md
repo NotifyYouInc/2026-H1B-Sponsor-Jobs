@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sānand, Gujarat, India |
-| Category | Project Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303C---FacilitiesConstruction-India/Senior-Engineer--Planning_JR94740) |
+| Category | Program Manager |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303C---FacilitiesConstruction-India/Senior-Engineer--Planning_JR110580) |
 
 ## About This Role
 
-This project manager position at Micron was posted on 2026-03-25.
+This program manager position at Micron was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

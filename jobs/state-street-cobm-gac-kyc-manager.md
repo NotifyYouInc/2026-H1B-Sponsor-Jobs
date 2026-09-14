@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Financial Crimes & AML |
-| Posted | 2026-06-25 |
+| Posted | 2026-09-07 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/COBM---GAC-KYC---Manager_R-792453) |
 
 ## About This Role
 
-This financial crimes & aml position at State Street was posted on 2026-06-25.
+This financial crimes & aml position at State Street was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

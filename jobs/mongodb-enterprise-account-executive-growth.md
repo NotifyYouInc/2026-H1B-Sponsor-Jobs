@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Seoul, Seoul, South Korea |
 | Category | Sales |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8147941) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7988076) |
 
 ## About This Role
 
-This sales position at MongoDB was posted on 2026-08-31.
+This sales position at MongoDB was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Brest, Brittany, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000145275949-ingenieur-en-electronique-de-puissance-fh) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000147938039-ingenieur-en-electronique-de-puissance-fh) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-08-24.
+This electrical / hardware engineer position at ALTEN was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

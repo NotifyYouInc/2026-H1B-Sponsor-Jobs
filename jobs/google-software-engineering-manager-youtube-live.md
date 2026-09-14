@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/113359920971031238-software-engineering-manager-youtube-live?sort_by=date&page=1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUgUJO8G6EfOjusAmBxffuOrhsFP6TXkTHS2GOaqcDWgEjsA1Ny_iyoFgeD8L3CNzDTKXvgKh6q2cRCxUzeJoCfB3caC3LWdeASOno9cTeAKA6-5Aq_DkC7nUdts6Q%3D%3D_V2&loc=IN&title=Software+Engineering+Manager) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-03-04.
+This engineering manager position at Google was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

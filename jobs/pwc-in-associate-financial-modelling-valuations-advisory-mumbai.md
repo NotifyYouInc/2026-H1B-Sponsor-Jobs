@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Associate-Financial-Modelling-Valuations-Advisory-Mumbai_718769WD) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Associate-Financial-Modelling-Valuations-Advisory-Mumbai_748729WD) |
 
 ## About This Role
 
-This financial advisory & consulting position at PwC was posted on 2026-05-13.
+This financial advisory & consulting position at PwC was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

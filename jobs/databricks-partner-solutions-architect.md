@@ -1,16 +1,16 @@
-# Partner Solutions Architect at Databricks
+#  Partner Solutions Architect  at Databricks
 
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8449860002) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8785221002) |
 
 ## About This Role
 
-This technology / it consulting position at Databricks was posted on 2026-03-25.
+This technical & solutions architect position at Databricks was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

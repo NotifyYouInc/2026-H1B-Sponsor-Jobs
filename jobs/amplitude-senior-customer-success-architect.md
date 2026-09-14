@@ -1,16 +1,16 @@
-# Senior Customer Success Architect  at Amplitude
+# Senior Customer Success Architect at Amplitude
 
 | Field | Details |
 |-------|---------|
 | Company | [Amplitude](https://scoutify.ai/companies/amplitude?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 13 locations |
+| Location | London, England, United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/amplitude/jobs/8413708002) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/amplitude/jobs/8785256002) |
 
 ## About This Role
 
-This customer success position at Amplitude was posted on 2026-02-09.
+This customer success position at Amplitude was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

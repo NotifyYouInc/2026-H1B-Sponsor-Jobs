@@ -5,12 +5,12 @@
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Hyderabad-India/Software-Asset-Management-Analyst-I_R0016975) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Hyderabad-India/Software-Asset-Management-Analyst-I_R0016977) |
 
 ## About This Role
 
-This it & systems administration position at Astreya was posted on 2026-08-27.
+This it & systems administration position at Astreya was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

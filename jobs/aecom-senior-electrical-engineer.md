@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fortitude Valley, Queensland, Australia |
+| Location | Duba, Tabuk Region, Saudi Arabia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000141641789-senior-electrical-engineer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000147923609-senior-electrical-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-08-05.
+This electrical / hardware engineer position at AECOM was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

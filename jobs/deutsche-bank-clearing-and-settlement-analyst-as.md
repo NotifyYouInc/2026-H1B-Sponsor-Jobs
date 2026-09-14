@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jaipur, Rajasthan, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Clearing-and-Settlement-Analyst--AS_R0430851) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Clearing-and-Settlement-Analyst--AS_R0413443) |
 
 ## About This Role
 
-This business analyst position at Deutsche Bank was posted on 2026-05-25.
+This business analyst position at Deutsche Bank was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

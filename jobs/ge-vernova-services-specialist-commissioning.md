@@ -1,16 +1,16 @@
-# Services Specialist - Commissioning at GE Vernova
+# Services Specialist  - Commissioning at GE Vernova
 
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pallāvaram, Tamil Nadu, India |
-| Category | Customer Success |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Pallavaram/Services-Specialist---Commissioning-1_R5029123-2) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Industrial Automation |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Chennai/Services-Specialist----Commissioning_R5050641-3) |
 
 ## About This Role
 
-This customer success position at GE Vernova was posted on 2026-02-19.
+This industrial automation position at GE Vernova was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

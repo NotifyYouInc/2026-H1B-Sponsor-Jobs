@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Chennai-India/Client-Implementation---Service--Associate-2_R-796807) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Client-Implementation---Service--Associate-2_R-793017-1) |
 
 ## About This Role
 
-This customer success position at State Street was posted on 2026-09-02.
+This customer success position at State Street was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

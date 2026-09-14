@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Web-Developer_ATCI-5723698-S2067784-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Software Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Web-Developer_ATCI-5743745-S2068064-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-09-03.
+This software engineer position at Accenture was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

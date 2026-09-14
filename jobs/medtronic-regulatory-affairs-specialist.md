@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bucharest, București, Romania |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Regulatory-Affairs-Specialist_R62391-2) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bucharest-Bucharest-Romania/Regulatory-Affairs-Specialist_R75142-1) |
 
 ## About This Role
 
-This compliance & risk management position at Medtronic was posted on 2026-03-23.
+This compliance & risk management position at Medtronic was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

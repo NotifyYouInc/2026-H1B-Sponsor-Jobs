@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philippines |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Customer Success |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Taguig-City-Philippines/Senior-Technical-Support-Engineer_R-116781) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Barcelona-Spain/Senior-Technical-Support-Engineer_R-116610) |
 
 ## About This Role
 
-This customer success position at Ingram Micro was posted on 2026-08-17.
+This customer success position at Ingram Micro was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

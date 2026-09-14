@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ahmedabad, Gujarat, India |
-| Category | Account Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/IN-Gujarat-Ahmedabad/Area-Sales-Manager_R01163466) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Sales |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/IN-Maharashtra-Mumbai/Area-Sales-Manager_R01170315) |
 
 ## About This Role
 
-This account manager position at 3M Company was posted on 2026-04-17.
+This sales position at 3M Company was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | ESG / Sustainability |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000137400439-environmental-assurance-engineer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000147926459-environmental-assurance-engineer) |
 
 ## About This Role
 
-This esg / sustainability position at Ramboll was posted on 2026-07-13.
+This esg / sustainability position at Ramboll was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

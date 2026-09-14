@@ -1,16 +1,16 @@
-# Middle Office - Senior Associate at State Street
+# Middle Office, Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Financial Analyst |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Middle-Office---Senior-Associate_R-794364) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Mumbai-India/Middle-Office--Senior-Associate_R-796364) |
 
 ## About This Role
 
-This financial analyst position at State Street was posted on 2026-09-02.
+This corporate finance position at State Street was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

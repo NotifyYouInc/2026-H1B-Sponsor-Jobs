@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | Milan, Lombardy, Italy |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556862263) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556972697) |
 
 ## About This Role
 
-This it & systems administration position at Microsoft was posted on 2026-05-20.
+This it & systems administration position at Microsoft was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

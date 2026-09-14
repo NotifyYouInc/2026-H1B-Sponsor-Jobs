@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | China |
-| Category | Account Executive |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8585188002) |
+| Location | Paris, Île-de-France, France |
+| Category | Sales |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8737167002) |
 
 ## About This Role
 
-This account executive position at Databricks was posted on 2026-06-11.
+This sales position at Databricks was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

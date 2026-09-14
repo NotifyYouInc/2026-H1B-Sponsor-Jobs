@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Security Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Senior-Engineer---IT_R000109289-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Senior-Engineer---IT_R000110162-3) |
 
 ## About This Role
 
-This security engineer position at Guardian Life was posted on 2026-06-05.
+This ai / llm engineer position at Guardian Life was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Sales |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Director--Global-SME-Partner-Management---Go-to-Market_R-288821-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dubai-United-Arab-Emirates/Director--Global-SME-Partner-Management---Go-to-Market_R-289443) |
 
 ## About This Role
 
-This sales position at Mastercard was posted on 2026-08-26.
+This sales position at Mastercard was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

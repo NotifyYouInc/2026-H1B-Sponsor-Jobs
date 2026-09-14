@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mérignac, Nouvelle-Aquitaine, France |
 | Category | Industrial Automation |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139941610-responsable-technique-en-manufacturing-engineering-hf) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000147924169-responsable-technique-en-manufacturing-engineering-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-07-27.
+This industrial automation position at ALTEN was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
