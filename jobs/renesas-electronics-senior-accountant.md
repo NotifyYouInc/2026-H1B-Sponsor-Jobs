@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Accounting |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000145477989-senior-accountant) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000148217079-senior-accountant) |
 
 ## About This Role
 
-This accounting position at Renesas Electronics was posted on 2026-08-25.
+This accounting position at Renesas Electronics was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/a0af8199-9cd3-4444-9161-c50185f63b1a) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/7328e756-d4ca-4177-9457-1a8e6da47d68) |
 
 ## About This Role
 
-This software engineer position at UiPath was posted on 2026-08-05.
+This software engineer position at UiPath was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

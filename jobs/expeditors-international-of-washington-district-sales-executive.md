@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Johor Bahru, Johor, Malaysia |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Sales |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000145944709-district-sales-executive) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000148200660-district-sales-executive) |
 
 ## About This Role
 
-This sales position at Expeditors International of Washington was posted on 2026-08-27.
+This sales position at Expeditors International of Washington was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

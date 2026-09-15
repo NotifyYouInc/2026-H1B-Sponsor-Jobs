@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Memory-Design-Engineer_JR96652) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Memory-Design-Engineer_JR109661) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-09.
+This semiconductor / chip design position at Micron was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Data-Engineering-Senior-Analyst_26009651) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Data-Engineering-Senior-Analyst_26010890) |
 
 ## About This Role
 
-This data engineer position at Cigna was posted on 2026-08-28.
+This data engineer position at Cigna was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

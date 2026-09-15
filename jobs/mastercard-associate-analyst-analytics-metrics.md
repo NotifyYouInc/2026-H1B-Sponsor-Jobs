@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
-| Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Associate-Analyst--Analytics---Metrics_R-270245) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Associate-Analyst--Analytics---Metrics_R-288541) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-02-25.
+This data analyst position at Mastercard was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

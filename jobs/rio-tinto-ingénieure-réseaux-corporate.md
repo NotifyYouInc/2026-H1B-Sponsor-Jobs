@@ -5,12 +5,12 @@
 | Company | [Rio Tinto](https://scoutify.ai/companies/riotinto?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Conakry, Conakry, Guinea |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-06 |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Conakry/Ingnieur-e--Rseaux-Corporate_R60787) |
 
 ## About This Role
 
-This it & systems administration position at Rio Tinto was posted on 2026-07-06.
+This it & systems administration position at Rio Tinto was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

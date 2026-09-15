@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
 | Category | Industrial Automation |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/MTB-Automation-Technician_JR90896) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/MTB-Automation-Technician_JR109240) |
 
 ## About This Role
 
-This industrial automation position at Micron was posted on 2026-02-24.
+This industrial automation position at Micron was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

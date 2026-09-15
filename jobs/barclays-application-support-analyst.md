@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Application-Support-Analyst_JR-0000110047) |
+| Location | Knutsford, England, United Kingdom |
+| Category | Customer Success |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Application-Support-Analyst_JR-0000103971) |
 
 ## About This Role
 
-This it & systems administration position at Barclays was posted on 2026-06-09.
+This customer success position at Barclays was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Business Analyst@ ING Hubs Romania at ING
+# Technical Business Analyst @ING Hubs Romania at ING
 
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Business Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/Technical-Business-Analyst--ING-Hubs-Romania_REQ-10117270) |
+| Category | Data Analyst |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/Technical-Business-Analyst--ING-Hubs-Romania_REQ-10120447) |
 
 ## About This Role
 
-This business analyst position at ING was posted on 2026-09-03.
+This data analyst position at ING was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

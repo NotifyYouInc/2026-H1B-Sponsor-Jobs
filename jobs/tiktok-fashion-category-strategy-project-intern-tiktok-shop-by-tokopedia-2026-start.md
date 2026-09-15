@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Strategy & Operations |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7678268304970664197/detail) |
+| Category | Operations |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7683014347920935173/detail) |
 
 ## About This Role
 
-This strategy & operations position at TikTok was posted on 2026-08-26.
+This operations position at TikTok was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

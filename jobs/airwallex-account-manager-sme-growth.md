@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Account Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/8dde93d5-14a0-4b6c-8b66-1f83bc0f0057) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | Growth Marketing |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/a08fb4a7-29c9-4e43-ba47-3810bf5864bd) |
 
 ## About This Role
 
-This account manager position at Airwallex was posted on 2026-04-17.
+This growth marketing position at Airwallex was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Business Development |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Singapore---Singapore/Sales-Development-Representative_JR343556-1) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Sales |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Sales-Development-Representative_JR358319-1) |
 
 ## About This Role
 
-This business development position at Salesforce was posted on 2026-05-26.
+This sales position at Salesforce was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

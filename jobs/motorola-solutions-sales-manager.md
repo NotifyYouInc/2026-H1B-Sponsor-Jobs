@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Singapore-Singapore/Sales-Manager_R61660) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Tel-Aviv-Israel-ZIL87/Sales-Manager_R63750) |
 
 ## About This Role
 
-This sales position at Motorola Solutions was posted on 2026-02-11.
+This sales position at Motorola Solutions was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

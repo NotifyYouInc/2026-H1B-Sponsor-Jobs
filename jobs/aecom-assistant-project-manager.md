@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Project Manager |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143982199-assistant-project-manager) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000148214699-assistant-project-manager) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-08-18.
+This project manager position at AECOM was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

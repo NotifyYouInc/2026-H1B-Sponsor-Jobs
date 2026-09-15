@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Edmonton, Alberta, Canada |
-| Category | Sales |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Edmonton-Canada/Supervisor--Commercial-Operations_R-20152) |
+| Location | Coimbatore, Tamil Nadu, India |
+| Category | Operations |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Coimbatore-India/Supervisor--Commercial-Operations_R-20944) |
 
 ## About This Role
 
-This sales position at Flowserve was posted on 2026-08-01.
+This operations position at Flowserve was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
 | Category | Customer Success |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Karnataka---Bangalore/Lead-Platinum-Support-Account-Manager_113459-JOB) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Karnataka---Bangalore/Lead-Platinum-Support-Account-Manager_113492-JOB) |
 
 ## About This Role
 
-This customer success position at Sprinklr was posted on 2026-08-31.
+This customer success position at Sprinklr was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

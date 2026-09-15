@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brno, South Moravian, Czechia |
+| Location | Bengaluru, Karnataka, India |
 | Category | QA Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Software-Test-Engineer_R-01346403) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Software-Test-Engineer_R-01367487) |
 
 ## About This Role
 
-This qa engineer position at Thermo Fisher Scientific was posted on 2026-06-11.
+This qa engineer position at Thermo Fisher Scientific was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

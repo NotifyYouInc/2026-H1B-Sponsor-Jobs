@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Delivery-Operations-Specialist_AIOC-S01663817-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Delivery-Operations-Specialist_AIOC-S01664542-1) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Accenture was posted on 2026-09-02.
+This corporate finance position at Accenture was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

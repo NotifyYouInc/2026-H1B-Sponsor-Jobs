@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Santiago-Technology-Center/Technical-Product-Owner_J00175281) |
+| Location | Kerala, IN |
+| Category | Technical Product Manager |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Technical-Product-Owner_J00178485) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-03-30.
+This technical product manager position at Equifax was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

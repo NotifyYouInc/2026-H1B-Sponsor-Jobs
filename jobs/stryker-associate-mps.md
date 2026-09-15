@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Surat, Gujarat, India |
+| Location | 3 locations |
 | Category | Customer Success |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Surat-India/Associate-MPS_R567018) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Thane-India/Associate-MPS_R564952-1) |
 
 ## About This Role
 
-This customer success position at Stryker was posted on 2026-08-07.
+This customer success position at Stryker was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

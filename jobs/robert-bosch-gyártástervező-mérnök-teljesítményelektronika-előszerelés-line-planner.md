@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hatvan, Heves County, Hungary |
 | Category | Industrial Automation |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000147226287-gyartastervezo-mernok-teljesitmenyelektronika-eloszereles-line-planner) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000148200739-gyartastervezo-mernok-teljesitmenyelektronika-eloszereles-line-planner) |
 
 ## About This Role
 
-This industrial automation position at Robert Bosch was posted on 2026-09-03.
+This industrial automation position at Robert Bosch was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

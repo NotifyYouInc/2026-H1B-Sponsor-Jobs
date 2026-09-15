@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Warsaw-Poland/Senior-Analyst--Business-Development_R-289376-2) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Business Analyst |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mumbai-India/Senior-Analyst--Business-Development_R-288863) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Mastercard was posted on 2026-08-28.
+This business analyst position at Mastercard was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

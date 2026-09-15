@@ -5,12 +5,12 @@
 | Company | [Allegis Global Solutions](https://scoutify.ai/companies/allegisglobalsolutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000142569149-recruitment-administrator-bengaluru) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000148195424-recruitment-administrator-bengaluru) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Allegis Global Solutions was posted on 2026-08-10.
+This talent acquisition / recruiting position at Allegis Global Solutions was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

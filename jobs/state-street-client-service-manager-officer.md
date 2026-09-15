@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philippines |
-| Category | Project Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/BPK-Pavo-Point/Client-Service-Manager--Officer_R-784910) |
+| Location | 2 locations |
+| Category | Customer Success |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Client-Service-Manager--Officer_R-797217-1) |
 
 ## About This Role
 
-This project manager position at State Street was posted on 2026-02-26.
+This customer success position at State Street was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

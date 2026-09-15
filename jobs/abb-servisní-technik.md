@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Brno, South Moravian, Czechia |
-| Category | Customer Success |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Brno-Jihomoravsk-kraj-Czechia/Field-Service-Engineer_JR00005280) |
+| Category | Industrial Automation |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Brno-Jihomoravsk-kraj-Czechia/Servisn-technik_JR00045699-1) |
 
 ## About This Role
 
-This customer success position at ABB was posted on 2026-04-09.
+This industrial automation position at ABB was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

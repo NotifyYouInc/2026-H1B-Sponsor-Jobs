@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Kuwait City, Al Asimah, Kuwait |
 | Category | Project Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Delivery-Lead_ATCI-5590452-S2025277-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuwait-City/Delivery-Lead_14685310) |
 
 ## About This Role
 
-This project manager position at Accenture was posted on 2026-05-22.
+This project manager position at Accenture was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

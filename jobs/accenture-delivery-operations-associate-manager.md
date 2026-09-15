@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Compliance & Risk Management |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Delivery-Operations-Associate-Manager_AIOC-S01663274-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Delivery-Operations-Associate-Manager_AIOC-S01664534-1) |
 
 ## About This Role
 
-This compliance & risk management position at Accenture was posted on 2026-08-31.
+This corporate finance position at Accenture was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

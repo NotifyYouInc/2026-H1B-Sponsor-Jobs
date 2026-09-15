@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Learning & Development |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Warsaw-Poland/Senior-Specialist--Technical-Training_R571219) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Warsaw-Poland/Senior-Specialist--Technical-Training_R573478) |
 
 ## About This Role
 
-This learning & development position at Stryker was posted on 2026-08-28.
+This learning & development position at Stryker was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 
