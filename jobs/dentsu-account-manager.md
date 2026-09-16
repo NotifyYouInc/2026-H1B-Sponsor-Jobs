@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Sales |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Bangkok/Account-Manager_R1131128) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Account Manager |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Taipei---No-77-Songgao-Rd-Xinyi-Dist/Account-Manager_R1126754) |
 
 ## About This Role
 
-This sales position at Dentsu was posted on 2026-09-08.
+This account manager position at Dentsu was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

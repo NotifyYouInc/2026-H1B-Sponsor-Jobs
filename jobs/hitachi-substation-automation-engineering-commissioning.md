@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bucharest-Bucharest-Romania/Substation-Automation-Engineering---Commissioning_R0143138) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bucharest-Bucharest-Romania/Substation-Automation-Engineering---Commissioning_R0136734) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-08-31.
+This electrical / hardware engineer position at Hitachi was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

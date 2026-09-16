@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Senior-QA-Manager_R1102498) |
+| Category | QA Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Indiqube-Orchid/QA-Manager_R1130457-1) |
 
 ## About This Role
 
-This engineering manager position at Dentsu was posted on 2026-06-02.
+This qa engineer position at Dentsu was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

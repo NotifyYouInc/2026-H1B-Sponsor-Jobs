@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Deployment Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139943334-junior-inbetriebnahmeingenieur-iq-all-gender) |
+| Category | Industrial Automation |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000148478219-junior-inbetriebnahmeingenieur-iq-all-gender) |
 
 ## About This Role
 
-This deployment engineer position at ALTEN was posted on 2026-07-27.
+This industrial automation position at ALTEN was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

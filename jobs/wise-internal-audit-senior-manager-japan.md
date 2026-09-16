@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Compliance & Risk Management |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000142558349-internal-audit-senior-manager-japan) |
+| Location | Japan |
+| Category | Accounting |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000148468159-internal-audit-senior-manager-japan) |
 
 ## About This Role
 
-This compliance & risk management position at WISE was posted on 2026-08-10.
+This accounting position at WISE was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

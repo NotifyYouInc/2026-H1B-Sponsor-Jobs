@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Account Executive |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000117446677-account-director-linkedin-sales-solutions) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000148484349-account-director-linkedin-sales-solutions) |
 
 ## About This Role
 
-This account executive position at LinkedIn was posted on 2026-03-28.
+This account executive position at LinkedIn was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

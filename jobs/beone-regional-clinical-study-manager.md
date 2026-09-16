@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Australia |
+| Location | Malaysia |
 | Category | Program Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Australia---Home-Office/Regional-Clinical-Study-Manager_R36319) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Malaysia---Home-Office/Regional-Clinical-Study-Manager_R36774) |
 
 ## About This Role
 
-This program manager position at BeOne was posted on 2026-08-14.
+This program manager position at BeOne was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Program Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTlFUGCk1-tYtCGz-867ABg2YkwbRJ3_bFosnbFOotwNEjsA1Ny_izyWQm3EhAPjM5mtBV3CPAlMOPjAh3MMigAIli3pQB7wFk7-ERLYrtTJau8sC47mMr9oSvpmbA%3D%3D_V2&loc=US&title=Technical+Program+Manager/Solutions+Engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYysFly8W_BPZv4ywTNoDZxoPMBnZNcsGO-kOiuoYhKZEjsA1Ny_ixffecYSBtQ7eAy47y1b0MNNT7McKWYpZ96ECVn9uXdtnZI5ACBEk_fvk5_240CZuZzLlyO0DA%3D%3D_V2&loc=US&title=Technical+Program+Manager/Solutions+Engineer) |
 
 ## About This Role
 
-This program manager position at Google was posted on 2026-07-02.
+This ai / llm engineer position at Google was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

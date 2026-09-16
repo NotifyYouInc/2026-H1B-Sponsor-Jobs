@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
-| Category | Accounting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Coimbatore-India/Fund-Services-Reconciliations--Assc2_R-794871) |
+| Category | Corporate Finance |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Coimbatore-India/Fund-Services-Reconciliations--Assc2_R-797225) |
 
 ## About This Role
 
-This accounting position at State Street was posted on 2026-07-23.
+This corporate finance position at State Street was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

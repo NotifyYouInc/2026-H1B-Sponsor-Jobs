@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 7 locations |
 | Category | Developer Relations |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckcn6My74qFgIBOM4eJDwECC0rlmQbTw2X1fFHN8_7zf2EjsA1Ny_iwIg2bBKC21yVdvwM1iXuA-7ovFoWgojGuBgIjVZs5xrsRWOoaJOvls72-ZECOepg7gXxro6Kw%3D%3D_V2&loc=US&title=Senior+Developer+Relations+Engineer) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZRnHmb67HN0IW8pfMLNfOIqq6UkPOdVSeM-vDOwV1YAEjsA1Ny_i0_yGDC5ZxQD1_XUYguuQ34pnR0-2vjJvaIhZyaHlhZfeH-8vHf9R1dzIcHx7rM0YHrko3QCMg%3D%3D_V2&loc=US&title=Senior+Developer+Relations+Engineer) |
 
 ## About This Role
 
-This developer relations position at Google was posted on 2026-08-04.
+This developer relations position at Google was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

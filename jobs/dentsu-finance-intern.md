@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Beirut, Beyrouth, Lebanon |
 | Category | Corporate Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/HoChiMinhCity/Finance-Intern_R1123691) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Beirut/Finance-Intern_R1130391) |
 
 ## About This Role
 
-This corporate finance position at Dentsu was posted on 2026-06-01.
+This corporate finance position at Dentsu was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

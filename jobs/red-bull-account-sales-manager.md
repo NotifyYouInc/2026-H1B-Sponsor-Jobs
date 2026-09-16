@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | New Bern, North Carolina, United States |
 | Category | Account Manager |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000133225909-account-sales-manager) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000148468494-account-sales-manager) |
 
 ## About This Role
 
-This account manager position at Red Bull was posted on 2026-06-21.
+This account manager position at Red Bull was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

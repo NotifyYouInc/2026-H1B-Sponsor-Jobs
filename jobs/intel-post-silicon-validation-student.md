@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Haifa, Haifa, Israel |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/Post-Silicon-Validation-Student_JR0283508) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/Post-Silicon-Validation-Student_JR0286966) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-05-01.
+This semiconductor / chip design position at Intel was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

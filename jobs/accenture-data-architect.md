@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Technology / IT Consulting |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London-30-Fenchurch-Street/Data-Architect_R00322243-3) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Architect_ATCI-5770163-S2068845-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-09-02.
+This data engineer position at Accenture was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

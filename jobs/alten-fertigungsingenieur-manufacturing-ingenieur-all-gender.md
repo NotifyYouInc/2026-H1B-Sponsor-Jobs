@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nordenham, Lower Saxony, Germany |
+| Location | Donauwörth, Bavaria, Germany |
 | Category | Industrial Automation |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139943919-fertigungsingenieur-manufacturing-ingenieur-all-gender) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000148478979-fertigungsingenieur-manufacturing-ingenieur-all-gender) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-07-27.
+This industrial automation position at ALTEN was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

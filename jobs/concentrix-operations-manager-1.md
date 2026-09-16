@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Program Manager |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Manila---San-Lazaro/Operations-Manager-1_R1754783) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Manila---San-Lazaro/Operations-Manager-1_R1754785) |
 
 ## About This Role
 
-This program manager position at Concentrix was posted on 2026-09-07.
+This program manager position at Concentrix was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

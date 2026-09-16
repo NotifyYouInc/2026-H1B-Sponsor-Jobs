@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Switzerland |
 | Category | Account Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000135446640-senior-retail-sales-consultant-mwd) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000148468254-senior-retail-sales-consultant-mwd) |
 
 ## About This Role
 
-This account manager position at NielsenIQ was posted on 2026-07-02.
+This account manager position at NielsenIQ was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

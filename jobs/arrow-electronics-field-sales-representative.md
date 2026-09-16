@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
-| Category | Sales |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/TR-Istanbul-Turkey-Merdivenkoy-Mah/Field-Sales-Representative_R246196) |
+| Location | Ballerup, Capital Region, Denmark |
+| Category | Account Executive |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/DK-Ballerup-Denmark-Lautruphj/Field-Sales-Representative_R246120) |
 
 ## About This Role
 
-This sales position at Arrow Electronics was posted on 2026-08-26.
+This account executive position at Arrow Electronics was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Account Executive |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Senior-Manager-CFS-Industrial-Sales_WD30274608) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Senior-Manager-CFS-Industrial-Sales_WD30279335-1) |
 
 ## About This Role
 
-This account executive position at Johnson Controls was posted on 2026-07-17.
+This account executive position at Johnson Controls was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

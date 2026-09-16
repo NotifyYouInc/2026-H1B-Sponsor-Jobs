@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Fort Collins, Colorado, United States |
+| Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Package-Design-Engineer_R026631) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Singapore-Yishun/Package-Design-Engineer_R027022) |
 
 ## About This Role
 
-This semiconductor / chip design position at Broadcom was posted on 2026-08-01.
+This semiconductor / chip design position at Broadcom was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143758339-principal-platform-architect) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000148465359-principal-platform-architect) |
 
 ## About This Role
 
-This technical & solutions architect position at ServiceNow was posted on 2026-08-17.
+This technical & solutions architect position at ServiceNow was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
