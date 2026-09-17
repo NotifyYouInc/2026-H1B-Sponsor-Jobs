@@ -5,12 +5,12 @@
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Arnhem, Gelderland, The Netherlands |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-11 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Arnhem/HR-Administrator_20097675) |
 
 ## About This Role
 
-This human resources / people ops position at Acciona was posted on 2026-06-11.
+This human resources / people ops position at Acciona was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

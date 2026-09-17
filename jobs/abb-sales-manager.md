@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Sales Leadership |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Sales-Manager_JR00036690-2) |
+| Location | Faridabad, Haryana, India |
+| Category | Sales |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Faridabad-Haryana-India/Sales-Manager_JR00044275) |
 
 ## About This Role
 
-This sales leadership position at ABB was posted on 2026-06-03.
+This sales position at ABB was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

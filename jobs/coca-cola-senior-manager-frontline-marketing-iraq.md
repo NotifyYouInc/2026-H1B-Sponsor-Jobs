@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Growth Marketing |
-| Posted | 2026-06-11 |
+| Category | Marketing |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/UAE---Dubai/Senior-Manager--Frontline-Marketing--Iraq_R-134297) |
 
 ## About This Role
 
-This growth marketing position at Coca-Cola was posted on 2026-06-11.
+This marketing position at Coca-Cola was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

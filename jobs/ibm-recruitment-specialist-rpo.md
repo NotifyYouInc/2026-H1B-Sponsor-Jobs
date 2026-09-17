@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130749) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=127766) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at IBM was posted on 2026-09-01.
+This talent acquisition / recruiting position at IBM was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

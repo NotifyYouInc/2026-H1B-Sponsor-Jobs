@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hong Kong, Hong Kong |
-| Category | Account Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Hong-Kong---Devon/Benefits-Analyst_R_342506) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | Human Resources / People Ops |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Lisbon---Antonio/Benefits-Analyst_R_363720) |
 
 ## About This Role
 
-This account manager position at Marsh & McLennan Companies was posted on 2026-04-13.
+This human resources / people ops position at Marsh & McLennan Companies was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

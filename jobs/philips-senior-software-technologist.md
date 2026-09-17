@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Software-Technologist_584986) |
+| Category | Software Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Senior-Software-Technologist_579943-1) |
 
 ## About This Role
 
-This devops engineer position at Philips was posted on 2026-06-26.
+This software engineer position at Philips was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Project Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138266199-chef-de-projet-industriel-hf) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000148728529-chef-de-projet-industriel-hf) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-07-17.
+This project manager position at ALTEN was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

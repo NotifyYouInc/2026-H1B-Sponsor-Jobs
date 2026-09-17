@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New Delhi, Delhi, India |
-| Category | Sales |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/New-Delhi-South-Delhi-India/Client-Manager---Business-Development_R-115181) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Channel / Partner Sales |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Client-Manager---Business-Development_R-114167) |
 
 ## About This Role
 
-This sales position at Ingram Micro was posted on 2026-08-12.
+This channel / partner sales position at Ingram Micro was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

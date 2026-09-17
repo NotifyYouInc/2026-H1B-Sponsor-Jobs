@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Strategy & Operations |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Operating-Effectiveness-Manager_26009595-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Kuala-Lumpur-Malaysia/Operating-Effectiveness-Manager_26011267) |
 
 ## About This Role
 
-This strategy & operations position at Cigna was posted on 2026-08-27.
+This strategy & operations position at Cigna was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

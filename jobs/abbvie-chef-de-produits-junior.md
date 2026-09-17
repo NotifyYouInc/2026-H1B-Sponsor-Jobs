@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Product Marketing |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014142557-chef-de-produits-junior) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015169416-chef-de-produits-junior) |
 
 ## About This Role
 
-This product marketing position at AbbVie was posted on 2026-07-17.
+This product marketing position at AbbVie was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

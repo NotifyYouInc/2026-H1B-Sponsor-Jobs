@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flexport](https://scoutify.ai/companies/flexport?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Account Executive |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/7971771?gh_jid=7971771) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flexport/jobs/8169010) |
 
 ## About This Role
 
-This account executive position at Flexport was posted on 2026-06-01.
+This account executive position at Flexport was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

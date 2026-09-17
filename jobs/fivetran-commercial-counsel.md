@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New York, US |
+| Location | 2 locations |
 | Category | Legal |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7808648003) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7988905003) |
 
 ## About This Role
 
-This legal position at Fivetran was posted on 2026-07-17.
+This legal position at Fivetran was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

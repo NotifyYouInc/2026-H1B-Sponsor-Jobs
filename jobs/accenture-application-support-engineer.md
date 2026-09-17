@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical Support Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-R1-S1957787-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Customer Success |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Application-Support-Engineer_ATCI-5701489-S2069105-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-09-09.
+This customer success position at Accenture was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Menlo Park, California, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7489724?t=gh_src=&gh_jid=7489724) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/8189005?t=gh_src=&gh_jid=8189005) |
 
 ## About This Role
 
-This software engineer position at Robinhood was posted on 2026-02-06.
+This software engineer position at Robinhood was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

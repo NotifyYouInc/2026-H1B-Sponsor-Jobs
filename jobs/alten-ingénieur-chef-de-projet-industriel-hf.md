@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Fougères, Brittany, France |
 | Category | Project Manager |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141186264-ingenieur-chef-de-projet-industriel-hf) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000148724802-ingenieur-chef-de-projet-industriel-hf) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-08-03.
+This project manager position at ALTEN was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

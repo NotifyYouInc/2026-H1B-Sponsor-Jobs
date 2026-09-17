@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Wealth Management / Private Banking |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/CX-Team---Events-Support-Analytics---Client-Segments--Analyst--Wealth-Management_PT-JR038274) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Mumbai-India/CX-Team---Events-Support-Analytics---Client-Segments--Analyst--Wealth-Management_PT-JR043560) |
 
 ## About This Role
 
-This wealth management / private banking position at Morgan Stanley was posted on 2026-06-04.
+This wealth management / private banking position at Morgan Stanley was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

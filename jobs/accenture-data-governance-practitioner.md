@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Privacy & Data Protection |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Data-Governance-Practitioner_ATCI-4973881-S1862442) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Data-Governance-Practitioner_ATCI-5742733-S2069037-1) |
 
 ## About This Role
 
-This privacy & data protection position at Accenture was posted on 2026-05-15.
+This privacy & data protection position at Accenture was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

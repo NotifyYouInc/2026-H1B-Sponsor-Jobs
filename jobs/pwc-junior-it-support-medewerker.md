@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Amsterdam/Junior-IT-Support-Medewerker_729922WD-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Amsterdam/Junior-IT-Support-Medewerker_760571WD-2) |
 
 ## About This Role
 
-This it & systems administration position at PwC was posted on 2026-06-18.
+This it & systems administration position at PwC was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

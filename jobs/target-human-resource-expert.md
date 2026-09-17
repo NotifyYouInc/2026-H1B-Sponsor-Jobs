@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Camarillo, California, United States |
+| Location | Miami, Florida, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/209-W-Ventura-Blvd-CamarilloCA-93010-8359/Human-Resource-Expert_R0000449469) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7800-SW-104th-St-MiamiFL-33156-2631/Human-Resource-Expert_R0000452946-1) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-08-14.
+This human resources / people ops position at Target was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

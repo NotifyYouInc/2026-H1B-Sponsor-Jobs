@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Database Administration |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84761) |
+| Category | Data Analyst |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84789) |
 
 ## About This Role
 
-This database administration position at eClerx was posted on 2026-08-26.
+This data analyst position at eClerx was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

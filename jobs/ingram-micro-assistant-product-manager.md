@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Bengaluru-India/Assistant-Product-Manager_R-108181) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Assistant-Product-Manager_R-116850) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-04-24.
+This product manager position at Ingram Micro was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

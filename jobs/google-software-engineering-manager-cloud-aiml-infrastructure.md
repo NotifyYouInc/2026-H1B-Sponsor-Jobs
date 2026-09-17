@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Engineering Manager |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckatKXhf8cVb7sAORDRl62ZKqcgbXVX0lRzbof3qn-urfEjsA1Ny_i4OU9sLyF7wo7UfmCw-jSEAGk3PckgHMoIDnEUoVUoIW9dDs9egqZxaR9HA9xCkJ2-3NaZtx2Q%3D%3D_V2&loc=TW&title=Software+Engineering+Manager) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckX4EY63AXoZF9aaWskCjyfzHjIicn93uRM85_mwKsl0TEjsA1Ny_izs6TdaRCq1rZGuHTp7nB0xg-JQeV9xJ0OlvyBRUQ60PFNFnslfg5-i1jZVxbVvNx6V8XBQlPw%3D%3D_V2&loc=TW&title=Software+Engineering+Manager) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-08-10.
+This engineering manager position at Google was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

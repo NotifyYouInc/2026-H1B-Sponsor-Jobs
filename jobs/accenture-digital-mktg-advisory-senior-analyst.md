@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Digital-Mktg-Advisory-Senior-Analyst_AIOC-S01662025-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Digital-Mktg-Advisory-Senior-Analyst_AIOC-S01664830-1) |
 
 ## About This Role
 
-This digital / performance marketing position at Accenture was posted on 2026-08-24.
+This digital / performance marketing position at Accenture was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

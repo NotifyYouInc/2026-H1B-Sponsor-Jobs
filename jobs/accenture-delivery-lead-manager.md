@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Delivery-Lead-Manager_AIOC-S01664527-1) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | Project Manager |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Delivery-Lead-Manager_AIOC-S01664845-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-09-08.
+This project manager position at Accenture was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

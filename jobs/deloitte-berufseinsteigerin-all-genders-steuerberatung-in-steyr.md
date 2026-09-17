@@ -5,12 +5,12 @@
 | Company | [Deloitte](https://scoutify.ai/companies/deloitteat?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Steyr, Upper Austria, Austria |
 | Category | Financial Advisory & Consulting |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteAT/744000147925719-berufseinsteigerin-all-genders-steuerberatung-in-steyr) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteAT/744000148743979-berufseinsteigerin-all-genders-steuerberatung-in-steyr) |
 
 ## About This Role
 
-This financial advisory & consulting position at Deloitte was posted on 2026-09-07.
+This financial advisory & consulting position at Deloitte was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

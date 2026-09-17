@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sweden |
-| Category | Sales |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556984645) |
+| Location | Norway |
+| Category | Account Executive |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556985414) |
 
 ## About This Role
 
-This sales position at Microsoft was posted on 2026-09-07.
+This account executive position at Microsoft was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

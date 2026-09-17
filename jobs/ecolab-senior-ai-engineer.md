@@ -5,12 +5,12 @@
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Senior-AI-Engineer_R00298515) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Senior-QA-Engineer_R00285260) |
 
 ## About This Role
 
-This ai / llm engineer position at Ecolab was posted on 2026-07-02.
+This ai / llm engineer position at Ecolab was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

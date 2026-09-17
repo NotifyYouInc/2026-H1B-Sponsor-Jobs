@@ -1,16 +1,16 @@
-# Operations Manager I at Concentrix
+# Operations Manager, I at Concentrix
 
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Indonesia |
-| Category | Operations |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IDN-Sukaharjo---Hartono-Trade-Center-GF-Jl-Ir/Operations-Manager-I_R1728184) |
+| Location | Pune, Maharashtra, India |
+| Category | Program Manager |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Pune----Amar-Tech-Centre-S-No304A-1/Operations-Manager--I_R1763145) |
 
 ## About This Role
 
-This operations position at Concentrix was posted on 2026-05-28.
+This program manager position at Concentrix was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

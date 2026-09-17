@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Plovdiv, Plovdiv, Bulgaria |
-| Category | Sales |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Plovdiv-Plovdiv-Bulgaria/Sales-Specialist_JR00045484) |
+| Location | Hyderabad, Telangana, India |
+| Category | Account Executive |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hyderabad-Telangana-India/Sales-Specialist_JR00046343) |
 
 ## About This Role
 
-This sales position at ABB was posted on 2026-09-02.
+This account executive position at ABB was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

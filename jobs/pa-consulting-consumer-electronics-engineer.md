@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Melbourn, England, United Kingdom |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000138275629-consumer-electronics-engineer) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000148740399-consumer-electronics-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at PA Consulting was posted on 2026-07-17.
+This electrical / hardware engineer position at PA Consulting was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

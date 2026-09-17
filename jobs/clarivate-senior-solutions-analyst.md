@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Jerusalem, Jerusalem, Israel |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Solutions-Analyst_JREQ134856-2) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/ISR--Jerusalem-PQ/Senior-Solutions-Analyst_JREQ136418-1) |
 
 ## About This Role
 
-This business analyst position at Clarivate was posted on 2026-02-24.
+This business analyst position at Clarivate was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

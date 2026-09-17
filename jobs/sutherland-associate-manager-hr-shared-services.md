@@ -5,12 +5,12 @@
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000139010039-associate-manager-hr-shared-services) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000148751364-associate-manager-hr-shared-services) |
 
 ## About This Role
 
-This human resources / people ops position at Sutherland was posted on 2026-07-22.
+This human resources / people ops position at Sutherland was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
