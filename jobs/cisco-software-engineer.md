@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
-| Category | Software Engineer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Software-Engineer_2025073) |
+| Location | Budapest, Budapest, Hungary |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Budapest-Hungary/Software-Engineer_2024884) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-09-10.
+This ai / llm engineer position at Cisco was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

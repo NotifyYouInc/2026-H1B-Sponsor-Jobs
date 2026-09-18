@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nanjing, Jiangsu, China |
-| Category | Sales |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nanjing/Services-Sales_589980) |
+| Location | Guangzhou, Guangdong, China |
+| Category | Account Manager |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Guangzhou/Services-Sales_590012) |
 
 ## About This Role
 
-This sales position at Philips was posted on 2026-08-07.
+This account manager position at Philips was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

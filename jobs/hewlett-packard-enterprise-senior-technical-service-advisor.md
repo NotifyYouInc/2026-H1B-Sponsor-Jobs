@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Customer Success |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Senior-Technical-Service-Advisor_1210348-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Senior-Technical-Service-Advisor_1210355) |
 
 ## About This Role
 
-This customer success position at Hewlett Packard Enterprise was posted on 2026-09-07.
+This customer success position at Hewlett Packard Enterprise was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

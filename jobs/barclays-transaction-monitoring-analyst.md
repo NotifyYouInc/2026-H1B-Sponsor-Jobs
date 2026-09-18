@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Financial Crimes & AML |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/Transaction-Monitoring-Analyst_JR-0000131602) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Transaction-Monitoring-Analyst_JR-0000125710) |
 
 ## About This Role
 
-This financial crimes & aml position at Barclays was posted on 2026-09-08.
+This financial crimes & aml position at Barclays was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

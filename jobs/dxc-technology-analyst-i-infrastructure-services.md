@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | IT & Systems Administration |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---SA---ADELAIDE/Analyst-I-Infrastructure-Services_51588651) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---SA---ADELAIDE/Analyst-I-Infrastructure-Services_51588661) |
 
 ## About This Role
 
-This it & systems administration position at DXC Technology was posted on 2026-09-09.
+This it & systems administration position at DXC Technology was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

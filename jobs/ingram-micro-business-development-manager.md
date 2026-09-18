@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Sales |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Kallang-Bahru-Singapore/Business-Development-Manager_R-116785) |
+| Location | Ahmedabad, Gujarat, India |
+| Category | Channel / Partner Sales |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Ahmedabad/Business-Development-Manager_R-114524) |
 
 ## About This Role
 
-This sales position at Ingram Micro was posted on 2026-08-05.
+This channel / partner sales position at Ingram Micro was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

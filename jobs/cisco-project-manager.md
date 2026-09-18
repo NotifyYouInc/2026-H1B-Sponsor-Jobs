@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Milpitas, California, United States |
+| Location | London, England, United Kingdom |
 | Category | Project Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Project-Manager_2020527) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Project-Manager_2024072) |
 
 ## About This Role
 
-This project manager position at Cisco was posted on 2026-08-13.
+This project manager position at Cisco was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

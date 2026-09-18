@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Sales |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke__8HVLipcez-Kfv4fs_k2y8xe0dnJ_0u13CrGfFih5EjsA1Ny_iz5l8g6dn447G48LZoib1eF5VEH__TUs2B4CV96xEA5AYPvv7RYwFZZ90JRIZXbHXeNdzinYRg%3D%3D_V2&loc=IN&title=Account+Manager) |
+| Location | Chicago, Illinois, United States |
+| Category | Account Manager |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckR15Mx2jOdSRdzQpEgmk0mwVX1Ik_siA4hehwe-eXhjYEjsA9yzvgqvqMPKZF1aYaglAnZ6CAXunhuOj_PSxbuWGuW-EhJ9XqhXzFAytTsu4pDmbHOqePIdyt-zRRw%3D%3D_V2&loc=US&title=Account+Manager) |
 
 ## About This Role
 
-This sales position at Google was posted on 2026-09-08.
+This account manager position at Google was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

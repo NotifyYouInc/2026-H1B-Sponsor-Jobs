@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Sales |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000146677950-enterprise-account-director-11-month-fixed-term-contract) |
+| Category | Account Executive |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000148979839-enterprise-account-director-11-month-fixed-term-contract) |
 
 ## About This Role
 
-This sales position at LinkedIn was posted on 2026-09-01.
+This account executive position at LinkedIn was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

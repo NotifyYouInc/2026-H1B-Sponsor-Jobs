@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Gurugram, Haryana, India |
 | Category | Learning & Development |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Manila---San-Lazaro/Supervisor--Training_R1751136) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Gurgaon---Bld-6-Ground--First-Floor/Supervisor--Training_R1759342) |
 
 ## About This Role
 
-This learning & development position at Concentrix was posted on 2026-09-02.
+This learning & development position at Concentrix was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

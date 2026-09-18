@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Hong Kong, Hong Kong |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Tokyo/Enterprise-Architect_R170690) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Hong-Kong/Enterprise-Architect_R171783) |
 
 ## About This Role
 
-This technical & solutions architect position at Adobe was posted on 2026-07-22.
+This technical & solutions architect position at Adobe was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

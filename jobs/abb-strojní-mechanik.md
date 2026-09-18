@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Moravskoslezský, CZ |
 | Category | Industrial Automation |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mosnov-Moravskoslezsky-Czechia/Strojn-mechanik_JR00046226) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mosnov-Moravskoslezsky-Czechia/Strojn-mechanik_JR00047134) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-09-02.
+This industrial automation position at ABB was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

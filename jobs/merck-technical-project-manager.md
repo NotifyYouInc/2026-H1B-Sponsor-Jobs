@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | San Jose, California, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Project Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Technical-Project-Manager_R412164) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Czech-Republic---Czech-Republic/Technical-Project-Manager_R414437-1) |
 
 ## About This Role
 
-This project manager position at Merck was posted on 2026-08-11.
+This project manager position at Merck was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

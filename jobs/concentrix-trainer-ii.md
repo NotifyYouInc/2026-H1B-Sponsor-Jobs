@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Yogyakarta, Yogyakarta, Indonesia |
 | Category | Learning & Development |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Hyderabad---Google-Client-Site/Trainer-II_R1746249) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IDN-Yogyakarta-Lippo-Mall-Floors-1--6/Trainer-II_R1759483) |
 
 ## About This Role
 
-This learning & development position at Concentrix was posted on 2026-07-11.
+This learning & development position at Concentrix was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

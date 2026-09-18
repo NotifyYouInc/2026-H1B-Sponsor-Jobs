@@ -1,16 +1,16 @@
-# Analista Comercial at Air Products
+# Analista comercial at Air Products
 
 | Field | Details |
 |-------|---------|
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chile |
-| Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Cerrillos-Chile/Analista-Comercial_JR-2026-20346) |
+| Location | Macaé, Rio de Janeiro, Brazil |
+| Category | Account Manager |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Macae-Brazil/Analista-comercial_JR-2026-22127) |
 
 ## About This Role
 
-This business analyst position at Air Products was posted on 2026-05-08.
+This account manager position at Air Products was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

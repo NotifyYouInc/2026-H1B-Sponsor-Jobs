@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Project Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Project-Support-Coordinator_R-01361420) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Project-Support-Coordinator_R-01367393) |
 
 ## About This Role
 
-This project manager position at Thermo Fisher Scientific was posted on 2026-07-31.
+This project manager position at Thermo Fisher Scientific was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

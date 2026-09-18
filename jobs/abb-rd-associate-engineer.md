@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Hyderabad, Telangana, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/R-D-Associate-Engineer_JR00040762) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Hyderabad-Telangana-India/R-D-Associate-Engineer_JR00046678) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-07-14.
+This electrical / hardware engineer position at ABB was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

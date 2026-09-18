@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Business Analyst |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Security-Managed-Services-Practitioner_ATCI-5547822-S2066959-1) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Security-Managed-Services-Practitioner_ATCP-1398054-S423559) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-08-31.
+This cybersecurity engineer position at Accenture was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

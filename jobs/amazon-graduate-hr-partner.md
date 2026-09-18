@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Northampton, England, United Kingdom |
+| Location | Dunfermline, Scotland, United Kingdom |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10397904/graduate-hr-partner) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10537215/graduate-hr-partner) |
 
 ## About This Role
 
-This human resources / people ops position at Amazon was posted on 2026-04-21.
+This human resources / people ops position at Amazon was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

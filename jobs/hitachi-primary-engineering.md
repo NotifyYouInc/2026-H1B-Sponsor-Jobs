@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sāvli, Gujarat, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Savli-Gujarat-India/Primary-Engineering_R0122297) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Primary-Engineering_R0140400) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-04-01.
+This electrical / hardware engineer position at Hitachi was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

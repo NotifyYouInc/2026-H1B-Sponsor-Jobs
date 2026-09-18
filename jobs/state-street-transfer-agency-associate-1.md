@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Sydney-Australia/Transfer-Agency--Associate-1_R-789124) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Mumbai-India/Transfer-Agency--Associate-1_R-797253) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-04-24.
+This corporate finance position at State Street was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Internship - R&D Associate Engineer at ABB
+
+| Field | Details |
+|-------|---------|
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Vittuone, Lombardy, Italy |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vittuone-Milano-Italy/Internship---R-D-Associate-Engineer_JR00032907) |
+
+## About This Role
+
+This electrical / hardware engineer position at ABB was posted on 2026-09-11.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

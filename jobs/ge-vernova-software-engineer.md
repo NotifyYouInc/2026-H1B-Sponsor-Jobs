@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Software-Engineer_R5050512) |
+| Category | Database Administration |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Software-Engineer_R5052246-3) |
 
 ## About This Role
 
-This software engineer position at GE Vernova was posted on 2026-08-26.
+This database administration position at GE Vernova was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
