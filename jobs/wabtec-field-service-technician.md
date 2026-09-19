@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Australia |
-| Category | Customer Success |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012049906-field-service-technician) |
+| Location | Milwaukee, Wisconsin, United States |
+| Category | Industrial Automation |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015222356-field-service-technician) |
 
 ## About This Role
 
-This customer success position at Wabtec was posted on 2026-03-10.
+This industrial automation position at Wabtec was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

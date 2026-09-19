@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hyderabad-India/Business-Systems-Analysis-Manager_2008174) |
+| Location | 4 locations |
+| Category | Business Analyst |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Business-Systems-Analysis-Manager_2023958-1) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-02-23.
+This business analyst position at Cisco was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

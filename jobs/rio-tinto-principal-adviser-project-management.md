@@ -1,16 +1,16 @@
-# Principal Adviser, Project Management at Rio Tinto
+# Principal Adviser Project Management at Rio Tinto
 
 | Field | Details |
 |-------|---------|
 | Company | [Rio Tinto](https://scoutify.ai/companies/riotinto?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | British Columbia, CA |
-| Category | Program Manager |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Kitimat/Principal-Adviser--Project-Management_R52696) |
+| Location | Kitimat, British Columbia, Canada |
+| Category | Project Manager |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Kitimat/Principal-Adviser-Project-Management_R65147) |
 
 ## About This Role
 
-This program manager position at Rio Tinto was posted on 2026-03-21.
+This project manager position at Rio Tinto was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dammam, Eastern Province, Saudi Arabia |
-| Category | Account Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/SAU---Al-Mintaqah-ash-Sharqiyah---Dammam/Area-Manager_R00292047) |
+| Location | Baton Rouge, Louisiana, United States |
+| Category | Sales Leadership |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Louisiana---Baton-Rouge/Area-Manager_R00304805) |
 
 ## About This Role
 
-This account manager position at Ecolab was posted on 2026-04-22.
+This sales leadership position at Ecolab was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

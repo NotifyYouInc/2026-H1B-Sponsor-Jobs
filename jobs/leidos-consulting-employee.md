@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Lynnwood, Washington, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Lynnwood-WA/Consulting-Employee_R-00185368) |
+| Location | Washington, District of Columbia, United States |
+| Category | Learning & Development |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Consulting-Employee_R-00192125) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-06-13.
+This learning & development position at Leidos was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

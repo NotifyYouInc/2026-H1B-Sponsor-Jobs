@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Becario-Planeacin_J2440618) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Becario-Planeacin_J2464156) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-02-24.
+This business analyst position at Jabil was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

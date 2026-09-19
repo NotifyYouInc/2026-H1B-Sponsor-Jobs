@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Software-Engineer-Sr_R215570-2) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Farmers-Branch/Software-Engineer-Sr_R214002) |
 
 ## About This Role
 
-This software engineer position at PNC Financial was posted on 2026-05-12.
+This software engineer position at PNC Financial was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

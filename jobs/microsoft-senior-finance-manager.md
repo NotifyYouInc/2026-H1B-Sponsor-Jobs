@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556868975) |
+| Category | Financial Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556985548) |
 
 ## About This Role
 
-This corporate finance position at Microsoft was posted on 2026-05-22.
+This financial analyst position at Microsoft was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

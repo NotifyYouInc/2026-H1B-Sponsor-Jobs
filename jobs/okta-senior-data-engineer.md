@@ -5,12 +5,12 @@
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7648985?gh_jid=7648985) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8132163?gh_jid=8132163) |
 
 ## About This Role
 
-This data engineer position at Okta was posted on 2026-06-18.
+This data engineer position at Okta was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Account Executive, Slack at Salesforce
+# Account Executive - Slack at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Vienna, Vienna, Austria |
 | Category | Account Executive |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Korea-Republic-of---Seoul/Account-Executive--Slack_JR341581-1) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Austria---Vienna/Account-Executive---Slack_JR359932) |
 
 ## About This Role
 
-This account executive position at Salesforce was posted on 2026-05-13.
+This account executive position at Salesforce was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

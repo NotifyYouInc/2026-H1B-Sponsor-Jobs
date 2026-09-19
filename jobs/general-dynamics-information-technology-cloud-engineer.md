@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | North Carolina, US |
 | Category | DevOps Engineer |
-| Posted | 2026-09-06 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Liberty/Cloud-Engineer_RQ227774-1) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Liberty/Cloud-Engineer_RQ228162-1) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-09-06.
+This devops engineer position at General Dynamics Information Technology was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

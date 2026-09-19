@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Nanjing, Jiangsu, China |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HYDERABAD/Lead-Design-Engineer_R55524-1) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Nanjing/Lead-Design-Engineer_R56212) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-07-20.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

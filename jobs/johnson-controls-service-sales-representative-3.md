@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Vaud, CH |
-| Category | Business Development |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Mont-sur-Lausanne-Vaud-Switzerland/Service-Sales-Representative-3_WD30267734-1) |
+| Location | Reno, Nevada, United States |
+| Category | Account Executive |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Reno-Nevada-United-States-of-America/Service-Sales-Representative-3_WD30279435) |
 
 ## About This Role
 
-This business development position at Johnson Controls was posted on 2026-05-22.
+This account executive position at Johnson Controls was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

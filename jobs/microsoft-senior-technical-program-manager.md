@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Zürich, Zurich, Switzerland |
+| Location | Redmond, Washington, United States |
 | Category | Program Manager |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556979712) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556989648) |
 
 ## About This Role
 
-This program manager position at Microsoft was posted on 2026-08-31.
+This program manager position at Microsoft was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

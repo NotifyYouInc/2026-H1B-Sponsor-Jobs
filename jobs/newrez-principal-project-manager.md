@@ -5,12 +5,12 @@
 | Company | [Newrez](https://scoutify.ai/companies/newrez?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Coppell, Texas, United States |
 | Category | Project Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/Principal-Project-Manager_R10227) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/Principal-Project-Manager_R10418) |
 
 ## About This Role
 
-This project manager position at Newrez was posted on 2026-08-12.
+This project manager position at Newrez was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

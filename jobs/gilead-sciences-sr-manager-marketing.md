@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gilead Sciences](https://scoutify.ai/companies/gilead-sciences?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Marketing |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/China---Shanghai/Sr-Manager--Marketing_R0052404-1) |
+| Category | Brand Marketing |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/China---Shanghai/Sr-Manager--Marketing_R0055210-1) |
 
 ## About This Role
 
-This marketing position at Gilead Sciences was posted on 2026-05-09.
+This brand marketing position at Gilead Sciences was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

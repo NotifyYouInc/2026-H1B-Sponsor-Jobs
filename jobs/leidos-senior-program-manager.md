@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bedford, Texas, United States |
+| Location | Albuquerque, New Mexico, United States |
 | Category | Program Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bedford-MA/Senior-Program-Manager_R-00183991) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Albuquerque-NM/Senior-Program-Manager_R-00192026-1) |
 
 ## About This Role
 
-This program manager position at Leidos was posted on 2026-05-22.
+This program manager position at Leidos was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

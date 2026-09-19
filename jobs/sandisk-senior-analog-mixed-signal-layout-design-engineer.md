@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000141644470-senior-analog-mixed-signal-layout-design-engineer) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000149148069-senior-analog-mixed-signal-layout-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at SanDisk was posted on 2026-08-05.
+This semiconductor / chip design position at SanDisk was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pennsylvania, US |
-| Category | Corporate Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Blue-Bell/Federal-Tax-Services-Intern---Summer-2027_JR115801) |
+| Location | San Diego, California, United States |
+| Category | Accounting |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Diego/Federal-Tax-Services-Intern---Summer-2027_JR117471) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-03-04.
+This accounting position at RSM was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 
