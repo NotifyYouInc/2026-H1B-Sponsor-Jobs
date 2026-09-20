@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apex Clean Energy](https://scoutify.ai/companies/apexcleanenergy?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Charlottesville, Virginia, United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ApexCleanEnergy/744000149098129-project-accountant) |
 
 ## About This Role
 
-This accounting position at Apex Clean Energy was posted on 2026-09-11.
+This corporate finance position at Apex Clean Energy was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

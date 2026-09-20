@@ -1,16 +1,16 @@
-# Technician I - Equipment at Microchip Technology
+# Technician I-Equipment at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
-| Category | Customer Success |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Philippines---Mphil-1/Technician-I---Equipment_R1573-26) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Philippines---Mphil-3/Technician-I-Equipment_R3190-26) |
 
 ## About This Role
 
-This customer success position at Microchip Technology was posted on 2026-04-12.
+This semiconductor / chip design position at Microchip Technology was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

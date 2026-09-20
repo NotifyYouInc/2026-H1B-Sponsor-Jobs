@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Center, Texas, United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Center-Processing-Plant---Center-Texas/Associate-Accountant-Center--TX_R0483461-1) |
 
 ## About This Role
 
-This accounting position at Tyson Foods was posted on 2026-09-11.
+This corporate finance position at Tyson Foods was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Troy, Michigan, United States |
+| Location | Cleveland, Ohio, United States |
 | Category | Corporate Finance |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/MI---Troy-48084/Senior-Relationship-Strategist---PNC-Private-Bank_R215425-2) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland-44114/Senior-Relationship-Strategist---PNC-Private-Bank_R235218-1) |
 
 ## About This Role
 
-This corporate finance position at PNC Financial was posted on 2026-04-01.
+This corporate finance position at PNC Financial was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

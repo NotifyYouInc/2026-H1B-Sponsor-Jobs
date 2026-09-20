@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Querétaro, Chiapas, Mexico |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Queretaro-BSC-Mexico/Cash-application-accountant-2_R-21055) |
 
 ## About This Role
 
-This accounting position at Flowserve was posted on 2026-09-12.
+This corporate finance position at Flowserve was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | San Diego, California, United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Diego/Excise-and-Energy-Credits-Tax-Intern---Summer-2027_JR121137) |
 
 ## About This Role
 
-This accounting position at RSM was posted on 2026-09-12.
+This corporate finance position at RSM was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

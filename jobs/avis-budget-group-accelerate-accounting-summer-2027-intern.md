@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avis Budget Group](https://scoutify.ai/companies/avisbudget?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Parsippany, New Jersey, United States |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Accounting-Summer-2027-Intern_R0190415) |
 
 ## About This Role
 
-This accounting position at Avis Budget Group was posted on 2026-09-11.
+This corporate finance position at Avis Budget Group was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Account Manager - Specialist at Equifax
+# Account Manager Specialist at Equifax
 
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Account Manager |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/ARG---Buenos-Aires---Alem/Account-Manager---Specialist_J00178200-1) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/ARG---Buenos-Aires---Alem/Account-Manager-Specialist_J00178553) |
 
 ## About This Role
 
-This account manager position at Equifax was posted on 2026-09-11.
+This account manager position at Equifax was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

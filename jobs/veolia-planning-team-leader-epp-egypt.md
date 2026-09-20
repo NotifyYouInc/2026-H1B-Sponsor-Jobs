@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | New Cairo, Cairo, Egypt |
 | Category | Project Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000139971729-planning-team-leader-epp-egypt) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000149192439-planning-team-leader-epp-egypt) |
 
 ## About This Role
 
-This project manager position at Veolia was posted on 2026-07-27.
+This project manager position at Veolia was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

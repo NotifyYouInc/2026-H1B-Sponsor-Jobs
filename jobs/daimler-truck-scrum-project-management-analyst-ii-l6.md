@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Project Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Scrum-Project-Management-Analyst-II--L6-_DT-19125-2) |
 
 ## About This Role
 
-This project manager position at Daimler Truck was posted on 2026-09-11.
+This technical product manager position at Daimler Truck was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

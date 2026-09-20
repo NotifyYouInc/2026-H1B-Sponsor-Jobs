@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Virginia, US |
+| Location | Falls Church, Virginia, United States |
 | Category | Marketing |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Graphic-Design-Specialist_RQ216700-1) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Graphic-Design-Specialist_RQ227766-1) |
 
 ## About This Role
 
-This marketing position at General Dynamics Information Technology was posted on 2026-03-29.
+This marketing position at General Dynamics Information Technology was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

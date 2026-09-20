@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Benchmark](https://scoutify.ai/companies/benchmark?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://benchmark.wd1.myworkdayjobs.com/pgh_careers/job/The-Bradley-204-W-Main-St-Fort-Wayne-IN-46802/Complex-Director-of-Finance_R0066721) |
 
 ## About This Role
 
-This accounting position at Benchmark was posted on 2026-09-11.
+This corporate finance position at Benchmark was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
