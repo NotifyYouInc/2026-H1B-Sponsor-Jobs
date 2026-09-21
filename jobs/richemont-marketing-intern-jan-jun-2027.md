@@ -5,12 +5,12 @@
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Brand Marketing |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/SINGAPORE/Marketing-Intern--Jan---Jun-2027-_JR133672-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/SINGAPORE/Marketing-Intern--Jan---Jun-2027-_JR133662) |
 
 ## About This Role
 
-This brand marketing position at Richemont was posted on 2026-09-11.
+This brand marketing position at Richemont was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

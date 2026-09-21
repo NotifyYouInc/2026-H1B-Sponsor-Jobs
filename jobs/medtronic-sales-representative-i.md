@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Ehime, JP |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Account Executive |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Matsuyama-shi-Ehime-Japan/Sales-Representative--Surgical-GS---Kagawa-_R62461-3) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bangkok-Bangkok-Thailand/Sales-Representative-I_R76959-1) |
 
 ## About This Role
 
-This account executive position at Medtronic was posted on 2026-05-07.
+This account executive position at Medtronic was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

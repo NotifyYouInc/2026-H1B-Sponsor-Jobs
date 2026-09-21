@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tula, Tula Oblast, Russia |
+| Location | Moscow, Moscow, Russia |
 | Category | Account Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Tula/Account-Manager_REQ-10084710) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Moscow-Region/Account-Manager_REQ-10087758) |
 
 ## About This Role
 
-This account manager position at Novartis was posted on 2026-07-30.
+This account manager position at Novartis was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

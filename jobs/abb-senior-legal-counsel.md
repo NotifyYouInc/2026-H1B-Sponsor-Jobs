@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 3 locations |
+| Location | Västerås, Västmanland, Sweden |
 | Category | Legal |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Notting-Hill-Victoria-Australia/Senior-Legal-Counsel_JR00035303) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vaesteras-Vastmanland-County-Sweden/Senior-Legal-Counsel_JR00046207) |
 
 ## About This Role
 
-This legal position at ABB was posted on 2026-06-15.
+This legal position at ABB was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Sales Support Team Leader at CDW
+
+| Field | Details |
+|-------|---------|
+| Company | [CDW](https://scoutify.ai/companies/cdw?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | 3 locations |
+| Category | Sales Leadership |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://cdw.wd5.myworkdayjobs.com/careers/job/London----GBR/Sales-Support-Team-Leader_R26_00002441) |
+
+## About This Role
+
+This sales leadership position at CDW was posted on 2026-09-14.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

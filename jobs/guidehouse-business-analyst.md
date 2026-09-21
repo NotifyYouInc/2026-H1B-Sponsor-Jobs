@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/IN---Chennai/Business-Analyst_38728) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Business-Analyst_44495) |
 
 ## About This Role
 
-This business analyst position at Guidehouse was posted on 2026-04-22.
+This business analyst position at Guidehouse was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

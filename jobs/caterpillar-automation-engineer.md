@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Robotics Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Automation-Engineer_R0000373953) |
+| Category | Industrial Automation |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Automation-Engineer_R0000392129) |
 
 ## About This Role
 
-This robotics engineer position at Caterpillar was posted on 2026-06-05.
+This industrial automation position at Caterpillar was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

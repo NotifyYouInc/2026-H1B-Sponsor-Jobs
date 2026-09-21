@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Falls Church, Virginia, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/4711-New-Centre-Dr-WilmingtonNC-28405-3442/Human-Resources-Expert_R0000452248) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/6100-Arlington-Blvd-Falls-Church-VA-22044-2901/Human-Resources-Expert_R0000453346) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-09-04.
+This human resources / people ops position at Target was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

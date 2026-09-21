@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | 2 locations |
 | Category | Product Marketing |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/BeiJing/Product-Marketing-Leader_R4044464-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/BeiJing/Product-Marketing-Leader_R4046172-1) |
 
 ## About This Role
 
-This product marketing position at GE HealthCare was posted on 2026-07-31.
+This product marketing position at GE HealthCare was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

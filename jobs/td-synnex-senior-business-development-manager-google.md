@@ -1,0 +1,22 @@
+# Senior Business Development Manager, Google at TD Synnex
+
+| Field | Details |
+|-------|---------|
+| Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Channel / Partner Sales |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Ho-Chi-Minh-City-Vietnam/Senior-Business-Development-Manager--Google_R55897) |
+
+## About This Role
+
+This channel / partner sales position at TD Synnex was posted on 2026-09-14.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

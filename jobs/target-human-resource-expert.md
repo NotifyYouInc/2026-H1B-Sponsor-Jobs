@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Lincoln, Nebraska, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7800-SW-104th-St-MiamiFL-33156-2631/Human-Resource-Expert_R0000452946-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/5330-S-56th-St-LincolnNE-68516-1833/Human-Resource-Expert_R0000452331) |
 
 ## About This Role
 
-This human resources / people ops position at Target was posted on 2026-09-10.
+This human resources / people ops position at Target was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

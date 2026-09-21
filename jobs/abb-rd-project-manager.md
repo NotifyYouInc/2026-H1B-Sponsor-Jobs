@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nanjing, Jiangsu, China |
+| Location | 2 locations |
 | Category | Project Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nanjing-Jiangsu-China/R-D-Project-Manager_JR00038724) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nottingham-Nottinghamshire-United-Kingdom/R-D-Project-Manager_JR00047020) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-07-20.
+This project manager position at ABB was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

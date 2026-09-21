@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Jeddah, Mecca Region, Saudi Arabia |
 | Category | Project Manager |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/STS-Brisbane---Office/Senior-Project-Manager_R0137253-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jeddah-Maddinah-Saudi-Arabia/Senior-Project-Manager_R0142231-1) |
 
 ## About This Role
 
-This project manager position at Hitachi was posted on 2026-08-28.
+This project manager position at Hitachi was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

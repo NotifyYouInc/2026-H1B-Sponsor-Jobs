@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Cebu City, Central Visayas, Philippines |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Cyberzone-Cebu-City---FCC-Tower-3--4/Technical-Representative--IT-Operations--TCF-_R1743872) |
+| Location | Makati City, National Capital Region, Philippines |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Makati-City---Ayala-North-Exchange/Technical-Representative--IT-Operations--TCF-_R1761823) |
 
 ## About This Role
 
-This technical support engineer position at Concentrix was posted on 2026-07-13.
+This it & systems administration position at Concentrix was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | New Delhi, Delhi, India |
-| Category | Customer Success |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/New-Delhi/Customer-Support-Manager_JR10417069) |
+| Location | 2 locations |
+| Category | Customer Success Manager |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Trento/Customer-Support-Manager_JR10441526-1) |
 
 ## About This Role
 
-This customer success position at Airbus was posted on 2026-06-01.
+This customer success manager position at Airbus was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

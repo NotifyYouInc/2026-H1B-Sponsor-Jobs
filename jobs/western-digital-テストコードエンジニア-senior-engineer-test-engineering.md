@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Fujisawa, Kanagawa, Japan |
 | Category | QA Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000119518747-senior-engineer-test-engineering) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000149309531-senior-engineer-test-engineering) |
 
 ## About This Role
 
-This qa engineer position at Western Digital was posted on 2026-04-09.
+This qa engineer position at Western Digital was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

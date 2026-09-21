@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Malaysia |
+| Location | Cavite, Central Luzon, Philippines |
 | Category | Corporate Finance |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Analyst--Finance-Planning_R262967) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Analyst--Finance-Planning_R265634) |
 
 ## About This Role
 
-This corporate finance position at Analog Devices was posted on 2026-06-22.
+This corporate finance position at Analog Devices was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

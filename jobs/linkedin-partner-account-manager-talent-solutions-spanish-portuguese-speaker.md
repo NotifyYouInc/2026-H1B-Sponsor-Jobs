@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Cuauhtémoc, Mexico City, Mexico |
 | Category | Channel / Partner Sales |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000148993706-partner-account-manager-talent-solutions-spanish-portuguese-speaker) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000149299139-partner-account-manager-talent-solutions-spanish-portuguese-speaker) |
 
 ## About This Role
 
-This channel / partner sales position at LinkedIn was posted on 2026-09-11.
+This channel / partner sales position at LinkedIn was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

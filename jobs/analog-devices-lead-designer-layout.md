@@ -1,16 +1,16 @@
-# Lead Designer Layout at Analog Devices
+# Lead Designer, Layout at Analog Devices
 
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Philippines |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Lead-Designer-Layout_R261169) |
+| Location | Valencia, Valencia, Spain |
+| Category | Product Designer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Lead-Designer--Layout_R266014) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-03-05.
+This product designer position at Analog Devices was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

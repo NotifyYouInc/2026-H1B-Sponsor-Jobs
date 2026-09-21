@@ -1,16 +1,16 @@
-# Technical & Project Leader at Electrolux
+# Technical project leader at Electrolux
 
 | Field | Details |
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Dudley Park, Western Australia, Australia |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Dudley-Park/Technical---Project-Leader_JR78974) |
+| Location | Shanghai, Shanghai, China |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Shanghai/Technical-project-leader_JR80866) |
 
 ## About This Role
 
-This strategy / management consulting position at Electrolux was posted on 2026-07-10.
+This electrical / hardware engineer position at Electrolux was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

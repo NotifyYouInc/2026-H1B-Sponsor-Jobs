@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Singapore, Singapore |
 | Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Data-Engineer-Intern_R107681-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Engineer-Intern_R108146) |
 
 ## About This Role
 
-This data engineer position at Tencent was posted on 2026-06-22.
+This data engineer position at Tencent was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

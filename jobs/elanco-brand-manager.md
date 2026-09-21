@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elanco](https://scoutify.ai/companies/elanco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Marketing |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/AU---Macquarie-Park/Brand-Manager_R0026256-2) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Brand Marketing |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/JP---Tokyo/Brand-Manager_R0027125-2) |
 
 ## About This Role
 
-This marketing position at Elanco was posted on 2026-06-25.
+This brand marketing position at Elanco was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

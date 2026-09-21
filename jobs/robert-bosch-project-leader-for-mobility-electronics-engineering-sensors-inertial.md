@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Project Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142062369-project-leader-for-mobility-electronics-engineering-sensors-inertial) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149332687-project-leader-for-mobility-electronics-engineering-sensors-inertial) |
 
 ## About This Role
 
-This project manager position at Robert Bosch was posted on 2026-08-07.
+This embedded / firmware engineer position at Robert Bosch was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

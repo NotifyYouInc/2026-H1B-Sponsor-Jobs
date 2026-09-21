@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | United Kingdom |
 | Category | Operations |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000148975220-senior-deal-desk-specialist) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000149287443-senior-deal-desk-specialist) |
 
 ## About This Role
 
-This operations position at IFS was posted on 2026-09-11.
+This operations position at IFS was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

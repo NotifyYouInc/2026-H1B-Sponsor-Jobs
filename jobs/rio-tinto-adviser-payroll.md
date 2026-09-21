@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rio Tinto](https://scoutify.ai/companies/riotinto?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Accounting |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Gurgaon/Adviser---Payroll_R61575) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Gurgaon/Adviser---Payroll_R65230) |
 
 ## About This Role
 
-This accounting position at Rio Tinto was posted on 2026-07-24.
+This human resources / people ops position at Rio Tinto was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

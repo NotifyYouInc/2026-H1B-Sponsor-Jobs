@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Alcalá de Guadaira, Andalusia, Spain |
 | Category | Industrial Automation |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000148754969-jefea-de-planta-industrial-ingenieroa-senior) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000149294671-jefea-de-planta-industrial-ingenieroa-senior) |
 
 ## About This Role
 
-This industrial automation position at Veolia was posted on 2026-09-10.
+This industrial automation position at Veolia was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

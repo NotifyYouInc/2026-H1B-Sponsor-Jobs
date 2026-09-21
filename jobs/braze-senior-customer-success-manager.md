@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/braze/jobs/8177564) |
+| Location | London, England, United Kingdom |
+| Category | Customer Success Manager |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/braze/jobs/8188066) |
 
 ## About This Role
 
-This customer success position at Braze was posted on 2026-09-04.
+This customer success manager position at Braze was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
