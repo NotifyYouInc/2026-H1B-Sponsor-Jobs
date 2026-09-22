@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | IT & Systems Administration |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000148196679-senior-tooling-specialist) |
+| Category | Customer Success |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000149559543-senior-tooling-specialist) |
 
 ## About This Role
 
-This it & systems administration position at WISE was posted on 2026-09-08.
+This customer success position at WISE was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

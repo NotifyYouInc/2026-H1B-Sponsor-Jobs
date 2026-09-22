@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Marketing |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Bangkok/Planner_R1128193) |
+| Location | Shanghai, Shanghai, China |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Shanghai---Haisu-Plaza/Planner_R1130181) |
 
 ## About This Role
 
-This marketing position at Dentsu was posted on 2026-08-10.
+This digital / performance marketing position at Dentsu was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

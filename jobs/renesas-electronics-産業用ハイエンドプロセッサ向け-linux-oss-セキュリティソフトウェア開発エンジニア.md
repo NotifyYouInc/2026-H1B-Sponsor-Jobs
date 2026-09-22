@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Kodaira, Tokyo, Japan |
-| Category | Security Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000128395264-linux-oss) |
+| Category | Software Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000149573435-linux-oss) |
 
 ## About This Role
 
-This security engineer position at Renesas Electronics was posted on 2026-05-26.
+This software engineer position at Renesas Electronics was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

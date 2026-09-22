@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Account Executive |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Mexico-City-Distrito-Federal-Mexico/HPE-Networking-Account-Manager_1203522-1) |
+| Location | Istanbul, Istanbul, Turkey |
+| Category | Account Manager |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Istanbul-stanbul-Turkey/HPE-Networking-Account-Manager_1213235) |
 
 ## About This Role
 
-This account executive position at Hewlett Packard Enterprise was posted on 2026-03-09.
+This account manager position at Hewlett Packard Enterprise was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

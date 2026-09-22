@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/HR-Service-Delivery-Analyst_AIOC-S01664726-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/HR-Service-Delivery-Analyst_AIOC-S01665673-1) |
 
 ## About This Role
 
-This human resources / people ops position at Accenture was posted on 2026-09-09.
+This human resources / people ops position at Accenture was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

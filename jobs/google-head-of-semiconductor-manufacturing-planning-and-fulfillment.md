@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Zhubei, Taiwan, Taiwan |
+| Location | 2 locations |
 | Category | Program Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYA6oR3GeMFhGnx9X82r99fu3MgIhDQYuboP3gg9f4udEjsA1Ny_ix-FnwcV6J2n_S3zOaY-KxO8AlP019qo-czffZmIzAmY3kIXfOxl-MrL7Ap2fjq0osTGLSXXCQ%3D%3D_V2&loc=TW&title=Head+of+Semiconductor+Manufacturing+Planning+and+Fulfillment) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckawFxG7sy2BKHVqM9tEuoTxJgdOG9IOxD-Sin2xkkGXYEjsA9yzvgpnIHiF6OM7QqO9YJQStnvB3lIZKXcKzY1JP9lYlxSoVZ7p5VUR4rkYP4RMHLLON7-zBgErLMw%3D%3D_V2&loc=TW&title=Head+of+Semiconductor+Manufacturing+Planning+and+Fulfillment) |
 
 ## About This Role
 
-This program manager position at Google was posted on 2026-07-13.
+This program manager position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

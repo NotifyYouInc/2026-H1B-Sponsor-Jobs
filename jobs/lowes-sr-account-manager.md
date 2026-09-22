@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Apex, North Carolina, United States |
-| Category | Account Executive |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Apex-NC-1878/Sr-Account-Manager_JR-02463592) |
+| Location | Mississippi, US |
+| Category | Account Manager |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Diberville-MS-0690/Sr-Account-Manager_JR-02648075) |
 
 ## About This Role
 
-This account executive position at Lowe's was posted on 2026-04-03.
+This account manager position at Lowe's was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

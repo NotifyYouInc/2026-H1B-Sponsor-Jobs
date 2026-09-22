@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Sales |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Gurgaon/Territory-Account-Executive_JR357356) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Account Executive |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Territory-Account-Executive_JR338777) |
 
 ## About This Role
 
-This sales position at Salesforce was posted on 2026-08-28.
+This account executive position at Salesforce was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

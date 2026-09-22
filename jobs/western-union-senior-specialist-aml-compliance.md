@@ -5,12 +5,12 @@
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Financial Crimes & AML |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/PHL---Quezon-City/Senior-Specialist--AML-Compliance_JR0131329) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/PHL---Quezon-City/Senior-Specialist--AML-Compliance_JR0131840-1) |
 
 ## About This Role
 
-This financial crimes & aml position at Western Union was posted on 2026-07-30.
+This financial crimes & aml position at Western Union was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

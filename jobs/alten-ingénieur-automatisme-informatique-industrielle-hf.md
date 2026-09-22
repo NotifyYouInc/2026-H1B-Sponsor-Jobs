@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Industrial Automation |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000146143619-ingenieur-automatisme-informatique-industrielle-hf) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000149580614-ingenieur-automatisme-informatique-industrielle-hf) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-08-28.
+This industrial automation position at ALTEN was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

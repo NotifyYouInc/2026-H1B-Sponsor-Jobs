@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Laval, Pays de la Loire, France |
-| Category | QA Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138795675-ingenieur-validation-banc-de-tests-hf) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000149557121-ingenieur-validation-banc-de-tests-hf) |
 
 ## About This Role
 
-This qa engineer position at ALTEN was posted on 2026-07-21.
+This electrical / hardware engineer position at ALTEN was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

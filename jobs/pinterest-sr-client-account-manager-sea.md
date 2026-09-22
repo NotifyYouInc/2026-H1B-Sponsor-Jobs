@@ -5,12 +5,12 @@
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
 | Category | Account Manager |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=8016737) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=8203802) |
 
 ## About This Role
 
-This account manager position at Pinterest was posted on 2026-07-25.
+This account manager position at Pinterest was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

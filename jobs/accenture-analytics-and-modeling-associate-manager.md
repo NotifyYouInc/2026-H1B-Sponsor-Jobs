@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Analytics-and-Modeling-Associate-Manager_AIOC-S01662024-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Analyst |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Associate-Manager_AIOC-S01665665-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-08-24.
+This data analyst position at Accenture was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

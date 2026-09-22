@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000131369609-sr-engineer) |
+| Location | Japan |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000149558159-sr-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Renesas Electronics was posted on 2026-06-10.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

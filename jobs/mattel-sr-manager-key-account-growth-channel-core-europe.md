@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
 | Category | Growth Marketing |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000147466249-sr-manager-key-account-growth-channel-core-europe) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000149569369-sr-manager-key-account-growth-channel-core-europe) |
 
 ## About This Role
 
-This growth marketing position at Mattel was posted on 2026-09-04.
+This growth marketing position at Mattel was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

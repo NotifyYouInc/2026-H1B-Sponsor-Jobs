@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Barnard Castle, England, United Kingdom |
 | Category | Industrial Automation |
-| Posted | 2026-06-29 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/UK---County-Durham---Barnard-Castle/Engineering-Technician--12-month-secondment-_443705-1) |
 
 ## About This Role
 
-This industrial automation position at GSK was posted on 2026-06-29.
+This industrial automation position at GSK was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

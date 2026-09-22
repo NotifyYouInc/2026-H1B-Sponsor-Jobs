@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Project Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Program-Project-Management-Lead_ATCI-5705712-S2064093-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Program-Project-Management-Lead_ATCI-5718857-S2069410-1) |
 
 ## About This Role
 
-This project manager position at Accenture was posted on 2026-08-13.
+This project manager position at Accenture was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

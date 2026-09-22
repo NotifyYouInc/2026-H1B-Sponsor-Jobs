@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Denmark |
-| Category | Accounting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/DNK---Sborg-Plant/Senior-Financial-and-Tax-Accountant_JR267725) |
+| Location | Vantaa, Uusimaa, Finland |
+| Category | Corporate Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/FIN---Vantaa-Office/Senior-Financial-and-Tax-Accountant_JR269524) |
 
 ## About This Role
 
-This accounting position at PPG Industries was posted on 2026-08-28.
+This corporate finance position at PPG Industries was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

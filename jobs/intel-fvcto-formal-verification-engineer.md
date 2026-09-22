@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/FVCTO---Formal-Verification-Engineer_JR0280800) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/FVCTO---Formal-Verification-Engineer_JR0287033) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-02-19.
+This semiconductor / chip design position at Intel was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

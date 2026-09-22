@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Senior-Engineering-Manager_R66269) |
+| Location | Malaysia |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Senior-Engineering-Manager_R67443-1) |
 
 ## About This Role
 
-This engineering manager position at Motorola Solutions was posted on 2026-09-04.
+This electrical / hardware engineer position at Motorola Solutions was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

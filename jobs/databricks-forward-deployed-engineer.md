@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Databricks](https://scoutify.ai/companies/databricks?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | India |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Forward Deployed Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8432827002) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://databricks.com/company/careers/open-positions/job?gh_jid=8741922002) |
 
 ## About This Role
 
-This forward deployed engineer position at Databricks was posted on 2026-07-03.
+This forward deployed engineer position at Databricks was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

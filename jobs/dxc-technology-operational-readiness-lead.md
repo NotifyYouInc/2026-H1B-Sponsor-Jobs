@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Farnborough, England, United Kingdom |
+| Location | United Kingdom |
 | Category | Program Manager |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/Operational-Readiness-Lead_51584440) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ANY-CITY/Operational-Readiness-Lead_51588636) |
 
 ## About This Role
 
-This program manager position at DXC Technology was posted on 2026-07-03.
+This program manager position at DXC Technology was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
