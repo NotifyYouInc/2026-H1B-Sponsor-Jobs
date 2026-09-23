@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Customer Success |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Singapore---30-Raffles-Place/Technical-Account-Manager_JR1081060) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Customer Success Manager |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Mumbai---Times-Square---Andheri-East/Technical-Account-Manager_JR1085619) |
 
 ## About This Role
 
-This customer success position at Broadridge was posted on 2026-03-11.
+This customer success manager position at Broadridge was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

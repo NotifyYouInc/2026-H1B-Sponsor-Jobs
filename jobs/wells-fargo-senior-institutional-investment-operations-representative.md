@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Institutional-Investment-Operations-Representative_R-545345) |
+| Location | Hyderabad, Telangana, India |
+| Category | Compliance & Risk Management |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Institutional-Investment-Operations-Representative_R-567863-1) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-06-11.
+This compliance & risk management position at Wells Fargo was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

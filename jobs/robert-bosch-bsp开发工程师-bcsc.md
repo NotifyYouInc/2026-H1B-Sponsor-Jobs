@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Wuxi, Jiangsu, China |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121681587-bsp-bcsc) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149832559-bsp-bcsc) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Robert Bosch was posted on 2026-04-20.
+This embedded / firmware engineer position at Robert Bosch was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

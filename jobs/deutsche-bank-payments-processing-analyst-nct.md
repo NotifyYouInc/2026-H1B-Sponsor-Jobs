@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Financial Crimes & AML |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Payments-Processing-Analyst--NCT_R0445330-1) |
+| Location | Jaipur, Rajasthan, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Jaipur/Payments-Processing-Analyst--NCT_R0419356) |
 
 ## About This Role
 
-This financial crimes & aml position at Deutsche Bank was posted on 2026-09-09.
+This corporate finance position at Deutsche Bank was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

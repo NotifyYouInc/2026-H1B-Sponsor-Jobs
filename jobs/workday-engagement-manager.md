@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | Switzerland |
 | Category | Customer Success |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Engagement-Manager_JR-0106909) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Switzerland-Zurich/Engagement-Manager_JR-0110072) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-08-21.
+This customer success position at Workday was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Paris, Île-de-France, France |
 | Category | Account Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Singapore--Singapore/Sales-Account-Manager_260641) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/FranceParis/Sales-Account-Manager_261340-1) |
 
 ## About This Role
 
-This account manager position at Cloudera was posted on 2026-06-11.
+This account manager position at Cloudera was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

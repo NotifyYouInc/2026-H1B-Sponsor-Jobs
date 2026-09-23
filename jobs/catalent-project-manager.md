@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Catalent](https://scoutify.ai/companies/catalent?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bathgate, Scotland, United Kingdom |
 | Category | Project Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Singapore/Project-Manager_0095855) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Bathgate-United-Kingdom/Project-Manager_0096531) |
 
 ## About This Role
 
-This project manager position at Catalent was posted on 2026-07-27.
+This project manager position at Catalent was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

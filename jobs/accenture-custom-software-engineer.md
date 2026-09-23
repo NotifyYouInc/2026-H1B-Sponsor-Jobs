@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5750209-S2069406-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Software Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5769628-S2069632-1) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-09-15.
+This software engineer position at Accenture was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

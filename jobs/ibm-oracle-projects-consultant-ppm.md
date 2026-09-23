@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | United Kingdom |
 | Category | Technology / IT Consulting |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=127973) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=132792) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-09-03.
+This technology / it consulting position at IBM was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

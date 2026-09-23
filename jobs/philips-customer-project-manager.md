@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Odense, South Denmark, Denmark |
+| Location | Cairo, Cairo, Egypt |
 | Category | Project Manager |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Denmark---Remote-Based/Customer-Project-Manager_587622-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cairo/Customer-Project-Manager_585112) |
 
 ## About This Role
 
-This project manager position at Philips was posted on 2026-07-03.
+This project manager position at Philips was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556754923) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556998872) |
 
 ## About This Role
 
-This product manager position at Microsoft was posted on 2026-06-09.
+This product manager position at Microsoft was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

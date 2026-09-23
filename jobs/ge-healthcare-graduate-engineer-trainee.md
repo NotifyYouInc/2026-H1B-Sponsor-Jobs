@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Chennai/Graduate-Engineer-Trainee_R4038071-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Industrial Automation |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4045091-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GE HealthCare was posted on 2026-06-23.
+This industrial automation position at GE HealthCare was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

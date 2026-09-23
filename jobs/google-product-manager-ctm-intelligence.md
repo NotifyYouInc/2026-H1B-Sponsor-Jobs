@@ -1,0 +1,22 @@
+# Product Manager, CTM Intelligence at Google
+
+| Field | Details |
+|-------|---------|
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Sunnyvale, California, United States |
+| Category | Product Manager |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTnZOnap0qbdtB4SttP81Hu6iFt8W8Tu0mcPW5TbDK4REjsA9yzvgt8gjOcNIRPGUmArS9SsGi13ncgxWZPTlQp8ke8OmYntcYn0AlB-Y6K8cBhbZ_7Oz-xyM7ZKfA%3D%3D_V2&loc=US&title=Product+Manager) |
+
+## About This Role
+
+This product manager position at Google was posted on 2026-09-16.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

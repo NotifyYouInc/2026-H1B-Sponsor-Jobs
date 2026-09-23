@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Solution-Architect--AVP_R0420199) |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Solution-Architect--AVP_R0398566) |
 
 ## About This Role
 
-This security engineer position at Deutsche Bank was posted on 2026-02-27.
+This technical & solutions architect position at Deutsche Bank was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

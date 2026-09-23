@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deloitte](https://scoutify.ai/companies/deloitteat?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vienna, Vienna, Austria |
-| Category | Accounting |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteAT/744000148995339-engagierte-maturantin-all-genders-fur-die-personalverrechnung) |
+| Category | Corporate Finance |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteAT/744000149833529-engagierte-maturantin-all-genders-fur-die-personalverrechnung) |
 
 ## About This Role
 
-This accounting position at Deloitte was posted on 2026-09-11.
+This corporate finance position at Deloitte was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

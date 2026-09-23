@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Graphic / Brand Design |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Bangkok/Art-Director_R1128019-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Marketing |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Bangalore/Art-Director_R1130585) |
 
 ## About This Role
 
-This graphic / brand design position at Dentsu was posted on 2026-08-03.
+This marketing position at Dentsu was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

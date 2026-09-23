@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Account Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---Gurgaon/Area-Manager_31154177) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/INDIA---WEST-BENGAL---KOLKATA/Area-Manager_31162184) |
 
 ## About This Role
 
-This account manager position at Abbott was posted on 2026-06-25.
+This account manager position at Abbott was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

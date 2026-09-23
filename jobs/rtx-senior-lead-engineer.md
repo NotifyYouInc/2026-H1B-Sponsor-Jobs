@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-040--EPIP-Industrial-Area-Old-Plot-No-181--EPIP-INDUSTRIAL-AREA-OLD-PLOT-NO-181/Senior-Lead-Engineer_01851651) |
+| Category | Data Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Lead-Engineer_01875400-1) |
 
 ## About This Role
 
-This engineering manager position at RTX was posted on 2026-06-19.
+This data engineer position at RTX was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

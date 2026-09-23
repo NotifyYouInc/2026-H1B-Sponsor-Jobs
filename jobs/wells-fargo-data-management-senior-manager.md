@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Leadership Development Program |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Data-Management-Senior-Manager_R-532420-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Data-Management-Senior-Manager_R-573240) |
 
 ## About This Role
 
-This leadership development program position at Wells Fargo was posted on 2026-04-09.
+This data analyst position at Wells Fargo was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

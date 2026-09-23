@@ -5,12 +5,12 @@
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/General-Ledger-Accounting-Analyst_R00291906) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/General-Ledger-Accounting-Analyst_R00304957) |
 
 ## About This Role
 
-This corporate finance position at Ecolab was posted on 2026-05-18.
+This corporate finance position at Ecolab was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

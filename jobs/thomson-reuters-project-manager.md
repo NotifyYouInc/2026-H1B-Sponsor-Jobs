@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pyrmont, New South Wales, Australia |
+| Location | Shanghai, Shanghai, China |
 | Category | Project Manager |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Australia-Pyrmont-New-South-Wales/Senior-Project-Manager_JREQ197891-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/China-Shanghai-Shanghai/Project-Manager_JREQ203438) |
 
 ## About This Role
 
-This project manager position at Thomson Reuters was posted on 2026-08-31.
+This project manager position at Thomson Reuters was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

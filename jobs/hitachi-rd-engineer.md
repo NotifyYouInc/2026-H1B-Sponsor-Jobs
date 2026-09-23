@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/R-D-Lead-Engineer_R0115711) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/R-D-Engineer_R0144114) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-07-14.
+This software engineer position at Hitachi was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

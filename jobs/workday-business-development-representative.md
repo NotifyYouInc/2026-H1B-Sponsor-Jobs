@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Business Development |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Japan-Tokyo/Business-Development-Representative_JR-0104378-1) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Japan-Tokyo/Business-Development-Representative_JR-0110187) |
 
 ## About This Role
 
-This business development position at Workday was posted on 2026-03-13.
+This sales development (sdr / bdr) position at Workday was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

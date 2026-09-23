@@ -5,12 +5,12 @@
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore-Office/Software-Development-Engineer-3_R20530-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore-Office/Software-Development-Engineer-3_R19356) |
 
 ## About This Role
 
-This software engineer position at Wex was posted on 2026-05-15.
+This software engineer position at Wex was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
