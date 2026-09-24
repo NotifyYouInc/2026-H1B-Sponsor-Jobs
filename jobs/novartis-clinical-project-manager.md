@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | 2 locations |
 | Category | Project Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/INSURGENTES/Clinical-Project-Manager_REQ-10085092-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Montreal/Clinical-Project-Manager_REQ-10086613) |
 
 ## About This Role
 
-This project manager position at Novartis was posted on 2026-08-14.
+This project manager position at Novartis was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

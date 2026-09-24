@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Java-Full-Stack-Engineer--AVP_R0426019) |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Java-Full-Stack-Engineer--AVP_R0447756) |
 
 ## About This Role
 
-This frontend engineer position at Deutsche Bank was posted on 2026-03-06.
+This software engineer position at Deutsche Bank was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

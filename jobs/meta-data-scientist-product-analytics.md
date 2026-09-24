@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Data Scientist |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1144181248272927) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1063946209792967) |
 
 ## About This Role
 
-This data scientist position at Meta was posted on 2026-09-09.
+This data scientist position at Meta was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

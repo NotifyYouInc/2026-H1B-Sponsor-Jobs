@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bourges, Centre-Val de Loire, France |
 | Category | Project Manager |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000147933199-chef-de-projet-methodes-industrialisation-fh) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000150050825-chef-de-projet-methodes-industrialisation-fh) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-09-07.
+This project manager position at ALTEN was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

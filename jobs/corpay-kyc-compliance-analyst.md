@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Corpay](https://scoutify.ai/companies/corpay?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Compliance & Risk Management |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/Madrid-Genova---Cross-Border/KYC-Compliance-Analyst_R07874) |
+| Location | Madrid, Madrid, Spain |
+| Category | Financial Crimes & AML |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/Madrid-Genova---Cross-Border/KYC-Compliance-Analyst_R09561) |
 
 ## About This Role
 
-This compliance & risk management position at Corpay was posted on 2026-04-14.
+This financial crimes & aml position at Corpay was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149826740-2026-egm-ethernet-validation-engineer-for-sdv-project-in-braking-system) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000150077901-2026-egm-ethernet-validation-engineer-for-sdv-project-in-braking-system) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Robert Bosch was posted on 2026-09-16.
+This embedded / firmware engineer position at Robert Bosch was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

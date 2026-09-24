@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Birmingham, England, United Kingdom |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000149571909-electrical-control-instrumentation-eci-engineer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000150076899-electrical-control-instrumentation-eci-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Veolia was posted on 2026-09-15.
+This electrical / hardware engineer position at Veolia was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

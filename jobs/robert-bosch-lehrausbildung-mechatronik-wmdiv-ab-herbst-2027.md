@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Austria |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118052690-lehrausbildung-mechatronik-wmdiv-ab-herbst-2027) |
+| Location | Hallein, Salzburg, Austria |
+| Category | Industrial Automation |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000150069899-lehrausbildung-mechatronik-wmdiv-ab-herbst-2027) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Robert Bosch was posted on 2026-04-01.
+This industrial automation position at Robert Bosch was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Program Manager |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7681208149906884917/detail) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7686056036939991349/detail) |
 
 ## About This Role
 
-This program manager position at TikTok was posted on 2026-09-04.
+This program manager position at TikTok was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Customer Success |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Espec-Select-One_Req1607356) |
+| Location | Presidente Prudente, São Paulo, Brazil |
+| Category | Customer Success Manager |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/PRESIDENTE-PRUDENTE/Espec-Select-One_Req1612738) |
 
 ## About This Role
 
-This customer success position at Santander was posted on 2026-09-02.
+This customer success manager position at Santander was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

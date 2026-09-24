@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Budapest, Budapest, Hungary |
-| Category | AI / LLM Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Budapest-Hungary/Software-Engineer_2024884) |
+| Location | Bengaluru, Karnataka, India |
+| Category | QA Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2025518) |
 
 ## About This Role
 
-This ai / llm engineer position at Cisco was posted on 2026-09-11.
+This qa engineer position at Cisco was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

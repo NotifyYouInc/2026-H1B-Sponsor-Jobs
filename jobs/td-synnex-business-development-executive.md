@@ -1,16 +1,16 @@
-# Business development executive at TD Synnex
+# Business Development Executive at TD Synnex
 
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chessy, Île-de-France, France |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chessy-France/Business-development-executive_R54146) |
+| Location | 2 locations |
+| Category | Channel / Partner Sales |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Alcobendas-Spain/Business-Development-Executive_R56284) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at TD Synnex was posted on 2026-07-28.
+This channel / partner sales position at TD Synnex was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

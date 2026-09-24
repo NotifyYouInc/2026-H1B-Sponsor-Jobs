@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Customer Success |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8161371) |
+| Category | Customer Success Manager |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8208113) |
 
 ## About This Role
 
-This customer success position at MongoDB was posted on 2026-08-27.
+This customer success manager position at MongoDB was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

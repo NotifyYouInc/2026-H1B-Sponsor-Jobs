@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Brest, Brittany, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139939624-nextstep-ingenieur-specialiste-en-hyperfrequences-et-electronique-hf) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000150052123-nextstep-ingenieur-specialiste-en-hyperfrequences-et-electronique-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-27.
+This electrical / hardware engineer position at ALTEN was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

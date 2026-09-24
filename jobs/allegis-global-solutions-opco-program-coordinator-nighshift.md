@@ -5,12 +5,12 @@
 | Company | [Allegis Global Solutions](https://scoutify.ai/companies/allegisglobalsolutions?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Program Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000133863609-opco-program-coordinator-nighshift) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000150076169-opco-program-coordinator-nighshift) |
 
 ## About This Role
 
-This program manager position at Allegis Global Solutions was posted on 2026-06-24.
+This program manager position at Allegis Global Solutions was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

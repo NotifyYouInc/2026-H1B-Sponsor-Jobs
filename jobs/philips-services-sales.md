@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Chengdu, Sichuan, China |
 | Category | Account Manager |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Guangzhou/Services-Sales_590012) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chengdu/Services-Sales_590021) |
 
 ## About This Role
 
-This account manager position at Philips was posted on 2026-09-11.
+This account manager position at Philips was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

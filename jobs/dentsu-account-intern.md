@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Marketing |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Beijing/Account-Intern_R1128090) |
+| Location | Shanghai, Shanghai, China |
+| Category | Account Manager |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Shanghai---Haisu-Plaza/Account-Intern_R1131592) |
 
 ## About This Role
 
-This marketing position at Dentsu was posted on 2026-07-31.
+This account manager position at Dentsu was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

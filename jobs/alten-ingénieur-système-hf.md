@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | La Rochelle, Nouvelle-Aquitaine, France |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000137057918-ingenieur-systeme-hf) |
+| Location | Étaples, Hauts-de-France, France |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000150060640-ingenieur-systeme-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-10.
+This embedded / firmware engineer position at ALTEN was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

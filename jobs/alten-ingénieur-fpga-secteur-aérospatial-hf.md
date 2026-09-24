@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131603077-ingenieur-fpga-secteur-aerospatial-hf) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000150061280-ingenieur-fpga-secteur-aerospatial-hf) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ALTEN was posted on 2026-06-11.
+This embedded / firmware engineer position at ALTEN was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

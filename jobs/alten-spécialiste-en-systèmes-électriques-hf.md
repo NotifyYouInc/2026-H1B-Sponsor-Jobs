@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | La Rochelle, Nouvelle-Aquitaine, France |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139943201-specialiste-en-systemes-electriques-hf) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000150060888-specialiste-en-systemes-electriques-hf) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-07-27.
+This electrical / hardware engineer position at ALTEN was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

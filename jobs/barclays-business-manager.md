@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 4 locations |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Business-Manager_JR-0000119609) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Business-Manager_JR-0000131406-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Barclays was posted on 2026-07-22.
+This strategy / management consulting position at Barclays was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

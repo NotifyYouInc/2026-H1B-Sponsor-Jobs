@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Redmond, Washington, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556980225) |
+| Location | Not specified |
+| Category | Software Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556987065) |
 
 ## About This Role
 
-This ai / llm engineer position at Microsoft was posted on 2026-08-28.
+This software engineer position at Microsoft was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

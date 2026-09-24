@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Customer Success |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5215322007) |
+| Location | City of London, England, United Kingdom |
+| Category | Customer Success Manager |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5239085007) |
 
 ## About This Role
 
-This customer success position at Zscaler was posted on 2026-08-26.
+This customer success manager position at Zscaler was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

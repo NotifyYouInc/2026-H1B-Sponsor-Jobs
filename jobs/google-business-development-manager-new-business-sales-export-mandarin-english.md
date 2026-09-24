@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb4VDOspgnVEjhf8pI2jfaCCyLI-Q_C8rrdOrjXlL3ScEjsA1Ny_i2Lq8PmY42Iqb8iWisM1y-AcRrQ1s7JF5eD6Abk6jIQoRChb5cNe4KTim7CS4mcXILwDse0AXw%3D%3D_V2&loc=CN&title=Business+Development+Manager) |
+| Location | Shenzhen, Guangdong, China |
+| Category | Account Executive |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb2JMrLl26wNb9cdiv48W9ReTdT-J1r_Z96m4ISD3eZeEjsA9yzvgt8LKScg8qI7VXrcdacqNpMfDN-kxbAQmwc2WILB3P1PWXvPcLMrIURssa4q3CqM1XqnBubRkQ%3D%3D_V2&loc=CN&title=Business+Development+Manager) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-07-14.
+This account executive position at Google was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Account Manager  at Adyen
+#  Account Manager at Adyen
 
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Paris, Île-de-France, France |
 | Category | Account Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7912187) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7586281) |
 
 ## About This Role
 
-This account manager position at Adyen was posted on 2026-05-11.
+This account manager position at Adyen was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

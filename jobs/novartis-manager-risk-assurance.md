@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Moscow, Moscow, Russia |
+| Location | Prague, Prague, Czechia |
 | Category | Compliance & Risk Management |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Moscow-City/Manager---Risk---Assurance_REQ-10088044-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Prague/Manager---Risk---Assurance_REQ-10087492-1) |
 
 ## About This Role
 
-This compliance & risk management position at Novartis was posted on 2026-09-16.
+This compliance & risk management position at Novartis was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

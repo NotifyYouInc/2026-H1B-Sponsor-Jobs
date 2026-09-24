@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Operations |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Manager_R-532724-1) |
+| Location | Philippines |
+| Category | Program Manager |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Taguig-City-Philippines/Business-Execution-Manager_R-575008) |
 
 ## About This Role
 
-This operations position at Wells Fargo was posted on 2026-04-06.
+This program manager position at Wells Fargo was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

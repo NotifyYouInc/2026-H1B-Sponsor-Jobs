@@ -1,16 +1,16 @@
-# Sales Operations Associate at Arrow Electronics
+# Sales operations associate at Arrow Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
+| Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | Operations |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/PL-Gdansk-Poland-Aleja-Grunwaldzka/Sales-Operations-Associate_R241664) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/MA-Casablanca-Morocco-Boulevard-Al-Quods/Sales-operations-associate_R247998) |
 
 ## About This Role
 
-This operations position at Arrow Electronics was posted on 2026-04-20.
+This operations position at Arrow Electronics was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
