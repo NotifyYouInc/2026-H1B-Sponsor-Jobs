@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Rungis, Île-de-France, France |
-| Category | Project Manager |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rungis/ILS-Manager--H-F-_R0339356-1) |
+| Location | Limours, Île-de-France, France |
+| Category | Program Manager |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Limours/ILS-Manager--H-F-_R0338701) |
 
 ## About This Role
 
-This project manager position at Thales was posted on 2026-09-15.
+This program manager position at Thales was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

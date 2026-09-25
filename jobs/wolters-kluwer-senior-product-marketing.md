@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Milan, Lombardy, Italy |
 | Category | Product Marketing |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ITA---Milan-Via-Bisceglie/Senior-Product-Marketing_R0059151) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ITA---Milan-Via-Bisceglie/Senior-Product-Marketing_R0059773) |
 
 ## About This Role
 
-This product marketing position at Wolters Kluwer was posted on 2026-08-01.
+This product marketing position at Wolters Kluwer was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

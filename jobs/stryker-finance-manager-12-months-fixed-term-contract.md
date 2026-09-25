@@ -1,0 +1,22 @@
+# Finance Manager (12 months- Fixed Term Contract) at Stryker
+
+| Field | Details |
+|-------|---------|
+| Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Johannesburg, Gauteng, South Africa |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Johannesburg-South-Africa/Finance-Manager_R573570) |
+
+## About This Role
+
+This fp&a / strategic finance position at Stryker was posted on 2026-09-18.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

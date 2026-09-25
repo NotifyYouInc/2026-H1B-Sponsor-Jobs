@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Vietnam |
-| Category | Sales |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000141854209-senior-sales-executive) |
+| Category | Account Executive |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000150336029-senior-sales-executive) |
 
 ## About This Role
 
-This sales position at Informa was posted on 2026-08-06.
+This account executive position at Informa was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

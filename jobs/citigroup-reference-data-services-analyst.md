@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Olsztyn, Warmia-Masuria, Poland |
-| Category | Data Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Olsztyn--Poland/Ref-Data-Mgmt-Analyst-1---C09---OLSZTYN_26993261) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Business Analyst |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Reference-Data-Services-Analyst_26994541-1) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-09-09.
+This business analyst position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

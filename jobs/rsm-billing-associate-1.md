@@ -5,12 +5,12 @@
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Corporate Finance |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Billing-Associate-1_JR119757) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Bengaluru/Billing-Associate-1_JR121359) |
 
 ## About This Role
 
-This corporate finance position at RSM was posted on 2026-06-02.
+This corporate finance position at RSM was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

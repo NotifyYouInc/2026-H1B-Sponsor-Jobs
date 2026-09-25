@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Accounting |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Kuala-Lumpur/Payroll-Specialist_R1122161) |
+| Location | Zürich, Zurich, Switzerland |
+| Category | Human Resources / People Ops |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Zrich---Giessereistrasse-18/Payroll-Specialist_R1131683) |
 
 ## About This Role
 
-This accounting position at Dentsu was posted on 2026-05-22.
+This human resources / people ops position at Dentsu was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

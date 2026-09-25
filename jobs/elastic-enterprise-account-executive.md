@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Italy |
-| Category | Sales |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8166646&gh_jid=8166646) |
+| Location | Germany |
+| Category | Account Executive |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8176627&gh_jid=8176627) |
 
 ## About This Role
 
-This sales position at Elastic was posted on 2026-09-07.
+This account executive position at Elastic was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

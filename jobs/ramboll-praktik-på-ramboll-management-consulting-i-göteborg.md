@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Göteborg, Västra Götaland, Sweden |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000150063171-praktik-pa-ramboll-management-consulting-i-goteborg) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000150351129-praktik-pa-ramboll-management-consulting-i-goteborg) |
 
 ## About This Role
 
-This strategy / management consulting position at Ramboll was posted on 2026-09-17.
+This strategy / management consulting position at Ramboll was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

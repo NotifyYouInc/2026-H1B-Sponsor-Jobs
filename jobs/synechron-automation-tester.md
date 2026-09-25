@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | QA Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Chennai/Automation-Tester_JR1040334) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Client-Location/Automation-Tester_JR1044377-1) |
 
 ## About This Role
 
-This qa engineer position at Synechron was posted on 2026-06-09.
+This qa engineer position at Synechron was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

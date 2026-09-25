@@ -5,12 +5,12 @@
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Customer Success |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Japan---Tokyo/Principal_JR_14647) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Japan---Tokyo/Principal_JR_14648) |
 
 ## About This Role
 
-This customer success position at Guidewire Software was posted on 2026-06-01.
+This customer success position at Guidewire Software was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

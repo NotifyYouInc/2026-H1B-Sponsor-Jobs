@@ -1,16 +1,16 @@
-# Field Engineer  at Wayve
+# Field Engineer at Wayve
 
 | Field | Details |
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8467521002) |
+| Location | Germany |
+| Category | Sales Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8816447002) |
 
 ## About This Role
 
-This customer success position at Wayve was posted on 2026-03-26.
+This sales engineer position at Wayve was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

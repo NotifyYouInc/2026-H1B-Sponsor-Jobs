@@ -1,16 +1,16 @@
-# Account Executive, Business Sales Phoenix AZ at T-Mobile
+# Account Executive, Business Sales - Phoenix AZ at T-Mobile
 
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Phoenix, Arizona, United States |
-| Category | Sales |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Remote-Arizona/Account-Executive--Business-Sales-Phoenix-AZ_REQ345199) |
+| Location | 2 locations |
+| Category | Account Executive |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Phoenix-Arizona/Account-Executive--Business-Sales---Phoenix-AZ_REQ357542-1) |
 
 ## About This Role
 
-This sales position at T-Mobile was posted on 2026-02-11.
+This account executive position at T-Mobile was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

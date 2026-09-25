@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Applications-Development-Sr-Programmer-Analyst---C12---PUNE_26955996) |
+| Category | Software Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Applications-Development-Sr-Programmer-Analyst---C12---PUNE_26991658) |
 
 ## About This Role
 
-This data engineer position at Citigroup was posted on 2026-07-02.
+This software engineer position at Citigroup was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Malaysia |
 | Category | Program Manager |
-| Posted | 2026-09-05 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Business-Unit-Program-Manager_J2462542) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Business-Unit-Program-Manager_J2465146) |
 
 ## About This Role
 
-This program manager position at Jabil was posted on 2026-09-05.
+This program manager position at Jabil was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

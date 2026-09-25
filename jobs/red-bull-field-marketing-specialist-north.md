@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Bilbao, Basque Country, Spain |
 | Category | Field & Event Marketing |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000149577359-field-marketing-specialist-north) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000150321690-field-marketing-specialist-north) |
 
 ## About This Role
 
-This field & event marketing position at Red Bull was posted on 2026-09-15.
+This field & event marketing position at Red Bull was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Non Financial Risk specialist at ING
+# Non Financial Risk Specialist at ING
 
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Milan, Lombardy, Italy |
 | Category | Compliance & Risk Management |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Madrid-Va-de-los-Poblados/Non-Financial-Risk-specialist_REQ-10115121) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Non-Financial-Risk-Specialist_REQ-10121801) |
 
 ## About This Role
 
-This compliance & risk management position at ING was posted on 2026-05-28.
+This compliance & risk management position at ING was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

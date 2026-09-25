@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Accounting |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Taipei---No-77-Songgao-Rd-Xinyi-Dist/Senior-Accountant_R1125537) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Mumbai/Senior-Accountant_R1131321) |
 
 ## About This Role
 
-This accounting position at Dentsu was posted on 2026-07-08.
+This corporate finance position at Dentsu was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

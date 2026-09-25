@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Faridabad, Haryana, India |
 | Category | Project Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Tokyo-Tokyo-Japan/Site-Manager_R0121179-11) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Faridabad-Haryana-India/Site-Manager_R0145243) |
 
 ## About This Role
 
-This project manager position at Hitachi was posted on 2026-02-27.
+This project manager position at Hitachi was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

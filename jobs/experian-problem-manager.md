@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138264039-problem-manager) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000150320405-problem-manager) |
 
 ## About This Role
 
-This it & systems administration position at Experian was posted on 2026-07-17.
+This it & systems administration position at Experian was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Singapore, Singapore |
-| Category | Account Executive |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000117553857-assistant-sales-manager) |
+| Location | Jakarta, Jakarta, Indonesia |
+| Category | Account Manager |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000150345589-assistant-sales-manager) |
 
 ## About This Role
 
-This account executive position at Informa was posted on 2026-03-30.
+This account manager position at Informa was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

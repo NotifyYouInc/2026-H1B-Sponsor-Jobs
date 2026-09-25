@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Reconciliation-and-Proofing-Intermediate-Analyst_26958836) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Reconciliation-and-Proofing-Intermediate-Analyst_26994387) |
 
 ## About This Role
 
-This corporate finance position at Citigroup was posted on 2026-04-27.
+This corporate finance position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Business Strategist at T-Mobile
+# Sr Business Strategist at T-Mobile
 
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bellevue, Washington, United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Business-Strategist_REQ369752-2) |
+| Location | 2 locations |
+| Category | Strategy & Operations |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Herndon-Virginia/Sr-Business-Strategist_REQ372395) |
 
 ## About This Role
 
-This strategy / management consulting position at T-Mobile was posted on 2026-08-28.
+This strategy & operations position at T-Mobile was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

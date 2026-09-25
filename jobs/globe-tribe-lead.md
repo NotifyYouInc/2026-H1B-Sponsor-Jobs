@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
-| Category | Program Manager |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Tribe-Lead_R0000021579) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Tribe-Lead_R0000021213) |
 
 ## About This Role
 
-This program manager position at GLOBE was posted on 2026-08-31.
+This technical product manager position at GLOBE was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

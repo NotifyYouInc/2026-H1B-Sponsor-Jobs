@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTUrCBz0BzHc31DrpWDAFamUgXEvFuF60tFLcPiOQJRaEjsA1Ny_ixU5szWD-BkfFeZBCRGi5Ky_0X-fR9eB1jEEzdGL0lP9ehvQjhKCtcER5yDJvSVp8SrDIJ5avA%3D%3D_V2&loc=IL&title=SoC+Test+Automation+and+Infrastructure+Lead) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVzRQW-xuRPyl2aAgumPR6PkYCDnlRkkfFik-9Yv8QVPEjsA9yzvglz0xssTTNJtaQgSgBOnWk_B3nD-zXy1IQwS2v07JcdFQRWZujLaNvfllzmMTLezZ9q4FDOBDw%3D%3D_V2&loc=IL&title=SoC+Test+Automation+and+Infrastructure+Lead) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-06-18.
+This semiconductor / chip design position at Google was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

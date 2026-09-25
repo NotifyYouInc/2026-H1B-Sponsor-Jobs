@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Minato, Wakayama, Japan |
-| Category | Sales |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Account-Executive---Splunk_2019521) |
+| Location | 3 locations |
+| Category | Account Executive |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Stuttgart-Germany/Account-Executive---Splunk_2023403-1) |
 
 ## About This Role
 
-This sales position at Cisco was posted on 2026-08-05.
+This account executive position at Cisco was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

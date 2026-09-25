@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Analytics-Consultant_R-547273) |
+| Location | Philippines |
+| Category | Data Scientist |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Taguig-City-Philippines/Lead-Analytics-Consultant_R-576257) |
 
 ## About This Role
 
-This corporate finance position at Wells Fargo was posted on 2026-05-20.
+This data scientist position at Wells Fargo was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

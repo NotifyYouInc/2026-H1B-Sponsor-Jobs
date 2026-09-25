@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Customer Success |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000149559543-senior-tooling-specialist) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000150347495-senior-tooling-specialist) |
 
 ## About This Role
 
-This customer success position at WISE was posted on 2026-09-15.
+This customer success position at WISE was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

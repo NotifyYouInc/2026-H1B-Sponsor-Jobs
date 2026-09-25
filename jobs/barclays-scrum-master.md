@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Scrum-Master_JR-0000100979) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Scrum-Master_JR-0000087403) |
 
 ## About This Role
 
-This scrum master & agile coach position at Barclays was posted on 2026-09-03.
+This scrum master & agile coach position at Barclays was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Gurugram/Manager---Digital-Planning_R1120025) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Mumbai/Manager---Digital-Planning_R1129734) |
 
 ## About This Role
 
-This digital / performance marketing position at Dentsu was posted on 2026-04-16.
+This digital / performance marketing position at Dentsu was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

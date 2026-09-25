@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Philippines |
 | Category | Graphic / Brand Design |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000141171470-senior-graphic-designer) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000150318882-senior-graphic-designer) |
 
 ## About This Role
 
-This graphic / brand design position at AECOM was posted on 2026-08-03.
+This graphic / brand design position at AECOM was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Malaysia |
-| Category | Accounting |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Accountant_JR0286105) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Accountant_JR0283198) |
 
 ## About This Role
 
-This accounting position at Intel was posted on 2026-08-03.
+This corporate finance position at Intel was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Prague, Prague, Czechia |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8053055) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8200666) |
 
 ## About This Role
 
-This it & systems administration position at Pure Storage was posted on 2026-07-10.
+This it & systems administration position at Pure Storage was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
