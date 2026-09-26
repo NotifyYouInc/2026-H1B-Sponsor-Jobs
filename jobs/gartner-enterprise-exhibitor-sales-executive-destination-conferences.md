@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Account Executive |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Enterprise-Exhibitor-Sales-Executive--Destination-Conferences_108010) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Sao-Paulo/Enterprise-Exhibitor-Sales-Executive--Destination-Conferences_114307) |
 
 ## About This Role
 
-This account executive position at Gartner was posted on 2026-07-23.
+This account executive position at Gartner was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

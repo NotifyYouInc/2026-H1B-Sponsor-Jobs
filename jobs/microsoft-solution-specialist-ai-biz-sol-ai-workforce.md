@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Medellín, Antioquia, Colombia |
-| Category | Sales Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556882069) |
+| Location | Mexico |
+| Category | Account Executive |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393557001898) |
 
 ## About This Role
 
-This sales engineer position at Microsoft was posted on 2026-07-01.
+This account executive position at Microsoft was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

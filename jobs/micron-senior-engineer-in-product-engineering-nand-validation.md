@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Singapore, Singapore |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Senior-Engineer-in-Product-Engineering--NAND-Validation_JR102862) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Senior-Engineer-in-Product-Engineering--NAND-Validation_JR109752) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Micron was posted on 2026-05-28.
+This semiconductor / chip design position at Micron was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

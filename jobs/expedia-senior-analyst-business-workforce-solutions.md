@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Analyst--Business-Workforce-Solutions_R-108422-1) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Analyst--Business-Workforce-Solutions_R-109852-1) |
 
 ## About This Role
 
-This business analyst position at Expedia was posted on 2026-08-08.
+This business analyst position at Expedia was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

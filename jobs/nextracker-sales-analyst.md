@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nextracker](https://scoutify.ai/companies/nextracker?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Hyderabad-Telangana---IND/Sales-Analyst_NX-3814) |
+| Location | Tennessee, US |
+| Category | Data Analyst |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/California---Remote---USA/Sales-Analyst_NX-4481) |
 
 ## About This Role
 
-This business analyst position at Nextracker was posted on 2026-04-29.
+This data analyst position at Nextracker was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Sales Specialist at Hitachi
+# Technical Sales specialist at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | 2 locations |
-| Category | Account Executive |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Seoul-Seoul-South-Korea/Technical-Sales-Specialist_R0120365) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Sales Engineer |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Technical-Sales-specialist_R0145564-1) |
 
 ## About This Role
 
-This account executive position at Hitachi was posted on 2026-02-23.
+This sales engineer position at Hitachi was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

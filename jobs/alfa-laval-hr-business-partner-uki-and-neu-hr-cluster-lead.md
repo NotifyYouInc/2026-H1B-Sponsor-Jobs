@@ -1,0 +1,22 @@
+# HR Business Partner UK&I and NEU HR Cluster Lead at Alfa Laval
+
+| Field | Details |
+|-------|---------|
+| Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
+| Location | Camberley, England, United Kingdom |
+| Category | Human Resources / People Ops |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Camberley/HR-Business-Partner-UK-I-and-NEU-HR-Cluster-Lead_JR0048277) |
+
+## About This Role
+
+This human resources / people ops position at Alfa Laval was posted on 2026-09-19.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

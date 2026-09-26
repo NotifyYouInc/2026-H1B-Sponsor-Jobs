@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FedEx](https://scoutify.ai/companies/fedex?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Launceston, England, United Kingdom |
-| Category | Sales |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://fedex.wd1.myworkdayjobs.com/fxe-eu_external/job/FXE-EUGBRXMZAXMZAFedEx-UK-Launceston/Account-Executive_RC784147-1) |
+| Location | Manchester, England, United Kingdom |
+| Category | Account Executive |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://fedex.wd1.myworkdayjobs.com/fxe-eu_external/job/FXE-EUGBRMANRTMANRTManchester-Airport/Account-Executive_RC771040-1) |
 
 ## About This Role
 
-This sales position at FedEx was posted on 2026-09-07.
+This account executive position at FedEx was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

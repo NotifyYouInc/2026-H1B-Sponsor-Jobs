@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Alpharetta/Lead-Analyst--Strategic-Pricing-and-Contracts_31153890-2) |
+| Location | Austin, Texas, United States |
+| Category | Operations |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Austin--8701-Bee-Caves-Rd/Lead-Analyst--Strategic-Pricing-and-Contracts_31161872-1) |
 
 ## About This Role
 
-This business analyst position at Abbott was posted on 2026-07-01.
+This operations position at Abbott was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

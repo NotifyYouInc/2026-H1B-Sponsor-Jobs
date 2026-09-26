@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/TF-OPERATION-PRPOCESS-ENGINEER_JR109204) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/TF-OPERATION-PRPOCESS-ENGINEER_JR112028) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-09-09.
+This semiconductor / chip design position at Micron was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

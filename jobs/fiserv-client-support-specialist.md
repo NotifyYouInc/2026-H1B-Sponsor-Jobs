@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Liberty Lake, Washington, United States |
+| Location | Coral Springs, Florida, United States |
 | Category | Customer Success |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Liberty-Lake-Washington/Client-Support-Specialist_R-10401430) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Coral-Springs-Florida/Client-Support-Specialist_R-10403237) |
 
 ## About This Role
 
-This customer success position at Fiserv was posted on 2026-08-20.
+This customer success position at Fiserv was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

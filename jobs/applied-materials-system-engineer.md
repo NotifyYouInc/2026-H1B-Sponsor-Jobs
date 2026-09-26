@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Tainan, Taiwan, Taiwan |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/TainanTWN/System-Engineer_R2625505) |
+| Location | Santa Clara, California, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/System-Engineer_R2627081) |
 
 ## About This Role
 
-This semiconductor / chip design position at Applied Materials was posted on 2026-08-17.
+This electrical / hardware engineer position at Applied Materials was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Pune-Maharashtra-India/Service-Delivery-Manager_1206949) |
+| Category | Project Manager |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Pune-Maharashtra-India/Service-Delivery-Manager_1213828) |
 
 ## About This Role
 
-This engineering manager position at Hewlett Packard Enterprise was posted on 2026-07-03.
+This project manager position at Hewlett Packard Enterprise was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

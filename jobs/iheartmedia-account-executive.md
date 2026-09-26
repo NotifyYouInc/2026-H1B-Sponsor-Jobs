@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iHeartMedia](https://scoutify.ai/companies/iheartmedia?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Sacramento, California, United States |
+| Location | Baton Rouge, Louisiana, United States |
 | Category | Account Executive |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Sacramento-CA-River-Park/Account-Executive_Req39335-4) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Baton-Rouge-LA/Account-Executive_Req39367-1) |
 
 ## About This Role
 
-This account executive position at iHeartMedia was posted on 2026-09-11.
+This account executive position at iHeartMedia was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

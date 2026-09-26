@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | 4 locations |
 | Category | Product Designer |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Digital-Designer_REQ344250-1) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Irvine-California/Digital-Designer_REQ356933-1) |
 
 ## About This Role
 
-This product designer position at T-Mobile was posted on 2026-03-28.
+This product designer position at T-Mobile was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

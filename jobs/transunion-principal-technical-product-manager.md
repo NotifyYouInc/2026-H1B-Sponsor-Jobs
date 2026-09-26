@@ -1,16 +1,16 @@
-# Principal, Technical Product Manager at TransUnion
+# Principal Technical Product Manager at TransUnion
 
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 3 locations |
 | Category | Technical Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Principal--Technical-Product-Manager_19039862) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Principal-Technical-Product-Manager_19042244) |
 
 ## About This Role
 
-This technical product manager position at TransUnion was posted on 2026-05-08.
+This technical product manager position at TransUnion was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

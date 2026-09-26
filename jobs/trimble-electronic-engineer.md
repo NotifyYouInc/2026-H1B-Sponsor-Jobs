@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Jena, Thuringia, Germany |
+| Location | Sunnyvale, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Germany---Jena/Electronic-Engineer_R57606) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CA-Sunnyvale/Electronic-Engineer_R57334) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Trimble was posted on 2026-08-31.
+This electrical / hardware engineer position at Trimble was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

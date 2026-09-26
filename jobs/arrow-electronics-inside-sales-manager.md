@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Texas, US |
+| Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | Sales Leadership |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-TX-Texas-Remote-Employees/Inside-Sales-Manager_R247003) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/MA-Casablanca-Morocco-Boulevard-Al-Quods/Inside-Sales-Manager_R246123) |
 
 ## About This Role
 
-This sales leadership position at Arrow Electronics was posted on 2026-08-22.
+This sales leadership position at Arrow Electronics was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

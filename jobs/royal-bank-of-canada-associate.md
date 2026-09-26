@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Putrajaya, Putrajaya, Malaysia |
-| Category | Business Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Associate_R-0000173148) |
+| Location | Calgary, Alberta, Canada |
+| Category | Corporate Finance |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Associate_R-0000188229-1) |
 
 ## About This Role
 
-This business analyst position at Royal Bank of Canada was posted on 2026-06-11.
+This corporate finance position at Royal Bank of Canada was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

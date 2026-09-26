@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Arlington, Texas, United States |
 | Category | Program Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458561/sr-program-manager-whs-standards-and-procedures-workplace-health-and-safety-compliance-governance-and-external-affairs) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10554116/sr-program-manager-whs-standards-and-procedures-workplace-health-and-safety-compliance-governance-and-external-affairs) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-06-25.
+This program manager position at Amazon was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

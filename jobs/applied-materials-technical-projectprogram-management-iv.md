@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=h1b-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Santa Clara, California, United States |
 | Category | Program Manager |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Technical-Project-Program-Management-IV_R2625211) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Technical-Project-Program-Management-IV_R2628988-1) |
 
 ## About This Role
 
-This program manager position at Applied Materials was posted on 2026-08-01.
+This program manager position at Applied Materials was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
